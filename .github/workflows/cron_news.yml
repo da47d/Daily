@@ -1,12 +1,11 @@
 name: Tägliches KI News Update
 
 on:
-schedule:
-    # 06:00 UTC ist 08:00 Uhr deutsche Sommerzeit (Puffer für 09:00 Uhr)
-    # 19:00 UTC ist 21:00 Uhr deutsche Sommerzeit (Puffer für 22:00 Uhr)
-    - cron: '0 6,19 * * *'
+  schedule:
+    # 07:00 UTC ist 09:00 Uhr deutsche Sommerzeit
+    # 20:00 UTC ist 22:00 Uhr deutsche Sommerzeit
+    - cron: '0 7,20 * * *'
   workflow_dispatch: # Ermöglicht es uns, den Roboter manuell zu testen!
-
 jobs:
   update-news:
     runs-on: ubuntu-latest
