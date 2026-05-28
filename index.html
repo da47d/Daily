@@ -362,59 +362,47 @@ function setPage(n){
   if(n===1&&!newsLoaded) fetchNews();
 }
 
-// ─── NEWS (MOCK DATA DATA VARIANT) ───────────────────────
-let newsLoaded=false;
+// ─── NEWS (ECHTE DATEN VON GITHUB) ───────────────────────
+let newsLoaded = false;
 
-function skeletons(id,n=3){
-  document.getElementById(id).innerHTML=Array(n).fill('<div class="news-skeleton"></div>').join('');
+function skeletons(id, n = 3) {
+  document.getElementById(id).innerHTML = Array(n).fill('<div class="news-skeleton"></div>').join('');
 }
 
-function fetchNews(){
-  newsLoaded=true;
-  document.getElementById('refresh-btn').textContent='↻ Loading…';
-  document.getElementById('news-time').textContent='Fetching latest news…';
-  skeletons('global-news',3); skeletons('vc-news',2);
+async function fetchNews() {
+  newsLoaded = true;
+  const refreshBtn = document.getElementById('refresh-btn');
+  const newsTime = document.getElementById('news-time');
+  
+  refreshBtn.textContent = '↻ Loading…';
+  newsTime.textContent = 'Fetching latest news…';
+  skeletons('global-news', 3); 
+  skeletons('vc-news', 2);
 
-  // Lokale, realistische Beispieldaten statt kaputtem API-Call
-  const mockData = {
-    "global": [
-      {
-        "tag": "MARKETS",
-        "headline": "S&P 500 und DAX markieren neue Rekordhochs nach Inflationsdaten",
-        "summary": "Die neuesten Verbraucherpreisindizes fielen marginal besser aus als von Analysten prognostiziert. Dies schürt an den globalen Aktienmärkten die Hoffnung auf baldige Zinssenkungen durch die Zentralbanken."
-      },
-      {
-        "tag": "ECONOMY",
-        "headline": "Eurozone verzeichnet unerwartet starkes Wirtschaftswachstum im Quartalsvergleich",
-        "summary": "Getrieben von einer Erholung im verarbeitenden Gewerbe und starken Exportzahlen stabilisiert sich die Wirtschaft in den Kernländern. Ökonomen sprechen von einer spürbaren Trendwende."
-      },
-      {
-        "tag": "GEOPOLITICS",
-        "headline": "Handelsgespräche zwischen USA und EU gehen in die entscheidende Phase",
-        "summary": "Im Fokus der Verhandlungen stehen neue Zollregelungen für kritische Rohstoffe und technologische Komponenten. Beide Parteien bemühen sich um eine Entschärfung bestehender Lieferkettenkonflikte."
-      }
-    ],
-    "vc": [
-      {
-        "tag": "FUNDING",
-        "headline": "Münchner KI-Startup sichert sich 45 Millionen Euro in Series-B-Runde",
-        "summary": "Das Deep-Tech-Unternehmen plant mit dem frischen Kapital die Expansion in den US-amerikanischen Markt. Angeführt wurde die Finanzierungsrunde von zwei führenden europäischen Venture-Capital-Fonds."
-      },
-      {
-        "tag": "STARTUPS",
-        "headline": "Neuer europäischer Growth-Fonds mit 500 Millionen Euro Volumen gestartet",
-        "summary": "Die Investmentgesellschaft fokussiert sich primär auf die Skalierungsphase von B2B-Software-Startups in der DACH-Region. Erste Investments sollen bereits im kommenden Quartal finalisiert werden."
-      }
-    ]
-  };
+  try {
+    const response = await fetch('news.json?t=' + Date.now());
+    if (!response.ok) throw new Error('Netzwerk-Fehler beim Laden der News');
+    
+    const mockData = await response.json();
 
-  // Simuliere eine kurze Ladezeit von 800ms für den optischen Effekt
-  setTimeout(() => {
-    renderNews('global-news', mockData.global);
-    renderNews('vc-news', mockData.vc);
-    document.getElementById('news-time').textContent = 'Updated ' + new Date().toLocaleTimeString('en-US', {hour:'2-digit', minute:'2-digit'});
-    document.getElementById('refresh-btn').textContent = '↻ Refresh';
-  }, 800);
+    if ((!mockData.global || mockData.global.length === 0) && (!mockData.vc || mockData.vc.length === 0)) {
+      document.getElementById('global-news').innerHTML = '<div class="load-msg">Der GitHub-Roboter schläft noch. Erstes Update kommt um 22:00 Uhr!</div>';
+      document.getElementById('vc-news').innerHTML = '<div class="load-msg">Keine Daten vorhanden.</div>';
+      newsTime.textContent = 'Bereit für Updates';
+    } else {
+      renderNews('global-news', mockData.global);
+      renderNews('vc-news', mockData.vc);
+      newsTime.textContent = 'Updated ' + new Date().toLocaleTimeString('en-US', {hour:'2-digit', minute:'2-digit'});
+    }
+
+  } catch (error) {
+    console.error(error);
+    document.getElementById('global-news').innerHTML = '<div class="error-msg">Fehler beim Laden der News.</div>';
+    document.getElementById('vc-news').innerHTML = '<div class="error-msg">Bitte später nochmals versuchen.</div>';
+    newsTime.textContent = 'Update fehlgeschlagen';
+  } finally {
+    refreshBtn.textContent = '↻ Refresh';
+  }
 }
 
 function renderNews(id, items){
