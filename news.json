@@ -1,4 +1,31 @@
 {
-  "global": [],
-  "vc": []
+  "global": [
+    {
+      "tag": "ROHSTOFFE",
+      "headline": "Nahost-Eskalation treibt Ölpreise hoch",
+      "summary": "Die zunehmende Zuspitzung der Lage im Nahen Osten, insbesondere durch israelische Angriffe im Libanon und den anhaltenden Iran-Krieg, lässt die Friedenshoffnungen schwinden und führt zu einem deutlichen Anstieg der globalen Ölpreise. Dies belastet die weltweiten Märkte."
+    },
+    {
+      "tag": "KLIMA",
+      "headline": "Hitzewellen kosten Wirtschaft Milliarden",
+      "summary": "Klimabedingte Hitzewellen entwickeln sich zu einem erheblichen Kostenfaktor für die deutsche Wirtschaft. Prognosen warnen vor Verlusten von rund 112,5 Milliarden Euro bis 2030, was die makroökonomischen Auswirkungen des Klimawandels unterstreicht."
+    },
+    {
+      "tag": "GESUNDHEIT",
+      "headline": "Hautkrebs-Fälle fast verdoppelt",
+      "summary": "Die Zahl der Hautkrebs-Fälle in deutschen Kliniken hat sich in 20 Jahren fast verdoppelt, mit steigender Tendenz auch bei den Todesfällen. Dies signalisiert einen bedeutenden globalen Gesundheits- und Kostenfaktor im Gesundheitssystem."
+    }
+  ],
+  "vc": [
+    {
+      "tag": "TECH_M&A",
+      "headline": "EU prüft JD.coms MediaMarkt-Deal",
+      "summary": "Die EU-Kommission prüft die geplante Übernahme von MediaMarkt durch den chinesischen Tech-Giganten JD.com wegen Wettbewerbsbedenken. Dieser Schritt zeigt die zunehmende Regulierung und strategische Expansion großer Tech-Player, die das Umfeld für Startups prägt."
+    },
+    {
+      "tag": "REGTECH",
+      "headline": "Temu mit hoher EU-Strafe belegt",
+      "summary": "Die EU-Kommission hat Temu eine Strafe von 200 Millionen Euro auferlegt, weil die Plattform unzureichend gegen illegale Produkte vorgeht. Dies unterstreicht die wachsende regulatorische Last und Compliance-Anforderungen für internationale E-Commerce-Tech-Plattformen."
+    }
+  ]
 }
