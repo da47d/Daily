@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#080810">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Daily">
+<title>Daily</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+:root{
+  --bg:#080810;
+  --surface:#0e0e1a;
+  --surface2:#13131f;
+  --border:#1e1e30;
+  --blue:#3b82f6;
+  --blue-dim:rgba(59,130,246,0.15);
+  --blue-bright:#60a5fa;
+  --text:#f0f0ff;
+  --muted:#4a4a6a;
+  --muted2:#6a6a8a;
+  --success:#34d399;
+}
+html,body{height:100%;background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased;overflow:hidden;}
+body{min-height:100dvh;}
+
+/* SWIPE CONTAINER */
+.pages{display:flex;width:200%;height:100dvh;transition:transform 0.4s cubic-bezier(0.4,0,0.2,1);will-change:transform;}
+.pages.page2{transform:translateX(-50%);}
+.page{width:50%;height:100dvh;overflow-y:auto;overflow-x:hidden;-webkit-overflow-scrolling:touch;padding:env(safe-area-inset-top,44px) 0 env(safe-area-inset-bottom,24px);}
+
+/* PAGE DOTS */
+.dots{position:fixed;bottom:calc(env(safe-area-inset-bottom,24px) + 8px);left:50%;transform:translateX(-50%);display:flex;gap:6px;z-index:100;}
+.dot{width:6px;height:6px;border-radius:50%;background:var(--muted);transition:background 0.2s,width 0.2s;}
+.dot.active{width:18px;border-radius:3px;background:var(--blue);}
+
+/* ===== PAGE 1: GOALS ===== */
+.p1-inner{padding:0 20px;max-width:480px;margin:0 auto;}
+
+/* STATS TOP */
+.stats-header{padding-top:48px;margin-bottom:20px;}
+.stats-header h2{font-size:13px;font-weight:500;color:var(--muted2);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:16px;}
+
+.stats-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:14px;}
+
+.stat-card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:14px;}
+.stat-card-label{font-size:11px;color:var(--muted2);letter-spacing:0.06em;text-transform:uppercase;margin-bottom:8px;}
+.stat-card-val{font-size:26px;font-weight:700;color:var(--text);line-height:1;}
+.stat-card-sub{font-size:11px;color:var(--muted2);margin-top:4px;}
+.stat-card-sub span{color:var(--blue-bright);}
+
+/* DONUT */
+.donut-wrap{display:flex;align-items:center;gap:16px;background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:14px 18px;margin-bottom:14px;}
+.donut-svg{flex-shrink:0;}
+.donut-info{flex:1;}
+.donut-pct{font-size:28px;font-weight:700;color:var(--text);}
+.donut-pct span{font-size:14px;font-weight:400;color:var(--muted2);}
+.donut-label{font-size:12px;color:var(--muted2);margin-top:2px;}
+.donut-streak{display:inline-flex;align-items:center;gap:5px;margin-top:8px;background:var(--blue-dim);border-radius:99px;padding:4px 10px;font-size:11px;color:var(--blue-bright);font-weight:500;}
+
+/* BAR CHART */
+.bar-section{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:14px 16px;margin-bottom:14px;}
+.bar-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;}
+.bar-title{font-size:11px;color:var(--muted2);letter-spacing:0.06em;text-transform:uppercase;}
+.bar-toggle{display:flex;background:var(--surface2);border-radius:6px;padding:2px;gap:2px;}
+.bar-toggle button{background:none;border:none;color:var(--muted2);font-size:10px;font-weight:500;padding:3px 8px;border-radius:4px;cursor:pointer;font-family:'Inter',sans-serif;}
+.bar-toggle button.active{background:var(--blue);color:#fff;}
+.bars{display:flex;gap:4px;align-items:flex-end;height:52px;}
+.bar-col{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px;}
+.bar-bg{width:100%;background:var(--border);border-radius:3px;flex:1;position:relative;overflow:hidden;}
+.bar-fill{position:absolute;bottom:0;left:0;right:0;background:var(--blue);border-radius:3px;transition:height 0.4s ease;}
+.bar-day{font-size:9px;color:var(--muted);letter-spacing:0.04em;}
+
+/* DIVIDER */
+.section-divider{display:flex;align-items:center;gap:10px;margin:18px 0 14px;}
+.section-divider-line{flex:1;height:1px;background:var(--border);}
+.section-divider-label{font-size:11px;color:var(--muted2);letter-spacing:0.08em;text-transform:uppercase;font-weight:500;}
+
+/* GOALS */
+.goals-list{display:flex;flex-direction:column;gap:7px;margin-bottom:16px;}
+.goal-item{display:flex;align-items:center;gap:12px;padding:13px 14px;background:var(--surface);border:1px solid var(--border);border-radius:12px;cursor:pointer;-webkit-tap-highlight-color:transparent;transition:border-color 0.15s;}
+.goal-item.done{border-color:rgba(59,130,246,0.3);background:rgba(59,130,246,0.04);}
+.check{width:21px;height:21px;border-radius:50%;border:1.5px solid var(--muted);flex-shrink:0;display:flex;align-items:center;justify-content:center;transition:background 0.15s,border-color 0.15s;}
+.goal-item.done .check{background:var(--blue);border-color:var(--blue);}
+.check-svg{display:none;}
+.goal-item.done .check-svg{display:block;}
+.goal-text{flex:1;font-size:15px;color:var(--text);transition:color 0.15s;}
+.goal-item.done .goal-text{color:var(--muted);text-decoration:line-through;}
+.del-btn{background:none;border:none;color:var(--muted);font-size:17px;cursor:pointer;padding:2px 4px;opacity:0;-webkit-tap-highlight-color:transparent;}
+.goal-item:hover .del-btn,.goal-item:active .del-btn{opacity:1;}
+.empty{text-align:center;padding:32px 0;color:var(--muted);font-size:14px;}
+
+/* ADD */
+.add-row{display:flex;gap:8px;padding-bottom:8px;}
+.add-input{flex:1;background:var(--surface);border:1px solid var(--border);border-radius:10px;color:var(--text);font-family:'Inter',sans-serif;font-size:15px;padding:12px 14px;outline:none;-webkit-appearance:none;transition:border-color 0.15s;}
+.add-input::placeholder{color:var(--muted);}
+.add-input:focus{border-color:var(--blue);}
+.add-btn{background:var(--blue);border:none;border-radius:10px;color:#fff;font-size:22px;width:46px;height:46px;cursor:pointer;display:flex;align-items:center;justify-content:center;-webkit-tap-highlight-color:transparent;transition:opacity 0.15s;}
+.add-btn:active{opacity:0.75;}
+
+/* ===== PAGE 2: NEWS ===== */
+.p2-inner{padding:0 20px;max-width:480px;margin:0 auto;}
+.news-header{padding-top:48px;margin-bottom:22px;}
+.news-title{font-size:22px;font-weight:600;letter-spacing:-0.02em;}
+.news-subtitle{font-size:13px;color:var(--muted2);margin-top:4px;}
+.news-refresh{float:right;background:var(--blue-dim);border:none;border-radius:8px;color:var(--blue-bright);font-size:12px;font-weight:500;padding:5px 12px;cursor:pointer;font-family:'Inter',sans-serif;-webkit-tap-highlight-color:transparent;}
+.news-refresh:active{opacity:0.7;}
+
+.news-section-title{font-size:11px;color:var(--muted2);letter-spacing:0.1em;text-transform:uppercase;font-weight:600;margin-bottom:10px;}
+
+.news-card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:16px;margin-bottom:8px;position:relative;overflow:hidden;}
+.news-card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--blue);}
+.news-tag{display:inline-flex;align-items:center;gap:4px;font-size:10px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:var(--blue-bright);background:var(--blue-dim);border-radius:4px;padding:2px 7px;margin-bottom:8px;}
+.news-headline{font-size:15px;font-weight:500;color:var(--text);line-height:1.4;margin-bottom:6px;}
+.news-body{font-size:13px;color:var(--muted2);line-height:1.5;}
+.news-skeleton{height:90px;background:var(--surface);border:1px solid var(--border);border-radius:14px;margin-bottom:8px;position:relative;overflow:hidden;}
+.news-skeleton::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,transparent 0%,rgba(59,130,246,0.06) 50%,transparent 100%);animation:shimmer 1.5s infinite;}
+@keyframes shimmer{0%{transform:translateX(-100%);}100%{transform:translateX(100%);}}
+.vc-divider{height:1px;background:var(--border);margin:22px 0 16px;}
+.load-msg{text-align:center;padding:16px;color:var(--muted2);font-size:13px;}
+.error-msg{text-align:center;padding:16px;color:#f87171;font-size:13px;}
+</style>
+</head>
+<body>
+
+<div class="pages" id="pages">
+
+  <div class="page" id="page1">
+    <div class="p1-inner">
+
+      <div class="stats-header">
+        <h2>Overview</h2>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-card-label">Today</div>
+            <div class="stat-card-val" id="today-pct">0%</div>
+            <div class="stat-card-sub" id="today-sub">0 of 0 done</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-card-label">7-Day Avg</div>
+            <div class="stat-card-val" id="avg-pct">—</div>
+            <div class="stat-card-sub" id="avg-sub">completion rate</div>
+          </div>
+        </div>
+
+        <div class="donut-wrap">
+          <svg class="donut-svg" width="64" height="64" viewBox="0 0 64 64">
+            <circle cx="32" cy="32" r="26" fill="none" stroke="var(--border)" stroke-width="7"/>
+            <circle id="donut-arc" cx="32" cy="32" r="26" fill="none" stroke="var(--blue)" stroke-width="7"
+              stroke-linecap="round" stroke-dasharray="163.4" stroke-dashoffset="163.4"
+              transform="rotate(-90 32 32)" style="transition:stroke-dashoffset 0.6s ease;"/>
+          </svg>
+          <div class="donut-info">
+            <div class="donut-pct"><span id="donut-num">0</span><span>%</span></div>
+            <div class="donut-label">Today's Progress</div>
+            <div class="donut-streak">🔥 <span id="streak-label">0 day streak</span></div>
+          </div>
+        </div>
+
+        <div class="bar-section">
+          <div class="bar-header">
+            <span class="bar-title">Daily Completion</span>
+            <div class="bar-toggle">
+              <button class="active" id="btn7" onclick="setBarRange(7)">7D</button>
+              <button id="btn30" onclick="setBarRange(30)">30D</button>
+            </div>
+          </div>
+          <div class="bars" id="bars"></div>
+        </div>
+      </div>
+
+      <div class="section-divider">
+        <div class="section-divider-line"></div>
+        <div class="section-divider-label">Today's Goals</div>
+        <div class="section-divider-line"></div>
+      </div>
+
+      <div class="goals-list" id="goals-list"></div>
+      <div class="empty" id="empty" style="display:none">No goals yet — add your first one!</div>
+
+      <div class="add-row">
+        <input class="add-input" type="text" id="goal-input" placeholder="Add a goal…" autocomplete="off">
+        <button class="add-btn" id="add-btn" aria-label="Add">+</button>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="page" id="page2">
+    <div class="p2-inner">
+      <div class="news-header">
+        <button class="news-refresh" id="refresh-btn" onclick="fetchNews()">↻ Refresh</button>
+        <div class="news-title">Morning Brief</div>
+        <div class="news-subtitle" id="news-time">Loading…</div>
+      </div>
+
+      <div class="news-section-title">🌍 Global & Markets</div>
+      <div id="global-news"></div>
+
+      <div class="vc-divider"></div>
+      <div class="news-section-title">🚀 Startups & VC</div>
+      <div id="vc-news"></div>
+
+    </div>
+  </div>
+</div>
+
+<div class="dots">
+  <div class="dot active" id="dot1"></div>
+  <div class="dot" id="dot2"></div>
+</div>
+
+<script>
+// ─── STATE ───────────────────────────────────────────────
+const STORAGE_KEY = 'dailyapp_v2';
+const todayStr = () => new Date().toISOString().slice(0,10);
+let barRange = 7;
+
+let data = { goals:[], checked:{}, streak:0, lastDate:'', history:{} };
+
+function loadData() {
+  try { const s=localStorage.getItem(STORAGE_KEY); if(s) data=JSON.parse(s); } catch(e){}
+  const today = todayStr();
+  if(data.lastDate && data.lastDate !== today) {
+    const yest = new Date(); yest.setDate(yest.getDate()-1);
+    const yStr = yest.toISOString().slice(0,10);
+    const total = data.goals.length;
+    const done = total ? data.goals.filter(g=>data.checked[g.id]).length : 0;
+    const pct = total ? Math.round((done/total)*100) : 0;
+    if(!data.history) data.history={};
+    data.history[data.lastDate] = pct;
+    const allDone = total>0 && done===total;
+    if(allDone && data.lastDate===yStr) data.streak=(data.streak||0)+1;
+    else if(data.lastDate!==yStr) data.streak=0;
+    data.checked={};
+  }
+  data.lastDate=today;
+  saveData(); renderGoals(); renderStats();
+}
+
+function saveData() {
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); } catch(e){}
+}
+
+// ─── STATS ───────────────────────────────────────────────
+function renderStats() {
+  const total=data.goals.length, done=data.goals.filter(g=>data.checked[g.id]).length;
+  const pct=total?Math.round((done/total)*100):0;
+  document.getElementById('today-pct').textContent=pct+'%';
+  document.getElementById('today-sub').textContent=`${done} of ${total} done`;
+  document.getElementById('donut-num').textContent=pct;
+  const circ=163.4, offset=circ-(circ*(pct/100));
+  document.getElementById('donut-arc').style.strokeDashoffset=offset;
+  const streak=data.streak||0;
+  document.getElementById('streak-label').textContent=streak===1?'1 day streak':`${streak} day streak`;
+  const hist=data.history||{};
+  const keys=Object.keys(hist).sort();
+  const vals=keys.slice(-30).map(k=>hist[k]);
+  const recent=vals.slice(-7);
+  const avg7=recent.length?Math.round(recent.reduce((a,b)=>a+b,0)/recent.length):null;
+  document.getElementById('avg-pct').textContent=avg7!==null?avg7+'%':'—';
+  renderBars();
+}
+
+function setBarRange(n) {
+  barRange=n;
+  document.getElementById('btn7').classList.toggle('active',n===7);
+  document.getElementById('btn30').classList.toggle('active',n===30);
+  renderBars();
+}
+
+function renderBars() {
+  const hist=data.history||{};
+  const today=todayStr();
+  const total=data.goals.length, done=data.goals.filter(g=>data.checked[g.id]).length;
+  const todayPct=total?Math.round((done/total)*100):0;
+  const days=[];
+  for(let i=barRange-1;i>=0;i--){
+    const d=new Date(); d.setDate(d.getDate()-i);
+    const k=d.toISOString().slice(0,10);
+    const val=k===today?todayPct:(hist[k]??null);
+    const label=barRange===7?['S','M','T','W','T','F','S'][d.getDay()]:d.getDate()+'';
+    days.push({val,label,isToday:k===today});
+  }
+  const container=document.getElementById('bars');
+  container.innerHTML=days.map(d=>`
+    <div class="bar-col">
+      <div class="bar-bg">
+        <div class="bar-fill" style="height:${d.val!==null?d.val:0}%;background:${d.isToday?'var(--blue-bright)':'var(--blue)'};opacity:${d.val===null?0.2:1};"></div>
+      </div>
+      <div class="bar-day" style="color:${d.isToday?'var(--blue-bright)':'var(--muted)'}">${d.label}</div>
+    </div>
+  `).join('');
+}
+
+// ─── GOALS ───────────────────────────────────────────────
+function renderGoals() {
+  const list=document.getElementById('goals-list');
+  const empty=document.getElementById('empty');
+  if(!data.goals.length){ list.innerHTML=''; empty.style.display='block'; return; }
+  empty.style.display='none';
+  list.innerHTML=data.goals.map(g=>`
+    <div class="goal-item${data.checked[g.id]?' done':''}" data-id="${g.id}">
+      <div class="check">
+        <svg class="check-svg" width="10" height="8" viewBox="0 0 10 8" fill="none">
+          <path d="M1 4L3.5 6.5L9 1" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <span class="goal-text">${esc(g.text)}</span>
+      <button class="del-btn" data-del="${g.id}">×</button>
+    </div>
+  `).join('');
+  list.querySelectorAll('.goal-item').forEach(el=>{
+    el.addEventListener('click',e=>{ if(e.target.closest('.del-btn'))return; toggle(el.dataset.id); });
+  });
+  list.querySelectorAll('.del-btn').forEach(el=>{
+    el.addEventListener('click',e=>{ e.stopPropagation(); del(el.dataset.del); });
+  });
+}
+
+function toggle(id){ data.checked[id]=!data.checked[id]; saveData(); renderGoals(); renderStats(); }
+function del(id){ data.goals=data.goals.filter(g=>g.id!==id); delete data.checked[id]; saveData(); renderGoals(); renderStats(); }
+function addGoal(){
+  const inp=document.getElementById('goal-input'), text=inp.value.trim();
+  if(!text)return; data.goals.push({id:Date.now()+'',text}); inp.value=''; saveData(); renderGoals(); renderStats();
+}
+function esc(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+document.getElementById('add-btn').addEventListener('click',addGoal);
+document.getElementById('goal-input').addEventListener('keydown',e=>{ if(e.key==='Enter') addGoal(); });
+
+// ─── SWIPE ───────────────────────────────────────────────
+let curPage=0, touchStartX=0, touchStartY=0, isDragging=false;
+const pages=document.getElementById('pages');
+pages.addEventListener('touchstart',e=>{ touchStartX=e.touches[0].clientX; touchStartY=e.touches[0].clientY; isDragging=false; },{passive:true});
+pages.addEventListener('touchmove',e=>{ isDragging=true; },{passive:true});
+pages.addEventListener('touchend',e=>{
+  if(!isDragging)return;
+  const dx=e.changedTouches[0].clientX-touchStartX;
+  const dy=e.changedTouches[0].clientY-touchStartY;
+  if(Math.abs(dx)>Math.abs(dy)&&Math.abs(dx)>40){
+    if(dx<0&&curPage===0) setPage(1);
+    else if(dx>0&&curPage===1) setPage(0);
+  }
+},{passive:true});
+
+function setPage(n){
+  curPage=n;
+  pages.classList.toggle('page2',n===1);
+  document.getElementById('dot1').classList.toggle('active',n===0);
+  document.getElementById('dot2').classList.toggle('active',n===1);
+  if(n===1&&!newsLoaded) fetchNews();
+}
+
+// ─── NEWS (MOCK DATA DATA VARIANT) ───────────────────────
+let newsLoaded=false;
+
+function skeletons(id,n=3){
+  document.getElementById(id).innerHTML=Array(n).fill('<div class="news-skeleton"></div>').join('');
+}
+
+function fetchNews(){
+  newsLoaded=true;
+  document.getElementById('refresh-btn').textContent='↻ Loading…';
+  document.getElementById('news-time').textContent='Fetching latest news…';
+  skeletons('global-news',3); skeletons('vc-news',2);
+
+  // Lokale, realistische Beispieldaten statt kaputtem API-Call
+  const mockData = {
+    "global": [
+      {
+        "tag": "MARKETS",
+        "headline": "S&P 500 und DAX markieren neue Rekordhochs nach Inflationsdaten",
+        "summary": "Die neuesten Verbraucherpreisindizes fielen marginal besser aus als von Analysten prognostiziert. Dies schürt an den globalen Aktienmärkten die Hoffnung auf baldige Zinssenkungen durch die Zentralbanken."
+      },
+      {
+        "tag": "ECONOMY",
+        "headline": "Eurozone verzeichnet unerwartet starkes Wirtschaftswachstum im Quartalsvergleich",
+        "summary": "Getrieben von einer Erholung im verarbeitenden Gewerbe und starken Exportzahlen stabilisiert sich die Wirtschaft in den Kernländern. Ökonomen sprechen von einer spürbaren Trendwende."
+      },
+      {
+        "tag": "GEOPOLITICS",
+        "headline": "Handelsgespräche zwischen USA und EU gehen in die entscheidende Phase",
+        "summary": "Im Fokus der Verhandlungen stehen neue Zollregelungen für kritische Rohstoffe und technologische Komponenten. Beide Parteien bemühen sich um eine Entschärfung bestehender Lieferkettenkonflikte."
+      }
+    ],
+    "vc": [
+      {
+        "tag": "FUNDING",
+        "headline": "Münchner KI-Startup sichert sich 45 Millionen Euro in Series-B-Runde",
+        "summary": "Das Deep-Tech-Unternehmen plant mit dem frischen Kapital die Expansion in den US-amerikanischen Markt. Angeführt wurde die Finanzierungsrunde von zwei führenden europäischen Venture-Capital-Fonds."
+      },
+      {
+        "tag": "STARTUPS",
+        "headline": "Neuer europäischer Growth-Fonds mit 500 Millionen Euro Volumen gestartet",
+        "summary": "Die Investmentgesellschaft fokussiert sich primär auf die Skalierungsphase von B2B-Software-Startups in der DACH-Region. Erste Investments sollen bereits im kommenden Quartal finalisiert werden."
+      }
+    ]
+  };
+
+  // Simuliere eine kurze Ladezeit von 800ms für den optischen Effekt
+  setTimeout(() => {
+    renderNews('global-news', mockData.global);
+    renderNews('vc-news', mockData.vc);
+    document.getElementById('news-time').textContent = 'Updated ' + new Date().toLocaleTimeString('en-US', {hour:'2-digit', minute:'2-digit'});
+    document.getElementById('refresh-btn').textContent = '↻ Refresh';
+  }, 800);
+}
+
+function renderNews(id, items){
+  if(!items||!items.length){ document.getElementById(id).innerHTML='<div class="load-msg">No data</div>'; return; }
+  document.getElementById(id).innerHTML=items.map(item=>`
+    <div class="news-card">
+      <div class="news-tag">${esc(item.tag)}</div>
+      <div class="news-headline">${esc(item.headline)}</div>
+      <div class="news-body">${esc(item.summary)}</div>
+    </div>
+  `).join('');
+}
+
+// ─── INIT ────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
