@@ -1,31 +1,31 @@
 {
   "global": [
     {
-      "tag": "ROHSTOFFE",
-      "headline": "Nahost-Eskalation treibt Ölpreise hoch",
-      "summary": "Die zunehmende Zuspitzung der Lage im Nahen Osten, insbesondere durch israelische Angriffe im Libanon und den anhaltenden Iran-Krieg, lässt die Friedenshoffnungen schwinden und führt zu einem deutlichen Anstieg der globalen Ölpreise. Dies belastet die weltweiten Märkte."
+      "tag": "GEO_PAX",
+      "headline": "USA/Iran: Rahmenabkommen für Waffenruhe – Märkte atmen auf",
+      "summary": "Berichte deuten auf ein bevorstehendes Abkommen zwischen den USA und Iran zur Beendigung des Kriegs hin. Die Unsicherheit bleibt hoch, doch die globalen Märkte reagieren vorsichtig optimistisch auf mögliche Deeskalation."
     },
     {
-      "tag": "KLIMA",
-      "headline": "Hitzewellen kosten Wirtschaft Milliarden",
-      "summary": "Klimabedingte Hitzewellen entwickeln sich zu einem erheblichen Kostenfaktor für die deutsche Wirtschaft. Prognosen warnen vor Verlusten von rund 112,5 Milliarden Euro bis 2030, was die makroökonomischen Auswirkungen des Klimawandels unterstreicht."
+      "tag": "DAX_DROP",
+      "headline": "Iran-Konflikt drückt DAX unter 25.000 Punkte – Anleger nervös",
+      "summary": "Die anhaltende Hängepartie am Persischen Golf belastet die globalen Märkte erheblich. Der DAX ringt mit wichtigen Schwellen und schließt im Minus, da Investoren die geopolitische Lage in Nahost genau beobachten."
     },
     {
-      "tag": "GESUNDHEIT",
-      "headline": "Hautkrebs-Fälle fast verdoppelt",
-      "summary": "Die Zahl der Hautkrebs-Fälle in deutschen Kliniken hat sich in 20 Jahren fast verdoppelt, mit steigender Tendenz auch bei den Todesfällen. Dies signalisiert einen bedeutenden globalen Gesundheits- und Kostenfaktor im Gesundheitssystem."
+      "tag": "RUBEL_SURGE",
+      "headline": "Rubel-Rally wird Putins Kriegswirtschaft zur Last",
+      "summary": "Der Rubel erreicht den höchsten Stand seit drei Jahren. Was auf den ersten Blick nach Stärke aussieht, erschwert Russlands Exporte und belastet die durch den Krieg angeschlagene Wirtschaft des Kremls erheblich."
     }
   ],
   "vc": [
     {
-      "tag": "TECH_M&A",
-      "headline": "EU prüft JD.coms MediaMarkt-Deal",
-      "summary": "Die EU-Kommission prüft die geplante Übernahme von MediaMarkt durch den chinesischen Tech-Giganten JD.com wegen Wettbewerbsbedenken. Dieser Schritt zeigt die zunehmende Regulierung und strategische Expansion großer Tech-Player, die das Umfeld für Startups prägt."
+      "tag": "NEURO_FUND",
+      "headline": "KI-Startups sichern Milliarden: Fokus auf autonome Systeme",
+      "summary": "Trotz globaler Instabilität fließt Rekordkapital in den Sektor der Künstlichen Intelligenz. Investoren setzen auf Startups, die autonome Infrastrukturen und fortschrittliche neuronale Netze entwickeln, um menschliche Arbeit zu ersetzen."
     },
     {
-      "tag": "REGTECH",
-      "headline": "Temu mit hoher EU-Strafe belegt",
-      "summary": "Die EU-Kommission hat Temu eine Strafe von 200 Millionen Euro auferlegt, weil die Plattform unzureichend gegen illegale Produkte vorgeht. Dies unterstreicht die wachsende regulatorische Last und Compliance-Anforderungen für internationale E-Commerce-Tech-Plattformen."
+      "tag": "CYBER_VENT",
+      "headline": "Gen-Tech-Fusion: Neue Welle an Investitionen in Bio-Implantate",
+      "summary": "Risikokapitalgeber pumpen massive Summen in die Fusion von Gen-Technologie und Kybernetik. Der Durchbruch bei personalisierten Bio-Implantaten für verbesserte kognitive und physische Fähigkeiten steht bevor, treibt jedoch auch ethische Debatten an."
     }
   ]
 }
