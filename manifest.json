@@ -1,5 +1,5 @@
 {
-  "name": "Daily Ultimate Pro",
+  "name": "Daily App Pro",
   "short_name": "Daily",
   "start_url": ".",
   "display": "standalone",
@@ -7,9 +7,9 @@
   "theme_color": "#080810",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "icon.png",
       "sizes": "512x512",
-      "type": "image/x-icon"
+      "type": "image/png"
     }
   ]
 }
