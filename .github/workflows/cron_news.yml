@@ -1,0 +1,36 @@
+name: Tägliches KI News Update
+
+on:
+  schedule:
+    # 05:00 UTC ist 07:00 Uhr deutsche Zeit
+    # 20:00 UTC ist 22:00 Uhr deutsche Zeit
+    - cron: '0 5,20 * * *'
+  workflow_dispatch: # Ermöglicht es uns, den Roboter manuell zu testen!
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Code auschecken
+      uses: actions/checkout@v4
+
+    - name: Python einrichten
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Werkzeuge installieren
+      run: pip install requests
+
+    - name: Skript ausführen und KI fragen
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: python update_news.py
+
+    - name: Änderungen auf GitHub hochladen
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "actions@github.com"
+        git add news.json
+        git diff-index --quiet HEAD || git commit -m "KI Morning/Evening Brief aktualisiert"
+        git push
