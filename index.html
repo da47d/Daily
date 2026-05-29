@@ -116,6 +116,7 @@
             margin-bottom: 12px;
         }
 
+        /* OVERVIEW STATS */
         .stats-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -150,6 +151,7 @@
             margin-top: 4px;
         }
 
+        /* TO-DOS */
         .todo-item {
             display: flex;
             align-items: center;
@@ -250,22 +252,22 @@
         .notes-area { width: 100%; height: 110px; background: #0d1321; border: 1px solid var(--border-color); border-radius: 10px; padding: 12px; color: var(--text-main); font-size: 13px; line-height: 1.5; resize: none; }
         .notes-area:focus { outline: none; border-color: var(--light-blue); }
         
-        .learning-header { font-size: 18px; font-weight: 700; color: var(--glow-blue); margin-bottom: 6px; }
-        .learning-meta { font-size: 11px; color: var(--text-muted); margin-bottom: 12px; text-transform: uppercase; }
-        .learning-content p { font-size: 14px; line-height: 1.6; margin-bottom: 14px; color: #e5e7eb; }
-        .learning-section { background: #0d1321; padding: 12px 14px; border-radius: 10px; margin: 12px 0; border-left: 3px solid var(--light-blue); }
-        .learning-section-title { font-size: 12px; font-weight: 700; color: var(--glow-blue); text-transform: uppercase; margin-bottom: 6px; }
-
-        .news-item { border-bottom: 1px solid var(--border-color); padding-bottom: 12px; margin-bottom: 12px; }
-        .news-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
-        .news-title { font-size: 14px; font-weight: 600; margin-bottom: 4px; color: var(--text-main); }
-        .news-desc { font-size: 12px; color: var(--text-muted); line-height: 1.4; }
-        .badge { display: inline-block; font-size: 9px; font-weight: 700; padding: 2px 6px; border-radius: 4px; text-transform: uppercase; margin-bottom: 6px; }
+        /* ALTES NEWS DESIGN (WIEDER DA) */
+        .news-card-item {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 16px;
+            margin-bottom: 12px;
+        }
+        .news-title { font-size: 14px; font-weight: 600; margin-bottom: 6px; color: var(--text-main); }
+        .news-desc { font-size: 12px; color: var(--text-muted); line-height: 1.5; }
+        .badge { display: inline-block; font-size: 9px; font-weight: 700; padding: 2px 6px; border-radius: 4px; text-transform: uppercase; margin-bottom: 8px; }
         .badge.global { background: #2563eb; color: white; }
         .badge.vc { background: #7c3aed; color: white; }
-        
-        .refresh-btn-container { text-align: center; margin-top: 16px; }
-        .refresh-btn { background: none; border: 1px solid var(--border-color); color: var(--text-muted); padding: 6px 16px; border-radius: 20px; font-size: 11px; cursor: pointer; font-weight: 600; }
+
+        .refresh-btn-container { text-align: center; margin: 20px 0; }
+        .refresh-btn { background: none; border: 1px solid var(--border-color); color: var(--text-muted); padding: 8px 20px; border-radius: 20px; font-size: 11px; cursor: pointer; font-weight: 600; letter-spacing: 0.5px; }
     </style>
 </head>
 <body>
@@ -287,7 +289,7 @@
                     <div class="section-title">3-Min Wissen</div>
                     <div id="learningContentTarget">
                         <div class="learning-header">Warte auf KI...</div>
-                        <p style="font-size:13px; color:var(--text-muted);">Nutze den Refresh-Button auf der News-Seite, um Inhalte zu laden.</p>
+                        <p style="font-size:13px; color:var(--text-muted);">Nutze den Refresh-Button auf der News-Seite, um die Inhalte zu laden.</p>
                     </div>
                 </div>
             </div>
@@ -344,14 +346,12 @@
             </div>
 
             <div class="page" id="page-news">
-                <div class="card">
-                    <div class="section-title">Morning Briefing</div>
-                    <div id="newsContainer">
-                        <p style="text-align:center; padding:20px; color:var(--text-muted); font-size:13px;">Keine News geladen.</p>
-                    </div>
-                    <div class="refresh-btn-container">
-                        <button class="refresh-btn" onclick="fetchNewsAndLearnings()">↻ REFRESH</button>
-                    </div>
+                <div class="section-title">Morning Briefing</div>
+                <div id="newsContainer">
+                    <p style="text-align:center; padding:20px; color:var(--text-muted); font-size:13px;">Keine News geladen.</p>
+                </div>
+                <div class="refresh-btn-container">
+                    <button class="refresh-btn" onclick="fetchNewsAndLearnings()">↻ REFRESH</button>
                 </div>
             </div>
 
@@ -394,7 +394,7 @@
             dots.forEach((dot, i) => i === currentIdx ? dot.classList.add('active') : dot.classList.remove('active'));
         }
 
-        // --- DATA STATE LOGIK ---
+        // --- CORE DATA LOGIK ---
         let routines = JSON.parse(localStorage.getItem('daily_routines')) || [
             { id: 1, text: "Corporate Finance Skript wiederholen", done: false },
             { id: 2, text: "30 Min Gym / Tennis-Session", done: false }
@@ -505,13 +505,10 @@
         }
         function deleteScheduledTask(idx) { if (scheduledTasks[selectedDateStr]) scheduledTasks[selectedDateStr].splice(idx, 1); renderScheduledTasks(); }
 
-        // --- STATS LOGIK ---
         function checkDayChange() {
             const todayStr = new Date().toISOString().split('T')[0];
             const lastActiveDay = localStorage.getItem('daily_last_active');
-            
             if (lastActiveDay && lastActiveDay !== todayStr) {
-                // Routinen für den neuen Tag zurücksetzen
                 routines.forEach(r => r.done = false);
                 renderRoutines();
             }
@@ -531,10 +528,8 @@
             document.getElementById('todayPct').innerText = `${pct}%`;
             document.getElementById('todayCount').innerText = `${done} of ${total} done`;
             
-            // Speichern in der Historie
             history[todayStr] = pct;
             localStorage.setItem('daily_history', JSON.stringify(history));
-            
             renderCharts();
         }
 
@@ -565,7 +560,6 @@
                 container.appendChild(wrapper);
             }
 
-            // Berechne 7-Tage-Schnitt
             let totalPct = 0;
             for (let i = 0; i < 7; i++) {
                 const d = new Date();
@@ -578,33 +572,32 @@
         function saveNotes() { localStorage.setItem('daily_notes', document.getElementById('quickNotes').value); }
         function loadNotes() { document.getElementById('quickNotes').value = localStorage.getItem('daily_notes') || ""; }
 
-        // --- DYNAMISCHER KI CONTENT (NEWS & LEARNINGS) ---
+        // --- FIXED FETCH FÜR BEIDE SEITEN ---
         async function fetchNewsAndLearnings() {
             try {
-                // Cache umgehen mit Zeitstempel
                 const response = await fetch('news.json?t=' + Date.now());
                 const data = await response.json();
                 
-                // News rendern
+                // RENDERT DIE NEWS IN EIGENEN CARDS (ALTES DESIGN)
                 const newsContainer = document.getElementById('newsContainer');
                 newsContainer.innerHTML = "";
                 
                 ['global', 'vc'].forEach(cat => {
                     if (data[cat]) {
                         data[cat].forEach(item => {
-                            const div = document.createElement('div');
-                            div.className = 'news-item';
-                            div.innerHTML = `
+                            const card = document.createElement('div');
+                            card.className = 'news-card-item';
+                            card.innerHTML = `
                                 <span class="badge ${cat}">${cat === 'global' ? 'Globaler Markt' : 'VC & Startups'}</span>
                                 <div class="news-title">${item.tag ? '[' + item.tag + '] ' : ''}${item.headline}</div>
                                 <div class="news-desc">${item.summary}</div>
                             `;
-                            newsContainer.appendChild(div);
+                            newsContainer.appendChild(card);
                         });
                     }
                 });
 
-                // Learning Modul rendern
+                // RENDERT DAS DAILY LEARNING AUF SEITE 1
                 const learnTarget = document.getElementById('learningContentTarget');
                 if (data.learning) {
                     learnTarget.innerHTML = `
@@ -621,7 +614,7 @@
                     `;
                 }
             } catch (e) {
-                console.error("Fehler beim Laden der JSON", e);
+                console.error("Fehler beim Laden der Live-Daten", e);
             }
         }
 
