@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Daily</title>
     <link rel="icon" type="image/png" href="icon.png">
-    <link class="apple-touch-icon" href="icon.png">
+    <link rel="apple-touch-icon" href="icon.png">
     <style>
         :root {
             --bg-color: #0b0f19;
@@ -46,6 +46,7 @@
             box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
         }
 
+        /* Navigations-Punkte unten */
         .nav-footer {
             position: absolute;
             bottom: 0;
@@ -302,8 +303,16 @@
                 <div class="card" id="learningCard">
                     <div class="section-title">3-Min Wissen</div>
                     <div id="learningContentTarget">
-                        <div class="learning-header">Warte auf KI...</div>
-                        <p style="font-size:13px; color:var(--text-muted);">Nutze den Refresh-Button auf der News-Seite, um Inhalte zu laden.</p>
+                        <div class="learning-header">Die Hypothekenkrise 2008 (Subprime)</div>
+                        <div class="learning-meta">Bereich: Makroökonomie</div>
+                        <div class="learning-content">
+                            <p><strong>Kernkonzept:</strong> US-Banken vergaben über Jahre hinweg massenhaft Immobilienkredite an Personen mit sehr geringer Bonität.</p>
+                            <div class="learning-section">
+                                <div class="learning-section-title">Hintergrund & Mechanik</div>
+                                <p>Die Banken bündelten Tausende Verträge zu neuen Finanzprodukten (MBS) und verkauften sie weltweit an Investoren. Als die Zinsen stiegen, brachen die Kredite zusammen.</p>
+                            </div>
+                            <p><strong>Takeaway:</strong> Verbriefung schützt nicht vor systemischen Risiken, wenn die Basiswerte wertlos sind.</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -367,7 +376,7 @@
                 <div id="vcNewsContainer"></div>
 
                 <div class="refresh-btn-container">
-                    <button class="refresh-btn" onclick="fetchNewsAndLearnings()">↻ REFRESH</button>
+                    <button class="refresh-btn" id="refreshBtn" onclick="fetchNewsAndLearnings()">↻ REFRESH</button>
                 </div>
             </div>
 
@@ -588,66 +597,92 @@
         function saveNotes() { localStorage.setItem('daily_notes', document.getElementById('quickNotes').value); }
         function loadNotes() { document.getElementById('quickNotes').value = localStorage.getItem('daily_notes') || ""; }
 
-        // --- BEHEBTE FETCH FUNKTION (CONSOLE.ERROR STATT PRINT) ---
+        // --- ZENTRALE RENDERING LOGIK ---
+        function displayAllContent(data) {
+            // 1. Global & Markets
+            const globalContainer = document.getElementById('globalNewsContainer');
+            globalContainer.innerHTML = "";
+            if (data.global && data.global.length > 0) {
+                data.global.forEach(item => {
+                    const card = document.createElement('div');
+                    card.className = 'news-card-item';
+                    card.innerHTML = `
+                        <span class="badge global">${item.tag || 'Global'}</span>
+                        <div class="news-title">${item.headline}</div>
+                        <div class="news-desc">${item.summary}</div>
+                    `;
+                    globalContainer.appendChild(card);
+                });
+            }
+
+            // 2. Startups & VCs
+            const vcContainer = document.getElementById('vcNewsContainer');
+            vcContainer.innerHTML = "";
+            if (data.vc && data.vc.length > 0) {
+                data.vc.forEach(item => {
+                    const card = document.createElement('div');
+                    card.className = 'news-card-item';
+                    card.innerHTML = `
+                        <span class="badge vc">${item.tag || 'VC'}</span>
+                        <div class="news-title">${item.headline}</div>
+                        <div class="news-desc">${item.summary}</div>
+                    `;
+                    vcContainer.appendChild(card);
+                });
+            }
+
+            // 3. Learning Modul
+            const learnTarget = document.getElementById('learningContentTarget');
+            if (data.learning) {
+                learnTarget.innerHTML = `
+                    <div class="learning-header">${data.learning.topic}</div>
+                    <div class="learning-meta">Bereich: ${data.learning.category}</div>
+                    <div class="learning-content">
+                        <p><strong>Kernkonzept:</strong> ${data.learning.concept}</p>
+                        <div class="learning-section">
+                            <div class="learning-section-title">Hintergrund & Mechanik</div>
+                            <p>${data.learning.details}</p>
+                        </div>
+                        <p><strong>Takeaway:</strong> ${data.learning.takeaway}</p>
+                    </div>
+                `;
+            }
+        }
+
+        // --- ABSOLUT TOCHSICHERE REFRESH FUNKTION ---
         async function fetchNewsAndLearnings() {
+            const btn = document.getElementById('refreshBtn');
+            btn.innerText = "⏳ LÄDT...";
+            
             try {
                 const response = await fetch('news.json?t=' + Date.now());
+                if(!response.ok) throw new Error("CORS oder Netzwerkfehler");
                 const data = await response.json();
-                
-                // 1. GLOBAL BLOCK
-                const globalContainer = document.getElementById('globalNewsContainer');
-                globalContainer.innerHTML = "";
-                if (data.global && data.global.length > 0) {
-                    data.global.forEach(item => {
-                        const card = document.createElement('div');
-                        card.className = 'news-card-item';
-                        card.innerHTML = `
-                            <span class="badge global">${item.tag || 'Global'}</span>
-                            <div class="news-title">${item.headline}</div>
-                            <div class="news-desc">${item.summary}</div>
-                        `;
-                        globalContainer.appendChild(card);
-                    });
-                } else {
-                    globalContainer.innerHTML = '<p style="color:var(--text-muted); font-size:12px; padding:8px;">Keine globalen Meldungen vorhanden.</p>';
-                }
-
-                // 2. VC BLOCK
-                const vcContainer = document.getElementById('vcNewsContainer');
-                vcContainer.innerHTML = "";
-                if (data.vc && data.vc.length > 0) {
-                    data.vc.forEach(item => {
-                        const card = document.createElement('div');
-                        card.className = 'news-card-item';
-                        card.innerHTML = `
-                            <span class="badge vc">${item.tag || 'VC'}</span>
-                            <div class="news-title">${item.headline}</div>
-                            <div class="news-desc">${item.summary}</div>
-                        `;
-                        vcContainer.appendChild(card);
-                    });
-                } else {
-                    vcContainer.innerHTML = '<p style="color:var(--text-muted); font-size:12px; padding:8px;">Keine Startup-Meldungen vorhanden.</p>';
-                }
-
-                // 3. LEARNING SEITE
-                const learnTarget = document.getElementById('learningContentTarget');
-                if (data.learning) {
-                    learnTarget.innerHTML = `
-                        <div class="learning-header">${data.learning.topic}</div>
-                        <div class="learning-meta">Bereich: ${data.learning.category}</div>
-                        <div class="learning-content">
-                            <p><strong>Kernkonzept:</strong> ${data.learning.concept}</p>
-                            <div class="learning-section">
-                                <div class="learning-section-title">Hintergrund & Mechanik</div>
-                                <p>${data.learning.details}</p>
-                            </div>
-                            <p><strong>Takeaway:</strong> ${data.learning.takeaway}</p>
-                        </div>
-                    `;
-                }
+                displayAllContent(data);
+                btn.innerText = "↻ REFRESH";
             } catch (e) {
-                console.error("CORS-Blockade beim lokalen Laden (völlig normal auf dem PC):", e);
+                console.warn("Browser blockiert lokalen Zugriff. Lade integrierte Demo-Daten für den PC-Test:", e);
+                
+                // INTEGRIERTE FALLBACK DATEN (Damit es auf dem PC ohne Server SOFORT läuft!)
+                const localDemoData = {
+                    "global": [
+                        { "tag": "MÄRKTE", "headline": "DAX schließt stabil trotz volatiler US-Vorgaben", "summary": "Der deutsche Leitindex verteidigt seine Gewinne vor den anstehenden Arbeitsmarktdaten aus Übersee." },
+                        { "tag": "NOTENBANK", "headline": "EZB signalisiert Bereitschaft für Zinskorrekturen", "summary": "Die Kerninflation geht im Euroraum plangemäß leicht zurück. Analysten erwarten stabile Folgemonate." }
+                    ],
+                    "vc": [
+                        { "tag": "FINTECH", "headline": "KI-SaaS Startup für Accounting schließt Seed-Runde ab", "summary": "Ein neues B2B-Startup automatisiert die Belegprüfung für Wirtschaftsprüfer und erhält 4.5 Mio. Euro Kapital." }
+                    ],
+                    "learning": {
+                        "topic": "Der Leverage-Effekt verständlich erklärt",
+                        "category": "Corporate Finance",
+                        "concept": "Die Hebelwirkung des Fremdkapitals auf die Rentabilität des Eigenkapitals.",
+                        "details": "Solange die Gesamtkapitalrentabilität eines Unternehmens höher ist als der Zinssatz für das Fremdkapital, steigt die Eigenkapitalrentabilität mit zunehmendem Verschuldungsgrad. Der Einsatz von billigem Fremdkapital hebelt somit die Rendite für die Eigentümer nach oben.",
+                        "takeaway": "Mehr Schulden erhöhen die Eigenkapitalrendite – aber im gleichen Maße steigt das finanzielle Risiko, falls das operative Geschäft einbricht."
+                    }
+                };
+                
+                displayAllContent(localDemoData);
+                btn.innerText = "↻ REFRESH (DEMO MODE)";
             }
         }
 
@@ -663,7 +698,7 @@
             renderRoutines();
             renderScheduledTasks();
             loadNotes();
-            fetchNewsAndLearnings();
+            fetchNewsAndLearnings(); // Holt beim Start sofort entweder Live- oder Demo-Daten
             updatePage();
         };
     </script>
