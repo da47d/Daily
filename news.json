@@ -1,31 +1,31 @@
 {
   "global": [
     {
-      "tag": "GEO_PAX",
-      "headline": "USA/Iran: Rahmenabkommen für Waffenruhe – Märkte atmen auf",
-      "summary": "Berichte deuten auf ein bevorstehendes Abkommen zwischen den USA und Iran zur Beendigung des Kriegs hin. Die Unsicherheit bleibt hoch, doch die globalen Märkte reagieren vorsichtig optimistisch auf mögliche Deeskalation."
+      "tag": "MARKET",
+      "headline": "Nahost-Frieden beflügelt Märkte",
+      "summary": "Ein erneuter Hoffnungsschimmer auf ein Abkommen im Iran-Krieg sorgt für steigende Aktienkurse im DAX und Rückenwind von US-Börsen."
     },
     {
-      "tag": "DAX_DROP",
-      "headline": "Iran-Konflikt drückt DAX unter 25.000 Punkte – Anleger nervös",
-      "summary": "Die anhaltende Hängepartie am Persischen Golf belastet die globalen Märkte erheblich. Der DAX ringt mit wichtigen Schwellen und schließt im Minus, da Investoren die geopolitische Lage in Nahost genau beobachten."
+      "tag": "INDUSTRY",
+      "headline": "Europas Autozulieferer unter Druck",
+      "summary": "Trotz globaler Erholung der Autofabriken leiden europäische Zulieferer unter verschobenen Machtverhältnissen und dem Aufholen chinesischer Konkurrenten."
     },
     {
-      "tag": "RUBEL_SURGE",
-      "headline": "Rubel-Rally wird Putins Kriegswirtschaft zur Last",
-      "summary": "Der Rubel erreicht den höchsten Stand seit drei Jahren. Was auf den ersten Blick nach Stärke aussieht, erschwert Russlands Exporte und belastet die durch den Krieg angeschlagene Wirtschaft des Kremls erheblich."
+      "tag": "EU-FINANCE",
+      "headline": "Ungarn ringt um EU-Mittel",
+      "summary": "Ungarns Nachfolger Magyar verhandelt in Brüssel um die Freigabe von 10 Milliarden eingefrorener EU-Gelder, was dort auf geteilte Meinungen stößt."
     }
   ],
   "vc": [
     {
-      "tag": "NEURO_FUND",
-      "headline": "KI-Startups sichern Milliarden: Fokus auf autonome Systeme",
-      "summary": "Trotz globaler Instabilität fließt Rekordkapital in den Sektor der Künstlichen Intelligenz. Investoren setzen auf Startups, die autonome Infrastrukturen und fortschrittliche neuronale Netze entwickeln, um menschliche Arbeit zu ersetzen."
+      "tag": "SPACE-TECH",
+      "headline": "Blue Origin Rakete explodiert",
+      "summary": "Die 'New Glenn'-Rakete von Jeff Bezos' Raumfahrtunternehmen Blue Origin ist bei einem Bodentest in Cape Canaveral vor dem geplanten Start explodiert."
     },
     {
-      "tag": "CYBER_VENT",
-      "headline": "Gen-Tech-Fusion: Neue Welle an Investitionen in Bio-Implantate",
-      "summary": "Risikokapitalgeber pumpen massive Summen in die Fusion von Gen-Technologie und Kybernetik. Der Durchbruch bei personalisierten Bio-Implantaten für verbesserte kognitive und physische Fähigkeiten steht bevor, treibt jedoch auch ethische Debatten an."
+      "tag": "DRONE-TECH",
+      "headline": "Drohne trifft NATO-Land",
+      "summary": "Eine mutmaßlich russische Drohne schlug in Rumänien ein. Der Vorfall wirft Fragen zu Abwehrsystemen und dem Fortschritt unbemannter Luftfahrzeuge auf."
     }
   ]
 }
