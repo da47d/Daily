@@ -22,8 +22,8 @@ def get_raw_news():
             print(f"Fehler bei Feed {url}: {e}")
     return "\n".join(headlines)
 
-def generate_news_with_ai(raw_text):
-    print("Rufe Gemini-KI auf...")
+def generate_content_with_ai(raw_text):
+    print("Rufe Gemini-KI für News und Lektion auf...")
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise ValueError("GEMINI_API_KEY fehlt in den Umgebungsvariablen!")
@@ -31,26 +31,40 @@ def generate_news_with_ai(raw_text):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     
     prompt = f"""
-    Du bist der Redakteur für ein minimalistisches Cyberpunk-Dashboard. 
-    Hier sind aktuelle Roh-Nachrichten:
+    Du bist Chefredakteur für ein minimalistisches Finanz-Dashboard. Erstelle News und ein tägliches 3-Minuten-Lernmodul.
+    
+    TEIL 1: AKTUELLE NEWS
+    Hier sind Roh-Nachrichten:
     {raw_text}
+    Erstelle daraus genau 5 knackige Meldungen (3x 'global' für Märkte/Makro, 2x 'vc' für Startups/Tech).
     
-    Erstelle daraus genau 5 prägnante Nachrichten im JSON-Format.
-    - 3 für die Kategorie "global" (Globale Wirtschaft, Märkte, Makro)
-    - 2 für die Kategorie "vc" (Startups, Tech-Investments, VC)
+    TEIL 2: DAILY LEARNING (3-MINUTEN WISSEN)
+    Wähle vollautomatisch ein rotierendes, hochrelevantes Thema aus einem dieser Bereiche:
+    - Makroökonomische Zusammenhänge & Krisenhistorie (z.B. Stagflation, Dotcom-Blase, Bretton-Woods)
+    - Corporate Finance & Valuation Basics (z.B. DCF-Ziele, WACC-Logik, Multiples, Leverage-Effekt)
+    - Private Equity, Venture Capital & Asset Management (z.B. LBO-Struktur, Cap Table, Fonds-Strukturen, OTC-Derivate)
+    - Auditing & Core Accounting (z.B. Grundprinzipien der Rechnungslegung, Going-Concern, Goodwill-Impairment)
+    Wichtig: Keine Excel-Erklärungen. Erkläre die Theorie simpel, sauber strukturiert, professionell und ohne kryptische Text-Pfeile.
     
-    Jede Nachricht MUSS exakt dieses Format haben:
+    Gib AUSSCHLIESSLICH ein reines JSON-Objekt zurück, ohne Markdown-Codeblöcke (kein ```json).
+    Exakte Struktur:
     {{
-        "tag": "EIN_KURZE_TAG_IN_GROSSBUCHSTABEN",
-        "headline": "Eine knackige Schlagzeile auf Deutsch",
-        "summary": "1-2 Sätze Zusammenfassung der Relevanz."
-    }}
-    
-    Gib AUSSCHLIESSLICH das reine JSON-Objekt zurück. Keine Markdown-Formatierung, kein ```json.
-    Struktur:
-    {{
-        "global": [ ... 3 items ... ],
-        "vc": [ ... 2 items ... ]
+        "global": [
+            {{ "tag": "USA", "headline": "...", "summary": "..." }},
+            {{ "tag": "ZINSEN", "headline": "...", "summary": "..." }},
+            {{ "tag": "MARKT", "headline": "...", "summary": "..." }}
+        ],
+        "vc": [
+            {{ "tag": "SAAS", "headline": "...", "summary": "..." }},
+            {{ "tag": "FUNDING", "headline": "...", "summary": "..." }}
+        ],
+        "learning": {{
+            "topic": "Ein griffiger, spannender Titel (z.B. Der Leverage-Effekt verständlich erklärt)",
+            "category": "Die Kategorie (z.B. Corporate Finance)",
+            "concept": "1-2 prägnante Sätze, was die Kernaussage/Ursache ist.",
+            "details": "Ein kompakter, starker Absatz zur genauen Funktionsweise oder Historie.",
+            "takeaway": "Das entscheidende Learning für die Praxis in 1-2 Sätzen."
+        }}
     }}
     """
     
@@ -66,9 +80,8 @@ if __name__ == "__main__":
     raw_data = get_raw_news()
     if raw_data:
         try:
-            ai_json_text = generate_news_with_ai(raw_data)
+            ai_json_text = generate_content_with_ai(raw_data)
             
-            # Sicherheits-Netz: Falls die KI doch Markdown-Codeblöcke mitschickt, schneiden wir sie ab
             if ai_json_text.startswith("```"):
                 ai_json_text = ai_json_text.split("```json")[-1].split("```")[0].strip()
                 
@@ -78,4 +91,4 @@ if __name__ == "__main__":
                 json.dump(parsed_json, f, ensure_ascii=False, indent=2)
             print("news.json erfolgreich aktualisiert!")
         except Exception as e:
-            print(f"Fehler: {e}")
+            print(f"Fehler bei der JSON-Erstellung: {e}")
