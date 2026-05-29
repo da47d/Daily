@@ -3,36 +3,36 @@
     {
       "tag": "MARKT/POLITIK",
       "headline": "NATO macht Russland für Drohneneinschlag in Rumänien verantwortlich",
-      "summary": "Ein Drohnenangriff auf ein Wohnhaus in dem NATO-Land Rumänien wird Russland zugeschrieben. Der Kremlchef weist die Vorwürfe zurück, was die geopolitischen Spannungen weiter erhöht."
+      "summary": "In einem NATO-Land hat eine Drohne ein Wohnhaus getroffen. Die Militärallianz beschuldigt Russland, das die Vorwürfe zurückweist. Die geopolitische Lage bleibt angespannt."
     },
     {
       "tag": "MARKT/POLITIK",
-      "headline": "Inflation in Deutschland überraschend auf 2,6 Prozent gesunken",
-      "summary": "Die Teuerungsrate in Deutschland hat im Mai entgegen den Erwartungen leicht nachgegeben und liegt nun bei 2,6 Prozent, was unter anderem auf kurzfristige Effekte wie den Tankrabatt zurückzuführen ist."
+      "headline": "Inflation in Deutschland fällt überraschend auf 2,6 Prozent",
+      "summary": "Die Teuerungsrate in Deutschland hat sich im Mai unerwartet leicht auf 2,6 Prozent entspannt. Ein möglicher, wenn auch kurzfristiger Faktor, ist der Tankrabatt."
     },
     {
       "tag": "MARKT/POLITIK",
-      "headline": "EU gibt eingefrorene Milliarden für Ungarn frei",
-      "summary": "Nach längerer Blockade hat die EU eingefrorene Mittel für Ungarn freigegeben. EU-Kommissionspräsidentin von der Leyen bescheinigte dem Land Fortschritte, forderte aber weitere Veränderungen."
+      "headline": "Brenner-Autobahn wegen Protesten gesperrt: Alternativen gesucht",
+      "summary": "Die wichtige Brenner-Autobahn ist wegen einer Protestaktion blockiert. Reisende nach und von Italien müssen sich auf erhebliche Behinderungen einstellen und Ausweichrouten prüfen."
     }
   ],
   "vc": [
     {
       "tag": "TECH/STARTUP",
       "headline": "Anthropic übertrifft Open AI im Unternehmenswert",
-      "summary": "Der KI-Entwickler Anthropic wird aktuell höher bewertet als OpenAI. Dies verdeutlicht die enorme Dynamik und hohen Erwartungen im Bereich der Künstlichen Intelligenz vor den erwarteten Börsengängen."
+      "summary": "Im Rennen um die Dominanz im KI-Sektor hat das Unternehmen Anthropic nun eine höhere Bewertung erreicht als Open AI. Beide gehören zu den bevorstehenden Börsendebüts der Wall Street."
     },
     {
       "tag": "TECH/STARTUP",
-      "headline": "KI-Hausse treibt Wall Street an, DAX verhalten",
-      "summary": "Während der DAX zum Wochenschluss sein hohes Niveau nur halten konnte, fand die treibende KI-Hausse und damit verbundene Tech-Investitionen hauptsächlich an der Wall Street statt."
+      "headline": "KI-Hausse treibt Tech-Investitionen an der Wall Street an",
+      "summary": "Während der DAX kaum Bewegung zeigt, konzentriert sich die dynamische KI-Hausse weiterhin hauptsächlich an der Wall Street. Sie befeuert massive Investitionen in neue Technologie-Superstars."
     }
   ],
   "learning": {
-    "topic": "Die Funktionsweise der Inflation: Ein grundlegender Überblick",
+    "topic": "Das Phänomen Inflation: Mehr als nur steigende Preise",
     "category": "Makro & Krisen",
-    "concept": "Inflation beschreibt einen anhaltenden Anstieg des allgemeinen Preisniveaus für Güter und Dienstleistungen, was zu einer Abnahme der Kaufkraft des Geldes führt.",
-    "details": "Die Inflation kann durch verschiedene Faktoren verursacht werden, primär durch Nachfrageüberhang (Nachfrageinflation, wenn die Gesamtnachfrage die Produktionskapazität übersteigt) oder Kostensteigerungen (Angebotsinflation, z.B. durch höhere Löhne oder Rohstoffpreise). Eine wichtige Rolle spielt auch die Geldmenge; eine zu starke Ausweitung kann gemäß der Quantitätstheorie des Geldes zu Inflation führen. Zentralbanken versuchen, die Inflation durch Zinsanpassungen und andere geldpolitische Instrumente zu steuern, um Preisstabilität zu gewährleisten. Moderate Inflation (etwa 2%) wird oft als Zeichen einer gesunden Wirtschaft angesehen, während hohe oder unkontrollierte Inflation (Hyperinflation) gravierende wirtschaftliche und soziale Folgen hat, da sie die Planungssicherheit untergräbt und Vermögen entwertet.",
-    "takeaway": "Das Verständnis der Inflationsmechanismen ist entscheidend für fundierte Wirtschaftsentscheidungen und die Bewertung von Investitionen, da Inflation die reale Rendite und Kaufkraft maßgeblich beeinflusst."
+    "concept": "Inflation beschreibt den anhaltenden Anstieg des allgemeinen Preisniveaus für Güter und Dienstleistungen, was zu einem Kaufkraftverlust des Geldes führt.",
+    "details": "Inflation kann durch verschiedene Faktoren ausgelöst werden: Nachfrageinflation (zu viel Geld jagt zu wenige Güter), Kosteninflation (steigende Produktionskosten werden an Konsumenten weitergegeben) oder importierte Inflation (z.B. durch höhere Energiepreise oder Wechselkursänderungen). Zentralbanken versuchen, durch geldpolitische Maßnahmen wie Zinserhöhungen oder -senkungen eine stabile Inflationsrate im Zielkorridor (meist um 2%) zu gewährleisten, um Wirtschaftswachstum zu fördern und gleichzeitig die Kaufkraft zu erhalten. Eine moderate Inflation gilt oft als Indikator für eine gesunde Wirtschaft.",
+    "takeaway": "Das Verständnis von Inflation ist entscheidend für persönliche Finanzplanung und Investitionsentscheidungen, da sie die reale Rendite von Ersparnissen und Anlagen direkt beeinflusst."
   }
 }
