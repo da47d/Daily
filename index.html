@@ -1,423 +1,645 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta name="theme-color" content="#080810">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Daily</title>
+    <style>
+        :root {
+            --bg-color: #0b0f19;
+            --card-bg: #131a2c;
+            --accent-blue: #1e3a8a;
+            --light-blue: #3b82f6;
+            --glow-blue: #60a5fa;
+            --text-main: #f3f4f6;
+            --text-muted: #9ca3af;
+            --border-color: #1e293b;
+        }
 
-<meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Daily">
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            -webkit-tap-highlight-color: transparent;
+        }
 
-<link rel="icon" type="image/png" href="icon.png">
-<link rel="apple-touch-icon" href="icon.png">
-<link rel="manifest" href="manifest.json">
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            overflow: hidden;
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+        }
 
-<title>Daily</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-<style>
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
-:root{
-  --bg:#080810;
-  --surface:#0e0e1a;
-  --surface2:#13131f;
-  --border:#1e1e30;
-  --blue:#3b82f6;
-  --blue-dim:rgba(59,130,246,0.15);
-  --blue-bright:#60a5fa;
-  --text:#f0f0ff;
-  --muted:#4a4a6a;
-  --muted2:#6a6a8a;
-  --success:#34d399;
-}
-html,body{height:100%;background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased;overflow:hidden;}
-body{min-height:100dvh;}
+        .app-wrapper {
+            width: 100%;
+            max-width: 480px;
+            height: 100vh;
+            position: relative;
+            background-color: var(--bg-color);
+            overflow: hidden;
+            box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+        }
 
-/* SWIPE CONTAINER */
-.pages{display:flex;width:200%;height:100dvh;transition:transform 0.4s cubic-bezier(0.4,0,0.2,1);will-change:transform;}
-.pages.page2{transform:translateX(-50%);}
-.page{width:50%;height:100dvh;overflow-y:auto;overflow-x:hidden;-webkit-overflow-scrolling:touch;padding:env(safe-area-inset-top,44px) 0 env(safe-area-inset-bottom,24px);}
+        .nav-footer {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: linear-gradient(to top, rgba(11, 15, 25, 1) 70%, rgba(11, 15, 25, 0));
+            z-index: 100;
+            padding: 20px 0 15px 0;
+            display: flex;
+            justify-content: center;
+            pointer-events: none;
+        }
 
-/* PAGE DOTS */
-.dots{position:fixed;bottom:calc(env(safe-area-inset-bottom,24px) + 8px);left:50%;transform:translateX(-50%);display:flex;gap:6px;z-index:100;}
-.dot{width:6px;height:6px;border-radius:50%;background:var(--muted);transition:background 0.2s,width 0.2s;}
-.dot.active{width:18px;border-radius:3px;background:var(--blue);}
+        .nav-dots {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            pointer-events: auto;
+        }
 
-/* ===== PAGE 1: GOALS ===== */
-.p1-inner{padding:0 20px;max-width:480px;margin:0 auto;}
+        .dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background-color: var(--border-color);
+            transition: all 0.3s ease;
+        }
 
-/* STATS TOP */
-.stats-header{padding-top:48px;margin-bottom:20px;}
-.stats-header h2{font-size:13px;font-weight:500;color:var(--muted2);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:16px;}
+        .dot.active {
+            background-color: var(--glow-blue);
+            transform: scale(1.3);
+            box-shadow: 0 0 8px var(--glow-blue);
+        }
 
-.stats-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:14px;}
+        .swiper-container {
+            display: flex;
+            width: 300%;
+            height: 100vh;
+            transition: transform 0.3s cubic-bezier(0.25, 1, 0.5, 1);
+            transform: translateX(-33.3333%);
+        }
 
-.stat-card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:14px;}
-.stat-card-label{font-size:11px;color:var(--muted2);letter-spacing:0.06em;text-transform:uppercase;margin-bottom:8px;}
-.stat-card-val{font-size:26px;font-weight:700;color:var(--text);line-height:1;}
-.stat-card-sub{font-size:11px;color:var(--muted2);margin-top:4px;}
-.stat-card-sub span{color:var(--blue-bright);}
+        .page {
+            width: 33.3333%;
+            height: 100vh;
+            overflow-y: auto;
+            padding: 20px 16px 80px 16px;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
 
-/* DONUT */
-.donut-wrap{display:flex;align-items:center;gap:16px;background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:14px 18px;margin-bottom:14px;}
-.donut-svg{flex-shrink:0;}
-.donut-info{flex:1;}
-.donut-pct{font-size:28px;font-weight:700;color:var(--text);}
-.donut-pct span{font-size:14px;font-weight:400;color:var(--muted2);}
-.donut-label{font-size:12px;color:var(--muted2);margin-top:2px;}
-.donut-streak{display:inline-flex;align-items:center;gap:5px;margin-top:8px;background:var(--blue-dim);border-radius:99px;padding:4px 10px;font-size:11px;color:var(--blue-bright);font-weight:500;}
+        .page::-webkit-scrollbar {
+            display: none;
+        }
 
-/* BAR CHART */
-.bar-section{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:14px 16px;margin-bottom:14px;}
-.bar-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;}
-.bar-title{font-size:11px;color:var(--muted2);letter-spacing:0.06em;text-transform:uppercase;}
-.bar-toggle{display:flex;background:var(--surface2);border-radius:6px;padding:2px;gap:2px;}
-.bar-toggle button{background:none;border:none;color:var(--muted2);font-size:10px;font-weight:500;padding:3px 8px;border-radius:4px;cursor:pointer;font-family:'Inter',sans-serif;}
-.bar-toggle button.active{background:var(--blue);color:#fff;}
-.bars{display:flex;gap:4px;align-items:flex-end;height:52px;}
-.bar-col{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px;}
-.bar-bg{width:100%;background:var(--border);border-radius:3px;flex:1;position:relative;overflow:hidden;}
-.bar-fill{position:absolute;bottom:0;left:0;right:0;background:var(--blue);border-radius:3px;transition:height 0.4s ease;}
-.bar-day{font-size:9px;color:var(--muted);letter-spacing:0.04em;}
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 16px;
+            margin-bottom: 16px;
+        }
 
-/* DIVIDER */
-.section-divider{display:flex;align-items:center;gap:10px;margin:18px 0 14px;}
-.section-divider-line{flex:1;height:1px;background:var(--border);}
-.section-divider-label{font-size:11px;color:var(--muted2);letter-spacing:0.08em;text-transform:uppercase;font-weight:500;}
+        .section-title {
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+        }
 
-/* GOALS */
-.goals-list{display:flex;flex-direction:column;gap:7px;margin-bottom:16px;}
-.goal-item{display:flex;align-items:center;gap:12px;padding:13px 14px;background:var(--surface);border:1px solid var(--border);border-radius:12px;cursor:pointer;-webkit-tap-highlight-color:transparent;transition:border-color 0.15s;}
-.goal-item.done{border-color:rgba(59,130,246,0.3);background:rgba(59,130,246,0.04);}
-.check{width:21px;height:21px;border-radius:50%;border:1.5px solid var(--muted);flex-shrink:0;display:flex;align-items:center;justify-content:center;transition:background 0.15s,border-color 0.15s;}
-.goal-item.done .check{background:var(--blue);border-color:var(--blue);}
-.check-svg{display:none;}
-.goal-item.done .check-svg{display:block;}
-.goal-text{flex:1;font-size:15px;color:var(--text);transition:color 0.15s;}
-.goal-item.done .goal-text{color:var(--muted);text-decoration:line-through;}
-.del-btn{background:none;border:none;color:var(--muted);font-size:17px;cursor:pointer;padding:2px 4px;opacity:0;-webkit-tap-highlight-color:transparent;}
-.goal-item:hover .del-btn,.goal-item:active .del-btn{opacity:1;}
-.empty{text-align:center;padding:32px 0;color:var(--muted);font-size:14px;}
+        .stats-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 12px;
+        }
 
-/* ADD */
-.add-row{display:flex;gap:8px;padding-bottom:8px;}
-.add-input{flex:1;background:var(--surface);border:1px solid var(--border);border-radius:10px;color:var(--text);font-family:'Inter',sans-serif;font-size:15px;padding:12px 14px;outline:none;-webkit-appearance:none;transition:border-color 0.15s;}
-.add-input::placeholder{color:var(--muted);}
-.add-input:focus{border-color:var(--blue);}
-.add-btn{background:var(--blue);border:none;border-radius:10px;color:#fff;font-size:22px;width:46px;height:46px;cursor:pointer;display:flex;align-items:center;justify-content:center;-webkit-tap-highlight-color:transparent;transition:opacity 0.15s;}
-.add-btn:active{opacity:0.75;}
+        .stat-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 14px;
+            padding: 14px;
+        }
 
-/* ===== PAGE 2: NEWS ===== */
-.p2-inner{padding:0 20px;max-width:480px;margin:0 auto;}
-.news-header{padding-top:48px;margin-bottom:22px;}
-.news-title{font-size:22px;font-weight:600;letter-spacing:-0.02em;}
-.news-subtitle{font-size:13px;color:var(--muted2);margin-top:4px;}
-.news-refresh{float:right;background:var(--blue-dim);border:none;border-radius:8px;color:var(--blue-bright);font-size:12px;font-weight:500;padding:5px 12px;cursor:pointer;font-family:'Inter',sans-serif;-webkit-tap-highlight-color:transparent;}
-.news-refresh:active{opacity:0.7;}
+        .stat-val {
+            font-size: 22px;
+            font-weight: 800;
+            color: var(--text-main);
+            margin-bottom: 2px;
+        }
 
-.news-section-title{font-size:11px;color:var(--muted2);letter-spacing:0.1em;text-transform:uppercase;font-weight:600;margin-bottom:10px;}
+        .stat-lbl {
+            font-size: 10px;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            font-weight: 600;
+        }
 
-.news-card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:16px;margin-bottom:8px;position:relative;overflow:hidden;}
-.news-card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--blue);}
-.news-tag{display:inline-flex;align-items:center;gap:4px;font-size:10px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:var(--blue-bright);background:var(--blue-dim);border-radius:4px;padding:2px 7px;margin-bottom:8px;}
-.news-headline{font-size:15px;font-weight:500;color:var(--text);line-height:1.4;margin-bottom:6px;}
-.news-body{font-size:13px;color:var(--muted2);line-height:1.5;}
-.news-skeleton{height:90px;background:var(--surface);border:1px solid var(--border);border-radius:14px;margin-bottom:8px;position:relative;overflow:hidden;}
-.news-skeleton::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,transparent 0%,rgba(59,130,246,0.06) 50%,transparent 100%);animation:shimmer 1.5s infinite;}
-@keyframes shimmer{0%{transform:translateX(-100%);}100%{transform:translateX(100%);}}
-.vc-divider{height:1px;background:var(--border);margin:22px 0 16px;}
-.load-msg{text-align:center;padding:16px;color:var(--muted2);font-size:13px;}
-.error-msg{text-align:center;padding:16px;color:#f87171;font-size:13px;}
-</style>
+        .stat-sub {
+            font-size: 11px;
+            color: var(--text-muted);
+            margin-top: 4px;
+        }
+
+        .todo-item {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            background: #17223b;
+            border-radius: 10px;
+            margin-bottom: 8px;
+            transition: all 0.2s ease;
+            position: relative;
+        }
+
+        .todo-item.done {
+            opacity: 0.4;
+            text-decoration: line-through;
+            background: #111827;
+        }
+
+        .todo-checkbox {
+            width: 20px;
+            height: 20px;
+            border-radius: 6px;
+            border: 2px solid var(--border-color);
+            margin-right: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 11px;
+        }
+
+        .todo-item.done .todo-checkbox {
+            background-color: var(--light-blue);
+            border-color: var(--light-blue);
+            color: white;
+        }
+
+        .todo-text {
+            font-size: 14px;
+            flex-grow: 1;
+            cursor: pointer;
+        }
+
+        .delete-btn {
+            color: #ef4444;
+            background: none;
+            border: none;
+            font-size: 18px;
+            cursor: pointer;
+            padding: 0 6px;
+            display: none;
+            position: absolute;
+            right: 12px;
+        }
+
+        .todo-item.show-delete .delete-btn { display: block; }
+        .todo-item.show-delete .todo-text { padding-right: 25px; }
+
+        .date-bar {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 12px;
+            background: #0d1321;
+            padding: 4px;
+            border-radius: 8px;
+        }
+
+        .date-btn {
+            flex: 1;
+            text-align: center;
+            padding: 6px 2px;
+            font-size: 11px;
+            border-radius: 6px;
+            cursor: pointer;
+            color: var(--text-muted);
+        }
+
+        .date-btn.active {
+            background: var(--accent-blue);
+            color: var(--text-main);
+            font-weight: 600;
+        }
+
+        .input-row { display: flex; gap: 8px; margin-top: 8px; }
+        .todo-input { flex-grow: 1; background: #0d1321; border: 1px solid var(--border-color); padding: 8px 12px; border-radius: 8px; color: var(--text-main); font-size: 13px; }
+        .todo-input:focus { outline: none; border-color: var(--light-blue); }
+        .add-btn { background: var(--accent-blue); border: none; color: var(--text-main); padding: 8px 14px; border-radius: 8px; font-size: 13px; font-weight: 600; cursor: pointer; }
+
+        .chart-toggle-row { display: flex; gap: 6px; float: right; margin-top: -3px; }
+        .chart-btn { background: #1e293b; border: none; color: var(--text-muted); padding: 4px 10px; border-radius: 6px; font-size: 11px; font-weight: 700; cursor: pointer; }
+        .chart-btn.active { background: var(--light-blue); color: white; }
+        .mock-chart { display: flex; justify-content: space-between; align-items: flex-end; height: 60px; margin-top: 15px; padding: 0 10px; }
+        .chart-bar-wrapper { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
+        .chart-bar { width: 12px; background: var(--accent-blue); border-radius: 3px 3px 0 0; transition: height 0.3s ease; }
+        .chart-bar.filled { background: var(--light-blue); box-shadow: 0 0 6px rgba(59, 130, 246, 0.4); }
+        .chart-day-lbl { font-size: 9px; color: var(--text-muted); }
+
+        .notes-area { width: 100%; height: 110px; background: #0d1321; border: 1px solid var(--border-color); border-radius: 10px; padding: 12px; color: var(--text-main); font-size: 13px; line-height: 1.5; resize: none; }
+        .notes-area:focus { outline: none; border-color: var(--light-blue); }
+        
+        .learning-header { font-size: 18px; font-weight: 700; color: var(--glow-blue); margin-bottom: 6px; }
+        .learning-meta { font-size: 11px; color: var(--text-muted); margin-bottom: 12px; text-transform: uppercase; }
+        .learning-content p { font-size: 14px; line-height: 1.6; margin-bottom: 14px; color: #e5e7eb; }
+        .learning-section { background: #0d1321; padding: 12px 14px; border-radius: 10px; margin: 12px 0; border-left: 3px solid var(--light-blue); }
+        .learning-section-title { font-size: 12px; font-weight: 700; color: var(--glow-blue); text-transform: uppercase; margin-bottom: 6px; }
+
+        .news-item { border-bottom: 1px solid var(--border-color); padding-bottom: 12px; margin-bottom: 12px; }
+        .news-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+        .news-title { font-size: 14px; font-weight: 600; margin-bottom: 4px; color: var(--text-main); }
+        .news-desc { font-size: 12px; color: var(--text-muted); line-height: 1.4; }
+        .badge { display: inline-block; font-size: 9px; font-weight: 700; padding: 2px 6px; border-radius: 4px; text-transform: uppercase; margin-bottom: 6px; }
+        .badge.global { background: #2563eb; color: white; }
+        .badge.vc { background: #7c3aed; color: white; }
+        
+        .refresh-btn-container { text-align: center; margin-top: 16px; }
+        .refresh-btn { background: none; border: 1px solid var(--border-color); color: var(--text-muted); padding: 6px 16px; border-radius: 20px; font-size: 11px; cursor: pointer; font-weight: 600; }
+    </style>
 </head>
 <body>
 
-<div class="pages" id="pages">
+    <div class="app-wrapper">
 
-  <div class="page" id="page1">
-    <div class="p1-inner">
-
-      <div class="stats-header">
-        <h2>Overview</h2>
-        <div class="stats-grid">
-          <div class="stat-card">
-            <div class="stat-card-label">Today</div>
-            <div class="stat-card-val" id="today-pct">0%</div>
-            <div class="stat-card-sub" id="today-sub">0 of 0 done</div>
-          </div>
-          <div class="stat-card">
-            <div class="stat-card-label">7-Day Avg</div>
-            <div class="stat-card-val" id="avg-pct">—</div>
-            <div class="stat-card-sub" id="avg-sub">completion rate</div>
-          </div>
-        </div>
-
-        <div class="donut-wrap">
-          <svg class="donut-svg" width="64" height="64" viewBox="0 0 64 64">
-            <circle cx="32" cy="32" r="26" fill="none" stroke="var(--border)" stroke-width="7"/>
-            <circle id="donut-arc" cx="32" cy="32" r="26" fill="none" stroke="var(--blue)" stroke-width="7"
-              stroke-linecap="round" stroke-dasharray="163.4" stroke-dashoffset="163.4"
-              transform="rotate(-90 32 32)" style="transition:stroke-dashoffset 0.6s ease;"/>
-          </svg>
-          <div class="donut-info">
-            <div class="donut-pct"><span id="donut-num">0</span><span>%</span></div>
-            <div class="donut-label">Today's Progress</div>
-            <div class="donut-streak">🔥 <span id="streak-label">0 day streak</span></div>
-          </div>
-        </div>
-
-        <div class="bar-section">
-          <div class="bar-header">
-            <span class="bar-title">Daily Completion</span>
-            <div class="bar-toggle">
-              <button class="active" id="btn7" onclick="setBarRange(7)">7D</button>
-              <button id="btn30" onclick="setBarRange(30)">30D</button>
+        <div class="nav-footer">
+            <div class="nav-dots">
+                <div class="dot" id="dot0"></div>
+                <div class="dot active" id="dot1"></div>
+                <div class="dot" id="dot2"></div>
             </div>
-          </div>
-          <div class="bars" id="bars"></div>
         </div>
-      </div>
 
-      <div class="section-divider">
-        <div class="section-divider-line"></div>
-        <div class="section-divider-label">Today's Goals</div>
-        <div class="section-divider-line"></div>
-      </div>
+        <div class="swiper-container" id="swiper">
+            
+            <div class="page" id="page-learnings">
+                <div class="card" id="learningCard">
+                    <div class="section-title">3-Min Wissen</div>
+                    <div id="learningContentTarget">
+                        <div class="learning-header">Warte auf KI...</div>
+                        <p style="font-size:13px; color:var(--text-muted);">Nutze den Refresh-Button auf der News-Seite, um Inhalte zu laden.</p>
+                    </div>
+                </div>
+            </div>
 
-      <div class="goals-list" id="goals-list"></div>
-      <div class="empty" id="empty" style="display:none">No goals yet — add your first one!</div>
+            <div class="page" id="page-dashboard">
+                <div class="section-title">Overview</div>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-lbl">Today</div>
+                        <div class="stat-val" id="todayPct">0%</div>
+                        <div class="stat-sub" id="todayCount">0 of 0 done</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-lbl">7-Day Avg</div>
+                        <div class="stat-val" id="avgPct">0%</div>
+                        <div class="stat-sub">completion rate</div>
+                    </div>
+                </div>
 
-      <div class="add-row">
-        <input class="add-input" type="text" id="goal-input" placeholder="Add a goal…" autocomplete="off">
-        <button class="add-btn" id="add-btn" aria-label="Add">+</button>
-      </div>
+                <div class="card">
+                    <div class="section-title">
+                        Daily Completion
+                        <div class="chart-toggle-row">
+                            <button class="chart-btn active">7D</button>
+                            <button class="chart-btn">30D</button>
+                        </div>
+                    </div>
+                    <div class="mock-chart" id="chartContainer"></div>
+                </div>
+
+                <div class="card">
+                    <div class="section-title">Daily Routines</div>
+                    <div id="routinesList"></div>
+                    <div class="input-row">
+                        <input type="text" id="newRoutineInput" class="todo-input" placeholder="Neue tägliche Routine...">
+                        <button class="add-btn" onclick="addRoutine()">+</button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="section-title">Scheduled Tasks</div>
+                    <div class="date-bar" id="dateBar"></div>
+                    <div id="scheduledList"></div>
+                    <div class="input-row">
+                        <input type="text" id="newTaskInput" class="todo-input" placeholder="Aufgabe für diesen Tag...">
+                        <button class="add-btn" onclick="addScheduledTask()">+</button>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="section-title">Quick Notes</div>
+                    <textarea id="quickNotes" class="notes-area" placeholder="Schnelle Gedanken, Notizen oder Unikram..." oninput="saveNotes()"></textarea>
+                </div>
+            </div>
+
+            <div class="page" id="page-news">
+                <div class="card">
+                    <div class="section-title">Morning Briefing</div>
+                    <div id="newsContainer">
+                        <p style="text-align:center; padding:20px; color:var(--text-muted); font-size:13px;">Keine News geladen.</p>
+                    </div>
+                    <div class="refresh-btn-container">
+                        <button class="refresh-btn" onclick="fetchNewsAndLearnings()">↻ REFRESH</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
 
     </div>
-  </div>
 
-  <div class="page" id="page2">
-    <div class="p2-inner">
-      <div class="news-header">
-        <button class="news-refresh" id="refresh-btn" onclick="fetchNews()">↻ Refresh</button>
-        <div class="news-title">Morning Brief</div>
-        <div class="news-subtitle" id="news-time">Loading…</div>
-      </div>
+    <script>
+        // --- SWIPE LOGIK ---
+        const swiper = document.getElementById('swiper');
+        const wrapper = document.querySelector('.app-wrapper');
+        const dots = [document.getElementById('dot0'), document.getElementById('dot1'), document.getElementById('dot2')];
+        
+        let currentIdx = 1;
+        let startX = 0;
+        let isDragging = false;
 
-      <div class="news-section-title">🌍 Global & Markets</div>
-      <div id="global-news"></div>
+        wrapper.addEventListener('touchstart', (e) => { startX = e.touches[0].clientX; isDragging = true; });
+        wrapper.addEventListener('touchmove', (e) => { if (!isDragging) return; if (e.target.id === 'quickNotes') return; });
+        wrapper.addEventListener('touchend', (e) => {
+            if (!isDragging) return;
+            const diffX = e.changedTouches[0].clientX - startX;
+            if (Math.abs(diffX) > 60) {
+                if (diffX > 0 && currentIdx > 0) currentIdx--;
+                else if (diffX < 0 && currentIdx < 2) currentIdx++;
+            }
+            updatePage();
+            isDragging = false;
+        });
 
-      <div class="vc-divider"></div>
-      <div class="news-section-title">🚀 Startups & VC</div>
-      <div id="vc-news"></div>
+        window.addEventListener('keydown', (e) => {
+            if (document.activeElement.tagName === 'TEXTAREA' || document.activeElement.tagName === 'INPUT') return;
+            if (e.key === 'ArrowLeft' && currentIdx > 0) currentIdx--;
+            if (e.key === 'ArrowRight' && currentIdx < 2) currentIdx++;
+            updatePage();
+        });
 
-    </div>
-  </div>
-</div>
+        function updatePage() {
+            swiper.style.transform = `translateX(-${currentIdx * 33.3333}%)`;
+            dots.forEach((dot, i) => i === currentIdx ? dot.classList.add('active') : dot.classList.remove('active'));
+        }
 
-<div class="dots">
-  <div class="dot active" id="dot1"></div>
-  <div class="dot" id="dot2"></div>
-</div>
+        // --- DATA STATE LOGIK ---
+        let routines = JSON.parse(localStorage.getItem('daily_routines')) || [
+            { id: 1, text: "Corporate Finance Skript wiederholen", done: false },
+            { id: 2, text: "30 Min Gym / Tennis-Session", done: false }
+        ];
+        let scheduledTasks = JSON.parse(localStorage.getItem('daily_scheduled')) || {};
+        let history = JSON.parse(localStorage.getItem('daily_history')) || {};
+        let selectedDateStr = "";
 
-<script>
-// ─── STATE ───────────────────────────────────────────────
-const STORAGE_KEY = 'dailyapp_v2';
-const todayStr = () => new Date().toISOString().slice(0,10);
-let barRange = 7;
+        function initCalendar() {
+            const dateBar = document.getElementById('dateBar');
+            dateBar.innerHTML = "";
+            const days = ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa'];
+            for (let i = 0; i < 7; i++) {
+                const d = new Date();
+                d.setDate(d.getDate() + i);
+                const dateStr = d.toISOString().split('T')[0];
+                if (i === 0) selectedDateStr = dateStr;
 
-let data = { goals:[], checked:{}, streak:0, lastDate:'', history:{} };
+                const btn = document.createElement('div');
+                btn.className = `date-btn ${i === 0 ? 'active' : ''}`;
+                btn.id = `date-${dateStr}`;
+                btn.innerHTML = `<div>${days[d.getDay()]}</div><div style="font-weight:700; margin-top:2px;">${d.getDate()}</div>`;
+                btn.onclick = () => selectDate(dateStr);
+                dateBar.appendChild(btn);
+            }
+        }
 
-function loadData() {
-  try { const s=localStorage.getItem(STORAGE_KEY); if(s) data=JSON.parse(s); } catch(e){}
-  const today = todayStr();
-  if(data.lastDate && data.lastDate !== today) {
-    const yest = new Date(); yest.setDate(yest.getDate()-1);
-    const yStr = yest.toISOString().slice(0,10);
-    const total = data.goals.length;
-    const done = total ? data.goals.filter(g=>data.checked[g.id]).length : 0;
-    const pct = total ? Math.round((done/total)*100) : 0;
-    if(!data.history) data.history={};
-    data.history[data.lastDate] = pct;
-    const allDone = total>0 && done===total;
-    if(allDone && data.lastDate===yStr) data.streak=(data.streak||0)+1;
-    else if(data.lastDate!==yStr) data.streak=0;
-    data.checked={};
-  }
-  data.lastDate=today;
-  saveData(); renderGoals(); renderStats();
-}
+        function selectDate(dateStr) {
+            selectedDateStr = dateStr;
+            document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
+            const element = document.getElementById(`date-${dateStr}`);
+            if(element) element.classList.add('active');
+            renderScheduledTasks();
+        }
 
-function saveData() {
-  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); } catch(e){}
-}
+        function toggleDeleteButton(element) {
+            const hasClass = element.classList.contains('show-delete');
+            document.querySelectorAll('.todo-item').forEach(item => item.classList.remove('show-delete'));
+            if (!hasClass) element.classList.add('show-delete');
+        }
 
-// ─── STATS ───────────────────────────────────────────────
-function renderStats() {
-  const total=data.goals.length, done=data.goals.filter(g=>data.checked[g.id]).length;
-  const pct=total?Math.round((done/total)*100):0;
-  document.getElementById('today-pct').textContent=pct+'%';
-  document.getElementById('today-sub').textContent=`${done} of ${total} done`;
-  document.getElementById('donut-num').textContent=pct;
-  const circ=163.4, offset=circ-(circ*(pct/100));
-  document.getElementById('donut-arc').style.strokeDashoffset=offset;
-  const streak=data.streak||0;
-  document.getElementById('streak-label').textContent=streak===1?'1 day streak':`${streak} day streak`;
-  const hist=data.history||{};
-  const keys=Object.keys(hist).sort();
-  const vals=keys.slice(-30).map(k=>hist[k]);
-  const recent=vals.slice(-7);
-  const avg7=recent.length?Math.round(recent.reduce((a,b)=>a+b,0)/recent.length):null;
-  document.getElementById('avg-pct').textContent=avg7!==null?avg7+'%':'—';
-  renderBars();
-}
+        function renderRoutines() {
+            const list = document.getElementById('routinesList');
+            list.innerHTML = "";
+            routines.forEach(r => {
+                const item = document.createElement('div');
+                item.className = 'todo-item' + (r.done ? ' done' : '');
+                item.innerHTML = `
+                    <div class="todo-checkbox" onclick="event.stopPropagation(); toggleRoutine(${r.id})">${r.done ? '✓' : ''}</div>
+                    <div class="todo-text" onclick="toggleDeleteButton(this.parentNode)">${r.text}</div>
+                    <button class="delete-btn" onclick="event.stopPropagation(); deleteRoutine(${r.id})">×</button>
+                `;
+                list.appendChild(item);
+            });
+            localStorage.setItem('daily_routines', JSON.stringify(routines));
+            updateProgress();
+        }
 
-function setBarRange(n) {
-  barRange=n;
-  document.getElementById('btn7').classList.toggle('active',n===7);
-  document.getElementById('btn30').classList.toggle('active',n===30);
-  renderBars();
-}
+        function addRoutine() {
+            const input = document.getElementById('newRoutineInput');
+            const text = input.value.trim();
+            if (!text) return;
+            routines.push({ id: Date.now(), text: text, done: false });
+            input.value = "";
+            renderRoutines();
+        }
+        document.getElementById('newRoutineInput').addEventListener('keypress', function(e) { if (e.key === 'Enter') addRoutine(); });
 
-function renderBars() {
-  const hist=data.history||{};
-  const today=todayStr();
-  const total=data.goals.length, done=data.goals.filter(g=>data.checked[g.id]).length;
-  const todayPct=total?Math.round((done/total)*100):0;
-  const days=[];
-  for(let i=barRange-1;i>=0;i--){
-    const d=new Date(); d.setDate(d.getDate()-i);
-    const k=d.toISOString().slice(0,10);
-    const val=k===today?todayPct:(hist[k]??null);
-    const label=barRange===7?['S','M','T','W','T','F','S'][d.getDay()]:d.getDate()+'';
-    days.push({val,label,isToday:k===today});
-  }
-  const container=document.getElementById('bars');
-  container.innerHTML=days.map(d=>`
-    <div class="bar-col">
-      <div class="bar-bg">
-        <div class="bar-fill" style="height:${d.val!==null?d.val:0}%;background:${d.isToday?'var(--blue-bright)':'var(--blue)'};opacity:${d.val===null?0.2:1};"></div>
-      </div>
-      <div class="bar-day" style="color:${d.isToday?'var(--blue-bright)':'var(--muted)'}">${d.label}</div>
-    </div>
-  `).join('');
-}
+        function toggleRoutine(id) {
+            const r = routines.find(x => x.id === id);
+            if (r) r.done = !r.done;
+            renderRoutines();
+        }
+        function deleteRoutine(id) { routines = routines.filter(x => x.id !== id); renderRoutines(); }
 
-// ─── GOALS ───────────────────────────────────────────────
-function renderGoals() {
-  const list=document.getElementById('goals-list');
-  const empty=document.getElementById('empty');
-  if(!data.goals.length){ list.innerHTML=''; empty.style.display='block'; return; }
-  empty.style.display='none';
-  list.innerHTML=data.goals.map(g=>`
-    <div class="goal-item${data.checked[g.id]?' done':''}" data-id="${g.id}">
-      <div class="check">
-        <svg class="check-svg" width="10" height="8" viewBox="0 0 10 8" fill="none">
-          <path d="M1 4L3.5 6.5L9 1" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </div>
-      <span class="goal-text">${esc(g.text)}</span>
-      <button class="del-btn" data-del="${g.id}">×</button>
-    </div>
-  `).join('');
-  list.querySelectorAll('.goal-item').forEach(el=>{
-    el.addEventListener('click',e=>{ if(e.target.closest('.del-btn'))return; toggle(el.dataset.id); });
-  });
-  list.querySelectorAll('.del-btn').forEach(el=>{
-    el.addEventListener('click',e=>{ e.stopPropagation(); del(el.dataset.del); });
-  });
-}
+        function renderScheduledTasks() {
+            const list = document.getElementById('scheduledList');
+            list.innerHTML = "";
+            const tasks = scheduledTasks[selectedDateStr] || [];
+            tasks.forEach((t, idx) => {
+                const item = document.createElement('div');
+                item.className = 'todo-item' + (t.done ? ' done' : '');
+                item.innerHTML = `
+                    <div class="todo-checkbox" onclick="event.stopPropagation(); toggleScheduledTask(${idx})">${t.done ? '✓' : ''}</div>
+                    <div class="todo-text" onclick="toggleDeleteButton(this.parentNode)">${t.text}</div>
+                    <button class="delete-btn" onclick="event.stopPropagation(); deleteScheduledTask(${idx})">×</button>
+                `;
+                list.appendChild(item);
+            });
+            localStorage.setItem('daily_scheduled', JSON.stringify(scheduledTasks));
+            updateProgress();
+        }
 
-function toggle(id){ data.checked[id]=!data.checked[id]; saveData(); renderGoals(); renderStats(); }
-function del(id){ data.goals=data.goals.filter(g=>g.id!==id); delete data.checked[id]; saveData(); renderGoals(); renderStats(); }
-function addGoal(){
-  const inp=document.getElementById('goal-input'), text=inp.value.trim();
-  if(!text)return; data.goals.push({id:Date.now()+'',text}); inp.value=''; saveData(); renderGoals(); renderStats();
-}
-function esc(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+        function addScheduledTask() {
+            const input = document.getElementById('newTaskInput');
+            const text = input.value.trim();
+            if (!text) return;
+            if (!scheduledTasks[selectedDateStr]) scheduledTasks[selectedDateStr] = [];
+            scheduledTasks[selectedDateStr].push({ text: text, done: false });
+            input.value = "";
+            renderScheduledTasks();
+        }
+        document.getElementById('newTaskInput').addEventListener('keypress', function(e) { if (e.key === 'Enter') addScheduledTask(); });
 
-document.getElementById('add-btn').addEventListener('click',addGoal);
-document.getElementById('goal-input').addEventListener('keydown',e=>{ if(e.key==='Enter') addGoal(); });
+        function toggleScheduledTask(idx) {
+            if (scheduledTasks[selectedDateStr]) scheduledTasks[selectedDateStr][idx].done = !scheduledTasks[selectedDateStr][idx].done;
+            renderScheduledTasks();
+        }
+        function deleteScheduledTask(idx) { if (scheduledTasks[selectedDateStr]) scheduledTasks[selectedDateStr].splice(idx, 1); renderScheduledTasks(); }
 
-// ─── SWIPE ───────────────────────────────────────────────
-let curPage=0, touchStartX=0, touchStartY=0, isDragging=false;
-const pages=document.getElementById('pages');
-pages.addEventListener('touchstart',e=>{ touchStartX=e.touches[0].clientX; touchStartY=e.touches[0].clientY; isDragging=false; },{passive:true});
-pages.addEventListener('touchmove',e=>{ isDragging=true; },{passive:true});
-pages.addEventListener('touchend',e=>{
-  if(!isDragging)return;
-  const dx=e.changedTouches[0].clientX-touchStartX;
-  const dy=e.changedTouches[0].clientY-touchStartY;
-  if(Math.abs(dx)>Math.abs(dy)&&Math.abs(dx)>40){
-    if(dx<0&&curPage===0) setPage(1);
-    else if(dx>0&&curPage===1) setPage(0);
-  }
-},{passive:true});
+        // --- STATS LOGIK ---
+        function checkDayChange() {
+            const todayStr = new Date().toISOString().split('T')[0];
+            const lastActiveDay = localStorage.getItem('daily_last_active');
+            
+            if (lastActiveDay && lastActiveDay !== todayStr) {
+                // Routinen für den neuen Tag zurücksetzen
+                routines.forEach(r => r.done = false);
+                renderRoutines();
+            }
+            localStorage.setItem('daily_last_active', todayStr);
+        }
 
-function setPage(n){
-  curPage=n;
-  pages.classList.toggle('page2',n===1);
-  document.getElementById('dot1').classList.toggle('active',n===0);
-  document.getElementById('dot2').classList.toggle('active',n===1);
-  if(n===1&&!newsLoaded) fetchNews();
-}
+        function updateProgress() {
+            const totalRoutines = routines.length;
+            const doneRoutines = routines.filter(r => r.done).length;
+            const todayStr = new Date().toISOString().split('T')[0];
+            const todayTasks = scheduledTasks[todayStr] || [];
+            
+            const total = totalRoutines + todayTasks.length;
+            const done = doneRoutines + todayTasks.filter(t => t.done).length;
+            const pct = total > 0 ? Math.round((done / total) * 100) : 0;
+            
+            document.getElementById('todayPct').innerText = `${pct}%`;
+            document.getElementById('todayCount').innerText = `${done} of ${total} done`;
+            
+            // Speichern in der Historie
+            history[todayStr] = pct;
+            localStorage.setItem('daily_history', JSON.stringify(history));
+            
+            renderCharts();
+        }
 
-// ─── NEWS (ECHTE DATEN VON GITHUB) ───────────────────────
-let newsLoaded = false;
+        function renderCharts() {
+            const container = document.getElementById('chartContainer');
+            container.innerHTML = "";
+            const weekdays = ['So', 'Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa'];
+            
+            for (let i = 6; i >= 0; i--) {
+                const d = new Date();
+                d.setDate(d.getDate() - i);
+                const dateStr = d.toISOString().split('T')[0];
+                const pct = history[dateStr] || 0;
+                
+                const wrapper = document.createElement('div');
+                wrapper.className = 'chart-bar-wrapper';
+                
+                const bar = document.createElement('div');
+                bar.className = 'chart-bar' + (pct > 0 ? ' filled' : '');
+                bar.style.height = `${(pct / 100) * 55}px`;
+                
+                const lbl = document.createElement('div');
+                lbl.className = 'chart-day-lbl';
+                lbl.innerText = weekdays[d.getDay()];
+                
+                wrapper.appendChild(bar);
+                wrapper.appendChild(lbl);
+                container.appendChild(wrapper);
+            }
 
-function skeletons(id, n = 3) {
-  document.getElementById(id).innerHTML = Array(n).fill('<div class="news-skeleton"></div>').join('');
-}
+            // Berechne 7-Tage-Schnitt
+            let totalPct = 0;
+            for (let i = 0; i < 7; i++) {
+                const d = new Date();
+                d.setDate(d.getDate() - i);
+                totalPct += (history[d.toISOString().split('T')[0]] || 0);
+            }
+            document.getElementById('avgPct').innerText = `${Math.round(totalPct / 7)}%`;
+        }
 
-async function fetchNews() {
-  newsLoaded = true;
-  const refreshBtn = document.getElementById('refresh-btn');
-  const newsTime = document.getElementById('news-time');
-  
-  refreshBtn.textContent = '↻ Loading…';
-  newsTime.textContent = 'Fetching latest news…';
-  skeletons('global-news', 3); 
-  skeletons('vc-news', 2);
+        function saveNotes() { localStorage.setItem('daily_notes', document.getElementById('quickNotes').value); }
+        function loadNotes() { document.getElementById('quickNotes').value = localStorage.getItem('daily_notes') || ""; }
 
-  try {
-    const response = await fetch('news.json?t=' + Date.now());
-    if (!response.ok) throw new Error('Netzwerk-Fehler beim Laden der News');
-    
-    const mockData = await response.json();
+        // --- DYNAMISCHER KI CONTENT (NEWS & LEARNINGS) ---
+        async function fetchNewsAndLearnings() {
+            try {
+                // Cache umgehen mit Zeitstempel
+                const response = await fetch('news.json?t=' + Date.now());
+                const data = await response.json();
+                
+                // News rendern
+                const newsContainer = document.getElementById('newsContainer');
+                newsContainer.innerHTML = "";
+                
+                ['global', 'vc'].forEach(cat => {
+                    if (data[cat]) {
+                        data[cat].forEach(item => {
+                            const div = document.createElement('div');
+                            div.className = 'news-item';
+                            div.innerHTML = `
+                                <span class="badge ${cat}">${cat === 'global' ? 'Globaler Markt' : 'VC & Startups'}</span>
+                                <div class="news-title">${item.tag ? '[' + item.tag + '] ' : ''}${item.headline}</div>
+                                <div class="news-desc">${item.summary}</div>
+                            `;
+                            newsContainer.appendChild(div);
+                        });
+                    }
+                });
 
-    if ((!mockData.global || mockData.global.length === 0) && (!mockData.vc || mockData.vc.length === 0)) {
-      document.getElementById('global-news').innerHTML = '<div class="load-msg">Der GitHub-Roboter schläft noch. Erstes Update kommt um 22:00 Uhr!</div>';
-      document.getElementById('vc-news').innerHTML = '<div class="load-msg">Keine Daten vorhanden.</div>';
-      newsTime.textContent = 'Bereit für Updates';
-    } else {
-      renderNews('global-news', mockData.global);
-      renderNews('vc-news', mockData.vc);
-      newsTime.textContent = 'Updated ' + new Date().toLocaleTimeString('en-US', {hour:'2-digit', minute:'2-digit'});
-    }
+                // Learning Modul rendern
+                const learnTarget = document.getElementById('learningContentTarget');
+                if (data.learning) {
+                    learnTarget.innerHTML = `
+                        <div class="learning-header">${data.learning.topic}</div>
+                        <div class="learning-meta">Bereich: ${data.learning.category}</div>
+                        <div class="learning-content">
+                            <p><strong>Kernkonzept:</strong> ${data.learning.concept}</p>
+                            <div class="learning-section">
+                                <div class="learning-section-title">Hintergrund & Mechanik</div>
+                                <p>${data.learning.details}</p>
+                            </div>
+                            <p><strong>Takeaway:</strong> ${data.learning.takeaway}</p>
+                        </div>
+                    `;
+                }
+            } catch (e) {
+                console.error("Fehler beim Laden der JSON", e);
+            }
+        }
 
-  } catch (error) {
-    console.error(error);
-    document.getElementById('global-news').innerHTML = '<div class="error-msg">Fehler beim Laden der News.</div>';
-    document.getElementById('vc-news').innerHTML = '<div class="error-msg">Bitte später nochmals versuchen.</div>';
-    newsTime.textContent = 'Update fehlgeschlagen';
-  } finally {
-    refreshBtn.textContent = '↻ Refresh';
-  }
-}
+        window.addEventListener('click', function(e) {
+            if (!e.target.classList.contains('todo-text')) {
+                document.querySelectorAll('.todo-item').forEach(item => item.classList.remove('show-delete'));
+            }
+        });
 
-function renderNews(id, items){
-  if(!items||!items.length){ document.getElementById(id).innerHTML='<div class="load-msg">No data</div>'; return; }
-  document.getElementById(id).innerHTML=items.map(item=>`
-    <div class="news-card">
-      <div class="news-tag">${esc(item.tag)}</div>
-      <div class="news-headline">${esc(item.headline)}</div>
-      <div class="news-body">${esc(item.summary)}</div>
-    </div>
-  `).join('');
-}
-
-// ─── INIT ────────────────────────────────────────────────
-loadData();
-</script>
+        window.onload = () => {
+            checkDayChange();
+            initCalendar();
+            renderRoutines();
+            renderScheduledTasks();
+            loadNotes();
+            fetchNewsAndLearnings();
+            updatePage();
+        };
+    </script>
 </body>
 </html>
