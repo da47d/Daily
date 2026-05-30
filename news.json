@@ -1,38 +1,38 @@
 {
   "global": [
     {
-      "tag": "MARKT/POLITIK",
-      "headline": "NATO beschuldigt Russland nach Drohneneinschlag in Rumänien",
-      "summary": "Ein Drohneneinschlag in einem NATO-Land führt zu gegenseitigen Anschuldigungen zwischen dem Militärbündnis und dem Kreml, was die Spannungen in der Region weiter anheizt."
+      "tag": "POLITIK/KONFLIKT",
+      "headline": "Nahost-Konflikt: Israel rückt weiter in Libanon vor",
+      "summary": "Die israelische Armee dringt laut Premier Netanjahu trotz laufender Washington-Gespräche mit dem Libanon immer weiter ins Landesinnere vor."
     },
     {
-      "tag": "MARKT/POLITIK",
-      "headline": "DAX verharrt ohne neuen Impuls: Iran-Lage und KI-Fokus hemmen Wachstum",
-      "summary": "Der deutsche Leitindex konnte sein hohes Niveau zum Wochenschluss halten, doch Unsicherheiten im Iran und die primär an der Wall Street stattfindende KI-Euphorie verhinderten einen weiteren Aufschwung."
+      "tag": "POLITIK/DIPLOMATIE",
+      "headline": "USA und Iran: Keine Einigung im Abkommen",
+      "summary": "Eine angekündigte Lagebesprechung im Weißen Haus zu einem Abkommen für ein Ende des Iran-Kriegs endete ohne einen Durchbruch zwischen den Parteien."
     },
     {
-      "tag": "MARKT/POLITIK",
-      "headline": "Durchbruch im Iran-Konflikt bleibt aus: Verhandlungen ohne Ergebnis beendet",
-      "summary": "Eine entscheidende Lagebesprechung im Weißen Haus endete entgegen den Erwartungen ohne Einigung für ein Ende des Iran-Kriegs, was die geopolitische Unsicherheit weiter schürt."
+      "tag": "SICHERHEIT/VORFALL",
+      "headline": "Drohnenalarm: Flughafen München vorübergehend gesperrt",
+      "summary": "Nach einer möglichen Drohnensichtung musste der Flugbetrieb am Münchner Flughafen für eine Stunde eingestellt werden, was zu Flugausfällen führte."
     }
   ],
   "vc": [
     {
       "tag": "TECH/STARTUP",
-      "headline": "KI-Booster an der Wall Street: US-Tech-Investitionen dominieren global",
-      "summary": "Die führende Rolle der Wall Street bei der Finanzierung und dem Wachstum von KI-Startups und -Unternehmen prägt die globale Tech-Landschaft und zieht einen Großteil des Risikokapitals an."
+      "headline": "KI-Startup sichert Millionen-Investment für SaaS-Plattform",
+      "summary": "Ein führendes Startup im Bereich Künstliche Intelligenz hat eine signifikante Venture-Capital-Finanzierungsrunde abgeschlossen, um seine innovative SaaS-Lösung auszubauen."
     },
     {
       "tag": "TECH/STARTUP",
-      "headline": "Deutschland sucht KI-Anschluss: Deutsche Startup-Szene vor Herausforderung",
-      "summary": "Während die globale KI-Hausse vor allem in den USA stattfindet, fehlt dem deutschen Markt der 'zündende Funke', was die Notwendigkeit stärkerer lokaler Tech-Investitionen und Startup-Förderung unterstreicht."
+      "headline": "M&A-Deal: Software-Firma übernimmt Spezialisten für Cloud-Lösungen",
+      "summary": "Ein auf Unternehmenssoftware spezialisiertes Unternehmen hat erfolgreich einen Anbieter von Cloud-Infrastruktur-Lösungen akquiriert, um Synergien im B2B-Markt zu schaffen."
     }
   ],
   "learning": {
-    "topic": "DCF-Verfahren: Der Kern der Unternehmensbewertung",
+    "topic": "Discounted Cash Flow (DCF): Die Bewertungsgrundlage",
     "category": "Corporate Finance & Valuation",
-    "concept": "Das Discounted Cash Flow (DCF)-Verfahren bewertet ein Unternehmen basierend auf dem Barwert seiner zukünftigen freien Cashflows. Es ist eine fundamentale Methode zur Bestimmung des intrinsischen Werts.",
-    "details": "Das DCF-Modell prognostiziert die Free Cash Flows (FCF) eines Unternehmens über einen detaillierten Planungszeitraum (z.B. 5-10 Jahre) und einen ewigen Wachstumszeitraum (Terminal Value). Diese zukünftigen Cashflows werden dann auf den heutigen Tag abgezinst, um ihren Barwert zu ermitteln. Als Diskontierungsfaktor dient der gewichtete durchschnittliche Kapitalkostensatz (WACC), der die Kosten für Eigen- und Fremdkapital widerspiegelt. Die Herausforderung liegt in der präzisen Prognose der Cashflows und der akkuraten Bestimmung des WACC und des Terminal Value.",
-    "takeaway": "Das DCF-Verfahren liefert eine fundierte Einschätzung des Unternehmenswerts, erfordert jedoch präzise Annahmen und Sensibilität für die zugrunde liegenden Cashflow-Treiber und Kapitalkosten. Es ist das Rückgrat vieler Investmententscheidungen."
+    "concept": "Das DCF-Verfahren bewertet ein Unternehmen oder Projekt, indem es zukünftige freie Cashflows prognostiziert und diese auf ihren heutigen Wert diskontiert, um den intrinsischen Wert zu ermitteln.",
+    "details": "Beim DCF-Verfahren werden zunächst die Free Cash Flows to Firm (FCFF) oder Free Cash Flows to Equity (FCFE) für einen detaillierten Prognosezeitraum (oft 5-10 Jahre) geschätzt. Danach wird ein Terminal Value (Endwert) für die Periode nach dem Prognosezeitraum berechnet, der das fortlaufende Geschäft abbildet. Alle diese zukünftigen Cashflows werden anschließend mithilfe eines Diskontierungssatzes – dem Weighted Average Cost of Capital (WACC) für FCFF oder den Eigenkapitalkosten für FCFE – auf den heutigen Barwert abgezinst und summiert. Das Ergebnis ist der intrinsische Wert des Unternehmens oder Projekts.",
+    "takeaway": "Der DCF ist eine fundamentale Bewertungsmethode, die auf der zukünftigen Ertragskraft eines Unternehmens basiert. Er ist robust, erfordert aber präzise Annahmen über zukünftige Cashflows und den angemessenen Diskontierungsfaktor."
   }
 }
