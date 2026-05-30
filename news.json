@@ -2,37 +2,37 @@
   "global": [
     {
       "tag": "MARKT/POLITIK",
-      "headline": "NATO macht Russland für Drohneneinschlag in Rumänien verantwortlich",
-      "summary": "In einem NATO-Land hat eine Drohne ein Wohnhaus getroffen. Die Militärallianz beschuldigt Russland, das die Vorwürfe zurückweist. Die geopolitische Lage bleibt angespannt."
+      "headline": "NATO beschuldigt Russland nach Drohneneinschlag in Rumänien",
+      "summary": "Ein Drohneneinschlag in einem NATO-Land führt zu gegenseitigen Anschuldigungen zwischen dem Militärbündnis und dem Kreml, was die Spannungen in der Region weiter anheizt."
     },
     {
       "tag": "MARKT/POLITIK",
-      "headline": "Inflation in Deutschland fällt überraschend auf 2,6 Prozent",
-      "summary": "Die Teuerungsrate in Deutschland hat sich im Mai unerwartet leicht auf 2,6 Prozent entspannt. Ein möglicher, wenn auch kurzfristiger Faktor, ist der Tankrabatt."
+      "headline": "DAX verharrt ohne neuen Impuls: Iran-Lage und KI-Fokus hemmen Wachstum",
+      "summary": "Der deutsche Leitindex konnte sein hohes Niveau zum Wochenschluss halten, doch Unsicherheiten im Iran und die primär an der Wall Street stattfindende KI-Euphorie verhinderten einen weiteren Aufschwung."
     },
     {
       "tag": "MARKT/POLITIK",
-      "headline": "Brenner-Autobahn wegen Protesten gesperrt: Alternativen gesucht",
-      "summary": "Die wichtige Brenner-Autobahn ist wegen einer Protestaktion blockiert. Reisende nach und von Italien müssen sich auf erhebliche Behinderungen einstellen und Ausweichrouten prüfen."
+      "headline": "Durchbruch im Iran-Konflikt bleibt aus: Verhandlungen ohne Ergebnis beendet",
+      "summary": "Eine entscheidende Lagebesprechung im Weißen Haus endete entgegen den Erwartungen ohne Einigung für ein Ende des Iran-Kriegs, was die geopolitische Unsicherheit weiter schürt."
     }
   ],
   "vc": [
     {
       "tag": "TECH/STARTUP",
-      "headline": "Anthropic übertrifft Open AI im Unternehmenswert",
-      "summary": "Im Rennen um die Dominanz im KI-Sektor hat das Unternehmen Anthropic nun eine höhere Bewertung erreicht als Open AI. Beide gehören zu den bevorstehenden Börsendebüts der Wall Street."
+      "headline": "KI-Booster an der Wall Street: US-Tech-Investitionen dominieren global",
+      "summary": "Die führende Rolle der Wall Street bei der Finanzierung und dem Wachstum von KI-Startups und -Unternehmen prägt die globale Tech-Landschaft und zieht einen Großteil des Risikokapitals an."
     },
     {
       "tag": "TECH/STARTUP",
-      "headline": "KI-Hausse treibt Tech-Investitionen an der Wall Street an",
-      "summary": "Während der DAX kaum Bewegung zeigt, konzentriert sich die dynamische KI-Hausse weiterhin hauptsächlich an der Wall Street. Sie befeuert massive Investitionen in neue Technologie-Superstars."
+      "headline": "Deutschland sucht KI-Anschluss: Deutsche Startup-Szene vor Herausforderung",
+      "summary": "Während die globale KI-Hausse vor allem in den USA stattfindet, fehlt dem deutschen Markt der 'zündende Funke', was die Notwendigkeit stärkerer lokaler Tech-Investitionen und Startup-Förderung unterstreicht."
     }
   ],
   "learning": {
-    "topic": "Das Phänomen Inflation: Mehr als nur steigende Preise",
-    "category": "Makro & Krisen",
-    "concept": "Inflation beschreibt den anhaltenden Anstieg des allgemeinen Preisniveaus für Güter und Dienstleistungen, was zu einem Kaufkraftverlust des Geldes führt.",
-    "details": "Inflation kann durch verschiedene Faktoren ausgelöst werden: Nachfrageinflation (zu viel Geld jagt zu wenige Güter), Kosteninflation (steigende Produktionskosten werden an Konsumenten weitergegeben) oder importierte Inflation (z.B. durch höhere Energiepreise oder Wechselkursänderungen). Zentralbanken versuchen, durch geldpolitische Maßnahmen wie Zinserhöhungen oder -senkungen eine stabile Inflationsrate im Zielkorridor (meist um 2%) zu gewährleisten, um Wirtschaftswachstum zu fördern und gleichzeitig die Kaufkraft zu erhalten. Eine moderate Inflation gilt oft als Indikator für eine gesunde Wirtschaft.",
-    "takeaway": "Das Verständnis von Inflation ist entscheidend für persönliche Finanzplanung und Investitionsentscheidungen, da sie die reale Rendite von Ersparnissen und Anlagen direkt beeinflusst."
+    "topic": "DCF-Verfahren: Der Kern der Unternehmensbewertung",
+    "category": "Corporate Finance & Valuation",
+    "concept": "Das Discounted Cash Flow (DCF)-Verfahren bewertet ein Unternehmen basierend auf dem Barwert seiner zukünftigen freien Cashflows. Es ist eine fundamentale Methode zur Bestimmung des intrinsischen Werts.",
+    "details": "Das DCF-Modell prognostiziert die Free Cash Flows (FCF) eines Unternehmens über einen detaillierten Planungszeitraum (z.B. 5-10 Jahre) und einen ewigen Wachstumszeitraum (Terminal Value). Diese zukünftigen Cashflows werden dann auf den heutigen Tag abgezinst, um ihren Barwert zu ermitteln. Als Diskontierungsfaktor dient der gewichtete durchschnittliche Kapitalkostensatz (WACC), der die Kosten für Eigen- und Fremdkapital widerspiegelt. Die Herausforderung liegt in der präzisen Prognose der Cashflows und der akkuraten Bestimmung des WACC und des Terminal Value.",
+    "takeaway": "Das DCF-Verfahren liefert eine fundierte Einschätzung des Unternehmenswerts, erfordert jedoch präzise Annahmen und Sensibilität für die zugrunde liegenden Cashflow-Treiber und Kapitalkosten. Es ist das Rückgrat vieler Investmententscheidungen."
   }
 }
