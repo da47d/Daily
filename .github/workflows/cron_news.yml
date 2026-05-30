@@ -6,6 +6,10 @@ on:
     # 17:00 UTC ist 19:00 Uhr deutsche Sommerzeit
     - cron: '0 6,17 * * *'
   workflow_dispatch: # Ermöglicht es uns, den Roboter manuell zu testen!
+  push:
+    branches:
+      - main #  Jetzt korrekt eingerückt!
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
