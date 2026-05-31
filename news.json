@@ -2,37 +2,37 @@
   "global": [
     {
       "tag": "MARKT/POLITIK",
-      "headline": "Israelische Truppen nehmen strategische Burg Beaufort im Südlibanon ein",
-      "summary": "Im Südlibanon haben israelische Streitkräfte die symbolträchtige Burg Beaufort eingenommen und dort erstmals seit 26 Jahren die israelische Flagge gehisst, was den weiteren Vormarsch gegen die Hisbollah markiert."
+      "headline": "Israel erobert strategische Burg Beaufort im Südlibanon",
+      "summary": "Israelische Streitkräfte haben im Kampf gegen die Hisbollah die symbolträchtige Burg Beaufort eingenommen und dort erstmals seit 26 Jahren die israelische Flagge gehisst, was den Vormarsch im Südlibanon markiert."
     },
     {
       "tag": "MARKT/POLITIK",
-      "headline": "US-Militär stoppt erneut Schiff im Golf von Oman mit Raketenbeschuss",
-      "summary": "Die US-Armee meldet, ein Schiff auf dem Weg in den Iran im Golf von Oman gewaltsam gestoppt zu haben. Eine Rakete sei auf die 'Lian Star' abgefeuert worden, was die Spannungen in der Straße von Hormus weiter verschärft."
+      "headline": "US-Armee stoppt iranisches Schiff im Golf von Oman gewaltsam",
+      "summary": "Die US-Armee teilt mit, erneut ein Schiff auf dem Weg in den Iran im Golf von Oman gewaltsam gestoppt zu haben, wobei eine Rakete auf die 'Lian Star' abgefeuert wurde, was die Spannungen in der Straße von Hormus weiter erhöht."
     },
     {
       "tag": "MARKT/POLITIK",
-      "headline": "Waffenruhe zwischen USA und Iran stockt: Beide Seiten fordern Nachbesserungen",
-      "summary": "Die Verhandlungen über eine Verlängerung der Waffenruhe zwischen den USA und Iran sind ins Stocken geraten. US-Präsident Trump und auch der Iran zeigen sich unzufrieden mit dem bisherigen Deal und fordern Nachbesserungen."
+      "headline": "Atomkraftwerk Saporischschja: IAEA fordert Zugang nach Angriffsvorwürfen",
+      "summary": "Nach gegenseitigen Anschuldigungen zwischen Russland und der Ukraine bezüglich eines Angriffs auf das AKW Saporischschja fordert die Internationale Atomenergie-Agentur (IAEA) Zugang zur Prüfstelle, um die nukleare Sicherheit zu gewährleisten."
     }
   ],
   "vc": [
     {
       "tag": "TECH/STARTUP",
-      "headline": "KI-generierter Content auf Social Media birgt Risiken für Kinder",
-      "summary": "KI-generierte Videos wie 'Fruit Love Island' fluten Instagram und TikTok, was Psychologen zufolge negative Auswirkungen auf die Entwicklung von Kindern haben und Ängste schüren kann – eine neue Herausforderung für Tech-Plattformen."
+      "headline": "KI-generierter Content: Ängste bei Kindern durch 'Fruit Love Island'",
+      "summary": "Monatelang fluten KI-generierte Videos von sprechendem Obst und Gemüse Social-Media-Plattformen wie Instagram und TikTok, was zu Bedenken hinsichtlich der Auswirkungen auf das Gehirn von Kindern und die Gesellschaft führt."
     },
     {
       "tag": "TECH/STARTUP",
-      "headline": "Investoren setzen auf deutschen Inlandstourismus: Wachstumsimpulse für die Wirtschaft",
-      "summary": "Der boomende Inlandstourismus in Deutschland zieht Investitionen in Ferienparks an. Dies könnte nicht nur lokalen Einzelhändlern und Restaurants zugutekommen, sondern auch als wichtiger Konjunkturmotor in wirtschaftlich schwierigen Zeiten dienen, was den Sektor attraktiv für Kapital macht."
+      "headline": "Inlandstourismus boomt: Investitionen in Ferienparks als Konjunkturstütze?",
+      "summary": "Der anhaltende Boom im Inlandstourismus führt dazu, dass Investoren verstärkt auf Ferienparks in Deutschland setzen. Dies könnte Einzelhändlern und Restaurants zugutekommen und der deutschen Wirtschaft im Konjunkturtief helfen."
     }
   ],
   "learning": {
-    "topic": "Das Discounted Cash Flow (DCF)-Verfahren: Herzstück der Unternehmensbewertung",
-    "category": "Corporate Finance & Valuation",
-    "concept": "Das DCF-Verfahren bewertet ein Unternehmen oder Projekt, indem es alle zukünftigen freien Cashflows prognostiziert und diese auf den heutigen Wert abzinst, um den intrinsischen Wert zu ermitteln.",
-    "details": "Das DCF-Verfahren ist eine der gängigsten Methoden zur Bewertung von Unternehmen. Es basiert auf der Annahme, dass der Wert eines Unternehmens durch die Summe seiner zukünftigen, auf den heutigen Tag abgezinsten Cashflows bestimmt wird. Dabei werden detaillierte Prognosen für die freien Cashflows (operativer Cashflow minus Investitionen) über einen Planungszeitraum von meist fünf bis zehn Jahren erstellt. Nach diesem expliziten Zeitraum wird ein sogenannter Residualwert (Terminal Value) berechnet, der alle zukünftigen Cashflows über den Planungszeitraum hinaus abbildet. Beide Komponenten, die expliziten Cashflows und der Residualwert, werden anschließend mit dem gewichteten durchschnittlichen Kapitalkostensatz (WACC) diskontiert, um ihren Barwert zu erhalten. Die Summe dieser Barwerte stellt den Unternehmenswert dar.",
-    "takeaway": "Das DCF-Verfahren bietet eine fundierte, zukunftsorientierte Unternehmensbewertung, erfordert jedoch präzise Annahmen über zukünftige Cashflows und den Abzinsungssatz, deren Sensitivität den ermittelten Wert stark beeinflussen kann."
+    "topic": "Die Funktionsweise und Folgen von Inflation",
+    "category": "Makro & Krisen",
+    "concept": "Inflation beschreibt einen anhaltenden Anstieg des allgemeinen Preisniveaus für Güter und Dienstleistungen in einer Volkswirtschaft über einen bestimmten Zeitraum, wodurch die Kaufkraft des Geldes sinkt.",
+    "details": "Inflation wird häufig durch eine zu hohe Geldmenge im Verhältnis zur verfügbaren Gütermenge (Nachfrageinflation) oder durch steigende Produktionskosten (Kosteninflation) verursacht. Zentralbanken steuern die Inflation meist über Leitzinsen; hohe Zinsen dämpfen die Nachfrage und reduzieren die Geldmenge, niedrige Zinsen stimulieren die Wirtschaft, können aber Inflation anheizen. Eine moderate Inflation gilt oft als Indikator für eine wachsende Wirtschaft, während hohe oder unkontrollierte Inflation die wirtschaftliche Stabilität gefährdet, Sparguthaben entwertet und Investitionen hemmt.",
+    "takeaway": "Das Verständnis von Inflationsursachen und geldpolitischen Maßnahmen ist entscheidend für das Treffen fundierter Wirtschaftsentscheidungen, sowohl auf individueller als auch auf unternehmerischer Ebene, um Vermögenswerte zu schützen und Risiken zu minimieren."
   }
 }
