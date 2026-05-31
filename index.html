@@ -47,7 +47,6 @@
             box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
         }
 
-        /* Navigations-Punkte unten */
         .nav-footer {
             position: absolute;
             bottom: 0;
@@ -118,15 +117,6 @@
             letter-spacing: 1px;
             color: var(--text-muted);
             margin-bottom: 12px;
-        }
-
-        .news-block-title {
-            font-size: 11px;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            color: var(--text-muted);
-            margin: 10px 0 12px 4px;
         }
 
         .stats-grid {
@@ -284,6 +274,8 @@
 
         .refresh-btn-container { text-align: center; margin: 20px 0; }
         .refresh-btn { background: none; border: 1px solid var(--border-color); color: var(--text-muted); padding: 8px 20px; border-radius: 20px; font-size: 11px; cursor: pointer; font-weight: 600; letter-spacing: 0.5px; }
+        
+        .news-container-title { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--glow-blue); margin: 15px 0 10px 4px; }
     </style>
 </head>
 <body>
@@ -367,17 +359,33 @@
                     <div class="section-title">Quick Notes</div>
                     <textarea id="quickNotes" class="notes-area" placeholder="Schnelle Gedanken, Notizen oder Unikram..." oninput="saveNotes()"></textarea>
                 </div>
+                
+                <div class="refresh-btn-container">
+                    <button id="refreshBtn" class="refresh-btn" onclick="fetchNewsAndLearnings()">↻ REFRESH</button>
+                </div>
             </div>
 
             <div class="page" id="page-news">
-                <div class="news-block-title">Global & Markets</div>
-                <div id="globalNewsContainer"></div>
+                <div class="section-title">Daily Briefing</div>
+                
+                <div class="news-container">
+                    <div class="news-container-title">🌍 Politics & Global</div>
+                    <div id="politicsNewsContainer"></div>
+                </div>
 
-                <div class="news-block-title" style="margin-top: 20px;">Startups & VCs</div>
-                <div id="vcNewsContainer"></div>
+                <div class="news-container">
+                    <div class="news-container-title">📊 Macro Economy</div>
+                    <div id="macroNewsContainer"></div>
+                </div>
 
-                <div class="refresh-btn-container">
-                    <button class="refresh-btn" id="refreshBtn" onclick="fetchNewsAndLearnings()">↻ REFRESH</button>
+                <div class="news-container">
+                    <div class="news-container-title">✨ Top Stories</div>
+                    <div id="topStoriesNewsContainer"></div>
+                </div>
+
+                <div class="news-container">
+                    <div class="news-container-title">🚀 Startups & Venture Capital</div>
+                    <div id="vcNewsContainer"></div>
                 </div>
             </div>
 
@@ -600,41 +608,81 @@
 
         // --- ZENTRALE RENDERING LOGIK ---
         function displayAllContent(data) {
-            // 1. Global & Markets
-            const globalContainer = document.getElementById('globalNewsContainer');
-            globalContainer.innerHTML = "";
-            if (data.global && data.global.length > 0) {
-                data.global.forEach(item => {
-                    const card = document.createElement('div');
-                    card.className = 'news-card-item';
-                    card.innerHTML = `
-                        <span class="badge global">${item.tag || 'Global'}</span>
-                        <div class="news-title">${item.headline}</div>
-                        <div class="news-desc">${item.summary}</div>
-                    `;
-                    globalContainer.appendChild(card);
-                });
+            // 1. Politics & Global
+            const politicsContainer = document.getElementById('politicsNewsContainer');
+            if (politicsContainer) {
+                politicsContainer.innerHTML = "";
+                if (data.politics && data.politics.length > 0) {
+                    data.politics.forEach(item => {
+                        const card = document.createElement('div');
+                        card.className = 'news-card-item';
+                        card.innerHTML = `
+                            <span class="badge global">${item.tag || 'POLITIK'}</span>
+                            <div class="news-title">${item.headline}</div>
+                            <div class="news-desc">${item.summary}</div>
+                        `;
+                        politicsContainer.appendChild(card);
+                    });
+                }
             }
 
-            // 2. Startups & VCs
+            // 2. Macro Economy
+            const macroContainer = document.getElementById('macroNewsContainer');
+            if (macroContainer) {
+                macroContainer.innerHTML = "";
+                if (data.macro && data.macro.length > 0) {
+                    data.macro.forEach(item => {
+                        const card = document.createElement('div');
+                        card.className = 'news-card-item';
+                        card.innerHTML = `
+                            <span class="badge global" style="background: #4a5568;">${item.tag || 'MAKRO'}</span>
+                            <div class="news-title">${item.headline}</div>
+                            <div class="news-desc">${item.summary}</div>
+                        `;
+                        macroContainer.appendChild(card);
+                    });
+                }
+            }
+
+            // 3. Top Stories
+            const buzzContainer = document.getElementById('topStoriesNewsContainer');
+            if (buzzContainer) {
+                buzzContainer.innerHTML = "";
+                if (data.buzz && data.buzz.length > 0) {
+                    data.buzz.forEach(item => {
+                        const card = document.createElement('div');
+                        card.className = 'news-card-item';
+                        card.innerHTML = `
+                            <span class="badge global" style="background: #2d3748;">${item.tag || 'TOP STORY'}</span>
+                            <div class="news-title">${item.headline}</div>
+                            <div class="news-desc">${item.summary}</div>
+                        `;
+                        buzzContainer.appendChild(card);
+                    });
+                }
+            }
+
+            // 4. Startups & Venture Capital
             const vcContainer = document.getElementById('vcNewsContainer');
-            vcContainer.innerHTML = "";
-            if (data.vc && data.vc.length > 0) {
-                data.vc.forEach(item => {
-                    const card = document.createElement('div');
-                    card.className = 'news-card-item';
-                    card.innerHTML = `
-                        <span class="badge vc">${item.tag || 'VC'}</span>
-                        <div class="news-title">${item.headline}</div>
-                        <div class="news-desc">${item.summary}</div>
-                    `;
-                    vcContainer.appendChild(card);
-                });
+            if (vcContainer) {
+                vcContainer.innerHTML = "";
+                if (data.vc && data.vc.length > 0) {
+                    data.vc.forEach(item => {
+                        const card = document.createElement('div');
+                        card.className = 'news-card-item';
+                        card.innerHTML = `
+                            <span class="badge vc">${item.tag || 'STARTUP & VC'}</span>
+                            <div class="news-title">${item.headline}</div>
+                            <div class="news-desc">${item.summary}</div>
+                        `;
+                        vcContainer.appendChild(card);
+                    });
+                }
             }
 
-            // 3. Learning Modul
+            // 5. Learning Modul
             const learnTarget = document.getElementById('learningContentTarget');
-            if (data.learning) {
+            if (data.learning && learnTarget) {
                 learnTarget.innerHTML = `
                     <div class="learning-header">${data.learning.topic}</div>
                     <div class="learning-meta">Bereich: ${data.learning.category}</div>
@@ -664,21 +712,26 @@
             } catch (e) {
                 console.warn("Browser blockiert lokalen Zugriff. Lade integrierte Demo-Daten für den PC-Test:", e);
                 
-                // INTEGRIERTE FALLBACK DATEN (Damit es auf dem PC ohne Server SOFORT läuft!)
+                // FALLBACK DATEN JETZT IM NEUEN FORMAT (Damit es lokal auch sofort läuft!)
                 const localDemoData = {
-                    "global": [
-                        { "tag": "MÄRKTE", "headline": "DAX schließt stabil trotz volatiler US-Vorgaben", "summary": "Der deutsche Leitindex verteidigt seine Gewinne vor den anstehenden Arbeitsmarktdaten aus Übersee." },
-                        { "tag": "NOTENBANK", "headline": "EZB signalisiert Bereitschaft für Zinskorrekturen", "summary": "Die Kerninflation geht im Euroraum plangemäß leicht zurück. Analysten erwarten stabile Folgemonate." }
+                    "politics": [
+                        { "tag": "POLITIK & GLOBAL", "headline": "Geopolitische Spannungen belasten asiatische Märkte", "summary": "Anleger reagieren vorsichtig auf neue Handelsbeschränkungen im Tech-Sektor. Sichere Häfen wie Gold verzeichnen leichte Zuläufe." }
+                    ],
+                    "macro": [
+                        { "tag": "MACRO ECONOMY", "headline": "EZB signalisiert Bereitschaft für Zinskorrekturen", "summary": "Die Kerninflation geht im Euroraum plangemäß leicht zurück. Analysten erwarten stabile Folgemonate im Kreditgeschäft." }
+                    ],
+                    "buzz": [
+                        { "tag": "TOP STORIES", "headline": "Premium-Hersteller bricht Rekorde mit neuem Elektro-Sportwagen", "summary": "Die unerwartet hohe Nachfrage sorgt für lange Lieferzeiten, kurbelt aber den Aktienkurs des Mutterkonzerns kräftig an." }
                     ],
                     "vc": [
-                        { "tag": "FINTECH", "headline": "KI-SaaS Startup für Accounting schließt Seed-Runde ab", "summary": "Ein neues B2B-Startup automatisiert die Belegprüfung für Wirtschaftsprüfer und erhält 4.5 Mio. Euro Kapital." }
+                        { "tag": "STARTUPS & VC", "headline": "KI-SaaS Startup für Accounting schließt Seed-Runde ab", "summary": "Ein neues B2B-Startup automatisiert die Belegprüfung für Wirtschaftsprüfer und erhält 4.5 Mio. Euro Wachstumskapital." }
                     ],
                     "learning": {
-                        "topic": "Der Leverage-Effekt verständlich erklärt",
-                        "category": "Corporate Finance",
-                        "concept": "Die Hebelwirkung des Fremdkapitals auf die Rentabilität des Eigenkapitals.",
-                        "details": "Solange die Gesamtkapitalrentabilität eines Unternehmens höher ist als der Zinssatz für das Fremdkapital, steigt die Eigenkapitalrentabilität mit zunehmendem Verschuldungsgrad. Der Einsatz von billigem Fremdkapital hebelt somit die Rendite für die Eigentümer nach oben.",
-                        "takeaway": "Mehr Schulden erhöhen die Eigenkapitalrendite – aber im gleichen Maße steigt das finanzielle Risiko, falls das operative Geschäft einbricht."
+                        "topic": "ETF-Namenszusätze entschlüsselt",
+                        "category": "Finanz-Dechiffrierung",
+                        "concept": "Was Abkürzungen wie IMI, Acc und UCITS hinter dem Fondsnamen wirklich bedeuten.",
+                        "details": "UCITS garantiert, dass der ETF strengen EU-Richtlinien zum Anlegerschutz unterliegt. IMI steht für Investable Market Index und bedeutet, dass neben Large Caps auch Small und Mid Caps enthalten sind. 'Acc' (Accumulating) besagt, dass Dividenden automatisch direkt wieder im Fonds angelegt werden, statt sie auszuschütten.",
+                        "takeaway": "Das genaue Lesen der Kürzel verhindert Fehlinvestitionen und optimiert die Steuerstrategie durch Thesaurierung."
                     }
                 };
                 
@@ -699,7 +752,7 @@
             renderRoutines();
             renderScheduledTasks();
             loadNotes();
-            fetchNewsAndLearnings(); // Holt beim Start sofort entweder Live- oder Demo-Daten
+            fetchNewsAndLearnings();
             updatePage();
         };
     </script>
