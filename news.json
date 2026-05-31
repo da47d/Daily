@@ -1,38 +1,57 @@
 {
-  "global": [
+  "politics": [
     {
-      "tag": "MARKT/POLITIK",
-      "headline": "Israel erobert strategische Burg Beaufort im Südlibanon",
-      "summary": "Israelische Streitkräfte haben im Kampf gegen die Hisbollah die symbolträchtige Burg Beaufort eingenommen und dort erstmals seit 26 Jahren die israelische Flagge gehisst, was den Vormarsch im Südlibanon markiert."
+      "tag": "POLITIK & GLOBAL",
+      "headline": "Israel meldet Einnahme der Burg Beaufort im Südlibanon",
+      "summary": "Im Kampf gegen die Hisbollah-Miliz hat Israel die strategisch wichtige Burg Beaufort im Südlibanon eingenommen. Dort wurde erstmals seit 26 Jahren wieder die israelische Flagge gehisst, was eine weitere Eskalation im Konflikt signalisiert."
     },
     {
-      "tag": "MARKT/POLITIK",
-      "headline": "US-Armee stoppt iranisches Schiff im Golf von Oman gewaltsam",
-      "summary": "Die US-Armee teilt mit, erneut ein Schiff auf dem Weg in den Iran im Golf von Oman gewaltsam gestoppt zu haben, wobei eine Rakete auf die 'Lian Star' abgefeuert wurde, was die Spannungen in der Straße von Hormus weiter erhöht."
+      "tag": "POLITIK & GLOBAL",
+      "headline": "Neues Waffenruhe-Abkommen zwischen USA und Iran verzögert sich weiter",
+      "summary": "Die Verhandlungen über eine Waffenruhe zwischen den USA und Iran stagnieren, da beide Seiten Nachbesserungen am bisherigen Deal fordern. US-Präsident Trump zeigt sich unzufrieden, was die globale Stabilität und Energiemärkte beeinflussen könnte."
+    }
+  ],
+  "macro": [
+    {
+      "tag": "MACRO ECONOMY",
+      "headline": "Falsche Inflationserwartungen und der «kranke Mann Europas»",
+      "summary": "Die Diskussion um \"Eggflation\" zeigt, wie falsche Inflationserwartungen Wahlergebnisse beeinflussen können, und verweist auf die Diskrepanz zwischen politischem Wunsch und wirtschaftlicher Realität in Deutschland. Dies deutet auf anhaltende wirtschaftliche Herausforderungen in Europa hin."
     },
     {
-      "tag": "MARKT/POLITIK",
-      "headline": "Atomkraftwerk Saporischschja: IAEA fordert Zugang nach Angriffsvorwürfen",
-      "summary": "Nach gegenseitigen Anschuldigungen zwischen Russland und der Ukraine bezüglich eines Angriffs auf das AKW Saporischschja fordert die Internationale Atomenergie-Agentur (IAEA) Zugang zur Prüfstelle, um die nukleare Sicherheit zu gewährleisten."
+      "tag": "MACRO ECONOMY",
+      "headline": "Sorgen über die sorglosen Märkte: Droht in der Schweiz und in Deutschland im Winter wieder eine gefährliche Gasknappheit?",
+      "summary": "Trotz eines unklaren Endes des Iran-Krieges und möglicher Engpässe am Energiemarkt zeigen sich die Märkte gelassen, doch Experten warnen vor einer potenziellen Gasknappheit in Deutschland und der Schweiz im Winter. Die fehlende Volatilität an den Energiemärkten könnte eine trügerische Sicherheit vortäuschen."
+    }
+  ],
+  "buzz": [
+    {
+      "tag": "TOP STORIES",
+      "headline": "\"Fruit Love Island\": Warum KI-Content bei Kindern Ängste schürt",
+      "summary": "KI-generierte Videos von sprechendem Obst und Gemüse auf TikTok und Instagram, die in fiktiven Reality-Serien auftreten, beunruhigen Experten. Diese Inhalte können negative Auswirkungen auf die Entwicklung von Kindern und die Gesellschaft haben."
+    },
+    {
+      "tag": "TOP STORIES",
+      "headline": "Jeff Bezos will der Hälfte der Amerikaner die Steuern erlassen – und wird trotzdem angefeindet",
+      "summary": "Amazon-Gründer Jeff Bezos schlägt vor, die Steuern für die Hälfte der US-Amerikaner zu erlassen, was ihn zu einer zentralen Figur im harten Verteilungskampf der USA macht. Trotz des Vorschlags stößt er auf Widerstand und Kritik."
     }
   ],
   "vc": [
     {
-      "tag": "TECH/STARTUP",
-      "headline": "KI-generierter Content: Ängste bei Kindern durch 'Fruit Love Island'",
-      "summary": "Monatelang fluten KI-generierte Videos von sprechendem Obst und Gemüse Social-Media-Plattformen wie Instagram und TikTok, was zu Bedenken hinsichtlich der Auswirkungen auf das Gehirn von Kindern und die Gesellschaft führt."
+      "tag": "STARTUPS & VC",
+      "headline": "Sind SpaceX-Aktien attraktiv? Die Antwort hängt ganz davon ab, in welchem Jahr nach dem Börsengang man sie kauft",
+      "summary": "Die Attraktivität von SpaceX-Aktien nach einem Börsengang wird als extrem volatil erwartet, ähnlich wie bei Tesla-Aktien. Dies unterstreicht die Notwendigkeit, den Zeitpunkt des Einstiegs und die langfristige Strategie bei solchen Tech-Wachstumswerten sorgfältig zu überdenken."
     },
     {
-      "tag": "TECH/STARTUP",
-      "headline": "Inlandstourismus boomt: Investitionen in Ferienparks als Konjunkturstütze?",
-      "summary": "Der anhaltende Boom im Inlandstourismus führt dazu, dass Investoren verstärkt auf Ferienparks in Deutschland setzen. Dies könnte Einzelhändlern und Restaurants zugutekommen und der deutschen Wirtschaft im Konjunkturtief helfen."
+      "tag": "STARTUPS & VC",
+      "headline": "Der Anarchokapitalist Peter Thiel hat endlich eine Heimat gefunden – beim Anarchokapitalisten Javier Milei",
+      "summary": "Der prominente Tech-Unternehmer und Venture-Capitalist Peter Thiel siedelt nach Buenos Aires über, um dort in Javier Milei einen gleichgesinnten Anarchokapitalisten gefunden zu haben. Dieser Schritt eines einflussreichen Gründers reflektiert seine Suche nach einem sicheren Hafen und seinen politischen Überzeugungen."
     }
   ],
   "learning": {
-    "topic": "Die Funktionsweise und Folgen von Inflation",
-    "category": "Makro & Krisen",
-    "concept": "Inflation beschreibt einen anhaltenden Anstieg des allgemeinen Preisniveaus für Güter und Dienstleistungen in einer Volkswirtschaft über einen bestimmten Zeitraum, wodurch die Kaufkraft des Geldes sinkt.",
-    "details": "Inflation wird häufig durch eine zu hohe Geldmenge im Verhältnis zur verfügbaren Gütermenge (Nachfrageinflation) oder durch steigende Produktionskosten (Kosteninflation) verursacht. Zentralbanken steuern die Inflation meist über Leitzinsen; hohe Zinsen dämpfen die Nachfrage und reduzieren die Geldmenge, niedrige Zinsen stimulieren die Wirtschaft, können aber Inflation anheizen. Eine moderate Inflation gilt oft als Indikator für eine wachsende Wirtschaft, während hohe oder unkontrollierte Inflation die wirtschaftliche Stabilität gefährdet, Sparguthaben entwertet und Investitionen hemmt.",
-    "takeaway": "Das Verständnis von Inflationsursachen und geldpolitischen Maßnahmen ist entscheidend für das Treffen fundierter Wirtschaftsentscheidungen, sowohl auf individueller als auch auf unternehmerischer Ebene, um Vermögenswerte zu schützen und Risiken zu minimieren."
+    "topic": "Optionen vs. Optionsscheine: Der feine Unterschied bei Finanzderivaten",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Optionen und Optionsscheine sind beides Hebelprodukte, die das Recht, aber nicht die Pflicht verleihen, einen Basiswert zu einem bestimmten Preis zu kaufen oder zu verkaufen. Ihr fundamentaler Unterschied liegt in ihrer Herkunft und Struktur.",
+    "details": "Optionen sind standardisierte, börsengehandelte Derivate, deren Handel durch Clearingstellen reguliert wird; sie sind bilaterale Verträge und können sowohl gekauft als auch verkauft (stillhalterisch) werden. Optionsscheine hingegen sind Schuldverschreibungen, die von Banken (Emittenten) ausgegeben werden und meist außerbörslich gehandelt werden; hier existiert nur die Kaufseite vom Emittenten. Der Preis von Optionen wird primär von Angebot und Nachfrage bestimmt, während der Emittent bei Optionsscheinen maßgeblich den Preis und die Konditionen festlegt, wodurch auch das Emittentenrisiko eine Rolle spielt. Optionsscheine haben oft eine längere Laufzeit und sind weniger flexibel in Bezug auf die Ausübung.",
+    "takeaway": "Optionen bieten aufgrund ihrer Standardisierung und Handelbarkeit eine höhere Transparenz und Flexibilität; Optionsscheine sind vom Emittenten abhängig und bergen ein zusätzliches Ausfallrisiko. Wähle basierend auf dem gewünschten Risiko und der Transparenz."
   }
 }
