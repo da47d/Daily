@@ -4,9 +4,11 @@ import xml.etree.ElementTree as ET
 import requests
 
 def get_raw_news():
-    print("Hole aktuelle Schlagzeilen...")
+    print("Hole aktuelle Schlagzeilen aus erweiterten Quellen...")
     feeds = [
         "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
+        "https://www.nzz.ch/wirtschaft.rss",
+        "https://www.n-tv.de/ticker/rss",
         "https://search.yahoo.com/mrss/archive/techcrunch"
     ]
     headlines = []
@@ -14,8 +16,8 @@ def get_raw_news():
         try:
             response = requests.get(url, timeout=10)
             root = ET.fromstring(response.content)
-            for item in root.findall('.//item')[:15]:
-                title = item.find('title').text
+            for item in root.findall('.//item')[:12]:
+                title = item.find('title').text if item.find('title') is not None else ""
                 desc = item.find('description').text if item.find('description') is not None else ""
                 headlines.append(f"Titel: {title}\nInhalt: {desc}\n---")
         except Exception as e:
@@ -23,7 +25,7 @@ def get_raw_news():
     return "\n".join(headlines)
 
 def generate_content_with_ai(raw_text):
-    print("Rufe Gemini für gefilterte News und Finanz-Lektion auf...")
+    print("Rufe Gemini für die neuen Kategorien und die praxisnahe Finance-Matrix auf...")
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise ValueError("GEMINI_API_KEY fehlt!")
@@ -31,47 +33,69 @@ def generate_content_with_ai(raw_text):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     
     prompt = f"""
-    Du bist Chefredakteur für ein minimalistisches Finanz- und Business-Dashboard.
-    Hier sind rohe Nachrichtenmeldungen:
+    Du bist Chefredakteur für ein minimalistisches, hochgradig personalisiertes Dashboard eines Finance-Studenten.
+    Hier sind die aktuellen rohen Nachrichtenmeldungen des Tages:
     {raw_text}
     
-    Erstelle daraus ein sauberes JSON-Paket nach folgenden strengen Regeln:
+    Deine Aufgabe ist es, diese Meldungen zu filtern, drastisch zu kürzen (maximal 2 prägnante Sätze pro Zusammenfassung) und strikt in die folgenden 4 Kategorien zu sortieren. 
+    Lösche irrelevante Meldungen eiskalt.
 
-    KATEGORIE 'global' (Genau 3 Meldungen):
-    - Hier landen alle makroökonomischen, geldpolitischen und weltpolitischen Themen.
-    - WICHTIG: Politische Konflikte, Unfälle, Katastrophen oder Drohneneinschläge gehören AUSSCHLIESSLICH hierhin! Niemals in VC.
+    ---
+    
+    1. KATEGORIE 'politics' (Genau 2 Meldungen):
+       - Fokus: Geopolitische Großereignisse und weltweite Politik, die direkten Einfluss auf die Stimmung an den globalen Märkten haben (z.B. Wahlen, internationale Konflikte, Sanktionen, wichtige Handelszölle).
 
-    KATEGORIE 'vc' (Genau 2 Meldungen):
-    - Hier landen NUR echte Startup-News, Risikokapital (Venture Capital), Tech-Investments, KI-SaaS-Tools oder M&A-Deals.
-    - Keine allgemeine Weltpolitik hier abspeichern!
+    2. KATEGORIE 'macro' (Genau 2 Meldungen):
+       - Fokus: Harte wirtschaftliche Fakten. Makroökonomische Trends, Zinsentscheidungen von EZB/Fed, Inflationsdaten, große M&A-Deals, Private Equity Übernahmen und Konjunkturprognosen.
 
-    KATEGORIE 'learning':
-    Generiere eine lehrreiche, leicht verständliche 3-Minuten-Theorie-Lektion für Studenten. Rotiere täglich durch folgende Gebiete:
-    - Makro & Krisen (z.B. Funktionsweise Inflation, Goldstandard, Finanzkrise 2008)
-    - Corporate Finance & Valuation (z.B. DCF-Verfahren, Multiples, Leverage-Effekt, WACC)
-    - Private Equity & Asset Management (z.B. LBO-Deals, OTC-Derivate, Funktionsweise Investmentfonds)
-    - Auditing & Accounting (z.B. Going-Concern-Prinzip, HGB vs. IFRS Grundlagen, Bilanzposten-Prüfung)
-    - WICHTIG: Keine Programmiercodes, keine Excel-Formeln. Reiner, stark strukturierter, professioneller Text.
+    3. KATEGORIE 'buzz' (Genau 2 Meldungen):
+       - Fokus: Top Stories. Wichtige globale Ereignisse, über die man im Alltag spricht und die Schlagzeilen außerhalb der reinen Wirtschaftswelt dominieren (z.B. Technologie-Meilensteine, große Sport-Events wie Entwicklungen nach dem Champions-League-Finale, spektakuläre Produkt-Launches). Keine Boulevard-Gerüchte, sondern echte Top-Schlagzeilen.
 
-    Antworte NUR mit reinem JSON-Code. Verwende keine Markdown-Formatierung (keine ```json am Anfang oder Ende).
+    4. KATEGORIE 'vc' (Genau 2 Meldungen):
+       - Fokus: Startups & Venture Capital. Wichtige Tech-Finanzierungsrunden (ab Series A), neue VC-Fonds, bahnbrechende Tech-Prototypen oder Gründer-Storys.
 
-    Exakte Struktur:
+    ---
+
+    5. KATEGORIE 'learning' (Tägliches 3-Minuten-Wissen):
+       Generiere eine lehrreiche, extrem gut verständliche Theorie-Lektion, um die "Finance-Sprache" und das Marktgeschehen zu entschlüsseln. 
+       Wähle eigenständig EIN spezifisches Thema aus einem dieser vier rotierenden Gebiete:
+       
+       - Finanz-Dechiffrierung: Abkürzungen und Produktbezeichnungen zerlegen (z.B. ETF-Namenszusätze wie Core, IMI, Acc vs. Dist, UCITS, Swap/Physisch; Startup-Slang wie SaaS, B2B, ARR, Burn Rate, Churn; M&A-Unterschiede wie Strategic vs. Financial Buyer).
+       - Historische Finanzereignisse & Krisen: Meilensteine kurz erklärt (z.B. Das Black-Swan-Konzept, die Tulpenmanie 1637, das Bretton-Woods-System, der Kern der Dotcom-Blase oder Lehman-Pleite 2008).
+       - Finanzprodukte verständlich erklärt: Logische Funktionsweise komplexer Instrumente (z.B. Derivate über den Ernte-Vergleich, Optionen vs. Optionsscheine, Arbeitsweise von Hedgefonds, Ablauf eines Short Squeeze).
+       - Tech & VC Deal-Decoder: Vertragliche und finanzielle Strukturierung von Deals (z.B. Cap-Table-Logik bei einer Down Round, Pre-Money vs. Post-Money Bewertung, Bedeutung von Vesting für Gründer, Asset Deal vs. Share Deal).
+
+       STRIKTE VERBOTENE THEMEN (BANNED LIST):
+       Generiere unter gar keinen Umständen etwas zu: "DCF-Verfahren" / "Discounted Cash Flow", "EBITDA", "Leverage-Effekt" oder den absoluten Grundlagen. Diese Themen sind gesperrt! Konzentriere dich auf die logische Mechanik, keine mathematischen Formeln, keine Programmiercodes, keine Excel-Formeln.
+
+    ---
+
+    Antworte AUSSCHLIESSLICH mit reinem JSON-Code. Verwende keine Markdown-Formatierung (KEINE ```json am Anfang oder Ende).
+
+    Exakte JSON-Struktur:
     {{
-        "global": [
-            {{ "tag": "MARKT/POLITIK", "headline": "Griffige Schlagzeile", "summary": "Kurze, präzise Zusammenfassung." }},
-            {{ "tag": "MARKT/POLITIK", "headline": "...", "summary": "..." }},
-            {{ "tag": "MARKT/POLITIK", "headline": "...", "summary": "..." }}
+        "politics": [
+            {{ "tag": "POLITIK & GLOBAL", "headline": "Schlagzeile", "summary": "Maximal zwei Sätze." }},
+            {{ "tag": "POLITIK & GLOBAL", "headline": "...", "summary": "..." }}
+        ],
+        "macro": [
+            {{ "tag": "MACRO ECONOMY", "headline": "Schlagzeile", "summary": "Maximal zwei Sätze." }},
+            {{ "tag": "MACRO ECONOMY", "headline": "...", "summary": "..." }}
+        ],
+        "buzz": [
+            {{ "tag": "TOP STORIES", "headline": "Schlagzeile", "summary": "Maximal zwei Sätze." }},
+            {{ "tag": "TOP STORIES", "headline": "...", "summary": "..." }}
         ],
         "vc": [
-            {{ "tag": "TECH/STARTUP", "headline": "Startup Schlagzeile", "summary": "Zusammenfassung des Investments/Tools." }},
-            {{ "tag": "TECH/STARTUP", "headline": "...", "summary": "..." }}
+            {{ "tag": "STARTUPS & VC", "headline": "Schlagzeile", "summary": "Maximal zwei Sätze." }},
+            {{ "tag": "STARTUPS & VC", "headline": "...", "summary": "..." }}
         ],
         "learning": {{
-            "topic": "Ein starker Titel für die heutige Lektion",
+            "topic": "Titel der Lektion",
             "category": "Die Fach-Kategorie",
             "concept": "Die Kernaussage in 1-2 Sätzen.",
-            "details": "Die genaue theoretische Funktionsweise oder historische Einordnung (1 kompakter Absatz).",
-            "takeaway": "Das wichtigste Learning für die Praxis (1-2 Sätze)."
+            "details": "Die genaue logische Funktionsweise und Relevanz für die Praxis (1 kompakter Absatz).",
+            "takeaway": "Das wichtigste Learning für die Praxis oder Interviews (1-2 Sätze)."
         }}
     }}
     """
@@ -96,6 +120,6 @@ if __name__ == "__main__":
             
             with open("news.json", "w", encoding="utf-8") as f:
                 json.dump(parsed_json, f, ensure_ascii=False, indent=2)
-            print("news.json wurde erfolgreich im neuen Kombi-Format gespeichert!")
+            print("news.json wurde erfolgreich im neuen 4-Kategorien-Format gespeichert!")
         except Exception as e:
             print(f"Fehler bei der JSON-Erstellung: {e}")
