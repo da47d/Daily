@@ -1,38 +1,38 @@
 {
   "global": [
     {
-      "tag": "POLITIK/KONFLIKT",
-      "headline": "Nahost-Konflikt: Israel rückt weiter in Libanon vor",
-      "summary": "Die israelische Armee dringt laut Premier Netanjahu trotz laufender Washington-Gespräche mit dem Libanon immer weiter ins Landesinnere vor."
+      "tag": "MARKT/POLITIK",
+      "headline": "Israelische Truppen nehmen strategische Burg Beaufort im Südlibanon ein",
+      "summary": "Im Südlibanon haben israelische Streitkräfte die symbolträchtige Burg Beaufort eingenommen und dort erstmals seit 26 Jahren die israelische Flagge gehisst, was den weiteren Vormarsch gegen die Hisbollah markiert."
     },
     {
-      "tag": "POLITIK/DIPLOMATIE",
-      "headline": "USA und Iran: Keine Einigung im Abkommen",
-      "summary": "Eine angekündigte Lagebesprechung im Weißen Haus zu einem Abkommen für ein Ende des Iran-Kriegs endete ohne einen Durchbruch zwischen den Parteien."
+      "tag": "MARKT/POLITIK",
+      "headline": "US-Militär stoppt erneut Schiff im Golf von Oman mit Raketenbeschuss",
+      "summary": "Die US-Armee meldet, ein Schiff auf dem Weg in den Iran im Golf von Oman gewaltsam gestoppt zu haben. Eine Rakete sei auf die 'Lian Star' abgefeuert worden, was die Spannungen in der Straße von Hormus weiter verschärft."
     },
     {
-      "tag": "SICHERHEIT/VORFALL",
-      "headline": "Drohnenalarm: Flughafen München vorübergehend gesperrt",
-      "summary": "Nach einer möglichen Drohnensichtung musste der Flugbetrieb am Münchner Flughafen für eine Stunde eingestellt werden, was zu Flugausfällen führte."
+      "tag": "MARKT/POLITIK",
+      "headline": "Waffenruhe zwischen USA und Iran stockt: Beide Seiten fordern Nachbesserungen",
+      "summary": "Die Verhandlungen über eine Verlängerung der Waffenruhe zwischen den USA und Iran sind ins Stocken geraten. US-Präsident Trump und auch der Iran zeigen sich unzufrieden mit dem bisherigen Deal und fordern Nachbesserungen."
     }
   ],
   "vc": [
     {
       "tag": "TECH/STARTUP",
-      "headline": "KI-Startup sichert Millionen-Investment für SaaS-Plattform",
-      "summary": "Ein führendes Startup im Bereich Künstliche Intelligenz hat eine signifikante Venture-Capital-Finanzierungsrunde abgeschlossen, um seine innovative SaaS-Lösung auszubauen."
+      "headline": "KI-generierter Content auf Social Media birgt Risiken für Kinder",
+      "summary": "KI-generierte Videos wie 'Fruit Love Island' fluten Instagram und TikTok, was Psychologen zufolge negative Auswirkungen auf die Entwicklung von Kindern haben und Ängste schüren kann – eine neue Herausforderung für Tech-Plattformen."
     },
     {
       "tag": "TECH/STARTUP",
-      "headline": "M&A-Deal: Software-Firma übernimmt Spezialisten für Cloud-Lösungen",
-      "summary": "Ein auf Unternehmenssoftware spezialisiertes Unternehmen hat erfolgreich einen Anbieter von Cloud-Infrastruktur-Lösungen akquiriert, um Synergien im B2B-Markt zu schaffen."
+      "headline": "Investoren setzen auf deutschen Inlandstourismus: Wachstumsimpulse für die Wirtschaft",
+      "summary": "Der boomende Inlandstourismus in Deutschland zieht Investitionen in Ferienparks an. Dies könnte nicht nur lokalen Einzelhändlern und Restaurants zugutekommen, sondern auch als wichtiger Konjunkturmotor in wirtschaftlich schwierigen Zeiten dienen, was den Sektor attraktiv für Kapital macht."
     }
   ],
   "learning": {
-    "topic": "Discounted Cash Flow (DCF): Die Bewertungsgrundlage",
+    "topic": "Das Discounted Cash Flow (DCF)-Verfahren: Herzstück der Unternehmensbewertung",
     "category": "Corporate Finance & Valuation",
-    "concept": "Das DCF-Verfahren bewertet ein Unternehmen oder Projekt, indem es zukünftige freie Cashflows prognostiziert und diese auf ihren heutigen Wert diskontiert, um den intrinsischen Wert zu ermitteln.",
-    "details": "Beim DCF-Verfahren werden zunächst die Free Cash Flows to Firm (FCFF) oder Free Cash Flows to Equity (FCFE) für einen detaillierten Prognosezeitraum (oft 5-10 Jahre) geschätzt. Danach wird ein Terminal Value (Endwert) für die Periode nach dem Prognosezeitraum berechnet, der das fortlaufende Geschäft abbildet. Alle diese zukünftigen Cashflows werden anschließend mithilfe eines Diskontierungssatzes – dem Weighted Average Cost of Capital (WACC) für FCFF oder den Eigenkapitalkosten für FCFE – auf den heutigen Barwert abgezinst und summiert. Das Ergebnis ist der intrinsische Wert des Unternehmens oder Projekts.",
-    "takeaway": "Der DCF ist eine fundamentale Bewertungsmethode, die auf der zukünftigen Ertragskraft eines Unternehmens basiert. Er ist robust, erfordert aber präzise Annahmen über zukünftige Cashflows und den angemessenen Diskontierungsfaktor."
+    "concept": "Das DCF-Verfahren bewertet ein Unternehmen oder Projekt, indem es alle zukünftigen freien Cashflows prognostiziert und diese auf den heutigen Wert abzinst, um den intrinsischen Wert zu ermitteln.",
+    "details": "Das DCF-Verfahren ist eine der gängigsten Methoden zur Bewertung von Unternehmen. Es basiert auf der Annahme, dass der Wert eines Unternehmens durch die Summe seiner zukünftigen, auf den heutigen Tag abgezinsten Cashflows bestimmt wird. Dabei werden detaillierte Prognosen für die freien Cashflows (operativer Cashflow minus Investitionen) über einen Planungszeitraum von meist fünf bis zehn Jahren erstellt. Nach diesem expliziten Zeitraum wird ein sogenannter Residualwert (Terminal Value) berechnet, der alle zukünftigen Cashflows über den Planungszeitraum hinaus abbildet. Beide Komponenten, die expliziten Cashflows und der Residualwert, werden anschließend mit dem gewichteten durchschnittlichen Kapitalkostensatz (WACC) diskontiert, um ihren Barwert zu erhalten. Die Summe dieser Barwerte stellt den Unternehmenswert dar.",
+    "takeaway": "Das DCF-Verfahren bietet eine fundierte, zukunftsorientierte Unternehmensbewertung, erfordert jedoch präzise Annahmen über zukünftige Cashflows und den Abzinsungssatz, deren Sensitivität den ermittelten Wert stark beeinflussen kann."
   }
 }
