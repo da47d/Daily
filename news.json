@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran setzt Gespräche mit USA aus",
-      "summary": "Aus Verärgerung über den israelischen Vormarsch im Libanon hat der Iran indirekte Gespräche mit den USA über eine Konfliktbeilegung abgebrochen. Die Meldung erfolgte über eine der Revolutionsgarde nahestehende iranische Nachrichtenagentur."
+      "headline": "Trump spricht von Deeskalation im Libanon",
+      "summary": "US-Präsident Trump verkündet eine Deeskalation im Libanon, nachdem er mit Israels Premier Netanjahu gesprochen habe. Auch die Hisbollah soll einer Einstellung der Kämpfe zugestimmt haben, wodurch ein neuer Angriff auf Beirut vorerst ausbleibt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israel weitet Offensive aus: Angriffe auf Beirut angeordnet",
-      "summary": "Israel hat seine Offensive im Libanon mit neuen Angriffen auf Hisbollah-Ziele in Beirut ausgeweitet. Eine deutsche Ministerin brach daraufhin ihre Libanon-Reise ab, während die EU Israels Vorgehen kritisierte."
+      "headline": "Iran setzt offenbar Gespräche mit USA über Konfliktbeilegung aus",
+      "summary": "Aus Verärgerung über Israels Vormarsch im Libanon hat der Iran laut Staatsmedien die indirekten Gespräche mit den USA abgebrochen. Dieser Schritt deutet auf eine weitere Verschärfung der Spannungen im Nahost-Konflikt hin."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Inflationsangst kehrt zurück: Iran-Krieg als wirtschaftliche Dauerlast",
-      "summary": "Die Hoffnung auf einen kurzen Schock durch den Iran-Krieg schwindet, da Angebotsengpässe anhalten. Dies lässt die Angst vor einem anhaltenden Inflationsszenario wachsen, das Anleger und Zentralbanken fürchten."
+      "headline": "Marktbericht: DAX fällt zurück",
+      "summary": "Der DAX konnte sein anfängliches Plus nicht halten und fiel zum Handelsschluss zurück, während andere Börsen KI-Unternehmen feierten. Die Rückschläge bei den Iran-Verhandlungen trugen maßgeblich zur negativen Stimmung bei."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Iran-Krieg: Existenzielle Bedrohung durch Energiepreise in Schwellenländern",
-      "summary": "In vielen Schwellenländern Asiens und Afrikas führen die enormen Energiepreise infolge des Iran-Kriegs zu drastischen Einschränkungen. Dieselpreise verdoppelten sich, was Beamte und Garküchen stark beeinträchtigt."
+      "headline": "Die Rückkehr der Inflationsangst: Der festgefahrene Iran-Krieg wird zur wirtschaftlichen Dauerbelastung",
+      "summary": "Die Hoffnung auf einen kurzen Schock durch den Iran-Krieg schwindet, da Angebotsengpässe anhalten. Dies führt zu einer wachsenden Inflationsangst, die Anleger und Zentralbanken weltweit beunruhigt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia tritt mit KI-Chips in den Windows-Laptop-Markt ein",
-      "summary": "Chiphersteller Nvidia steigt mit sogenannten RTX-Spark-Laptops, die auf Windows basieren, in den PC-Markt ein und fordert Intel sowie AMD heraus. CEO Huangs Vision reicht dabei weit über Computer hinaus, um Haushalte digital zu vernetzen."
+      "headline": "Studie: mRNA-Impfung senkt das Risiko für Hautkrebs-Rückfall",
+      "summary": "Aktuelle Daten deuten darauf hin, dass eine mRNA-Impfung in Kombination mit einer Immuntherapie das Risiko für Hautkrebs-Rückfälle senken könnte. Angesichts der steigenden Fallzahlen bietet dies einen potenziell wichtigen medizinischen Fortschritt."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Tschechisches Gericht ordnet Auslieferung von Neonazi Liebich an",
-      "summary": "Ein Gericht in Tschechien hat entschieden, die Rechtsextremistin Liebich nach Deutschland auszuliefern, wo sie eine Haftstrafe absitzen soll. Damit rückt ihre Überstellung in die Bundesrepublik näher."
+      "headline": "Nvidia drängt mit KI-Chips in den Markt für Windows-Notebooks",
+      "summary": "Der Chiphersteller Nvidia betritt mit neuen RTX-Spark-Laptops den PC-Markt und fordert Intel sowie AMD heraus. CEO Huangs Vision zielt darauf ab, Haushalt und digitales Leben nahtlos durch KI-Chips zu verknüpfen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "SpaceX-Aktien: Volatilität nach Börsengang erwartet",
-      "summary": "Die Attraktivität von SpaceX-Aktien wird stark vom Zeitpunkt des Kaufs nach dem Börsengang abhängen. Ähnlich wie bei Tesla-Titeln ist mit extremer Volatilität zu rechnen."
+      "headline": "KI-Unternehmen Anthropic bereitet Börsengang vor",
+      "summary": "Das für seine KI-Anwendung Claude bekannte US-Unternehmen Anthropic hat erste Unterlagen für einen Börsengang eingereicht. Dies markiert einen wichtigen Schritt auf dem Weg an die öffentliche Börse für einen der führenden KI-Akteure."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Peter Thiel findet politische Heimat in Argentinien",
-      "summary": "Der amerikanische Tech-Unternehmer und Anarchokapitalist Peter Thiel siedelt nach Buenos Aires über. Er findet dort in der Regierung des ebenfalls anarchokapitalistischen Javier Milei einen Gleichgesinnten und sicheren Hafen."
+      "headline": "Sind SpaceX-Aktien attraktiv? Die Antwort hängt ganz davon ab, in welchem Jahr nach dem Börsengang man sie kauft",
+      "summary": "Die Attraktivität von SpaceX-Aktien nach einem Börsengang wird als stark volatil eingeschätzt, ähnlich dem Kursverlauf von Tesla. Anleger sollten sich auf erhebliche Schwankungen einstellen, abhängig vom Zeitpunkt ihres Einstiegs."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Eine explosive Marktbewegung",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein plötzlicher, starker Kursanstieg einer Aktie, der Leerverkäufer zwingt, ihre Positionen mit Verlust zu decken und so den Kurs weiter nach oben treibt.",
-    "details": "Wenn viele Anleger auf fallende Kurse wetten (leerverkaufen), indem sie Aktien leihen und sofort verkaufen, müssen sie diese später zurückkaufen. Steigt der Kurs unerwartet stark an, geraten Leerverkäufer unter Druck, die geliehenen Aktien schnell zurückzukaufen, um Verluste zu begrenzen. Dieser erzwungene Rückkauf erzeugt eine zusätzliche Nachfrage, die den Kurs noch weiter in die Höhe treibt – eine sich selbst verstärkende Aufwärtsspirale.",
-    "takeaway": "Ein Short Squeeze zeigt, wie die Angst vor Verlusten bei Leerverkäufern paradoxerweise zu massiven Kursgewinnen führen kann und ist ein Beispiel für unvorhersehbare Marktdynamiken. Für Investoren kann dies eine Chance oder ein Risiko bedeuten."
+    "topic": "Pre-Money vs. Post-Money Bewertung im Venture Capital",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe sind zentral, um den Wert eines Startups vor und nach einer Investition zu verstehen. Sie definieren, wie neue Investitionen die Eigentumsanteile und die Gesamtbewertung beeinflussen.",
+    "details": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens *vor* dem Erhalt neuer Investitionen. Die Post-Money-Bewertung ergibt sich, indem man die neue Investitionssumme zur Pre-Money-Bewertung addiert. Wenn ein Startup beispielsweise vor einer Finanzierungsrunde (Pre-Money) 10 Millionen Euro wert ist und 2 Millionen Euro frisches Kapital erhält, beträgt die Post-Money-Bewertung 12 Millionen Euro. Aus dieser Post-Money-Bewertung und der Investitionssumme wird dann der Anteil berechnet, den der Investor für sein Geld erhält. Diese Unterscheidung ist entscheidend für Gründer und Investoren, um die Kapitalstruktur und die Verwässerung von Anteilen präzise zu steuern und spätere Verhandlungsrunden zu bewerten.",
+    "takeaway": "Pre-Money ist der Wert vor der Investition, Post-Money der Wert danach (Pre-Money + Investition). Das Verständnis dieser Konzepte ist essentiell, um Anteilsverteilungen und Unternehmenswerte in Finanzierungsrunden korrekt zu analysieren."
   }
 }
