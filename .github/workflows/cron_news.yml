@@ -10,6 +10,11 @@ on:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    
+    # HIER NEU: Das gibt dem Bot die Erlaubnis, die news.json in dein Repo zu schreiben!
+    permissions:
+      contents: write
+
     steps:
     - name: Code auschecken
       uses: actions/checkout@v4
