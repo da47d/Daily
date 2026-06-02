@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump spricht von Deeskalation im Libanon",
-      "summary": "US-Präsident Trump verkündet eine Deeskalation im Libanon, nachdem er mit Israels Premier Netanjahu gesprochen habe. Auch die Hisbollah soll einer Einstellung der Kämpfe zugestimmt haben, wodurch ein neuer Angriff auf Beirut vorerst ausbleibt."
+      "headline": "Explosive Stimmung in Asien und Afrika: Die Folgen des Iran-Kriegs werden für die Menschen zur existenziellen Bedrohung",
+      "summary": "Der anhaltende Iran-Krieg führt in Schwellenländern Asiens und Afrikas zu einer existenziellen Bedrohung durch explodierende Dieselpreise und wirtschaftliche Einschränkungen. Die Auswirkungen auf Beamtenarbeitszeiten und Garküchen verdeutlichen die weitreichenden Folgen des Konflikts."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran setzt offenbar Gespräche mit USA über Konfliktbeilegung aus",
-      "summary": "Aus Verärgerung über Israels Vormarsch im Libanon hat der Iran laut Staatsmedien die indirekten Gespräche mit den USA abgebrochen. Dieser Schritt deutet auf eine weitere Verschärfung der Spannungen im Nahost-Konflikt hin."
+      "headline": "Magyar in Berlin: Ungarn will wieder ein konstruktiver Partner werden",
+      "summary": "Ungarns neuer Ministerpräsident Magyar signalisiert in Berlin den Wunsch, sein Land wieder als verlässlichen EU-Partner zu etablieren. Kanzler Merz begrüßt dies, fordert aber auch Entgegenkommen in der Ukraine-Politik."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX fällt zurück",
-      "summary": "Der DAX konnte sein anfängliches Plus nicht halten und fiel zum Handelsschluss zurück, während andere Börsen KI-Unternehmen feierten. Die Rückschläge bei den Iran-Verhandlungen trugen maßgeblich zur negativen Stimmung bei."
+      "headline": "Referenzzinssatz bleibt bei 1,25 Prozent",
+      "summary": "Der hypothekarische Referenzzinssatz verharrt weiterhin auf seinem Tiefstand von 1,25 Prozent. Dies bedeutet, dass Mieter in der Schweiz vorerst mit unveränderten Mietzinsen rechnen können."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Rückkehr der Inflationsangst: Der festgefahrene Iran-Krieg wird zur wirtschaftlichen Dauerbelastung",
-      "summary": "Die Hoffnung auf einen kurzen Schock durch den Iran-Krieg schwindet, da Angebotsengpässe anhalten. Dies führt zu einer wachsenden Inflationsangst, die Anleger und Zentralbanken weltweit beunruhigt."
+      "headline": "Marktbericht: KI-Hype schlägt Iran-Sorgen",
+      "summary": "Die ungebrochene Euphorie rund um Künstliche Intelligenz konnte an der Börse die Unsicherheit wegen des Iran-Konflikts überlagern. Der DAX verzeichnete heute ein moderates Plus, während die UniCredit ihren Commerzbank-Anteil weiter ausbaute."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Studie: mRNA-Impfung senkt das Risiko für Hautkrebs-Rückfall",
-      "summary": "Aktuelle Daten deuten darauf hin, dass eine mRNA-Impfung in Kombination mit einer Immuntherapie das Risiko für Hautkrebs-Rückfälle senken könnte. Angesichts der steigenden Fallzahlen bietet dies einen potenziell wichtigen medizinischen Fortschritt."
+      "headline": "USA führen freiwilligen Sicherheitstest für neue KI-Modelle ein",
+      "summary": "Die USA führen unter Präsident Trump per Erlass einen freiwilligen Sicherheitstest für neue KI-Modelle durch die US-Regierung ein. Diese Kehrtwende in der Haltung gegenüber KI-Interventionen markiert einen wichtigen Schritt in der Regulierung der Branche."
     },
     {
       "tag": "TOP STORIES",
       "headline": "Nvidia drängt mit KI-Chips in den Markt für Windows-Notebooks",
-      "summary": "Der Chiphersteller Nvidia betritt mit neuen RTX-Spark-Laptops den PC-Markt und fordert Intel sowie AMD heraus. CEO Huangs Vision zielt darauf ab, Haushalt und digitales Leben nahtlos durch KI-Chips zu verknüpfen."
+      "summary": "Chiphersteller Nvidia expandiert aggressiv in den PC-Markt für Windows-Notebooks und fordert damit direkte Konkurrenten wie Intel und AMD heraus. CEO Huangs Vision zielt darauf ab, Haushalt und digitales Leben nahtlos zu verknüpfen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "KI-Unternehmen Anthropic bereitet Börsengang vor",
-      "summary": "Das für seine KI-Anwendung Claude bekannte US-Unternehmen Anthropic hat erste Unterlagen für einen Börsengang eingereicht. Dies markiert einen wichtigen Schritt auf dem Weg an die öffentliche Börse für einen der führenden KI-Akteure."
+      "headline": "Die erwarteten Mega-Börsengänge des Jahres an der Wall Street",
+      "summary": "Nach dem Raumfahrtkonzern SpaceX hat nun auch das KI-Schwergewicht Anthropic einen Börsengang in den USA beantragt. Diese Entwicklungen sind entscheidend für die Bewertung des privaten Tech-Marktes und die Exit-Strategien von Venture-Capital-Firmen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sind SpaceX-Aktien attraktiv? Die Antwort hängt ganz davon ab, in welchem Jahr nach dem Börsengang man sie kauft",
-      "summary": "Die Attraktivität von SpaceX-Aktien nach einem Börsengang wird als stark volatil eingeschätzt, ähnlich dem Kursverlauf von Tesla. Anleger sollten sich auf erhebliche Schwankungen einstellen, abhängig vom Zeitpunkt ihres Einstiegs."
+      "headline": "KURZMELDUNGEN - Wirtschaft: Raumfahrtfirma Axiom Space eröffnet Tochtergesellschaft in Luzern",
+      "summary": "Die Raumfahrtfirma Axiom Space, ein wichtiger Akteur im privaten Raumfahrtsektor, hat eine Tochtergesellschaft in Luzern eröffnet. Dieser Schritt deutet auf Expansionspläne und internationale Wachstumschancen für das Venture-Capital-gestützte Unternehmen hin."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung im Venture Capital",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese Begriffe sind zentral, um den Wert eines Startups vor und nach einer Investition zu verstehen. Sie definieren, wie neue Investitionen die Eigentumsanteile und die Gesamtbewertung beeinflussen.",
-    "details": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens *vor* dem Erhalt neuer Investitionen. Die Post-Money-Bewertung ergibt sich, indem man die neue Investitionssumme zur Pre-Money-Bewertung addiert. Wenn ein Startup beispielsweise vor einer Finanzierungsrunde (Pre-Money) 10 Millionen Euro wert ist und 2 Millionen Euro frisches Kapital erhält, beträgt die Post-Money-Bewertung 12 Millionen Euro. Aus dieser Post-Money-Bewertung und der Investitionssumme wird dann der Anteil berechnet, den der Investor für sein Geld erhält. Diese Unterscheidung ist entscheidend für Gründer und Investoren, um die Kapitalstruktur und die Verwässerung von Anteilen präzise zu steuern und spätere Verhandlungsrunden zu bewerten.",
-    "takeaway": "Pre-Money ist der Wert vor der Investition, Post-Money der Wert danach (Pre-Money + Investition). Das Verständnis dieser Konzepte ist essentiell, um Anteilsverteilungen und Unternehmenswerte in Finanzierungsrunden korrekt zu analysieren."
+    "topic": "Startup-Slang: ARR, Burn Rate, Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese zentralen Begriffe der Startup-Welt sind entscheidend, um Wachstum, finanzielle Gesundheit und Risiken eines jungen Unternehmens zu bewerten.",
+    "details": "ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements und Verträgen, der die Stabilität der Einnahmen von oft SaaS-basierten Startups anzeigt. Die Burn Rate beziffert, wie schnell ein Startup sein verfügbares Kapital pro Monat verbraucht, woraus sich die verbleibende Zeit bis zur nächsten Finanzierungsrunde (Runway) ableiten lässt. Die Churn Rate misst wiederum die Abwanderung von Kunden oder Umsatz über einen bestimmten Zeitraum, wobei hohe Raten auf Probleme bei Produkt, Service oder Wettbewerbsfähigkeit hinweisen und das Wachstum signifikant bremsen können.",
+    "takeaway": "Das präzise Verständnis von ARR, Burn Rate und Churn ist unerlässlich, um die Performance von Startups zu analysieren, Investitionsentscheidungen zu treffen und realistische Erwartungen an ihr zukünftiges Potenzial zu formulieren."
   }
 }
