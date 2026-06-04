@@ -6,10 +6,10 @@ import requests
 def get_raw_news():
     print("Hole aktuelle Schlagzeilen aus erweiterten Quellen...")
     feeds = [
-        "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
-        "https://www.nzz.ch/wirtschaft.rss",
-        "https://www.n-tv.de/ticker/rss",
-        "https://techcrunch.com/feed/"
+        "[https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml](https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml)",
+        "[https://www.nzz.ch/wirtschaft.rss](https://www.nzz.ch/wirtschaft.rss)",
+        "[https://www.n-tv.de/ticker/rss](https://www.n-tv.de/ticker/rss)",
+        "[https://techcrunch.com/feed/](https://techcrunch.com/feed/)"
     ]
     headlines = []
     for url in feeds:
@@ -30,7 +30,7 @@ def generate_content_with_ai(raw_text):
     if not api_key:
         raise ValueError("GEMINI_API_KEY fehlt!")
         
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
+    url = f"[https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=](https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=){api_key}"
     
     prompt = f"""
     Du bist Chefredakteur für ein minimalistisches, hochgradig personalisiertes Dashboard eines Finance-Studenten.
@@ -70,9 +70,7 @@ def generate_content_with_ai(raw_text):
 
     ---
 
-    Antworte AUSSCHLIESSLICH mit reinem JSON-Code. Verwende keine Markdown-Formatierung (KEINE ```json am Anfang oder Ende).
-
-    Exakte JSON-Struktur:
+    Exakte JSON-Struktur, die du befüllen musst:
     {{
         "politics": [
             {{ "tag": "POLITIK & GLOBAL", "headline": "Schlagzeile", "summary": "Maximal zwei Sätze." }},
@@ -100,7 +98,14 @@ def generate_content_with_ai(raw_text):
     }}
     """
     
-    payload = {"contents": [{"parts": [{"text": prompt}]}]}
+    # Hier zwingen wir die API über die Config zu sauberem JSON ohne Backticks:
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "responseMimeType": "application/json"
+        }
+    }
+    
     response = requests.post(url, json=payload, timeout=60)
     response.raise_for_status()
     
@@ -111,13 +116,9 @@ def generate_content_with_ai(raw_text):
 if __name__ == "__main__":
     raw_data = get_raw_news()
     if raw_data:
-        # Wir entfernen das try-except hier, damit Fehler direkt an GitHub gemeldet werden
         ai_json_text = generate_content_with_ai(raw_data)
         
-        if ai_json_text.startswith("```"):
-            ai_json_text = ai_json_text.split("
-```json")[-1].split("```")[0].strip()
-            
+        # Dank responseMimeType ist der Text jetzt IMMER direkt valides JSON!
         parsed_json = json.loads(ai_json_text)
         
         with open("news.json", "w", encoding="utf-8") as f:
