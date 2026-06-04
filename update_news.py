@@ -9,7 +9,7 @@ def get_raw_news():
         "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
         "https://www.nzz.ch/wirtschaft.rss",
         "https://www.n-tv.de/ticker/rss",
-        "https://search.yahoo.com/mrss/archive/techcrunch"
+        "https://techcrunch.com/feed/"
     ]
     headlines = []
     for url in feeds:
@@ -101,7 +101,7 @@ def generate_content_with_ai(raw_text):
     """
     
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
-    response = requests.post(url, json=payload, timeout=30)
+    response = requests.post(url, json=payload, timeout=60)
     response.raise_for_status()
     
     result = response.json()
@@ -111,15 +111,15 @@ def generate_content_with_ai(raw_text):
 if __name__ == "__main__":
     raw_data = get_raw_news()
     if raw_data:
-        try:
-            ai_json_text = generate_content_with_ai(raw_data)
-            if ai_json_text.startswith("```"):
-                ai_json_text = ai_json_text.split("```json")[-1].split("```")[0].strip()
-                
-            parsed_json = json.loads(ai_json_text)
+        # Wir entfernen das try-except hier, damit Fehler direkt an GitHub gemeldet werden
+        ai_json_text = generate_content_with_ai(raw_data)
+        
+        if ai_json_text.startswith("```"):
+            ai_json_text = ai_json_text.split("
+```json")[-1].split("```")[0].strip()
             
-            with open("news.json", "w", encoding="utf-8") as f:
-                json.dump(parsed_json, f, ensure_ascii=False, indent=2)
-            print("news.json wurde erfolgreich im neuen 4-Kategorien-Format gespeichert!")
-        except Exception as e:
-            print(f"Fehler bei der JSON-Erstellung: {e}")
+        parsed_json = json.loads(ai_json_text)
+        
+        with open("news.json", "w", encoding="utf-8") as f:
+            json.dump(parsed_json, f, ensure_ascii=False, indent=2)
+        print("news.json wurde erfolgreich gespeichert!")
