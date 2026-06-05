@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Dollar, Trump und KI-Aktien: Werden die USA zum Risiko im Depot?",
-      "summary": "Die Dominanz von US-Aktien im Depot deutscher Anleger steht auf dem Prüfstand. Ein schwacher Dollar, Trumps potenzielle Politik und die Abhängigkeit von KI-Titeln werfen Fragen nach der langfristigen Gesundheit dieser Strategie auf."
+      "headline": "Ukrainische Seedrohne explodiert in rumänischem Hafen",
+      "summary": "Eine ukrainische Seedrohne ist vor der Küste des EU- und NATO-Staats Rumänien explodiert. Die Ukraine führt die Fehlleitung der Drohne auf russische elektronische Kriegsführung zurück."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Superreiche Prepper befürchten einen Krieg zwischen China und den USA: So rüsten sie sich gegen den Kollaps",
-      "summary": "Äußerst vermögende Familien bereiten sich auf einen möglichen Krieg zwischen China und den USA vor. Sie sichern sich Visa in neutralen Ländern und richten sich auf Kapitalverkehrskontrollen ein, um ihr Vermögen zu schützen."
+      "headline": "Schweiz verhandelt mit den USA trotz neuer Zusatzzölle weiter",
+      "summary": "Die USA haben 15 Prozent Zusatzzölle auf Schweizer Importgüter erhoben, obwohl frühere Zölle für unrechtmäßig erklärt wurden. Der Bundesrat strebt dennoch ein Zollabkommen mit den USA an."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EY-Studie: Deutsche Autobauer fallen im Wettbewerb zurück",
-      "summary": "Deutsche Autohersteller sind laut einer EY-Analyse deutlich weniger profitabel als internationale Konkurrenten. Ihre Gewinne sind zuletzt stark eingebrochen, was ihre Wettbewerbsfähigkeit schwächt."
+      "headline": "Gewinnmitnahmen und Geopolitik drücken den DAX ins Minus",
+      "summary": "Der DAX beendete die Woche im Minus, beeinflusst durch Gewinnmitnahmen und die angespannte geopolitische Lage in Nahost. Positive US-Konjunkturdaten konnten den Abwärtstrend, insbesondere bei Chip-Aktien, nicht aufhalten."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Die KI-Rally stockt",
-      "summary": "Nach einer Phase der Begeisterung macht sich an den Börsen Ernüchterung breit, die KI-Rally stagniert. Der DAX startet tiefer in den Tag, während Investoren auf weitere Entwicklungen im Nahen Osten und US-Jobdaten warten."
+      "headline": "Wirtschaftsleistung der Eurozone im ersten Quartal geschrumpft",
+      "summary": "Die Wirtschaftsleistung der Eurozone ist im ersten Quartal um 0,2 Prozent zurückgegangen, hauptsächlich wegen eines Konjunktureinbruchs in Irland. Deutschland verzeichnete laut Statistikamt hingegen ein leichtes Wachstum."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Elon Musk strebt beim Börsengang von SpaceX eine Bewertung von 1,8 Billionen Dollar an",
-      "summary": "Elon Musk plant, SpaceX mit einer spektakulären Bewertung von 1,8 Billionen Dollar an die Börse zu bringen. Dies würde neue Maßstäbe für Tech-IPOs setzen und könnte Musks eigenes Vermögen dramatisch beeinflussen."
+      "headline": "ISS-Besatzung suchte Schutz in SpaceX Dragon wegen Lecks",
+      "summary": "Risse und neue Lecks an einem russischen Modul der Internationalen Raumstation zwangen die Besatzung, vorübergehend in ihr angedocktes SpaceX-Raumschiff Dragon auszuweichen. Die NASA hatte bereits seit Längerem Bedenken wegen der Integrität des Moduls."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-      "summary": "Der Airbnb-CEO Brian Chesky kündigt die Gründung eines neuen KI-Labors an, nachdem er zuvor LLM-Partnerschaften abgelehnt hatte. Dies signalisiert eine verstärkte Inhouse-Entwicklung von Künstlicher Intelligenz durch den Reiseplattform-Riesen."
+      "headline": "Google zahlt SpaceX monatlich 920 Mio. US-Dollar für Rechenleistung",
+      "summary": "Google und SpaceX haben eine Vereinbarung bekannt gegeben, wonach Google SpaceX monatlich 920 Millionen US-Dollar für dessen Rechenkapazitäten zahlen wird. Die Nachricht kommt nur eine Woche vor dem erwarteten historischen IPO von SpaceX."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
-      "summary": "Das von Sam Altman unterstützte Fusions-Startup Helion hat 465 Millionen Dollar frisches Kapital erhalten. Ziel ist der Bau eines Fusionskraftwerks für Microsoft bis 2028, was einen großen Schritt in der Energieversorgungstechnologie darstellt."
+      "headline": "Elon Musk peilt 1,8 Billionen Dollar Bewertung für SpaceX-IPO an",
+      "summary": "Elon Musk setzt beim bevorstehenden Börsengang von SpaceX neue Bewertungsmaßstäbe, indem er eine Bewertung von 1,8 Billionen Dollar anstrebt. Diese spektakuläre Zahl könnte auch sein eigenes Vermögen erheblich beeinflussen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "summary": "Das Startup Poke, das KI-Agenten per Textnachricht anbietet, ist als erster AI-Agent für Apples \"Messages for Business\"-Plattform zugelassen worden. Diese Genehmigung ist ein bedeutender Meilenstein für die Integration von KI in Apples Ökosystem."
+      "headline": "Supabase verdoppelt Bewertung auf 10 Milliarden Dollar in acht Monaten",
+      "summary": "Das Open-Source-Unternehmen Supabase hat seine Bewertung innerhalb von acht Monaten auf 10 Milliarden Dollar verdoppelt. Der schnelle Wachstumserfolg wird maßgeblich KI-Tools wie Claude und Codex zugeschrieben."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Wie Leerverkäufer in die Zange genommen werden",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze tritt auf, wenn der Kurs einer Aktie, die stark leerverkauft wurde, plötzlich stark ansteigt. Dies zwingt Leerverkäufer, ihre Positionen mit Verlust glattzustellen, was den Kurs weiter treibt.",
-    "details": "Leerverkäufer spekulieren auf fallende Kurse, indem sie sich Aktien leihen und sofort verkaufen, in der Hoffnung, sie später günstiger zurückzukaufen. Steigt der Kurs jedoch unerwartet, müssen sie die geliehenen Aktien zurückkaufen, um weitere Verluste zu vermeiden – dies nennt man 'Covering'. Der erzwungene Rückkauf von vielen Leerverkäufern gleichzeitig schafft eine Kaufwelle, die den Kurs massiv in die Höhe treibt und einen Schneeballeffekt auslöst, den sogenannten Short Squeeze.",
-    "takeaway": "Ein Short Squeeze ist eine explosive Marktmechanik, die enorme Gewinne für Long-Positionen und dramatische Verluste für Leerverkäufer bedeuten kann. Es ist ein Indikator für extreme Marktstimmung und kann die Volatilität einer Aktie stark erhöhen."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money Bewertung ist der Unternehmenswert vor einer neuen Investition, während die Post-Money Bewertung den Wert nach Erhalt des Kapitals beschreibt.",
+    "details": "Wenn ein Startup Kapital von Investoren erhält, wird es vor der Investition auf Basis seiner bisherigen Leistung und Zukunftsaussichten bewertet – das ist die Pre-Money Bewertung. Nach der Zusage und Einzahlung des neuen Kapitals erhöht sich dieser Wert um den Investitionsbetrag, was die Post-Money Bewertung ergibt. Sie stellt den Gesamtwert des Unternehmens inklusive des frischen Kapitals dar. Für Gründer ist es entscheidend, dies zu verstehen, da die Pre-Money Bewertung festlegt, wie viele Anteile die neuen Investoren für ihr Kapital erhalten und wie stark die bestehenden Anteile der Gründer verwässert werden.",
+    "takeaway": "Für Investoren ist die Pre-Money Bewertung der Ausgangspunkt ihrer Beteiligungskalkulation, während Gründer sie zur Planung der künftigen Kapitalstruktur und der anteiligen Verwässerung ihres Eigentumsanteils nutzen."
   }
 }
