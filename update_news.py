@@ -6,10 +6,10 @@ import requests
 def get_raw_news():
     print("Hole aktuelle Schlagzeilen aus erweiterten Quellen...")
     feeds = [
-        "[https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml](https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml)",
-        "[https://www.nzz.ch/wirtschaft.rss](https://www.nzz.ch/wirtschaft.rss)",
-        "[https://www.n-tv.de/ticker/rss](https://www.n-tv.de/ticker/rss)",
-        "[https://techcrunch.com/feed/](https://techcrunch.com/feed/)"
+        "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
+        "https://www.nzz.ch/wirtschaft.rss",
+        "https://www.n-tv.de/ticker/rss",
+        "https://techcrunch.com/feed/"
     ]
     headlines = []
     for url in feeds:
@@ -24,13 +24,19 @@ def get_raw_news():
             print(f"Fehler bei Feed {url}: {e}")
     return "\n".join(headlines)
 
-def generate_content_with_ai(raw_text):
+def generate_content_with_ai(raw_text, last_topic=""):
     print("Rufe Gemini für die neuen Kategorien und die praxisnahe Finance-Matrix auf...")
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise ValueError("GEMINI_API_KEY fehlt!")
         
-    url = f"[https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=](https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=){api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
+    
+    # Dynamischer Zusatz für die Verbotsliste, falls ein altes Thema existiert
+    banned_addon = f', "{last_topic}"' if last_topic else ""
+    memory_instruction = ""
+    if last_topic:
+        memory_instruction = f"\n    ACHTUNG (GEDÄCHTNIS): Gestern hast du das Thema '{last_topic}' behandelt. Wähle heute ZWINGEND ein anderes, neues Thema aus, um Wiederholungen zu vermeiden!\n"
     
     prompt = f"""
     Du bist Chefredakteur für ein minimalistisches, hochgradig personalisiertes Dashboard eines Finance-Studenten.
@@ -59,14 +65,14 @@ def generate_content_with_ai(raw_text):
     5. KATEGORIE 'learning' (Tägliches 3-Minuten-Wissen):
        Generiere eine lehrreiche, extrem gut verständliche Theorie-Lektion, um die "Finance-Sprache" und das Marktgeschehen zu entschlüsseln. 
        Wähle eigenständig EIN spezifisches Thema aus einem dieser vier rotierenden Gebiete:
-       
+       {memory_instruction}
        - Finanz-Dechiffrierung: Abkürzungen und Produktbezeichnungen zerlegen (z.B. ETF-Namenszusätze wie Core, IMI, Acc vs. Dist, UCITS, Swap/Physisch; Startup-Slang wie SaaS, B2B, ARR, Burn Rate, Churn; M&A-Unterschiede wie Strategic vs. Financial Buyer).
        - Historische Finanzereignisse & Krisen: Meilensteine kurz erklärt (z.B. Das Black-Swan-Konzept, die Tulpenmanie 1637, das Bretton-Woods-System, der Kern der Dotcom-Blase oder Lehman-Pleite 2008).
        - Finanzprodukte verständlich erklärt: Logische Funktionsweise komplexer Instrumente (z.B. Derivate über den Ernte-Vergleich, Optionen vs. Optionsscheine, Arbeitsweise von Hedgefonds, Ablauf eines Short Squeeze).
        - Tech & VC Deal-Decoder: Vertragliche und finanzielle Strukturierung von Deals (z.B. Cap-Table-Logik bei einer Down Round, Pre-Money vs. Post-Money Bewertung, Bedeutung von Vesting für Gründer, Asset Deal vs. Share Deal).
 
        STRIKTE VERBOTENE THEMEN (BANNED LIST):
-       Generiere unter gar keinen Umständen etwas zu: "DCF-Verfahren" / "Discounted Cash Flow", "EBITDA", "Leverage-Effekt" oder den absoluten Grundlagen. Diese Themen sind gesperrt! Konzentriere dich auf die logische Mechanik, keine mathematischen Formeln, keine Programmiercodes, keine Excel-Formeln.
+       Generiere unter gar keinen Umständen etwas zu: "DCF-Verfahren" / "Discounted Cash Flow", "EBITDA", "Leverage-Effekt" oder den absoluten Grundlagen. Diese Themen sind gesperrt{banned_addon}! Konzentriere dich auf die logische Mechanik, keine mathematischen Formeln, keine Programmiercodes, keine Excel-Formeln.
 
     ---
 
@@ -98,7 +104,6 @@ def generate_content_with_ai(raw_text):
     }}
     """
     
-    # Hier zwingen wir die API über die Config zu sauberem JSON ohne Backticks:
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
@@ -116,9 +121,20 @@ def generate_content_with_ai(raw_text):
 if __name__ == "__main__":
     raw_data = get_raw_news()
     if raw_data:
-        ai_json_text = generate_content_with_ai(raw_data)
-        
-        # Dank responseMimeType ist der Text jetzt IMMER direkt valides JSON!
+        # HIER NEU: Altes Thema aus der news.json auslesen, falls vorhanden
+        yesterdays_topic = ""
+        if os.path.exists("news.json"):
+            try:
+                with open("news.json", "r", encoding="utf-8") as f:
+                    old_data = json.load(f)
+                    yesterdays_topic = old_data.get("learning", {}).get("topic", "")
+                    if yesterdays_topic:
+                        print(f"Gedächtnis aktiv: Thema von gestern war '{yesterdays_topic}'")
+            except Exception as e:
+                print(f"Konnte altes Gedächtnis nicht lesen (übersprungen): {e}")
+
+        # Übergabe des alten Themas an die KI
+        ai_json_text = generate_content_with_ai(raw_data, yesterdays_topic)
         parsed_json = json.loads(ai_json_text)
         
         with open("news.json", "w", encoding="utf-8") as f:
