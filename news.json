@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukrainische Seedrohne explodiert in rumänischem Hafen",
-      "summary": "Eine ukrainische Seedrohne ist vor der Küste des EU- und NATO-Staats Rumänien explodiert. Die Ukraine führt die Fehlleitung der Drohne auf russische elektronische Kriegsführung zurück."
+      "headline": "Russland meldet Drohnenattacken - auch auf St. Petersburg",
+      "summary": "Russland meldet massive Drohnenattacken auf St. Petersburg während eines Wirtschaftsforums sowie auf Ölinfrastruktur. Diese Eskalation des Konflikts mit der Ukraine könnte globale Märkte beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Schweiz verhandelt mit den USA trotz neuer Zusatzzölle weiter",
-      "summary": "Die USA haben 15 Prozent Zusatzzölle auf Schweizer Importgüter erhoben, obwohl frühere Zölle für unrechtmäßig erklärt wurden. Der Bundesrat strebt dennoch ein Zollabkommen mit den USA an."
+      "headline": "«Realitätsfern» und «scheingenau»: Der US-Handelsbeauftragte liest den Ökonomen die Leviten – und bricht eine Lanze für Zölle",
+      "summary": "Der US-Handelsbeauftragte Jamieson Greer verteidigt Präsident Trumps Zollpolitik und kritisiert die rasante Globalisierung scharf. Seine Aussagen könnten die Debatte um Handelstarife und protektionistische Maßnahmen weiter anheizen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Gewinnmitnahmen und Geopolitik drücken den DAX ins Minus",
-      "summary": "Der DAX beendete die Woche im Minus, beeinflusst durch Gewinnmitnahmen und die angespannte geopolitische Lage in Nahost. Positive US-Konjunkturdaten konnten den Abwärtstrend, insbesondere bei Chip-Aktien, nicht aufhalten."
+      "headline": "Fast jeder neue Fed-Chef musste schwere Börsen-Crashs meistern. Auch für Kevin Warsh ist die Gefahr einer Krise sehr real",
+      "summary": "Die Geschichte zeigt, dass fast jeder neue Fed-Chef mit schweren Börsen-Crashs konfrontiert war, und die Gefahr einer Krise ist auch für Kevin Warsh real. Die US-Notenbank muss sich stets auf grosse Marktturbulenzen einstellen und diese meistern."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Wirtschaftsleistung der Eurozone im ersten Quartal geschrumpft",
-      "summary": "Die Wirtschaftsleistung der Eurozone ist im ersten Quartal um 0,2 Prozent zurückgegangen, hauptsächlich wegen eines Konjunktureinbruchs in Irland. Deutschland verzeichnete laut Statistikamt hingegen ein leichtes Wachstum."
+      "headline": "Trotz Aktienabsturz: Banken stellen sich hinter Partners Group und Private Equity",
+      "summary": "Trotz eines Aktienabsturzes bei Partners Group und Bedenken bezüglich Private Equity halten Grosskunden an ihren Engagements fest. Dies signalisiert Vertrauen in Private Equity als Anlageklasse trotz Marktschwankungen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "ISS-Besatzung suchte Schutz in SpaceX Dragon wegen Lecks",
-      "summary": "Risse und neue Lecks an einem russischen Modul der Internationalen Raumstation zwangen die Besatzung, vorübergehend in ihr angedocktes SpaceX-Raumschiff Dragon auszuweichen. Die NASA hatte bereits seit Längerem Bedenken wegen der Integrität des Moduls."
+      "headline": "Google will pay SpaceX $920M per month for compute",
+      "summary": "Google wird SpaceX monatlich 920 Millionen Dollar für Rechenleistung zahlen, um die unerwartet hohe Nachfrage nach seinen kürzlich eingeführten KI-Produkten zu decken. Dieser Megadeal unterstreicht den enormen Infrastrukturbedarf im KI-Boom."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Google zahlt SpaceX monatlich 920 Mio. US-Dollar für Rechenleistung",
-      "summary": "Google und SpaceX haben eine Vereinbarung bekannt gegeben, wonach Google SpaceX monatlich 920 Millionen US-Dollar für dessen Rechenkapazitäten zahlen wird. Die Nachricht kommt nur eine Woche vor dem erwarteten historischen IPO von SpaceX."
+      "headline": "Die KI-Euphorie macht den Schweizer Industriekonzern Huber + Suhner zum Börsenstar",
+      "summary": "Die KI-Euphorie hat den Schweizer Industriekonzern Huber + Suhner zum Börsenstar gemacht, mit einem Aktienanstieg von über 80% seit Jahresbeginn. Das Unternehmen setzt auf Großgeschäfte mit Betreibern riesiger Rechenzentren wie Google."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Elon Musk peilt 1,8 Billionen Dollar Bewertung für SpaceX-IPO an",
-      "summary": "Elon Musk setzt beim bevorstehenden Börsengang von SpaceX neue Bewertungsmaßstäbe, indem er eine Bewertung von 1,8 Billionen Dollar anstrebt. Diese spektakuläre Zahl könnte auch sein eigenes Vermögen erheblich beeinflussen."
+      "headline": "Supabase doubles valuation to $10B in 8 months",
+      "summary": "Supabase, ein Open-Source-Projekt, das sich zu einem schnell wachsenden Unternehmen entwickelt hat, verdoppelte seine Bewertung innerhalb von acht Monaten auf 10 Milliarden Dollar. Der Erfolg ist massgeblich den eingesetzten KI-Tools wie Claude und Codex zuzuschreiben."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Supabase verdoppelt Bewertung auf 10 Milliarden Dollar in acht Monaten",
-      "summary": "Das Open-Source-Unternehmen Supabase hat seine Bewertung innerhalb von acht Monaten auf 10 Milliarden Dollar verdoppelt. Der schnelle Wachstumserfolg wird maßgeblich KI-Tools wie Claude und Codex zugeschrieben."
+      "headline": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with startup Manus",
+      "summary": "Reid Hoffman, Mitgründer von LinkedIn und bekannter VC, verlässt den Microsoft-Vorstand, um sich auf sein AI-Startup Manus zu konzentrieren. Er wechselt damit zurück in den \"Founder Mode\" für seine neue Unternehmung im Bereich KI-gestützter Medikamentenentwicklung."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money Bewertung ist der Unternehmenswert vor einer neuen Investition, während die Post-Money Bewertung den Wert nach Erhalt des Kapitals beschreibt.",
-    "details": "Wenn ein Startup Kapital von Investoren erhält, wird es vor der Investition auf Basis seiner bisherigen Leistung und Zukunftsaussichten bewertet – das ist die Pre-Money Bewertung. Nach der Zusage und Einzahlung des neuen Kapitals erhöht sich dieser Wert um den Investitionsbetrag, was die Post-Money Bewertung ergibt. Sie stellt den Gesamtwert des Unternehmens inklusive des frischen Kapitals dar. Für Gründer ist es entscheidend, dies zu verstehen, da die Pre-Money Bewertung festlegt, wie viele Anteile die neuen Investoren für ihr Kapital erhalten und wie stark die bestehenden Anteile der Gründer verwässert werden.",
-    "takeaway": "Für Investoren ist die Pre-Money Bewertung der Ausgangspunkt ihrer Beteiligungskalkulation, während Gründer sie zur Planung der künftigen Kapitalstruktur und der anteiligen Verwässerung ihres Eigentumsanteils nutzen."
+    "topic": "Startup-Slang entschlüsselt: ARR, Burn Rate & Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese drei Metriken sind essenziell, um die finanzielle Gesundheit und das Wachstumspotenzial von Startups schnell zu beurteilen. Sie geben Einblick in wiederkehrende Einnahmen, Kapitalverbrauch und Kundenabwanderung.",
+    "details": "ARR (Annual Recurring Revenue) ist der jährliche wiederkehrende Umsatz aus Abonnements oder Verträgen. Es zeigt, wie stabil und prognostizierbar die Einnahmen eines SaaS-Unternehmens sind, unabhängig von einmaligen Zahlungen. Die Burn Rate (Netto-Cashflow) misst, wie schnell ein Startup seine liquiden Mittel verbraucht, in der Regel pro Monat. Sie ist entscheidend, um zu beurteilen, wie lange das Unternehmen ohne weitere Finanzierung überleben kann (\"Runway\"). Churn Rate (Kundenabwanderungsrate) gibt an, welcher Prozentsatz der Kunden oder des Umsatzes in einem bestimmten Zeitraum verloren geht. Eine hohe Churn Rate kann das Wachstum bremsen, selbst bei starkem Neukundengeschäft. Gemeinsam malen diese Kennzahlen ein klares Bild über Skalierbarkeit, Kapitalbedarf und Kundenbindung.",
+    "takeaway": "Um Startups und ihre Finanzierungsrunden zu verstehen, ist es unerlässlich, ARR als Mass für wiederkehrende Einnahmen, die Burn Rate für den Kapitalverbrauch und die Churn Rate für die Kundenbindung zu kennen und zu interpretieren."
   }
 }
