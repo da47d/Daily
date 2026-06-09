@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israel greift erneut Hisbollah-Ziele in Beirut an",
-      "summary": "Trotz eines von US-Präsident Trump verkündeten Stopps hat Israels Armee erneut Hisbollah-Ziele in Beirut angegriffen. Die Militäraktion erfolgte, nachdem die Miliz zuvor Raketen auf Israel abgefeuert hatte."
+      "headline": "Tote bei israelischem Angriff auf libanesische Hafenstadt Tyros",
+      "summary": "Bei einem israelischen Angriff im Südlibanon kam es zu erneuten Todesfällen, was die Waffenruhe mit Iran und die Stabilität in der Region in Frage stellt. Die UN berichtet zudem von einer dramatischen Zunahme der Siedlergewalt im Westjordanland."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Europäer wollen Ukraine-Diplomatie wieder in Gang bringen",
-      "summary": "Deutschland, Frankreich und Großbritannien starten eine neue diplomatische Initiative zur Beilegung des Ukraine-Krieges. Kanzler Merz berät darüber in London mit Präsident Selenskyj, Frankreichs Präsident Macron und dem britischen Premier Starmer."
+      "headline": "EU plant neue Russland-Sanktionen - Einreiseverbot für Soldaten",
+      "summary": "Die EU bereitet ihr 21. Sanktionspaket gegen Russland vor, das erstmals ein Einreiseverbot für russische Ukraine-Kämpfer und potenzielle Maßnahmen gegen die russische Fischerei vorsieht. Diese fortgesetzten Sanktionen sollen den Druck auf Russland erhöhen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Partners Group überdenkt Distributionskanäle von «Evergreen-Fonds»",
-      "summary": "Nach einem Aktienabsturz plant die Zuger Finanzgesellschaft Partners Group, ihre Distributionskanäle für «Evergreen-Fonds» zu überdenken. Trotzdem halten Großkunden weiterhin an ihren Private Equity Investments und der Beziehung zum Unternehmen fest."
+      "headline": "Sondervermögen-Bericht: Verpasst der Staat seine Milliarden-Chance?",
+      "summary": "Deutschland hat historisch hohe Schulden für Investitionen aufgenommen, doch das Geld erreicht die vorgesehenen Projekte nicht wie geplant. Ein Investitionsbeirat warnt vor negativen Folgen dieser mangelnden Umsetzung."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Nestlé verordnet sich mit Yfood-Übernahme eine Verjüngungskur",
-      "summary": "Nestlé übernimmt den deutschen Trinkmahlzeiten-Anbieter Yfood, um das Traditionsunternehmen auf die Bedürfnisse der Gen Z einzustimmen. Der Konzernchef Philipp Navratil treibt damit eine strategische Verjüngung des Portfolios voran."
+      "headline": "Übernahmewelle auf dem Höhepunkt: Der italienische Finanzplatz setzt zum grossen Showdown an",
+      "summary": "Die Banken Intesa und BPM buhlen um Monte dei Paschi di Siena, die älteste Bank der Welt, was zu einer möglichen Konsolidierung im italienischen Bankensektor führen könnte. Dies könnte die Entstehung eines neuen europäischen Bankenriesen bedeuten."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Droht eine Tokenpocalypse? KI-Unternehmen streben an die Börse",
-      "summary": "Analysten prognostizieren weitere Preisanstiege im Tech-Sektor, da große KI-Unternehmen ihre Börsengänge planen. Die Erwartung einer 'Tokenpocalypse' deutet auf eine massive Marktverschiebung hin."
+      "headline": "It’s not FAANG anymore. It’s MANGOS.",
+      "summary": "Mit bevorstehenden Börsengängen von SpaceX, Anthropic und OpenAI könnte sich eine neue Riege von Technologiegiganten etablieren. Dies könnte das bisherige FAANG-Akronym ablösen und eine neue Ära im Tech-Sektor einläuten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Die schlimmsten Sicherheitslücken und Datenlecks von 2026",
-      "summary": "Das Jahr 2026 ist bereits von verheerenden Sicherheitsvorfällen geprägt, darunter ein großer DOGE-Datenbruch und Angriffe auf kritische Energie- und Wassersysteme. Auch ein FBI-Überwachungssystem wurde bereits gehackt."
+      "headline": "Apple says it may remove some apps from the App Store if they don’t attract users",
+      "summary": "Apple plant möglicherweise, Apps aus dem App Store zu entfernen, die als veraltet, minderwertig oder unattraktiv für Nutzer gelten. Diese Maßnahme könnte das Angebot im App Store straffen und die Qualität für Nutzer verbessern."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Trump-Regierung erwägt Beteiligung an OpenAI",
-      "summary": "Präsident Donald Trump führt Gespräche über mögliche Deals, bei denen die US-Regierung eine Eigenkapitalbeteiligung an OpenAI übernehmen könnte. Ziel ist es, dass die amerikanische Bevölkerung vom Erfolg der KI profitiert."
+      "headline": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "summary": "Sandstone hat in einer Series-A-Finanzierungsrunde 30 Millionen US-Dollar eingesammelt, angeführt von Lightspeed Partners und Sequoia. Das Startup zielt darauf ab, künstliche Intelligenz für interne Rechtsabteilungen nutzbar zu machen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Reid Hoffman verlässt Microsoft-Board für KI-Startup Manus",
-      "summary": "Nach einem profitablen Jahrzehnt im Microsoft-Vorstand tritt Reid Hoffman zurück, um sich voll auf sein KI-Startup Manus zu konzentrieren. Er kehrt damit in den 'Founder Mode' zurück, um ein neues Unternehmen aufzubauen."
+      "headline": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+      "summary": "Das Startup Lovable hat einen annualisierten Umsatz von über 500 Millionen US-Dollar erreicht und verzeichnet wöchentlich eine Million neue Projekte. Die Nutzer des Unternehmens bauen damit eigene Geschäfte auf und ersetzen interne Softwarelösungen."
     }
   ],
   "learning": {
-    "topic": "Finanzprodukte verständlich erklärt: Optionen vs. Optionsscheine",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Optionen und Optionsscheine sind Hebelprodukte, die das Recht, aber nicht die Pflicht zum Kauf oder Verkauf eines Basiswerts zu einem festgelegten Preis geben, unterscheiden sich jedoch grundlegend in ihrer Struktur und ihren Risiken.",
-    "details": "Eine Option ist ein standardisierter Vertrag, der an einer Börse gehandelt wird und Ihnen das Recht (aber nicht die Pflicht) gibt, einen bestimmten Basiswert (z.B. eine Aktie) zu einem festgelegten Preis (Strike Price) bis zu einem bestimmten Datum zu kaufen oder zu verkaufen. Optionsscheine (Warrants) hingegen sind Schuldverschreibungen, die von Banken ausgegeben werden und oft außerbörslich gehandelt werden. Obwohl sie eine ähnliche Hebelwirkung bieten, sind Optionsscheine Emittentenrisiken ausgesetzt und ihre Preisbildung kann komplexer und intransparenter sein, da sie von der Bonität des Herausgebers abhängt und häufig zusätzliche Gebühren oder Spread-Differenzen aufweisen.",
-    "takeaway": "Verstehen Sie, dass Optionen transparente, börsengehandelte Instrumente sind, während Optionsscheine Bankprodukte mit zusätzlichem Emittentenrisiko und potenziell komplexerer Preisgestaltung sind. Für professionelle Anwendungen werden in der Regel Optionen bevorzugt."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert VOR einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert NACH dem Kapitaaleinlage darstellt.",
+    "details": "Wenn ein Investor Kapital in ein Startup investiert, erhöht sich der Unternehmenswert. Die Pre-Money-Bewertung ist die Basis, auf der der Investor seine Anteile berechnet. Die Post-Money-Bewertung ergibt sich aus der Pre-Money-Bewertung plus dem neu investierten Kapital und repräsentiert den Wert des Unternehmens inklusive des frischen Geldes. Sie ist entscheidend, um den prozentualen Anteil der Investoren und die Verwässerung der bestehenden Eigentümer zu bestimmen.",
+    "takeaway": "Verstehe diese Begriffe, um die Eigentumsverhältnisse und die finanzielle Struktur von VC-Deals korrekt zu interpretieren und die Verwässerung von Anteilen genau einschätzen zu können."
   }
 }
