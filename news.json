@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Tote bei israelischem Angriff auf libanesische Hafenstadt Tyros",
-      "summary": "Bei einem israelischen Angriff im Südlibanon kam es zu erneuten Todesfällen, was die Waffenruhe mit Iran und die Stabilität in der Region in Frage stellt. Die UN berichtet zudem von einer dramatischen Zunahme der Siedlergewalt im Westjordanland."
+      "headline": "Iran-Liveblog: ++ ARD-Korrespondentin: \"Gedrosselter Krieg\" ++",
+      "summary": "Nach aktuellen Angriffen in einem \"gedrosselten Krieg\" im Iran gibt es noch keine Opferberichte, so die ARD-Korrespondentin Willinger. Der Iran erwägt nun eine Neubewertung der Gespräche mit den USA."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU plant neue Russland-Sanktionen - Einreiseverbot für Soldaten",
-      "summary": "Die EU bereitet ihr 21. Sanktionspaket gegen Russland vor, das erstmals ein Einreiseverbot für russische Ukraine-Kämpfer und potenzielle Maßnahmen gegen die russische Fischerei vorsieht. Diese fortgesetzten Sanktionen sollen den Druck auf Russland erhöhen."
+      "headline": "Die Schweizer Wirtschaft will sich dem Druck aus Washington nicht beugen",
+      "summary": "Die Schweizer Wirtschaft wehrt sich gegen neue US-Strafzölle, die Washington mit mangelndem Kampf gegen globale Zwangsarbeit begründet. Verbände halten strengere Gesetze für unwirksam und gefährlich."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Sondervermögen-Bericht: Verpasst der Staat seine Milliarden-Chance?",
-      "summary": "Deutschland hat historisch hohe Schulden für Investitionen aufgenommen, doch das Geld erreicht die vorgesehenen Projekte nicht wie geplant. Ein Investitionsbeirat warnt vor negativen Folgen dieser mangelnden Umsetzung."
+      "headline": "DIW befürchtet Rezession in Deutschland",
+      "summary": "Ökonomen des DIW korrigieren ihre Konjunkturprognose nach unten und rechnen im Frühjahr und Sommer mit einer Rezession in Deutschland. Die kluge Nutzung des Sondervermögens sei nun entscheidend."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Übernahmewelle auf dem Höhepunkt: Der italienische Finanzplatz setzt zum grossen Showdown an",
-      "summary": "Die Banken Intesa und BPM buhlen um Monte dei Paschi di Siena, die älteste Bank der Welt, was zu einer möglichen Konsolidierung im italienischen Bankensektor führen könnte. Dies könnte die Entstehung eines neuen europäischen Bankenriesen bedeuten."
+      "headline": "Die Angst vor der Inflation ist eine zweite Chance für Christine Lagarde",
+      "summary": "Angesichts der Angst vor einer neuen Teuerungswelle wird erwartet, dass EZB-Präsidentin Christine Lagarde im Amt bleibt, um Europa vor dieser Entwicklung zu bewahren."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "It’s not FAANG anymore. It’s MANGOS.",
-      "summary": "Mit bevorstehenden Börsengängen von SpaceX, Anthropic und OpenAI könnte sich eine neue Riege von Technologiegiganten etablieren. Dies könnte das bisherige FAANG-Akronym ablösen und eine neue Ära im Tech-Sektor einläuten."
+      "headline": "Crew der Mondmission Artemis 3 steht, doch die Probleme bleiben",
+      "summary": "Die NASA hat die vier Astronauten für die Artemis-3-Mondmission vorgestellt, die schon im kommenden Jahr starten soll. Trotz der Bekanntgabe sehen Fachleute jedoch noch einige Schwierigkeiten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Apple says it may remove some apps from the App Store if they don’t attract users",
-      "summary": "Apple plant möglicherweise, Apps aus dem App Store zu entfernen, die als veraltet, minderwertig oder unattraktiv für Nutzer gelten. Diese Maßnahme könnte das Angebot im App Store straffen und die Qualität für Nutzer verbessern."
+      "headline": "Nvidia will sich mit einer Partnerschaft in Südkorea die Zukunft sichern. Die Firma braucht Nachschub bei Hochleistungsspeichern",
+      "summary": "Nvidia strebt eine Partnerschaft in Südkorea an, um sich den Nachschub an Hochleistungsspeichern zu sichern und somit die Zukunft im KI-Boom zu gewährleisten. Der Erfolg des Konzerns hängt stark von Chipherstellern wie SK Hynix ab."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "summary": "Sandstone hat in einer Series-A-Finanzierungsrunde 30 Millionen US-Dollar eingesammelt, angeführt von Lightspeed Partners und Sequoia. Das Startup zielt darauf ab, künstliche Intelligenz für interne Rechtsabteilungen nutzbar zu machen."
+      "headline": "Die Millionärsmaschine: Der SpaceX-Börsengang macht auch Handwerker und Ingenieurinnen reich – und die Banken liegen auf der Lauer",
+      "summary": "Der bevorstehende SpaceX-Börsengang am Freitag wird voraussichtlich eine beispiellose Menge an Privatvermögen schaffen und auch Mitarbeiter reich machen. Banken lauern bereits auf die neuen Millionäre."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "summary": "Das Startup Lovable hat einen annualisierten Umsatz von über 500 Millionen US-Dollar erreicht und verzeichnet wöchentlich eine Million neue Projekte. Die Nutzer des Unternehmens bauen damit eigene Geschäfte auf und ersetzen interne Softwarelösungen."
+      "headline": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "summary": "Ehemalige Datadog-Mitarbeiter haben das KI-Coding-Startup Niteshift gegründet und 7 Millionen US-Dollar in einer Seed-Runde erhalten. Sie setzen darauf, dass Unternehmen Kontrolle über KI-Modelle statt einer Bindung an große Anbieter bevorzugen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert VOR einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert NACH dem Kapitaaleinlage darstellt.",
-    "details": "Wenn ein Investor Kapital in ein Startup investiert, erhöht sich der Unternehmenswert. Die Pre-Money-Bewertung ist die Basis, auf der der Investor seine Anteile berechnet. Die Post-Money-Bewertung ergibt sich aus der Pre-Money-Bewertung plus dem neu investierten Kapital und repräsentiert den Wert des Unternehmens inklusive des frischen Geldes. Sie ist entscheidend, um den prozentualen Anteil der Investoren und die Verwässerung der bestehenden Eigentümer zu bestimmen.",
-    "takeaway": "Verstehe diese Begriffe, um die Eigentumsverhältnisse und die finanzielle Struktur von VC-Deals korrekt zu interpretieren und die Verwässerung von Anteilen genau einschätzen zu können."
+    "topic": "Optionen vs. Optionsscheine: Die feinen Unterschiede",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Optionen und Optionsscheine sind Derivate, die Anlegern das Recht, aber nicht die Pflicht geben, einen Basiswert zu einem festgelegten Preis zu kaufen oder zu verkaufen. Obwohl sie ähnlich erscheinen, unterscheiden sie sich fundamental in ihrer Entstehung, Handelbarkeit und Komplexität.",
+    "details": "Optionen sind standardisierte Verträge, die an Terminbörsen gehandelt werden und für einen Handelspartner ein Recht und für den anderen eine Pflicht darstellen (z.B. das Recht auf Lieferung einer Aktie gegen die Pflicht zur Lieferung). Sie sind bilateral und werden von beiden Parteien gehandelt. Optionsscheine hingegen sind Schuldverschreibungen, die von Banken oder Emittenten ausgegeben werden und dem Anleger ein Recht gegenüber dem Emittenten verbriefen. Sie werden nicht an Terminbörsen, sondern meist im Freiverkehr gehandelt und sind durch eine Vielzahl von Ausstattungsmerkmalen (Hebel, Laufzeit, Emittentenrisiko) komplexer. Während Optionen primär zur Absicherung oder für spekulative Strategien genutzt werden, sind Optionsscheine eher ein spekulatives Instrument für Privatanleger, da sie oft hohe Hebelwirkungen bieten und das Emittentenrisiko tragen.",
+    "takeaway": "Beim Investieren ist es entscheidend zu verstehen, dass Optionen standardisierte, börsengehandelte Verträge sind, während Optionsscheine von Emittenten ausgegebene, komplexere Wertpapiere mit eigenem Emittentenrisiko sind. Diese Unterscheidung ist für die Risikobewertung und die Wahl des richtigen Instruments essenziell."
   }
 }
