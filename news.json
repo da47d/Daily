@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran-Liveblog: ++ ARD-Korrespondentin: \"Gedrosselter Krieg\" ++",
-      "summary": "Nach aktuellen Angriffen in einem \"gedrosselten Krieg\" im Iran gibt es noch keine Opferberichte, so die ARD-Korrespondentin Willinger. Der Iran erwägt nun eine Neubewertung der Gespräche mit den USA."
+      "headline": "Trump droht Iran mit Angriffen und Übernahme der Öl-Infrastruktur",
+      "summary": "Die Verhandlungen mit Iran stagnieren, woraufhin US-Präsident Trump schwere Angriffe ankündigte. Er drohte zudem mit der militärischen Übernahme der für Irans Ölindustrie kritischen Insel Charg, um den Druck zu erhöhen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Die Schweizer Wirtschaft will sich dem Druck aus Washington nicht beugen",
-      "summary": "Die Schweizer Wirtschaft wehrt sich gegen neue US-Strafzölle, die Washington mit mangelndem Kampf gegen globale Zwangsarbeit begründet. Verbände halten strengere Gesetze für unwirksam und gefährlich."
+      "headline": "Britischer Verteidigungsminister tritt im Etatstreit zurück",
+      "summary": "Premier Starmer erleidet einen weiteren Rückschlag: Der britische Verteidigungsminister Healey ist wegen eines Konflikts um den Militärhaushalt zurückgetreten. Weitere negative Nachrichten für Starmer könnten folgen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DIW befürchtet Rezession in Deutschland",
-      "summary": "Ökonomen des DIW korrigieren ihre Konjunkturprognose nach unten und rechnen im Frühjahr und Sommer mit einer Rezession in Deutschland. Die kluge Nutzung des Sondervermögens sei nun entscheidend."
+      "headline": "EZB erhöht Leitzins erstmals seit drei Jahren im Kampf gegen Inflation",
+      "summary": "Aus Sorge vor steigender Inflation hat die Europäische Zentralbank erstmals seit fast drei Jahren den Leitzins angehoben. Der Iran-Krieg hat in der Euro-Zone einen Inflationsschub ausgelöst, der von der EZB nicht länger ignoriert werden kann."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Angst vor der Inflation ist eine zweite Chance für Christine Lagarde",
-      "summary": "Angesichts der Angst vor einer neuen Teuerungswelle wird erwartet, dass EZB-Präsidentin Christine Lagarde im Amt bleibt, um Europa vor dieser Entwicklung zu bewahren."
+      "headline": "IWF und Weltbank senken globale Wachstumsprognosen drastisch",
+      "summary": "Der IWF hat seine Wachstumsprognosen für die Euro-Zone gesenkt, während die Weltbank das schwächste Weltwirtschaftswachstum seit der Corona-Pandemie erwartet. Dies deutet auf eine schwierige wirtschaftliche Phase für die Weltwirtschaft hin."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Crew der Mondmission Artemis 3 steht, doch die Probleme bleiben",
-      "summary": "Die NASA hat die vier Astronauten für die Artemis-3-Mondmission vorgestellt, die schon im kommenden Jahr starten soll. Trotz der Bekanntgabe sehen Fachleute jedoch noch einige Schwierigkeiten."
+      "headline": "SpaceX plant den größten Börsengang der Geschichte",
+      "summary": "Das Raumfahrtunternehmen SpaceX steht vor dem größten Börsengang aller Zeiten, was im Technologiesektor große Euphorie auslöst. Anleger hoffen auf massive Kurssteigerungen, doch der Börsengang birgt auch Risiken."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia will sich mit einer Partnerschaft in Südkorea die Zukunft sichern. Die Firma braucht Nachschub bei Hochleistungsspeichern",
-      "summary": "Nvidia strebt eine Partnerschaft in Südkorea an, um sich den Nachschub an Hochleistungsspeichern zu sichern und somit die Zukunft im KI-Boom zu gewährleisten. Der Erfolg des Konzerns hängt stark von Chipherstellern wie SK Hynix ab."
+      "headline": "SpaceX-Börsengang macht auch Angestellte zu Millionären",
+      "summary": "Der bevorstehende SpaceX-Börsengang wird voraussichtlich so viel privates Vermögen schaffen wie noch nie zuvor. Handwerker und Ingenieure des Unternehmens könnten zu Millionären werden, während Banken auf der Lauer liegen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Die Millionärsmaschine: Der SpaceX-Börsengang macht auch Handwerker und Ingenieurinnen reich – und die Banken liegen auf der Lauer",
-      "summary": "Der bevorstehende SpaceX-Börsengang am Freitag wird voraussichtlich eine beispiellose Menge an Privatvermögen schaffen und auch Mitarbeiter reich machen. Banken lauern bereits auf die neuen Millionäre."
+      "headline": "Endurance Energy sichert sich 54 Millionen Dollar für Ozean-Energie",
+      "summary": "Das Startup Endurance Energy, gegründet von SpaceX-Alumni Andrew Redd, hat 54 Millionen Dollar eingesammelt. Das Unternehmen setzt auf die Erschließung großer, ungenutzter geothermischer Energiequellen im Ozean."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "summary": "Ehemalige Datadog-Mitarbeiter haben das KI-Coding-Startup Niteshift gegründet und 7 Millionen US-Dollar in einer Seed-Runde erhalten. Sie setzen darauf, dass Unternehmen Kontrolle über KI-Modelle statt einer Bindung an große Anbieter bevorzugen."
+      "headline": "Quantum Space versucht mit Militär-SPAC, auf der SpaceX-IPO-Welle zu reiten",
+      "summary": "Quantum Space sieht die Ära der SPACs noch nicht beendet und strebt einen Deal über 1,2 Milliarden Dollar an. Ziel ist der Bau militärischer Raumfahrzeuge, um vom Hype um den SpaceX-Börsengang zu profitieren."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine: Die feinen Unterschiede",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Optionen und Optionsscheine sind Derivate, die Anlegern das Recht, aber nicht die Pflicht geben, einen Basiswert zu einem festgelegten Preis zu kaufen oder zu verkaufen. Obwohl sie ähnlich erscheinen, unterscheiden sie sich fundamental in ihrer Entstehung, Handelbarkeit und Komplexität.",
-    "details": "Optionen sind standardisierte Verträge, die an Terminbörsen gehandelt werden und für einen Handelspartner ein Recht und für den anderen eine Pflicht darstellen (z.B. das Recht auf Lieferung einer Aktie gegen die Pflicht zur Lieferung). Sie sind bilateral und werden von beiden Parteien gehandelt. Optionsscheine hingegen sind Schuldverschreibungen, die von Banken oder Emittenten ausgegeben werden und dem Anleger ein Recht gegenüber dem Emittenten verbriefen. Sie werden nicht an Terminbörsen, sondern meist im Freiverkehr gehandelt und sind durch eine Vielzahl von Ausstattungsmerkmalen (Hebel, Laufzeit, Emittentenrisiko) komplexer. Während Optionen primär zur Absicherung oder für spekulative Strategien genutzt werden, sind Optionsscheine eher ein spekulatives Instrument für Privatanleger, da sie oft hohe Hebelwirkungen bieten und das Emittentenrisiko tragen.",
-    "takeaway": "Beim Investieren ist es entscheidend zu verstehen, dass Optionen standardisierte, börsengehandelte Verträge sind, während Optionsscheine von Emittenten ausgegebene, komplexere Wertpapiere mit eigenem Emittentenrisiko sind. Diese Unterscheidung ist für die Risikobewertung und die Wahl des richtigen Instruments essenziell."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach dem Eingang des neuen Kapitals darstellt.",
+    "details": "Die Pre-Money-Bewertung definiert, wie viel ein Startup vor der Investition wert ist. Wird das investierte Kapital zu diesem Wert addiert, ergibt sich die Post-Money-Bewertung, die den Unternehmenswert nach der Finanzierungsrunde darstellt. Diese Unterscheidung ist entscheidend für Investoren und Gründer, da sie den prozentualen Anteil bestimmt, den Investoren für ihr Kapital erhalten, und somit die Verwässerung der bestehenden Anteile beeinflusst.",
+    "takeaway": "Investoren verhandeln primär die Pre-Money-Bewertung, um ihren gewünschten Anteil am Unternehmen nach der Kapitalerhöhung zu sichern. Eine hohe Pre-Money-Bewertung bedeutet für den Investor, dass er für den gleichen Geldbetrag einen kleineren prozentualen Anteil am Unternehmen erhält."
   }
 }
