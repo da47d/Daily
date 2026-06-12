@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump droht Iran mit Angriffen und Übernahme der Öl-Infrastruktur",
-      "summary": "Die Verhandlungen mit Iran stagnieren, woraufhin US-Präsident Trump schwere Angriffe ankündigte. Er drohte zudem mit der militärischen Übernahme der für Irans Ölindustrie kritischen Insel Charg, um den Druck zu erhöhen."
+      "headline": "Rahmenabkommen mit den USA - Positive Signale aus Teheran",
+      "summary": "Die USA und Iran stehen kurz vor einem weitreichenden Rahmenabkommen, dessen Text laut Teheran „nahezu finalisiert“ ist. Diese positiven Signale wecken Hoffnungen auf Frieden und beeinflussen die globale Marktstimmung."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Britischer Verteidigungsminister tritt im Etatstreit zurück",
-      "summary": "Premier Starmer erleidet einen weiteren Rückschlag: Der britische Verteidigungsminister Healey ist wegen eines Konflikts um den Militärhaushalt zurückgetreten. Weitere negative Nachrichten für Starmer könnten folgen."
+      "headline": "US-Gericht: USA dürfen Zölle vorerst weiter erheben",
+      "summary": "US-Präsident Trump hat einen Etappensieg errungen, da ein Gericht die Fortsetzung der seit Februar geltenden zehnprozentigen Zölle genehmigt hat. Dies sichert die aktuelle Handelspolitik der USA und hat direkten Einfluss auf Handelsbeziehungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EZB erhöht Leitzins erstmals seit drei Jahren im Kampf gegen Inflation",
-      "summary": "Aus Sorge vor steigender Inflation hat die Europäische Zentralbank erstmals seit fast drei Jahren den Leitzins angehoben. Der Iran-Krieg hat in der Euro-Zone einen Inflationsschub ausgelöst, der von der EZB nicht länger ignoriert werden kann."
+      "headline": "Die EZB nimmt den Kampf gegen die Inflation ernst und erhöht erstmals seit drei Jahren wieder die Leitzinsen",
+      "summary": "Angesichts eines inflationsgetriebenen Anstiegs in der Euro-Zone durch den Iran-Krieg hat die EZB erstmals seit drei Jahren die Leitzinsen erhöht. Dies ist eine klare Reaktion auf den Inflationsschub und die Notwendigkeit, Preisstabilität zu sichern."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "IWF und Weltbank senken globale Wachstumsprognosen drastisch",
-      "summary": "Der IWF hat seine Wachstumsprognosen für die Euro-Zone gesenkt, während die Weltbank das schwächste Weltwirtschaftswachstum seit der Corona-Pandemie erwartet. Dies deutet auf eine schwierige wirtschaftliche Phase für die Weltwirtschaft hin."
+      "headline": "KURZMELDUNGEN - Wirtschaft: IWF senkt Wachstums-Prognosen für Euro-Zone +++ Weltbank rechnet mit schwächstem Weltwirtschaftswachstum seit Corona-Pandemie",
+      "summary": "Der IWF hat seine Wachstumsprognosen für die Euro-Zone gesenkt, während die Weltbank das schwächste globale Wirtschaftswachstum seit der Corona-Pandemie erwartet. Diese Prognosen deuten auf eine verhaltene globale Konjunkturentwicklung hin."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX plant den größten Börsengang der Geschichte",
-      "summary": "Das Raumfahrtunternehmen SpaceX steht vor dem größten Börsengang aller Zeiten, was im Technologiesektor große Euphorie auslöst. Anleger hoffen auf massive Kurssteigerungen, doch der Börsengang birgt auch Risiken."
+      "headline": "SpaceX-Aktie geht bei 150 Dollar in den Handel – und Elon Musk ist der erste Dollar-Billionär der Welt",
+      "summary": "SpaceX hat seinen Börsengang erfolgreich abgeschlossen, wobei die Aktie bei 150 Dollar in den Handel ging. Dies macht Elon Musk zum ersten Dollar-Billionär der Welt und kennzeichnet einen historischen Meilenstein im Tech-Sektor."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX-Börsengang macht auch Angestellte zu Millionären",
-      "summary": "Der bevorstehende SpaceX-Börsengang wird voraussichtlich so viel privates Vermögen schaffen wie noch nie zuvor. Handwerker und Ingenieure des Unternehmens könnten zu Millionären werden, während Banken auf der Lauer liegen."
+      "headline": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "summary": "Der IPO-Markt erlebt einen Boom, angeführt von einer neuen Generation von Tech-Giganten wie SpaceX, Anthropic und OpenAI. Dieser „MANGOS“-Trend testet die Bewertungen und das Vertrauen der Investoren in den Technologiesektor."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Endurance Energy sichert sich 54 Millionen Dollar für Ozean-Energie",
-      "summary": "Das Startup Endurance Energy, gegründet von SpaceX-Alumni Andrew Redd, hat 54 Millionen Dollar eingesammelt. Das Unternehmen setzt auf die Erschließung großer, ungenutzter geothermischer Energiequellen im Ozean."
+      "headline": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "summary": "Das von Jeff Bezos unterstützte Startup Prometheus hat 12 Milliarden Dollar eingesammelt, um einen 'künstlichen Generalingenieur' für die physische Welt zu entwickeln. Die Finanzierungsrunde bewertet das Physical-AI-Unternehmen mit 41 Milliarden Dollar."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Quantum Space versucht mit Militär-SPAC, auf der SpaceX-IPO-Welle zu reiten",
-      "summary": "Quantum Space sieht die Ära der SPACs noch nicht beendet und strebt einen Deal über 1,2 Milliarden Dollar an. Ziel ist der Bau militärischer Raumfahrzeuge, um vom Hype um den SpaceX-Börsengang zu profitieren."
+      "headline": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "summary": "Theker hat 85 Millionen Dollar für die Entwicklung eines neuartigen, rekonfigurierbaren Fabrikroboters erhalten, der im Gegensatz zu humanoiden Robotern nicht auf eine feste Form angewiesen ist. Dies unterstreicht den Trend zu flexibleren Automatisierungslösungen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach dem Eingang des neuen Kapitals darstellt.",
-    "details": "Die Pre-Money-Bewertung definiert, wie viel ein Startup vor der Investition wert ist. Wird das investierte Kapital zu diesem Wert addiert, ergibt sich die Post-Money-Bewertung, die den Unternehmenswert nach der Finanzierungsrunde darstellt. Diese Unterscheidung ist entscheidend für Investoren und Gründer, da sie den prozentualen Anteil bestimmt, den Investoren für ihr Kapital erhalten, und somit die Verwässerung der bestehenden Anteile beeinflusst.",
-    "takeaway": "Investoren verhandeln primär die Pre-Money-Bewertung, um ihren gewünschten Anteil am Unternehmen nach der Kapitalerhöhung zu sichern. Eine hohe Pre-Money-Bewertung bedeutet für den Investor, dass er für den gleichen Geldbetrag einen kleineren prozentualen Anteil am Unternehmen erhält."
+    "topic": "Das Black-Swan-Konzept",
+    "category": "Historische Finanzereignisse & Krisen",
+    "concept": "Black Swans sind extrem seltene, unvorhersehbare Ereignisse mit massiven Auswirkungen, die erst im Nachhinein rational erklärbar erscheinen.",
+    "details": "Entwickelt von Nassim Nicholas Taleb, beschreibt das Konzept, dass die Finanzwelt von unerwarteten, schwerwiegenden Ereignissen geprägt wird, die nicht durch historische Daten modelliert werden können. Ihr Auftreten hat enorme Konsequenzen, die Märkte und Gesellschaft nachhaltig verändern. Im Nachhinein neigen Menschen dazu, diese Ereignisse als vorhersehbar oder logisch zu interpretieren, obwohl es vor ihrem Eintreten keine Hinweise gab. Dies unterstreicht die Begrenztheit von Vorhersagemodellen und die Gefahr, Risiken basierend auf Vergangenheitsdaten zu unterschätzen.",
+    "takeaway": "Das Black-Swan-Konzept lehrt, die Grenzen von Prognosen zu erkennen und robuste Portfolios aufzubauen, die auch unerwartete Schocks überstehen können, statt sich nur auf wahrscheinliche Szenarien zu konzentrieren."
   }
 }
