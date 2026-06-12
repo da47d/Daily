@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Rahmenabkommen mit den USA - Positive Signale aus Teheran",
-      "summary": "Die USA und Iran stehen kurz vor einem weitreichenden Rahmenabkommen, dessen Text laut Teheran „nahezu finalisiert“ ist. Diese positiven Signale wecken Hoffnungen auf Frieden und beeinflussen die globale Marktstimmung."
+      "headline": "EU-Asylpolitik: Wie Meloni sich als Vorreiterin inszeniert",
+      "summary": "Seit heute gilt ein verschärftes EU-Asylrecht, wobei Italiens Ministerpräsidentin Meloni ihre Politik als Vorbild für die gesamte Union darstellt. Trotz einiger Rückschläge und Kritik inszeniert sie sich erfolgreich als Vorreiterin dieser neuen Asylpolitik."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Gericht: USA dürfen Zölle vorerst weiter erheben",
-      "summary": "US-Präsident Trump hat einen Etappensieg errungen, da ein Gericht die Fortsetzung der seit Februar geltenden zehnprozentigen Zölle genehmigt hat. Dies sichert die aktuelle Handelspolitik der USA und hat direkten Einfluss auf Handelsbeziehungen."
+      "headline": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
+      "summary": "Ein US-Überwachungsgesetz (Section 702), das dem NSA und FBI Überwachung ohne richterliche Anordnung erlaubt, läuft erstmals aus. Dies geschieht, nachdem Gesetzgeber Trumps umstrittenen Kandidaten für die Leitung der Geheimdienste abgelehnt haben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
       "headline": "Die EZB nimmt den Kampf gegen die Inflation ernst und erhöht erstmals seit drei Jahren wieder die Leitzinsen",
-      "summary": "Angesichts eines inflationsgetriebenen Anstiegs in der Euro-Zone durch den Iran-Krieg hat die EZB erstmals seit drei Jahren die Leitzinsen erhöht. Dies ist eine klare Reaktion auf den Inflationsschub und die Notwendigkeit, Preisstabilität zu sichern."
+      "summary": "Angesichts eines starken Inflationsschubs durch den Iran-Krieg hat die Europäische Zentralbank erstmals seit drei Jahren die Leitzinsen erhöht. Diese Maßnahme unterstreicht die Entschlossenheit der EZB im Kampf gegen die Teuerung in der Euro-Zone."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "KURZMELDUNGEN - Wirtschaft: IWF senkt Wachstums-Prognosen für Euro-Zone +++ Weltbank rechnet mit schwächstem Weltwirtschaftswachstum seit Corona-Pandemie",
-      "summary": "Der IWF hat seine Wachstumsprognosen für die Euro-Zone gesenkt, während die Weltbank das schwächste globale Wirtschaftswachstum seit der Corona-Pandemie erwartet. Diese Prognosen deuten auf eine verhaltene globale Konjunkturentwicklung hin."
+      "summary": "Der IWF hat seine Wachstumsprognosen für die Euro-Zone gesenkt und die Weltbank erwartet das schwächste globale Wirtschaftswachstum seit der Corona-Pandemie. Diese Entwicklungen deuten auf eine verhaltene wirtschaftliche Zukunft mit erhöhtem Abschwungrisiko hin."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX-Aktie geht bei 150 Dollar in den Handel – und Elon Musk ist der erste Dollar-Billionär der Welt",
-      "summary": "SpaceX hat seinen Börsengang erfolgreich abgeschlossen, wobei die Aktie bei 150 Dollar in den Handel ging. Dies macht Elon Musk zum ersten Dollar-Billionär der Welt und kennzeichnet einen historischen Meilenstein im Tech-Sektor."
+      "headline": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
+      "summary": "Nach dem erfolgreichen Börsengang von SpaceX ist Elon Musk zum ersten Dollarbillionär der Welt aufgestiegen. Der historische IPO katapultierte sein Vermögen über eine Billion Dollar, was die Euphorie im Technologiesektor zusätzlich anheizt."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "summary": "Der IPO-Markt erlebt einen Boom, angeführt von einer neuen Generation von Tech-Giganten wie SpaceX, Anthropic und OpenAI. Dieser „MANGOS“-Trend testet die Bewertungen und das Vertrauen der Investoren in den Technologiesektor."
+      "headline": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
+      "summary": "Gwynne Shotwell, Präsidentin von SpaceX, hat weitere Hinweise auf eine mögliche Fusion mit Tesla gegeben. Ein solcher Zusammenschluss der beiden von Elon Musk geführten Unternehmen wird von vielen als unausweichlich betrachtet."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "summary": "Das von Jeff Bezos unterstützte Startup Prometheus hat 12 Milliarden Dollar eingesammelt, um einen 'künstlichen Generalingenieur' für die physische Welt zu entwickeln. Die Finanzierungsrunde bewertet das Physical-AI-Unternehmen mit 41 Milliarden Dollar."
+      "headline": "Mistral is rumored to be raising €3B at €20B valuation",
+      "summary": "Das KI-Startup Mistral soll Berichten zufolge eine Finanzierungsrunde von 3 Milliarden Euro zu einer Bewertung von 20 Milliarden Euro anstreben. Diese Runde würde die Bewertung des Unternehmens nahezu verdoppeln und unterstreicht das hohe Investoreninteresse an KI-Technologien."
     },
     {
       "tag": "STARTUPS & VC",
       "headline": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "summary": "Theker hat 85 Millionen Dollar für die Entwicklung eines neuartigen, rekonfigurierbaren Fabrikroboters erhalten, der im Gegensatz zu humanoiden Robotern nicht auf eine feste Form angewiesen ist. Dies unterstreicht den Trend zu flexibleren Automatisierungslösungen."
+      "summary": "Theker hat 85 Millionen Dollar eingesammelt, um einen neuartigen Fabrikroboter zu entwickeln, der nicht auf eine spezielle Aufgabe festgelegt ist. Im Gegensatz zu fest programmierten humanoiden Robotern sind Thekers Maschinen darauf ausgelegt, flexibel rekonfiguriert zu werden."
     }
   ],
   "learning": {
-    "topic": "Das Black-Swan-Konzept",
-    "category": "Historische Finanzereignisse & Krisen",
-    "concept": "Black Swans sind extrem seltene, unvorhersehbare Ereignisse mit massiven Auswirkungen, die erst im Nachhinein rational erklärbar erscheinen.",
-    "details": "Entwickelt von Nassim Nicholas Taleb, beschreibt das Konzept, dass die Finanzwelt von unerwarteten, schwerwiegenden Ereignissen geprägt wird, die nicht durch historische Daten modelliert werden können. Ihr Auftreten hat enorme Konsequenzen, die Märkte und Gesellschaft nachhaltig verändern. Im Nachhinein neigen Menschen dazu, diese Ereignisse als vorhersehbar oder logisch zu interpretieren, obwohl es vor ihrem Eintreten keine Hinweise gab. Dies unterstreicht die Begrenztheit von Vorhersagemodellen und die Gefahr, Risiken basierend auf Vergangenheitsdaten zu unterschätzen.",
-    "takeaway": "Das Black-Swan-Konzept lehrt, die Grenzen von Prognosen zu erkennen und robuste Portfolios aufzubauen, die auch unerwartete Schocks überstehen können, statt sich nur auf wahrscheinliche Szenarien zu konzentrieren."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe beschreiben die Bewertung eines Startups vor (Pre-Money) und nach (Post-Money) einer Investitionsrunde. Sie sind entscheidend, um den Anteil der Investoren und die Wertentwicklung des Unternehmens zu bestimmen.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* dem Eingang des neuen Kapitals. Addiert man das investierte Geld zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Investoren kalkulieren ihren Anteil anhand der Post-Money-Bewertung und ihres Investments. Wenn ein Startup beispielsweise eine Pre-Money-Bewertung von 10 Millionen Euro hat und 2 Millionen Euro erhält, beträgt die Post-Money-Bewertung 12 Millionen Euro. Ein Investor, der 2 Millionen Euro investiert, würde dann 2/12 oder 16,67% des Unternehmens besitzen. Dieses Verhältnis ist fundamental für die Strukturierung von Finanzierungsrunden und die Aufteilung der Anteile am sogenannten Cap Table.",
+    "takeaway": "Pre- und Post-Money-Bewertungen sind die Basis für die Berechnung von Eigentumsanteilen nach einer Finanzierungsrunde. Ein klares Verständnis dieser Konzepte ist unerlässlich für Gründer, um die Verwässerung ihrer Anteile zu managen, und für Investoren, um ihre Beteiligungsquote zu bestimmen."
   }
 }
