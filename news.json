@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Schweizer lehnen Einwohner-Obergrenze ab",
-      "summary": "Schweizer Bürger haben eine Initiative zur Begrenzung der Bevölkerungszahl abgelehnt, wie erste Hochrechnungen zeigen. Gegner des Vorhabens hatten vor weitreichenden negativen Auswirkungen auf die Wirtschaft und das Verhältnis zur EU gewarnt."
+      "headline": "Krieg in Nahost: Trump ermahnt Israel nach Angriff im Libanon",
+      "summary": "US-Präsident Trump hat Israels Angriff im Libanon scharf verurteilt, besorgt über eine mögliche Verzögerung der geplanten Vereinbarung mit Iran. Diese geopolitische Spannung könnte die globale Marktstimmung direkt beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kritische Rohstoffe: EU weiterhin abhängig von China",
-      "summary": "Die Europäische Union bleibt bei kritischen Rohstoffen stark vom chinesischen Wohlwollen abhängig, da ihre bisherige Strategie kaum Fortschritte zeigt. Dies betrifft essenzielle Lieferketten für Rüstung und Industrie, während die USA schneller agieren."
+      "headline": "Ukrainische Drohnen treffen Industrieanlagen und Wohnhaus in Russland",
+      "summary": "Die Ukraine hat mit Drohnenangriffen russische Industrieanlagen und ein Treibstoffdepot getroffen, was der Kriegswirtschaft empfindliche Schläge versetzt. Ein Einschlag in einem Wohnhaus zeigt die weitere Eskalation des Konflikts."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Baustelle Partners Group: Aktienkurs erholt sich nicht",
-      "summary": "Der Aktienkurs der Beteiligungsgesellschaft Partners Group hat seit Jahresbeginn ein Drittel an Wert verloren, was Analysten zu gesenkten Gewinnprognosen veranlasst. Trotz angekündigter Zukäufe der Gründer sind die Verantwortlichen spürbar nervös."
+      "headline": "Der Hype um Musk, KI und Raumfahrt trägt Züge einer Spekulationsblase",
+      "summary": "Der fulminante Börsengang von SpaceX sorgt für eine Bewertung, die selbst loyale Anleger ins Grübeln bringt. Experten sehen im Hype um Musk, KI und Raumfahrt Anzeichen einer Spekulationsblase, die das Marktgeschehen beeinflussen könnte."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Keynes, KI und die 15-Stunden-Woche",
-      "summary": "Die Künstliche Intelligenz (KI) könnte John Maynard Keynes' Prognose einer drastischen Reduktion der Erwerbstätigkeit wahr werden lassen und die Debatte um eine 15-Stunden-Woche neu entfachen. Damit könnte die KI einen fundamentalen Wandel der Arbeitswelt einleiten."
+      "headline": "Kritische Rohstoffe: EU bleibt von China abhängig",
+      "summary": "Die EU ist für Rüstung und Industrie weiterhin stark von China als Lieferant kritischer Rohstoffe abhängig. Trotz Bemühungen, dies zu ändern, macht die EU kaum Fortschritte, während die USA Tempo vorlegen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Meta muss $2B Manus Deal auf Pekings Befehl rückabwickeln",
-      "summary": "Meta ist gezwungen, seinen 2-Milliarden-Dollar-Deal für Manus auf Anweisung Pekings rückgängig zu machen. Gleichzeitig kämpft das Unternehmen mit internen Problemen in seiner KI-Einheit, die Ingenieure als 'Seelen-zerstörendes Gulag' bezeichnen."
+      "headline": "Anthropic: KI-Modelle ausgesetzt nach Bedenken von Amazon-CEO",
+      "summary": "Anthropic hat den Zugang zu neuen KI-Modellen ausgesetzt, nachdem Amazon-CEO Andy Jassy Sicherheitsbedenken geäußert haben soll. Dieser Schritt löst in Indien eine Debatte über die Zukunft der KI aus."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "KPMG zieht KI-Bericht wegen Halluzinationen zurück",
-      "summary": "KPMG musste einen Bericht zur KI-Nutzung zurückziehen, da die verwendeten KI-Informationen 'Halluzinationen' aufwiesen und unzuverlässig waren. Dieser Vorfall unterstreicht die anhaltenden Herausforderungen bei der Gewährleistung der Genauigkeit und Verlässlichkeit von KI-generierten Inhalten."
+      "headline": "OpenAI unter Untersuchung: Generalstaatsanwälte prüfen Richtlinien und Daten",
+      "summary": "OpenAI sieht sich Ermittlungen mehrerer Generalstaatsanwälte gegenüber, die Bereiche von Werberichtlinien bis zum Umgang mit Gesundheitsdaten prüfen. Dies markiert eine wachsende regulatorische Beobachtung führender KI-Unternehmen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "SpaceX IPO: Hype und Spekulationsblase",
-      "summary": "Der bevorstehende Börsengang von SpaceX und der Hype um Elon Musk befeuern Spekulationsbedenken, da die Bewertung alle Züge einer Blase trägt. Investoren beobachten genau, welche Auswirkungen dies auf den Markt haben könnte."
+      "headline": "Basler Gruppe profitiert von Anthropic-IPO: Frühe Investition in KI-Startup zahlt sich aus",
+      "summary": "Der Verein Macroscopic Ventures aus Basel landete mit einer frühen Investition in das wertvollste KI-Startup Anthropic einen Volltreffer. Das Aktienpaket der effektiven Altruisten dürfte heute ein Vielfaches wert sein."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic: Regierung zieht mächtige KI-Modelle zurück",
-      "summary": "Das KI-Startup Anthropic, dessen frühe Investoren eine Basler Gruppe umfasst, musste den Zugang zu seinen mächtigsten KI-Modellen einstellen. Die Regierung reagierte auf Sicherheitsbedenken und zog die Modelle aufgrund eines potenziellen 'Jailbreaks' zurück, trotz Protesten des Unternehmens."
+      "headline": "KI-Startups drängen an die Börse: 'SpaceX IPO-Welle' beflügelt weitere Listings",
+      "summary": "Eine Welle von KI-Startups drängt an die Börse, inspiriert vom fulminanten SpaceX-Börsengang. Dieser Trend zeigt ein lebhaftes IPO-Umfeld im Tech-Sektor, wobei viele versuchen, von der aktuellen Euphorie zu profitieren."
     }
   ],
   "learning": {
-    "topic": "Ablauf eines Short Squeeze",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze tritt auf, wenn der Kurs einer Aktie, die stark 'leer' (short) verkauft wurde, unerwartet stark ansteigt, was Leerverkäufer zwingt, ihre Positionen durch Rückkäufe zu decken und den Kurs weiter in die Höhe treibt.",
-    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie sich Aktien leihen, verkaufen und später günstiger zurückkaufen wollen. Steigt der Kurs jedoch, müssen sie diese geliehenen Aktien zu höheren Preisen zurückkaufen, um Verluste zu begrenzen oder Margin Calls zu vermeiden. Diese erzwungenen Käufe schaffen eine hohe Nachfrage, die den Aktienkurs spiralförmig nach oben treibt und eine Kettenreaktion auslöst, bei der immer mehr Shortseller ihre Positionen schließen müssen.",
-    "takeaway": "Für Investoren bietet ein Short Squeeze die Chance auf schnelle, hohe Gewinne, birgt jedoch auch extreme Risiken durch die hohe Volatilität und unvorhersehbare Preisbewegungen. Er zeigt die Macht der Marktpsychologie und des kollektiven Handelsverhaltens."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money- und Post-Money-Bewertungen beschreiben den Wert eines Startups vor bzw. nach einer Finanzierungsrunde und sind entscheidend für Anteilsberechnungen.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert, bevor frisches Kapital von Investoren zugeschossen wird. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung, also den Wert nach der Finanzierungsrunde. Der Prozentsatz der Anteile, den ein Investor für sein Kapital erhält, wird anhand der Post-Money-Bewertung berechnet: Investiertes Kapital geteilt durch Post-Money-Bewertung. Dies ist zentral für die Berechnung der Eigentumsverhältnisse und der potenziellen Verwässerung bestehender Anteile.",
+    "takeaway": "Eine hohe Pre-Money-Bewertung bedeutet für Gründer, dass sie für dieselbe Kapitalmenge weniger Anteile abgeben müssen. Für Investoren ist es wichtig, das Verhältnis von investiertem Kapital zu den erhaltenen Anteilen basierend auf der Post-Money-Bewertung genau zu verstehen, um ihren Return zu optimieren."
   }
 }
