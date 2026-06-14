@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran dämpft Erwartungen an rasches Friedensabkommen mit den USA",
-      "summary": "Trotz US-Ankündigungen über eine bevorstehende Einigung dämpft der Iran die Erwartungen an ein rasches Friedensabkommen. Die Unsicherheit über den Iran-Krieg und einen möglichen Deal bleibt bestehen, was die geopolitische Lage angespannt hält."
+      "headline": "Schweizer lehnen Einwohner-Obergrenze ab",
+      "summary": "Schweizer Bürger haben eine Initiative zur Begrenzung der Bevölkerungszahl abgelehnt, wie erste Hochrechnungen zeigen. Gegner des Vorhabens hatten vor weitreichenden negativen Auswirkungen auf die Wirtschaft und das Verhältnis zur EU gewarnt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kritische Rohstoffe: Mit ihrer bisherigen Strategie bleibt die EU vom chinesischen Wohlwollen abhängig",
-      "summary": "Die EU macht kaum Fortschritte bei der Reduzierung ihrer Abhängigkeit von China für kritische Rohstoffe, die für Rüstung und Industrie essenziell sind. Dies sichert China weiterhin eine dominante Stellung in globalen Lieferketten und beeinflusst die EU-Sicherheitspolitik."
+      "headline": "Kritische Rohstoffe: EU weiterhin abhängig von China",
+      "summary": "Die Europäische Union bleibt bei kritischen Rohstoffen stark vom chinesischen Wohlwollen abhängig, da ihre bisherige Strategie kaum Fortschritte zeigt. Dies betrifft essenzielle Lieferketten für Rüstung und Industrie, während die USA schneller agieren."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "IW-Studie: Verrentung der Babyboomer hinterlässt große Lücke im Arbeitsmarkt",
-      "summary": "Eine neue IW-Studie prognostiziert, dass die Verrentung der Babyboomer eine größere Lücke im Arbeitsmarkt hinterlassen wird als bisher angenommen. Dies stellt die Bundesregierung vor Herausforderungen und erfordert umgehende Handlungsempfehlungen zur Fachkräftesicherung."
+      "headline": "Baustelle Partners Group: Aktienkurs erholt sich nicht",
+      "summary": "Der Aktienkurs der Beteiligungsgesellschaft Partners Group hat seit Jahresbeginn ein Drittel an Wert verloren, was Analysten zu gesenkten Gewinnprognosen veranlasst. Trotz angekündigter Zukäufe der Gründer sind die Verantwortlichen spürbar nervös."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Signa-Insolvenz: Österreichische Staatsanwalt erhebt weitere Anklage gegen Investor René Benko",
-      "summary": "Das Immobilien- und Detailhandelsreich von René Benko ist zusammengebrochen, wobei mehrere Signa-Gesellschaften insolvent sind. Der Investor selbst ist nicht rechtskräftig verurteilt und sitzt in U-Haft, was die Tragweite des Finanzskandals unterstreicht."
+      "headline": "Keynes, KI und die 15-Stunden-Woche",
+      "summary": "Die Künstliche Intelligenz (KI) könnte John Maynard Keynes' Prognose einer drastischen Reduktion der Erwerbstätigkeit wahr werden lassen und die Debatte um eine 15-Stunden-Woche neu entfachen. Damit könnte die KI einen fundamentalen Wandel der Arbeitswelt einleiten."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Sicherheitsbedenken: Anthropic muss neueste KI-Versionen sperren",
-      "summary": "US-Behörden haben den KI-Entwickler Anthropic angewiesen, seine neueste Software für Ausländer zu blockieren, woraufhin die Firma die Modelle komplett sperrte. Dieser Schritt wird als gefährlicher Präzedenzfall für die Kontrolle von KI-Technologien gewertet."
+      "headline": "Meta muss $2B Manus Deal auf Pekings Befehl rückabwickeln",
+      "summary": "Meta ist gezwungen, seinen 2-Milliarden-Dollar-Deal für Manus auf Anweisung Pekings rückgängig zu machen. Gleichzeitig kämpft das Unternehmen mit internen Problemen in seiner KI-Einheit, die Ingenieure als 'Seelen-zerstörendes Gulag' bezeichnen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI faces investigation from state attorneys general",
-      "summary": "OpenAI sieht sich einer Untersuchung durch mehrere Generalstaatsanwälte ausgesetzt, die von Werberichtlinien bis zum Umgang mit Gesundheitsdaten alles hinterfragen. Dies unterstreicht die wachsende regulatorische Aufmerksamkeit gegenüber führenden KI-Entwicklern."
+      "headline": "KPMG zieht KI-Bericht wegen Halluzinationen zurück",
+      "summary": "KPMG musste einen Bericht zur KI-Nutzung zurückziehen, da die verwendeten KI-Informationen 'Halluzinationen' aufwiesen und unzuverlässig waren. Dieser Vorfall unterstreicht die anhaltenden Herausforderungen bei der Gewährleistung der Genauigkeit und Verlässlichkeit von KI-generierten Inhalten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic-Börsengang: Eine Basler Gruppe gehört zu den frühesten Investoren des wertvollsten KI-Startups der Welt",
-      "summary": "Der Verein Macroscopic Ventures aus Basel, bekannt für Warnungen vor KI-Risiken, landete mit einer frühen Investition in Anthropic einen Volltreffer. Ihr Aktienpaket am wertvollsten KI-Startup dürfte heute ein Vielfaches wert sein und zeigt den Erfolg früher Venture-Engagements."
+      "headline": "SpaceX IPO: Hype und Spekulationsblase",
+      "summary": "Der bevorstehende Börsengang von SpaceX und der Hype um Elon Musk befeuern Spekulationsbedenken, da die Bewertung alle Züge einer Blase trägt. Investoren beobachten genau, welche Auswirkungen dies auf den Markt haben könnte."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
-      "summary": "SpaceX feierte ein erfolgreiches Börsendebüt mit einem Plus von 19%, was den Gründer Elon Musk zum ersten Dollar-Billionär der Welt machte. Dieser Meilenstein markiert einen gewaltigen Erfolg für das Raumfahrtunternehmen und seine Investoren."
+      "headline": "Anthropic: Regierung zieht mächtige KI-Modelle zurück",
+      "summary": "Das KI-Startup Anthropic, dessen frühe Investoren eine Basler Gruppe umfasst, musste den Zugang zu seinen mächtigsten KI-Modellen einstellen. Die Regierung reagierte auf Sicherheitsbedenken und zog die Modelle aufgrund eines potenziellen 'Jailbreaks' zurück, trotz Protesten des Unternehmens."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: So werden Startups bepreist",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Dieser Begriffsklärung erklärt, wie die Bewertung eines Startups vor und nach einer Finanzierungsrunde berechnet wird und ist entscheidend für die Anteilsverteilung neuer Investoren.",
-    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* dem Eingang neuer Investitionsgelder, während die Post-Money-Bewertung die Summe aus Pre-Money-Wert und dem neu investierten Kapital ist. Sie repräsentiert den Unternehmenswert *nach* der Finanzierungsrunde und bestimmt den Anteil, den ein neuer Investor für seine Einlage erhält. Wenn ein Startup beispielsweise vor einer Runde 10 Millionen Euro wert ist (Pre-Money) und 2 Millionen Euro Kapital aufnimmt, beträgt die Post-Money-Bewertung 12 Millionen Euro. Die neuen Investoren erhalten dann 2/12, also etwa 16,67% der Anteile am Unternehmen.",
-    "takeaway": "Das Verständnis dieser beiden Begriffe ist essenziell, um den Wert eines Startups und die Verwässerung der Anteile bestehender Eigentümer bei Kapitalrunden präzise zu analysieren und zu kommunizieren."
+    "topic": "Ablauf eines Short Squeeze",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze tritt auf, wenn der Kurs einer Aktie, die stark 'leer' (short) verkauft wurde, unerwartet stark ansteigt, was Leerverkäufer zwingt, ihre Positionen durch Rückkäufe zu decken und den Kurs weiter in die Höhe treibt.",
+    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie sich Aktien leihen, verkaufen und später günstiger zurückkaufen wollen. Steigt der Kurs jedoch, müssen sie diese geliehenen Aktien zu höheren Preisen zurückkaufen, um Verluste zu begrenzen oder Margin Calls zu vermeiden. Diese erzwungenen Käufe schaffen eine hohe Nachfrage, die den Aktienkurs spiralförmig nach oben treibt und eine Kettenreaktion auslöst, bei der immer mehr Shortseller ihre Positionen schließen müssen.",
+    "takeaway": "Für Investoren bietet ein Short Squeeze die Chance auf schnelle, hohe Gewinne, birgt jedoch auch extreme Risiken durch die hohe Volatilität und unvorhersehbare Preisbewegungen. Er zeigt die Macht der Marktpsychologie und des kollektiven Handelsverhaltens."
   }
 }
