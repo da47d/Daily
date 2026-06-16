@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Interview: \"Trump will ein Minimalabkommen als Sieg darstellen\"",
-      "summary": "Nahost-Experte Adebahr analysiert Trumps Versuch, das Abkommen mit Iran als Sieg zu inszenieren, obwohl Kriegsziele nicht erreicht und Hardliner gestärkt wurden. Die Unsicherheiten bezüglich des iranischen Atomprogramms bleiben bestehen, was die Fragilität des Deals unterstreicht."
+      "headline": "Israels Libanon-Politik wird zur Belastungsprobe für Rahmenabkommen",
+      "summary": "Israels Vorgehen gegen die Hisbollah im Libanon gefährdet ein potenzielles Friedensabkommen zwischen den USA und Iran. Ob eine Einigung zustande kommt, hängt maßgeblich von Israels militärischen Entscheidungen ab."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Nach Iran-Abkommen: Europäer bereit für Hormus-Mission",
-      "summary": "Ungeachtet der Unsicherheiten des Iran-Abkommens wollen Europäer eine Mission zur Sicherung der Straße von Hormus starten, während Teheran abwinkt. Israels Premier Netanjahu plant indes, Truppen im Libanon zu belassen."
+      "headline": "G7-Treffen: Klare Kante gegen Russland - auch mit Trump?",
+      "summary": "Die G7-Staaten planen eine weitere Verschärfung der Sanktionen gegen Russland, wobei auch US-Präsident Trump sein Engagement für die Ukraine zu erneuern scheint. Mehrere Staatschefs kündigten bereits neue Strafmaßnahmen an."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Fox to acquire Roku in $22B deal",
-      "summary": "Fox plant die Übernahme von Roku für 22 Milliarden US-Dollar. Dieser Deal würde das fusionierte Unternehmen zur drittgrößten Fernsehgesellschaft in den Vereinigten Staaten machen."
+      "headline": "Die SNB geht eigene Wege. Sie wird sich der Zinswende der EZB kaum anschliessen",
+      "summary": "Die Schweizerische Nationalbank (SNB) plant, ihre eigene Geldpolitik beizubehalten und der erwarteten Zinswende der EZB nicht zu folgen. Trotz Inflationsängsten anderswo sieht die SNB ihre aktuelle Strategie als erfolgreich an."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
-      "summary": "Salesforce erwirbt die KI-Kundenserviceplattform Fin für 3,6 Milliarden US-Dollar. Ziel ist es, Fins Team und Technologie zur Verbesserung von Agentforce zu nutzen, der bestehenden Plattform für die Automatisierung von Aufgaben durch KI-Agenten."
+      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: EU-Parlament billigt tiefere Zölle auf US-Waren",
+      "summary": "Das EU-Parlament hat tiefere Zölle auf US-Waren gebilligt, nachdem US-Gerichte Trumps frühere Zölle für unrechtmäßig erklärt hatten. Dieser Schritt ist eine Reaktion auf die anhaltenden globalen Turbulenzen durch amerikanische Handelszölle."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX für den Heimgebrauch: Elon Musks Satelliteninternet hat in der Schweiz viele Fans",
-      "summary": "Elon Musks Satelliteninternet Starlink ist deutlich günstiger geworden und erfreut sich großer Beliebtheit. Es wird jedoch erst zu einem ernsthaften Konkurrenten für etablierte Anbieter, wenn die neuen Satelliten in Betrieb sind."
+      "headline": "SpaceX nutzt seinen Börsenboom und kauft das KI-Startup Cursor für 60 Milliarden Dollar",
+      "summary": "SpaceX profitiert von einem Börsenboom und erwirbt das KI-Startup Cursor für 60 Milliarden Dollar, um im Rennen um die besten KI-Modelle mitzuhalten. Der Raumfahrtpionier unter Elon Musk will damit seine Position gegen Konkurrenten wie Anthropic und Google stärken."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "summary": "Meta führt eine Reihe neuer KI-Funktionen auf Facebook ein, um im KI-Wettlauf aufzuholen und die Nutzerbindung zu erhöhen. Der neue \"AI Mode\" nutzt öffentliche Informationen von Metas Plattformen."
+      "headline": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "summary": "Google hat Android 17 und Wear OS 7 veröffentlicht, die neue Multitasking-Funktionen, Kindersicherungen und Sicherheits-Tools einführen. Die Aktualisierung bringt auch Googles neueste KI-Modelle auf Pixel-Geräte."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "summary": "Das indische Startup Sarvam hat eine Finanzierungsrunde von 234 Millionen US-Dollar abgeschlossen, angeführt von HCLTech, und erreicht damit den Einhorn-Status. HCLTech investiert 150 Millionen US-Dollar in das Unternehmen."
+      "headline": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+      "summary": "Das afrikanische Zahlungsdienstleister-Startup Flutterwave hat eine neue Bewertung von 3,2 Milliarden Dollar erreicht. Die Blockchain-Firma Ripple ist als neuer Investor und Partner eingestiegen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "summary": "NewCore hat 66 Millionen US-Dollar eingesammelt, um KI-Agenten digitale Identitäten zu verleihen. Das Startup adressiert damit die wachsende Herausforderung, KI-Agenten innerhalb von Unternehmenssicherheitsstrukturen zu verwalten."
+      "headline": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "summary": "Plaud, ein Anbieter von KI-gestützten Meeting-Notiznehmern, hat bekannt gegeben, dass sein Software-Geschäft die Marke von 100 Millionen Dollar im wiederkehrenden Jahresumsatz (ARR) überschritten hat. Dies erfolgte nach dem Versand von über zwei Millionen ihrer KI-Notizgeräte."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Wie Anleger Leerverkäufer in die Enge treiben",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein plötzlicher, starker Kursanstieg einer Aktie, der Leerverkäufer dazu zwingt, ihre Positionen zu schließen, indem sie die Aktie zurückkaufen. Dies verstärkt den Aufwärtstrend des Kurses noch weiter.",
-    "details": "Leerverkäufer (Short Seller) wetten auf fallende Kurse, indem sie sich Aktien leihen, diese sofort verkaufen und hoffen, sie später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Wenn der Kurs jedoch entgegen ihrer Erwartung steigt, drohen ihnen unbegrenzte Verluste. Um diese zu begrenzen, müssen sie die Aktien zurückkaufen, was die Nachfrage erhöht und den Kurs weiter in die Höhe treibt. Dieser erzwungene Rückkauf von Leerverkäufern erzeugt einen „Squeeze“.",
-    "takeaway": "Ein Short Squeeze zeigt die Macht der kollektiven Nachfrage und kann für Leerverkäufer katastrophal sein, während mutige Käufer enorme Gewinne erzielen können. Es ist ein dynamisches Zusammenspiel von Angst und Gier im Markt."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer neuen Investitionsrunde, während die Post-Money-Bewertung den Wert *nach* dem Erhalt des frischen Kapitals angibt. Sie sind entscheidend für die Berechnung der Anteile, die Investoren für ihr Geld erhalten.",
+    "details": "Stell dir vor, ein Startup ist vor einer Finanzierungsrunde 5 Millionen Euro wert (Pre-Money). Wenn ein Investor 1 Million Euro investiert, steigt der Gesamtwert des Unternehmens auf 6 Millionen Euro (Post-Money). Die Pre-Money-Bewertung ist die Basis, auf der der Investor seinen Anteil berechnet: Er erhält Anteile im Wert von 1 Million Euro an einem Unternehmen, das danach 6 Millionen Euro wert ist, also rund 16,67%. Dies bedeutet, dass bestehende Aktionäre und Gründer durch die Investition zwar Geld für Wachstum erhalten, ihre prozentualen Anteile am Unternehmen jedoch verwässert werden.",
+    "takeaway": "Die Pre-Money-Bewertung ist der 'alte' Wert vor einer Investition, während die Post-Money-Bewertung den 'neuen' Wert nach der Kapitalzufuhr darstellt. Investoren berechnen ihre Beteiligung basierend auf der Post-Money-Bewertung, was zur Verwässerung der Anteile bestehender Eigentümer führt."
   }
 }
