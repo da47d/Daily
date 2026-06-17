@@ -2,56 +2,51 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israels Libanon-Politik wird zur Belastungsprobe für Rahmenabkommen",
-      "summary": "Israels Vorgehen gegen die Hisbollah im Libanon gefährdet ein potenzielles Friedensabkommen zwischen den USA und Iran. Ob eine Einigung zustande kommt, hängt maßgeblich von Israels militärischen Entscheidungen ab."
-    },
-    {
-      "tag": "POLITIK & GLOBAL",
-      "headline": "G7-Treffen: Klare Kante gegen Russland - auch mit Trump?",
-      "summary": "Die G7-Staaten planen eine weitere Verschärfung der Sanktionen gegen Russland, wobei auch US-Präsident Trump sein Engagement für die Ukraine zu erneuern scheint. Mehrere Staatschefs kündigten bereits neue Strafmaßnahmen an."
+      "headline": "Trotz Frieden mit Iran: Das Öl vom Persischen Golf wird auf sich warten lassen",
+      "summary": "Obwohl die Straße von Hormus nach über hundert Tagen Iran-Krieg wieder geöffnet werden soll, werden die Folgen noch ebenso lange spürbar sein. Dies bedeutet, dass die Ölversorgung aus der Region nicht sofort ansteigen wird."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die SNB geht eigene Wege. Sie wird sich der Zinswende der EZB kaum anschliessen",
-      "summary": "Die Schweizerische Nationalbank (SNB) plant, ihre eigene Geldpolitik beizubehalten und der erwarteten Zinswende der EZB nicht zu folgen. Trotz Inflationsängsten anderswo sieht die SNB ihre aktuelle Strategie als erfolgreich an."
+      "headline": "Anleger halten sich vor Fed-Entscheidung zurück",
+      "summary": "Vor dem Zinsentscheid der US-Notenbank bewegt sich der DAX seitwärts, während Anleger abwarten. Während BMW eine Gewinnwarnung schockiert, klettert die Commerzbank an die Spitze des Leitindex."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: EU-Parlament billigt tiefere Zölle auf US-Waren",
-      "summary": "Das EU-Parlament hat tiefere Zölle auf US-Waren gebilligt, nachdem US-Gerichte Trumps frühere Zölle für unrechtmäßig erklärt hatten. Dieser Schritt ist eine Reaktion auf die anhaltenden globalen Turbulenzen durch amerikanische Handelszölle."
+      "headline": "Die SNB geht eigene Wege. Sie wird sich der Zinswende der EZB kaum anschliessen",
+      "summary": "Trotz der grassierenden Angst vor einer neuen Inflationswelle geht die Schweizerische Nationalbank (SNB) ihren eigenen Weg. Es wird erwartet, dass sie sich der Zinswende der EZB kaum anschliessen wird, da es für sie derzeit rund läuft."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX nutzt seinen Börsenboom und kauft das KI-Startup Cursor für 60 Milliarden Dollar",
-      "summary": "SpaceX profitiert von einem Börsenboom und erwirbt das KI-Startup Cursor für 60 Milliarden Dollar, um im Rennen um die besten KI-Modelle mitzuhalten. Der Raumfahrtpionier unter Elon Musk will damit seine Position gegen Konkurrenten wie Anthropic und Google stärken."
+      "headline": "SpaceX nutzt Börsenboom und kauft KI-Startup Cursor für 60 Mrd. Dollar",
+      "summary": "SpaceX hat das KI-Startup Cursor für 60 Milliarden Dollar erworben, um im Rennen um das beste KI-Modell gegen Konkurrenten wie Anthropic und Google zu bestehen. Der Kauf erfolgt inmitten eines euphorischen Börsenbooms für den Raumfahrtpionier."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "summary": "Google hat Android 17 und Wear OS 7 veröffentlicht, die neue Multitasking-Funktionen, Kindersicherungen und Sicherheits-Tools einführen. Die Aktualisierung bringt auch Googles neueste KI-Modelle auf Pixel-Geräte."
+      "headline": "Uber bringt Robotaxis nach Zürich",
+      "summary": "Noch dieses Jahr sollen Kunden Robotaxi-Fahrten über die Uber-App in Zürich buchen können. Obwohl selbstfahrende Autos laut Experten als sicher gelten, ist die breite Akzeptanz des Angebots in der Bevölkerung noch ungewiss."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
-      "summary": "Das afrikanische Zahlungsdienstleister-Startup Flutterwave hat eine neue Bewertung von 3,2 Milliarden Dollar erreicht. Die Blockchain-Firma Ripple ist als neuer Investor und Partner eingestiegen."
+      "headline": "Pramaana Labs erhält 27 Mio. Dollar Seed-Finanzierung von Khosla Ventures für KI-Verifikation",
+      "summary": "Pramaana Labs hat eine 27 Millionen Dollar Seed-Runde von Khosla Ventures abgeschlossen, um formale Verifikation in KI-Anwendungen zu bringen. Das Startup fokussiert sich auf hochsensible Branchen wie Recht und Arzneimittelentwicklung, wo Fehler teuer sein können."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-      "summary": "Plaud, ein Anbieter von KI-gestützten Meeting-Notiznehmern, hat bekannt gegeben, dass sein Software-Geschäft die Marke von 100 Millionen Dollar im wiederkehrenden Jahresumsatz (ARR) überschritten hat. Dies erfolgte nach dem Versand von über zwei Millionen ihrer KI-Notizgeräte."
+      "headline": "SpaceX-Alumnus erhält 22 Mio. Dollar für Geothermie aus Raketentriebwerken",
+      "summary": "Critical Energy, gegründet von einem SpaceX-Alumnus, hat 22 Millionen Dollar eingesammelt, um Raketentriebwerke in Geothermiekraftwerke umzuwandeln. Das Unternehmen plant, bis 2045 jährlich 300 GW an sauberer Energie zu produzieren."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer neuen Investitionsrunde, während die Post-Money-Bewertung den Wert *nach* dem Erhalt des frischen Kapitals angibt. Sie sind entscheidend für die Berechnung der Anteile, die Investoren für ihr Geld erhalten.",
-    "details": "Stell dir vor, ein Startup ist vor einer Finanzierungsrunde 5 Millionen Euro wert (Pre-Money). Wenn ein Investor 1 Million Euro investiert, steigt der Gesamtwert des Unternehmens auf 6 Millionen Euro (Post-Money). Die Pre-Money-Bewertung ist die Basis, auf der der Investor seinen Anteil berechnet: Er erhält Anteile im Wert von 1 Million Euro an einem Unternehmen, das danach 6 Millionen Euro wert ist, also rund 16,67%. Dies bedeutet, dass bestehende Aktionäre und Gründer durch die Investition zwar Geld für Wachstum erhalten, ihre prozentualen Anteile am Unternehmen jedoch verwässert werden.",
-    "takeaway": "Die Pre-Money-Bewertung ist der 'alte' Wert vor einer Investition, während die Post-Money-Bewertung den 'neuen' Wert nach der Kapitalzufuhr darstellt. Investoren berechnen ihre Beteiligung basierend auf der Post-Money-Bewertung, was zur Verwässerung der Anteile bestehender Eigentümer führt."
+    "topic": "Startup-Slang: ARR, Burn Rate & Churn – Was steckt dahinter?",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese Kennzahlen sind essenziell, um die finanzielle Gesundheit und das Wachstumspotenzial von Startups zu verstehen. Sie geben Aufschluss über wiederkehrende Einnahmen, Kapitalverbrauch und Kundenbindung.",
+    "details": "ARR (Annual Recurring Revenue) misst die annualisierten wiederkehrenden Einnahmen aus Abonnements oder Verträgen und ist ein Schlüsselindikator für die Skalierbarkeit eines SaaS-Unternehmens. Die Burn Rate gibt an, wie schnell ein Startup seine liquiden Mittel pro Monat verbraucht, wodurch die verbleibende Zeit bis zur nächsten Finanzierung (Runway) sichtbar wird. Churn (Kundenabwanderung) ist die Rate, mit der Kunden ihre Abonnements kündigen; eine hohe Churn Rate deutet auf Probleme bei der Kundenbindung oder dem Produkt-Market Fit hin und schmälert den ARR.",
+    "takeaway": "Für Investoren sind diese Kennzahlen entscheidend, um das Risiko und das Potenzial eines Startups zu bewerten; für Gründer dienen sie als wichtige Steuerinstrumente, um Wachstum und das Überleben des Unternehmens zu sichern."
   }
 }
