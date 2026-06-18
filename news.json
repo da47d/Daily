@@ -2,51 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trotz Frieden mit Iran: Das Öl vom Persischen Golf wird auf sich warten lassen",
-      "summary": "Obwohl die Straße von Hormus nach über hundert Tagen Iran-Krieg wieder geöffnet werden soll, werden die Folgen noch ebenso lange spürbar sein. Dies bedeutet, dass die Ölversorgung aus der Region nicht sofort ansteigen wird."
+      "headline": "Gespräche über Friedenslösung zwischen USA und Iran sollen beginnen",
+      "summary": "Nach der Rahmenvereinbarung zwischen den USA und Iran beginnen bald Verhandlungen in der Schweiz, um das Dokument mit Leben zu füllen. US-Präsident Trump hatte das Abkommen zuvor prunkvoll in Versailles unterzeichnet."
+    },
+    {
+      "tag": "POLITIK & GLOBAL",
+      "headline": "Straße von Hormus: Warum die Normalisierung Monate dauern wird",
+      "summary": "Trotz der offiziellen Öffnung der Straße von Hormus wird eine Normalisierung des Schiffsverkehrs Monate dauern. Minen, Versicherungsfragen und Schäden an Förderanlagen behindern die Rückkehr zum Vorkriegszustand und beeinflussen den Ölmarkt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Anleger halten sich vor Fed-Entscheidung zurück",
-      "summary": "Vor dem Zinsentscheid der US-Notenbank bewegt sich der DAX seitwärts, während Anleger abwarten. Während BMW eine Gewinnwarnung schockiert, klettert die Commerzbank an die Spitze des Leitindex."
+      "headline": "Auch Kevin Warsh lässt Trump warten: Das Fed belässt den Leitzins unverändert",
+      "summary": "Trotz des selbstbewussten Auftretens des neuen Fed-Chefs Kevin Warsh bleibt der Leitzins aufgrund hoher Inflation und eines starken Arbeitsmarktes unverändert. Ein Teil der Fed-Spitze rechnet sogar mit einer Zinserhöhung bis Jahresende."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die SNB geht eigene Wege. Sie wird sich der Zinswende der EZB kaum anschliessen",
-      "summary": "Trotz der grassierenden Angst vor einer neuen Inflationswelle geht die Schweizerische Nationalbank (SNB) ihren eigenen Weg. Es wird erwartet, dass sie sich der Zinswende der EZB kaum anschliessen wird, da es für sie derzeit rund läuft."
+      "headline": "Die Schweizerische Nationalbank bleibt den Nullzinsen treu – und folgt nicht der Zinswende anderer Zentralbanken",
+      "summary": "Obwohl die Inflation in der Schweiz durch den Iran-Krieg gestiegen ist, bleibt sie auf niedrigem Niveau, weshalb die SNB an ihrer Nullzinspolitik festhält. Die Nationalbank ist weiterhin bereit, bei Bedarf am Devisenmarkt zu intervenieren, sollte der Franken zu stark werden."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX nutzt Börsenboom und kauft KI-Startup Cursor für 60 Mrd. Dollar",
-      "summary": "SpaceX hat das KI-Startup Cursor für 60 Milliarden Dollar erworben, um im Rennen um das beste KI-Modell gegen Konkurrenten wie Anthropic und Google zu bestehen. Der Kauf erfolgt inmitten eines euphorischen Börsenbooms für den Raumfahrtpionier."
+      "headline": "Nach Schüssen auf russischen Exilkünstler: Mann in Polen festgenommen",
+      "summary": "Nach der Ermordung des russischen Exilkünstlers und Putin-Kritikers Semjon Skrepezki in Ostpolen wurde ein Verdächtiger festgenommen. Polens Premier Tusk geht von einem politischen Mord aus."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Uber bringt Robotaxis nach Zürich",
-      "summary": "Noch dieses Jahr sollen Kunden Robotaxi-Fahrten über die Uber-App in Zürich buchen können. Obwohl selbstfahrende Autos laut Experten als sicher gelten, ist die breite Akzeptanz des Angebots in der Bevölkerung noch ungewiss."
+      "headline": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
+      "summary": "NASA hat Relativity Space, das Raketenunternehmen des ehemaligen Google-Managers Eric Schmidt, für eine Marsmission ausgewählt. Damit entsteht ein spannendes Rennen mit SpaceX um die Ankunft auf dem roten Planeten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Pramaana Labs erhält 27 Mio. Dollar Seed-Finanzierung von Khosla Ventures für KI-Verifikation",
-      "summary": "Pramaana Labs hat eine 27 Millionen Dollar Seed-Runde von Khosla Ventures abgeschlossen, um formale Verifikation in KI-Anwendungen zu bringen. Das Startup fokussiert sich auf hochsensible Branchen wie Recht und Arzneimittelentwicklung, wo Fehler teuer sein können."
+      "headline": "Sebastian Kurz: Der frühere Bundeskanzler ist jetzt ein ambitionierter KI-Unternehmer",
+      "summary": "Der ehemalige Bundeskanzler Sebastian Kurz hat ein Unternehmen gegründet, das KI-Lösungen für Geheimdienste, Armeen und Banken entwickelt. Ziel ist die Unabhängigkeit von amerikanischer Technologie, obwohl das Kapital aus den USA stammt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "SpaceX-Alumnus erhält 22 Mio. Dollar für Geothermie aus Raketentriebwerken",
-      "summary": "Critical Energy, gegründet von einem SpaceX-Alumnus, hat 22 Millionen Dollar eingesammelt, um Raketentriebwerke in Geothermiekraftwerke umzuwandeln. Das Unternehmen plant, bis 2045 jährlich 300 GW an sauberer Energie zu produzieren."
+      "headline": "General Intuition in talks to raise $300M at around $2B valuation",
+      "summary": "Das Startup General Intuition, das KI und Weltmodelle mithilfe von Medals Datensatz von zwei Milliarden Videos jährlich trainiert, verhandelt über eine Finanzierungsrunde von 300 Millionen US-Dollar. Die Bewertung könnte dabei rund zwei Milliarden US-Dollar erreichen."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang: ARR, Burn Rate & Churn – Was steckt dahinter?",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Kennzahlen sind essenziell, um die finanzielle Gesundheit und das Wachstumspotenzial von Startups zu verstehen. Sie geben Aufschluss über wiederkehrende Einnahmen, Kapitalverbrauch und Kundenbindung.",
-    "details": "ARR (Annual Recurring Revenue) misst die annualisierten wiederkehrenden Einnahmen aus Abonnements oder Verträgen und ist ein Schlüsselindikator für die Skalierbarkeit eines SaaS-Unternehmens. Die Burn Rate gibt an, wie schnell ein Startup seine liquiden Mittel pro Monat verbraucht, wodurch die verbleibende Zeit bis zur nächsten Finanzierung (Runway) sichtbar wird. Churn (Kundenabwanderung) ist die Rate, mit der Kunden ihre Abonnements kündigen; eine hohe Churn Rate deutet auf Probleme bei der Kundenbindung oder dem Produkt-Market Fit hin und schmälert den ARR.",
-    "takeaway": "Für Investoren sind diese Kennzahlen entscheidend, um das Risiko und das Potenzial eines Startups zu bewerten; für Gründer dienen sie als wichtige Steuerinstrumente, um Wachstum und das Überleben des Unternehmens zu sichern."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Was ist der Unterschied bei Startups?",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Dieser Beitrag erklärt, wie die Bewertung eines Startups vor und nach einer Finanzierungsrunde berechnet wird und welche Bedeutung dies für Investoren und Gründer hat.",
+    "details": "Die Pre-Money Bewertung ist der Wert eines Unternehmens, bevor es frisches Kapital von Investoren aufnimmt. Wenn neue Investitionen in das Unternehmen fließen, erhöht sich dieser Wert um die Höhe des eingesammelten Kapitals, was dann als Post-Money Bewertung bezeichnet wird. Diese Unterscheidung ist fundamental, um zu verstehen, wie viele Anteile neue Investoren für ihr Kapital erhalten und wie sich die prozentualen Beteiligungen der Gründer und bestehenden Anteilseigner nach einer Finanzierungsrunde entwickeln.",
+    "takeaway": "Eine höhere Pre-Money Bewertung ermöglicht es Gründern, für die gleiche Menge an eingesammeltem Kapital weniger Unternehmensanteile abzugeben. Dies ist entscheidend für die Verwässerung der Eigentumsanteile und die zukünftige Kapitalbeschaffung."
   }
 }
