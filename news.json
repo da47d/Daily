@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Gespräche über Friedenslösung zwischen USA und Iran sollen beginnen",
-      "summary": "Nach der Rahmenvereinbarung zwischen den USA und Iran beginnen bald Verhandlungen in der Schweiz, um das Dokument mit Leben zu füllen. US-Präsident Trump hatte das Abkommen zuvor prunkvoll in Versailles unterzeichnet."
+      "headline": "Meloni bezeichnet Trump-Äußerung als \"völlig frei erfunden\"",
+      "summary": "Italiens Ministerpräsidentin Meloni weist Trumps Behauptung zurück, sie habe ihn um ein Foto \"angefleht\", und bezeichnet diese als \"völlig frei erfunden\". Diese Spannungen, die sogar eine USA-Reise ihres Außenministers beeinflussen, belasten das diplomatische Verhältnis nach dem G7-Gipfel."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Straße von Hormus: Warum die Normalisierung Monate dauern wird",
-      "summary": "Trotz der offiziellen Öffnung der Straße von Hormus wird eine Normalisierung des Schiffsverkehrs Monate dauern. Minen, Versicherungsfragen und Schäden an Förderanlagen behindern die Rückkehr zum Vorkriegszustand und beeinflussen den Ölmarkt."
+      "headline": "Israel und Hisbollah vereinbaren offenbar erneute Waffenruhe",
+      "summary": "Berichten zufolge haben Israel und die Hisbollah eine erneute Waffenruhe vereinbart, obwohl offizielle Bestätigungen noch ausstehen. Diese Entwicklung könnte ein zuvor durch Gefechte gefährdetes Rahmenabkommen zwischen den USA und dem Iran stabilisieren."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Auch Kevin Warsh lässt Trump warten: Das Fed belässt den Leitzins unverändert",
-      "summary": "Trotz des selbstbewussten Auftretens des neuen Fed-Chefs Kevin Warsh bleibt der Leitzins aufgrund hoher Inflation und eines starken Arbeitsmarktes unverändert. Ein Teil der Fed-Spitze rechnet sogar mit einer Zinserhöhung bis Jahresende."
+      "headline": "Wie der fallende Ölpreis Russlands Kriegswirtschaft bedroht",
+      "summary": "Sinkende Ölpreise, verstärkt durch ukrainische Drohnenangriffe und die Rubel-Stärke, setzen Russlands Kriegswirtschaft zunehmend unter Druck. Dies gefährdet die langfristige Finanzierung des Krieges und die wirtschaftliche Stabilität des Landes."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Schweizerische Nationalbank bleibt den Nullzinsen treu – und folgt nicht der Zinswende anderer Zentralbanken",
-      "summary": "Obwohl die Inflation in der Schweiz durch den Iran-Krieg gestiegen ist, bleibt sie auf niedrigem Niveau, weshalb die SNB an ihrer Nullzinspolitik festhält. Die Nationalbank ist weiterhin bereit, bei Bedarf am Devisenmarkt zu intervenieren, sollte der Franken zu stark werden."
+      "headline": "Auch Kevin Warsh lässt Trump warten: Das Fed belässt den Leitzins unverändert",
+      "summary": "Die US-Notenbank Fed hat trotz hoher Inflation und starkem Arbeitsmarkt den Leitzins unverändert gelassen, was Zinssenkungen in weite Ferne rückt. Die Hälfte der Fed-Spitze rechnet sogar mit einer weiteren Zinserhöhung bis Jahresende."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nach Schüssen auf russischen Exilkünstler: Mann in Polen festgenommen",
-      "summary": "Nach der Ermordung des russischen Exilkünstlers und Putin-Kritikers Semjon Skrepezki in Ostpolen wurde ein Verdächtiger festgenommen. Polens Premier Tusk geht von einem politischen Mord aus."
+      "headline": "US-Regierungsverbot gegen Anthropic AI-Modelle löst Debatte aus",
+      "summary": "Die US-Regierung zwang Anthropic, ihre neuesten AI-Modelle Fable 5 und Mythos 5 wegen nationaler Sicherheitsbedenken zurückzuziehen, was eine hitzige Debatte unter Cybersicherheitsforschern auslöste. Kritiker argumentieren, das Verbot sei gefährlich und könnte der Marke ungewollt Publicity verschaffen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
-      "summary": "NASA hat Relativity Space, das Raketenunternehmen des ehemaligen Google-Managers Eric Schmidt, für eine Marsmission ausgewählt. Damit entsteht ein spannendes Rennen mit SpaceX um die Ankunft auf dem roten Planeten."
+      "headline": "OpenAI rüstet sich mit Top-Talenten für Börsengang",
+      "summary": "OpenAI verstärkt sein Team vor dem geplanten Börsengang mit hochkarätigen Neuzugängen, darunter Transformer-Miterfinder Noam Shazeer von Google DeepMind. Diese strategischen Einstellungen unterstreichen die Ambitionen des führenden KI-Unternehmens, sich für zukünftiges Wachstum und den Kapitalmarkt optimal aufzustellen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sebastian Kurz: Der frühere Bundeskanzler ist jetzt ein ambitionierter KI-Unternehmer",
-      "summary": "Der ehemalige Bundeskanzler Sebastian Kurz hat ein Unternehmen gegründet, das KI-Lösungen für Geheimdienste, Armeen und Banken entwickelt. Ziel ist die Unabhängigkeit von amerikanischer Technologie, obwohl das Kapital aus den USA stammt."
+      "headline": "KI-Inferenz-Startup Baseten sichert sich weitere 1,5 Mrd. USD Finanzierung",
+      "summary": "Das KI-Inferenz-Startup Baseten steht Berichten zufolge kurz davor, eine Finanzierungsrunde über 1,5 Milliarden US-Dollar zu einem Wert von 13 Milliarden US-Dollar abzuschließen. Diese Mega-Runde unterstreicht den anhaltenden \"Inferenz-Goldrausch\" im KI-Sektor."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "General Intuition in talks to raise $300M at around $2B valuation",
-      "summary": "Das Startup General Intuition, das KI und Weltmodelle mithilfe von Medals Datensatz von zwei Milliarden Videos jährlich trainiert, verhandelt über eine Finanzierungsrunde von 300 Millionen US-Dollar. Die Bewertung könnte dabei rund zwei Milliarden US-Dollar erreichen."
+      "headline": "Snap gliedert KI-Videoteam als neues Startup Dotmo aus",
+      "summary": "Snap, der Macher von Snapchat, gliedert sein internes KI-Videoteam aufgrund hoher Kosten in ein neues eigenständiges Unternehmen namens Dotmo aus. Dieses neue Startup wird sich voll auf die Entwicklung von KI-Videotechnologien konzentrieren."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Was ist der Unterschied bei Startups?",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Dieser Beitrag erklärt, wie die Bewertung eines Startups vor und nach einer Finanzierungsrunde berechnet wird und welche Bedeutung dies für Investoren und Gründer hat.",
-    "details": "Die Pre-Money Bewertung ist der Wert eines Unternehmens, bevor es frisches Kapital von Investoren aufnimmt. Wenn neue Investitionen in das Unternehmen fließen, erhöht sich dieser Wert um die Höhe des eingesammelten Kapitals, was dann als Post-Money Bewertung bezeichnet wird. Diese Unterscheidung ist fundamental, um zu verstehen, wie viele Anteile neue Investoren für ihr Kapital erhalten und wie sich die prozentualen Beteiligungen der Gründer und bestehenden Anteilseigner nach einer Finanzierungsrunde entwickeln.",
-    "takeaway": "Eine höhere Pre-Money Bewertung ermöglicht es Gründern, für die gleiche Menge an eingesammeltem Kapital weniger Unternehmensanteile abzugeben. Dies ist entscheidend für die Verwässerung der Eigentumsanteile und die zukünftige Kapitalbeschaffung."
+    "topic": "Derivate: Bauernhof-Beispiel zur Funktionsweise von Terminkontrakten",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem Basiswert abgeleitet wird, wie zum Beispiel Aktien oder Rohstoffen. Sie dienen dazu, Risiken abzusichern oder auf Preisentwicklungen zu spekulieren.",
+    "details": "Stell dir einen Bauern vor, der Weizen anbaut, und einen Bäcker, der Weizen für Brot benötigt. Der Bauer befürchtet sinkende Preise, der Bäcker steigende. Sie können einen Terminkontrakt (ein Derivat) abschließen: Der Bauer verkauft dem Bäcker heute Weizen zum Preis von 200 Euro pro Tonne, Lieferung in sechs Monaten. Beide sichern sich ab: Der Bauer hat einen festen Verkaufspreis, der Bäcker einen festen Einkaufspreis, unabhängig davon, wie der Weizenpreis dann tatsächlich ist. Der Wert des Terminkontrakts hängt also vom zukünftigen Weizenpreis (dem Basiswert) ab.",
+    "takeaway": "Derivate sind Absicherungs- und Spekulationswerkzeuge, die Preisschwankungen reduzieren oder nutzen, indem sie ihren Wert von einem zugrundeliegenden Gut ableiten, ohne dieses direkt kaufen oder verkaufen zu müssen."
   }
 }
