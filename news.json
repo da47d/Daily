@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Meloni bezeichnet Trump-Äußerung als \"völlig frei erfunden\"",
-      "summary": "Italiens Ministerpräsidentin Meloni weist Trumps Behauptung zurück, sie habe ihn um ein Foto \"angefleht\", und bezeichnet diese als \"völlig frei erfunden\". Diese Spannungen, die sogar eine USA-Reise ihres Außenministers beeinflussen, belasten das diplomatische Verhältnis nach dem G7-Gipfel."
+      "headline": "Linke nennt Israels Vorgehen offiziell Völkermord",
+      "summary": "Nach hitziger Debatte auf dem Parteitag hat die Linkspartei Israels Vorgehen im Gazakrieg offiziell als Völkermord bezeichnet. Diese Entscheidung markiert einen gemeinsamen Nenner in einem intern heiklen Thema."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israel und Hisbollah vereinbaren offenbar erneute Waffenruhe",
-      "summary": "Berichten zufolge haben Israel und die Hisbollah eine erneute Waffenruhe vereinbart, obwohl offizielle Bestätigungen noch ausstehen. Diese Entwicklung könnte ein zuvor durch Gefechte gefährdetes Rahmenabkommen zwischen den USA und dem Iran stabilisieren."
+      "headline": "US-Gesandte zu Iran-Gesprächen aufgebrochen",
+      "summary": "US-Unterhändler Witkoff und Kushner bereiten sich laut Medienberichten auf Gespräche in der Schweiz vor. Die Bereitschaft Irans ist angesichts neuer israelischer Angriffe auf den Libanon jedoch noch unklar."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Wie der fallende Ölpreis Russlands Kriegswirtschaft bedroht",
-      "summary": "Sinkende Ölpreise, verstärkt durch ukrainische Drohnenangriffe und die Rubel-Stärke, setzen Russlands Kriegswirtschaft zunehmend unter Druck. Dies gefährdet die langfristige Finanzierung des Krieges und die wirtschaftliche Stabilität des Landes."
+      "headline": "Europa ringt um Unabhängigkeit bei kritischen Rohstoffen",
+      "summary": "Europa ist bei kritischen Rohstoffen für seine Verteidigung und Industrie stark von China abhängig, was ein erhebliches Risiko darstellt. Die EU versucht vergeblich, Fortschritte bei der Diversifizierung der Lieferketten zu erzielen, während die USA Tempo machen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Auch Kevin Warsh lässt Trump warten: Das Fed belässt den Leitzins unverändert",
-      "summary": "Die US-Notenbank Fed hat trotz hoher Inflation und starkem Arbeitsmarkt den Leitzins unverändert gelassen, was Zinssenkungen in weite Ferne rückt. Die Hälfte der Fed-Spitze rechnet sogar mit einer weiteren Zinserhöhung bis Jahresende."
+      "headline": "Neuer Fed-Chef Warsh setzt klare Prioritäten",
+      "summary": "Der designierte Fed-Chef Kevin Warsh tritt selbstbewusst auf und betont seine Unabhängigkeit von Trump, mit klarem Fokus auf den Kampf gegen die Inflation. Seine Absicht, mit alten Gewohnheiten zu brechen, könnte den Finanzmarkt überraschen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "US-Regierungsverbot gegen Anthropic AI-Modelle löst Debatte aus",
-      "summary": "Die US-Regierung zwang Anthropic, ihre neuesten AI-Modelle Fable 5 und Mythos 5 wegen nationaler Sicherheitsbedenken zurückzuziehen, was eine hitzige Debatte unter Cybersicherheitsforschern auslöste. Kritiker argumentieren, das Verbot sei gefährlich und könnte der Marke ungewollt Publicity verschaffen."
+      "headline": "US-Regierungsverbot für Anthropic könnte als Werbung wirken",
+      "summary": "Nachdem die US-Regierung Anthropic gezwungen hat, zwei neue KI-Modelle wegen nationaler Sicherheitsbedenken zurückzuziehen, debattiert die Branche über die Auswirkungen. Kritiker sehen den Schritt als gefährlich und fragen, ob das Verbot dem KI-Brand ungewollt hilft."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI rüstet sich mit Top-Talenten für Börsengang",
-      "summary": "OpenAI verstärkt sein Team vor dem geplanten Börsengang mit hochkarätigen Neuzugängen, darunter Transformer-Miterfinder Noam Shazeer von Google DeepMind. Diese strategischen Einstellungen unterstreichen die Ambitionen des führenden KI-Unternehmens, sich für zukünftiges Wachstum und den Kapitalmarkt optimal aufzustellen."
+      "headline": "Billionär Ambani will KI in jedes Zuhause bringen",
+      "summary": "Der indische Milliardär Mukesh Ambani plant, künstliche Intelligenz in jeden Anruf, jede App und jedes Zuhause zu integrieren. Sein Unternehmen Reliance verwebt KI bereits in Telekommunikationsdienste, die von über 500 Millionen Menschen genutzt werden."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "KI-Inferenz-Startup Baseten sichert sich weitere 1,5 Mrd. USD Finanzierung",
-      "summary": "Das KI-Inferenz-Startup Baseten steht Berichten zufolge kurz davor, eine Finanzierungsrunde über 1,5 Milliarden US-Dollar zu einem Wert von 13 Milliarden US-Dollar abzuschließen. Diese Mega-Runde unterstreicht den anhaltenden \"Inferenz-Goldrausch\" im KI-Sektor."
+      "headline": "AI-Startup Baseten strebt $1.5 Mrd. Finanzierungsrunde an",
+      "summary": "Das KI-Inferenz-Startup Baseten steht Berichten zufolge kurz vor dem Abschluss einer riesigen $1.5 Milliarden Finanzierungsrunde. Diese Bewertung von $13 Milliarden unterstreicht den anhaltenden 'Inference Gold Rush' in der KI-Branche."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Snap gliedert KI-Videoteam als neues Startup Dotmo aus",
-      "summary": "Snap, der Macher von Snapchat, gliedert sein internes KI-Videoteam aufgrund hoher Kosten in ein neues eigenständiges Unternehmen namens Dotmo aus. Dieses neue Startup wird sich voll auf die Entwicklung von KI-Videotechnologien konzentrieren."
+      "headline": "Elastic übernimmt Deductive AI für bis zu $85 Mio.",
+      "summary": "Elastic hat Berichten zufolge zugestimmt, das von CRV unterstützte Startup Deductive AI für bis zu $85 Millionen zu erwerben. Deductive AI, erst vor drei Jahren gegründet, nutzt KI, um Softwarefehler zu erkennen und zu beheben."
     }
   ],
   "learning": {
-    "topic": "Derivate: Bauernhof-Beispiel zur Funktionsweise von Terminkontrakten",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem Basiswert abgeleitet wird, wie zum Beispiel Aktien oder Rohstoffen. Sie dienen dazu, Risiken abzusichern oder auf Preisentwicklungen zu spekulieren.",
-    "details": "Stell dir einen Bauern vor, der Weizen anbaut, und einen Bäcker, der Weizen für Brot benötigt. Der Bauer befürchtet sinkende Preise, der Bäcker steigende. Sie können einen Terminkontrakt (ein Derivat) abschließen: Der Bauer verkauft dem Bäcker heute Weizen zum Preis von 200 Euro pro Tonne, Lieferung in sechs Monaten. Beide sichern sich ab: Der Bauer hat einen festen Verkaufspreis, der Bäcker einen festen Einkaufspreis, unabhängig davon, wie der Weizenpreis dann tatsächlich ist. Der Wert des Terminkontrakts hängt also vom zukünftigen Weizenpreis (dem Basiswert) ab.",
-    "takeaway": "Derivate sind Absicherungs- und Spekulationswerkzeuge, die Preisschwankungen reduzieren oder nutzen, indem sie ihren Wert von einem zugrundeliegenden Gut ableiten, ohne dieses direkt kaufen oder verkaufen zu müssen."
+    "topic": "Cap-Table-Logik bei einer Down Round",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Eine 'Down Round' bezeichnet eine Finanzierungsrunde, bei der ein Startup zu einer niedrigeren Bewertung als in der vorherigen Runde Kapital aufnimmt.",
+    "details": "Dies führt zu einer erhöhten Verwässerung für bestehende Aktionäre, insbesondere für Gründer und frühe Investoren, da neue Anteile zu einem geringeren Preis ausgegeben werden. Oft erhalten neue Investoren in Down Rounds präferierte Liquidationspräferenzen oder andere Schutzklauseln, um ihr höheres Risiko auszugleichen, was die Verwässerung der Altaktionäre weiter verschärfen kann. Die Cap Table (Capitalization Table) spiegelt diese Veränderungen wider und zeigt die neuen Besitzverhältnisse sowie die veränderten Anteile aller Stakeholder.",
+    "takeaway": "Eine Down Round hat erhebliche Auswirkungen auf die Eigentumsanteile und die potenzielle Rendite bestehender Investoren und Gründer. Das Verständnis der Verwässerung und von Schutzklauseln ist in VC-Deals essenziell."
   }
 }
