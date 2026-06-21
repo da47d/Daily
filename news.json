@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran und die USA erhöhen vor Verhandlungen in der Schweiz den Druck",
-      "summary": "Vor den entscheidenden Verhandlungen in der Schweiz über ein dauerhaftes Friedensabkommen erhöhen sowohl Iran als auch die USA den Druck. Die Gespräche werden durch die brüchige Waffenruhe im Libanon zusätzlich erschwert."
+      "headline": "Pistorius: Wohl kein schnelles Bundeswehr-Mandat für Hormus-Mission",
+      "summary": "Verteidigungsminister Pistorius dämpft Hoffnungen auf einen schnellen deutschen Militäreinsatz in der Straße von Hormus. Dies deutet auf eine abwartende Haltung Deutschlands in der heiklen Frage der Sicherung internationaler Schifffahrtswege hin."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump geht in Sachen Medikamentenpreise gegen Deutschland vor – für die Schweiz sind das keine guten Nachrichten",
-      "summary": "Die USA fordern von Industrieländern wie Deutschland eine höhere Beteiligung an den Kosten für Arzneimittel. Dies erhöht den internationalen Druck und könnte auch die Schweiz, die ebenfalls von Trumps Politik betroffen ist, negativ beeinflussen."
+      "headline": "Schweiz: US-Vize Vance nennt Verhandlungen mit Iran \"historisch\"",
+      "summary": "US-Vizepräsident Vance bezeichnet die Verhandlungen über ein Ende des Iran-Konflikts in der Schweiz als \"historisch\", trotz Trumps umstrittener Äußerungen. Große Fortschritte werden gemeldet, was globale Märkte, insbesondere den Ölmarkt, beeinflussen könnte."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die neue Sparsamkeit der Deutschen gefährdet die Konjunktur",
-      "summary": "Aufgrund hoher Inflation und gestiegener Unsicherheit halten sich deutsche Konsumenten zunehmend mit Ausgaben zurück. Dieses Verhalten bremst die Konjunktur und trifft verschiedene Branchen unterschiedlich hart."
+      "headline": "Investoren aus China: Ausverkauf deutscher Technik oder Chance?",
+      "summary": "Eine Analyse zeigt die Performance deutscher Firmen nach Übernahmen durch chinesische Investoren der letzten zehn Jahre. Dies wirft Fragen über die langfristigen strategischen und wirtschaftlichen Auswirkungen auf den deutschen Technologiestandort auf."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Gutes Timing oder Glück? Der Benzinpreis fällt rechtzeitig zur amerikanischen Feriensaison",
-      "summary": "In den USA ist der Spritpreis pünktlich zur Feriensaison unter die Marke von 4 Dollar pro Gallone gefallen. Dies könnte Präsident Trump kurz vor den Zwischenwahlen einen Vorteil verschaffen, auch wenn die Auswirkungen des Friedens mit Iran noch ungewiss sind."
+      "headline": "Die neue Sparsamkeit der Deutschen gefährdet die Konjunktur",
+      "summary": "Angesichts von Inflation und Unsicherheit halten sich deutsche Konsumenten zunehmend zurück, was die nationale Konjunktur belastet. Nicht alle Branchen sind gleichermaßen betroffen, doch der Trend beeinträchtigt das Wirtschaftswachstum erheblich."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Fußball-WM: Deutschland gewinnt 2:1 gegen die Elfenbeinküste",
-      "summary": "Die deutsche Fußball-Nationalmannschaft hat ihr zweites WM-Gruppenspiel gegen die Elfenbeinküste mit 2:1 gewonnen. Durch diesen Sieg sichert sich die DFB-Auswahl vorzeitig den Einzug in die K.-o.-Phase des Turniers."
+      "headline": "Ubisoft co-founder Claude Guillemot dies in plane crash",
+      "summary": "Claude Guillemot, Mitbegründer des Videospielgiganten Ubisoft, ist im Alter von 69 Jahren bei einem Flugzeugabsturz ums Leben gekommen. Sein Tod markiert das Ende einer Ära für die Gaming-Industrie und das von ihm mitgeprägte Unternehmen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Every new iOS 27 feature that’s worth knowing about",
-      "summary": "Neben den großen KI-Updates wie Siri AI und Apple Intelligence bietet iOS 27 eine Reihe weiterer wichtiger Neuerungen. Diese sind zwar weniger flashy, aber dennoch relevant für alle Nutzer von Apple-Geräten."
+      "headline": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
+      "summary": "Ein neuer Bericht unterstreicht Chinas Führungsposition in der Entwicklung von Robotaxi-Technologien. Dies zeigt die Verschiebung globaler Machtverhältnisse im Zukunftsmarkt der autonomen Mobilität und deutet auf eine schnelle Adoption in China hin."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Founders Fund’s outlier bet on humanely killed fish",
-      "summary": "Der bekannte VC Founders Fund investiert in Shinkei, ein Startup, das einen Roboter namens Poseidon entwickelt hat, um Fische schnell und human zu töten. Dies ist eine ungewöhnliche Wette auf eine innovative Lösung in der Fischereiindustrie."
+      "headline": "«Zwischen Nahtod und Euphorie»: Das Fintech-Startup Ellexx wehrt sich gegen Untergangsgerüchte",
+      "summary": "Das Fintech-Startup Ellexx, das Frauen zum Investieren animieren will, kämpft gegen Gerüchte über finanzielle Schwierigkeiten. Die Gründerinnen sind jedoch optimistisch, die Profitabilität bald zu erreichen und den Durchbruch zu schaffen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
-      "summary": "Das japanische Taxi-Hailing-App Go hat nach dem größten Börsengang Japans im Jahr 2026 signifikantes Kapital erhalten. Dieses will das Unternehmen für die Entwicklung von Robotaxis und strategische Übernahmen nutzen, um dem Fahrermangel entgegenzuwirken."
+      "headline": "Founders Fund’s outlier bet on humanely killed fish",
+      "summary": "Founders Fund investiert in Shinkei, ein Startup, das einen Roboter zur humanen Tötung von Fischen entwickelt hat. Diese \"Outlier Bet\" zeigt das Potenzial für innovative Technologien in traditionellen Industrien und das Interesse an nachhaltigen Lösungen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Dieser Begriffskomplex erklärt, wie der Wert eines Startups vor und nach einer Finanzierungsrunde berechnet wird und welche Implikationen das für Alt- und Neuinvestoren hat.",
-    "details": "Die 'Pre-Money'-Bewertung ist der Wert eines Startups vor dem Erhalt einer neuen Finanzierung, also bevor frisches Kapital in das Unternehmen fließt. Sobald Investoren ihre Gelder eingebracht haben, ergibt sich die 'Post-Money'-Bewertung, die die Summe aus der Pre-Money-Bewertung und dem investierten Kapital darstellt. Der prozentuale Anteil, den neue Investoren am Unternehmen erhalten, berechnet sich direkt aus dem Verhältnis ihres Investments zur Post-Money-Bewertung.",
-    "takeaway": "Für Gründer ist das Verständnis von Pre- und Post-Money essenziell, um die Verwässerung ihrer Anteile genau zu beziffern; für Investoren ist es die Grundlage zur korrekten Bestimmung ihres Anteils am Unternehmen."
+    "topic": "Derivate verstehen: Risikomanagement wie beim Bauern",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem Basiswert ableitet, wie Futures oder Optionen, die zur Absicherung oder Spekulation dienen. Sie erlauben es, Risiken zu managen oder von zukünftigen Preisentwicklungen zu profitieren, ohne den Basiswert direkt zu besitzen.",
+    "details": "Stell dir einen Bauern vor, der Weizen anbaut und sich Sorgen um den Verkaufspreis seiner Ernte macht, wenn diese in sechs Monaten fertig ist. Er kann einen \"Future-Kontrakt\" eingehen, der ihm heute einen festen Verkaufspreis für seine zukünftige Ernte garantiert. Egal, ob der Weizenpreis steigt oder fällt, er hat Preisstabilität. Das ist ein Derivat: Ein Vertrag über einen zukünftigen Handel, dessen Wert vom Weizenpreis abhängt. Ebenso könnte er eine \"Option\" kaufen, die ihm das Recht, aber nicht die Pflicht gibt, seinen Weizen zu einem bestimmten Preis zu verkaufen. Das gibt ihm Flexibilität, falls die Preise stark steigen. Investoren nutzen diese Logik auf den Finanzmärkten, um sich gegen fallende Aktienkurse abzusichern oder auf steigende Rohstoffpreise zu wetten.",
+    "takeaway": "Derivate sind mächtige Werkzeuge, um zukünftige Unsicherheiten in Preisen von Assets (z.B. Rohstoffe, Aktien) zu managen oder gezielt auf deren Entwicklung zu spekulieren."
   }
 }
