@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran droht erneut mit Sperrung der Straße von Hormus",
-      "summary": "Das iranische Militär hat die strategisch wichtige Straße von Hormus wegen israelischer Angriffe im Libanon für gesperrt erklärt, was sofortige globale Besorgnis auslöste. Das US-Militär widersprach jedoch und kündigte Verhandlungen für Sonntag an, während der Schiffsverkehr nach ihren Angaben weiterläuft."
+      "headline": "Iran und die USA erhöhen vor Verhandlungen in der Schweiz den Druck",
+      "summary": "Vor den entscheidenden Verhandlungen in der Schweiz über ein dauerhaftes Friedensabkommen erhöhen sowohl Iran als auch die USA den Druck. Die Gespräche werden durch die brüchige Waffenruhe im Libanon zusätzlich erschwert."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Europas Abhängigkeit von China bei kritischen Rohstoffen bleibt hohes Risiko",
-      "summary": "Europa tut sich schwer, seine Abhängigkeit von China bei kritischen Rohstoffen zu reduzieren, die essenziell für Verteidigung und Industrie sind. Dies stellt ein strategisches Risiko dar, während die USA beim Abbau solcher Abhängigkeiten schneller voranschreiten."
+      "headline": "Trump geht in Sachen Medikamentenpreise gegen Deutschland vor – für die Schweiz sind das keine guten Nachrichten",
+      "summary": "Die USA fordern von Industrieländern wie Deutschland eine höhere Beteiligung an den Kosten für Arzneimittel. Dies erhöht den internationalen Druck und könnte auch die Schweiz, die ebenfalls von Trumps Politik betroffen ist, negativ beeinflussen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Goldstrom gedreht: Schweiz könnte USA mit Zoll drohen",
-      "summary": "Der Handelsbilanzüberschuss der Schweiz mit den USA hat sich in ein Defizit verkehrt, was Trump ein wichtiges Druckmittel in Zollverhandlungen nehmen könnte. Diese Verschiebung hängt maßgeblich an den Goldströmen zwischen den beiden Ländern."
+      "headline": "Die neue Sparsamkeit der Deutschen gefährdet die Konjunktur",
+      "summary": "Aufgrund hoher Inflation und gestiegener Unsicherheit halten sich deutsche Konsumenten zunehmend mit Ausgaben zurück. Dieses Verhalten bremst die Konjunktur und trifft verschiedene Branchen unterschiedlich hart."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Regierung plant massive Wohngeld-Kürzungen",
-      "summary": "Medienberichten zufolge plant die Regierung drastische Kürzungen beim Wohngeld, um Milliarden zu sparen. Dies stößt auf Widerstand der Opposition und wirft Fragen nach den Auswirkungen auf die Anspruchsberechtigten auf."
+      "headline": "Gutes Timing oder Glück? Der Benzinpreis fällt rechtzeitig zur amerikanischen Feriensaison",
+      "summary": "In den USA ist der Spritpreis pünktlich zur Feriensaison unter die Marke von 4 Dollar pro Gallone gefallen. Dies könnte Präsident Trump kurz vor den Zwischenwahlen einen Vorteil verschaffen, auch wenn die Auswirkungen des Friedens mit Iran noch ungewiss sind."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "iOS 27 bringt wichtige, aber unauffällige Neuerungen",
-      "summary": "iOS 27 mag zwar nicht mit den großen AI-Features von Siri oder Apple Intelligence glänzen, führt aber dennoch eine Reihe nennenswerter Ergänzungen ein. Diese Neuerungen verbessern das Nutzererlebnis in vielen Details und sind es wert, beachtet zu werden."
+      "headline": "Fußball-WM: Deutschland gewinnt 2:1 gegen die Elfenbeinküste",
+      "summary": "Die deutsche Fußball-Nationalmannschaft hat ihr zweites WM-Gruppenspiel gegen die Elfenbeinküste mit 2:1 gewonnen. Durch diesen Sieg sichert sich die DFB-Auswahl vorzeitig den Einzug in die K.-o.-Phase des Turniers."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Signal-Präsidentin warnt: KI-Chatbots sind keine Freunde",
-      "summary": "Meredith Whittaker, Präsidentin von Signal, mahnt eindringlich, AI-Chatbots nicht als bewusste oder empfindungsfähige Gesprächspartner zu missverstehen. Sie betont, dass diese Technologien lediglich Werkzeuge und keine Freunde sind."
+      "headline": "Every new iOS 27 feature that’s worth knowing about",
+      "summary": "Neben den großen KI-Updates wie Siri AI und Apple Intelligence bietet iOS 27 eine Reihe weiterer wichtiger Neuerungen. Diese sind zwar weniger flashy, aber dennoch relevant für alle Nutzer von Apple-Geräten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Blockchain ermöglicht Privatinvestoren Zugang zu Katastrophenrisiko-Rückversicherung",
-      "summary": "Die Blockchain-Technologie eröffnet Privatinvestoren die Möglichkeit, in den zuvor Profis vorbehaltenen Markt der Rückversicherung von Katastrophenrisiken zu investieren. Dies verspricht attraktive Gewinne durch die Übernahme von Versicherungsrisiken."
+      "headline": "Founders Fund’s outlier bet on humanely killed fish",
+      "summary": "Der bekannte VC Founders Fund investiert in Shinkei, ein Startup, das einen Roboter namens Poseidon entwickelt hat, um Fische schnell und human zu töten. Dies ist eine ungewöhnliche Wette auf eine innovative Lösung in der Fischereiindustrie."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Go plant nach Japans größtem IPO Expansion in Robotaxis",
-      "summary": "Japans Taxi-App Go hat durch den größten Börsengang des Jahres erhebliches Kapital eingesammelt, um die existenzielle Fahrermangel-Krise zu bewältigen. Das Unternehmen plant nun aggressive Schritte in den Robotaxi-Markt und weitere Akquisitionen."
+      "headline": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
+      "summary": "Das japanische Taxi-Hailing-App Go hat nach dem größten Börsengang Japans im Jahr 2026 signifikantes Kapital erhalten. Dieses will das Unternehmen für die Entwicklung von Robotaxis und strategische Übernahmen nutzen, um dem Fahrermangel entgegenzuwirken."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Mechanik und Markteffekte",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze tritt auf, wenn der Kurs einer stark 'short' verkauften Aktie plötzlich und stark steigt. Dies zwingt Leerverkäufer, ihre Positionen durch Käufe zu schließen, was den Kurs weiter in die Höhe treibt.",
-    "details": "Wenn Investoren auf fallende Kurse wetten ('short gehen'), verkaufen sie geliehene Aktien in der Hoffnung, diese später zu einem niedrigeren Preis zurückkaufen und die Differenz als Gewinn einstreichen zu können. Steigt der Kurs jedoch wider Erwarten, erleiden sie Verluste. Um diese Verluste zu begrenzen oder Margin Calls zu vermeiden, müssen sie die Aktien zurückkaufen, was eine verstärkte Nachfrage erzeugt und den Kurs in einer Aufwärtsspirale nach oben treibt.",
-    "takeaway": "Ein Short Squeeze zeigt, wie Leerverkäufe ein zweischneidiges Schwert sein können und dass ein hohes 'Short Interest' ein Katalysator für explosive Kursgewinne sein kann, falls die Marktstimmung kippt."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Dieser Begriffskomplex erklärt, wie der Wert eines Startups vor und nach einer Finanzierungsrunde berechnet wird und welche Implikationen das für Alt- und Neuinvestoren hat.",
+    "details": "Die 'Pre-Money'-Bewertung ist der Wert eines Startups vor dem Erhalt einer neuen Finanzierung, also bevor frisches Kapital in das Unternehmen fließt. Sobald Investoren ihre Gelder eingebracht haben, ergibt sich die 'Post-Money'-Bewertung, die die Summe aus der Pre-Money-Bewertung und dem investierten Kapital darstellt. Der prozentuale Anteil, den neue Investoren am Unternehmen erhalten, berechnet sich direkt aus dem Verhältnis ihres Investments zur Post-Money-Bewertung.",
+    "takeaway": "Für Gründer ist das Verständnis von Pre- und Post-Money essenziell, um die Verwässerung ihrer Anteile genau zu beziffern; für Investoren ist es die Grundlage zur korrekten Bestimmung ihres Anteils am Unternehmen."
   }
 }
