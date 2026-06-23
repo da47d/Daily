@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Pistorius: Wohl kein schnelles Bundeswehr-Mandat für Hormus-Mission",
-      "summary": "Verteidigungsminister Pistorius dämpft Hoffnungen auf einen schnellen deutschen Militäreinsatz in der Straße von Hormus. Dies deutet auf eine abwartende Haltung Deutschlands in der heiklen Frage der Sicherung internationaler Schifffahrtswege hin."
+      "headline": "Milliardengeschenk für Iran: Die USA heben die Ölsanktionen fast ganz auf und bescheren Teheran neue Einnahmen",
+      "summary": "Die USA haben iranische Ölsanktionen weitgehend aufgehoben, um Friedensgespräche zu erleichtern. Dies ermöglicht Teheran neue Einnahmen und stellt das größte Entgegenkommen seit der Islamischen Revolution dar."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Schweiz: US-Vize Vance nennt Verhandlungen mit Iran \"historisch\"",
-      "summary": "US-Vizepräsident Vance bezeichnet die Verhandlungen über ein Ende des Iran-Konflikts in der Schweiz als \"historisch\", trotz Trumps umstrittener Äußerungen. Große Fortschritte werden gemeldet, was globale Märkte, insbesondere den Ölmarkt, beeinflussen könnte."
+      "headline": "Führungswechsel in London: Zehn Jahre nach dem Brexit-Votum erlebt die Wirtschaft erneut eine Bewährungsprobe",
+      "summary": "Zehn Jahre nach dem Brexit-Votum steht die britische Wirtschaft vor einer neuen Herausforderung durch einen wahrscheinlichen Linksrutsch. Der designierte Premierminister Andy Burnham plant erhöhte Staatsausgaben, was die Finanzmärkte beunruhigen könnte."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Investoren aus China: Ausverkauf deutscher Technik oder Chance?",
-      "summary": "Eine Analyse zeigt die Performance deutscher Firmen nach Übernahmen durch chinesische Investoren der letzten zehn Jahre. Dies wirft Fragen über die langfristigen strategischen und wirtschaftlichen Auswirkungen auf den deutschen Technologiestandort auf."
+      "headline": "Was die Rentenreform für die verschiedenen Generationen bedeutet",
+      "summary": "Die Rentenkommission hat 33 umfassende Empfehlungen zur Stabilisierung des Rentenniveaus erarbeitet, die von der Bundesregierung komplett umgesetzt werden sollen. Dies wird weitreichende Auswirkungen auf die verschiedenen Generationen in Deutschland haben."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die neue Sparsamkeit der Deutschen gefährdet die Konjunktur",
-      "summary": "Angesichts von Inflation und Unsicherheit halten sich deutsche Konsumenten zunehmend zurück, was die nationale Konjunktur belastet. Nicht alle Branchen sind gleichermaßen betroffen, doch der Trend beeinträchtigt das Wirtschaftswachstum erheblich."
+      "headline": "In der Biotechnologiebranche grassiert das Übernahmefieber",
+      "summary": "Die Biotechnologiebranche erlebt ein Rekordjahr bei Übernahmen, da viele Pharmakonzerne dringend neue Produkte benötigen. Auch Branchenriesen wie Roche und Novartis sind aktiv auf Einkaufstour."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Ubisoft co-founder Claude Guillemot dies in plane crash",
-      "summary": "Claude Guillemot, Mitbegründer des Videospielgiganten Ubisoft, ist im Alter von 69 Jahren bei einem Flugzeugabsturz ums Leben gekommen. Sein Tod markiert das Ende einer Ära für die Gaming-Industrie und das von ihm mitgeprägte Unternehmen."
+      "headline": "Der ehemalige Fed-Chef Alan Greenspan ist im Alter von 100 Jahren verstorben",
+      "summary": "Alan Greenspan, der die amerikanische Notenbank von 1987 bis 2006 leitete, ist im Alter von 100 Jahren verstorben. Er prägte die amerikanische Geldpolitik fast zwei Jahrzehnte lang maßgeblich."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
-      "summary": "Ein neuer Bericht unterstreicht Chinas Führungsposition in der Entwicklung von Robotaxi-Technologien. Dies zeigt die Verschiebung globaler Machtverhältnisse im Zukunftsmarkt der autonomen Mobilität und deutet auf eine schnelle Adoption in China hin."
+      "headline": "Meta debuts new, cheaper smart glasses under its own brand",
+      "summary": "Meta hat neue, günstigere Smart Glasses unter der eigenen Marke vorgestellt, die ab sofort in mehreren Ländern verfügbar sind. Die Brillen bieten verschiedene Farb- und Linsenkombinationen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "«Zwischen Nahtod und Euphorie»: Das Fintech-Startup Ellexx wehrt sich gegen Untergangsgerüchte",
-      "summary": "Das Fintech-Startup Ellexx, das Frauen zum Investieren animieren will, kämpft gegen Gerüchte über finanzielle Schwierigkeiten. Die Gründerinnen sind jedoch optimistisch, die Profitabilität bald zu erreichen und den Durchbruch zu schaffen."
+      "headline": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+      "summary": "Das Startup HaloBraid hat 7 Millionen US-Dollar von Seven Seven Six erhalten, um Friseurbesuche für Flechtfrisuren zu verkürzen. Das erste Gerät, ein Flechtassistent für professionelle Stylisten, soll noch dieses Jahr auf den Markt kommen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Founders Fund’s outlier bet on humanely killed fish",
-      "summary": "Founders Fund investiert in Shinkei, ein Startup, das einen Roboter zur humanen Tötung von Fischen entwickelt hat. Diese \"Outlier Bet\" zeigt das Potenzial für innovative Technologien in traditionellen Industrien und das Interesse an nachhaltigen Lösungen."
+      "headline": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "summary": "Das Stockholmer Startup Fika Jobs hat 4 Millionen US-Dollar eingesammelt, um eine videobasierte Einstellungsplattform zu entwickeln. Diese kombiniert KI-Interview-Agenten mit Kurzvideo-Profilen, ähnlich einer Mischung aus LinkedIn und TikTok."
     }
   ],
   "learning": {
-    "topic": "Derivate verstehen: Risikomanagement wie beim Bauern",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem Basiswert ableitet, wie Futures oder Optionen, die zur Absicherung oder Spekulation dienen. Sie erlauben es, Risiken zu managen oder von zukünftigen Preisentwicklungen zu profitieren, ohne den Basiswert direkt zu besitzen.",
-    "details": "Stell dir einen Bauern vor, der Weizen anbaut und sich Sorgen um den Verkaufspreis seiner Ernte macht, wenn diese in sechs Monaten fertig ist. Er kann einen \"Future-Kontrakt\" eingehen, der ihm heute einen festen Verkaufspreis für seine zukünftige Ernte garantiert. Egal, ob der Weizenpreis steigt oder fällt, er hat Preisstabilität. Das ist ein Derivat: Ein Vertrag über einen zukünftigen Handel, dessen Wert vom Weizenpreis abhängt. Ebenso könnte er eine \"Option\" kaufen, die ihm das Recht, aber nicht die Pflicht gibt, seinen Weizen zu einem bestimmten Preis zu verkaufen. Das gibt ihm Flexibilität, falls die Preise stark steigen. Investoren nutzen diese Logik auf den Finanzmärkten, um sich gegen fallende Aktienkurse abzusichern oder auf steigende Rohstoffpreise zu wetten.",
-    "takeaway": "Derivate sind mächtige Werkzeuge, um zukünftige Unsicherheiten in Preisen von Assets (z.B. Rohstoffe, Aktien) zu managen oder gezielt auf deren Entwicklung zu spekulieren."
+    "topic": "Strategic Buyer vs. Financial Buyer im M&A",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese Lektion erklärt die unterschiedlichen Motive und Herangehensweisen von Strategischen Käufern und Finanzinvestoren bei Unternehmensübernahmen.",
+    "details": "Ein Strategic Buyer ist ein Unternehmen, das eine Akquisition tätigt, um Synergien zu erzielen, Marktanteile zu erweitern oder neue Technologien zu integrieren. Ihr primäres Ziel ist die Steigerung des langfristigen operativen Werts durch die Integration des erworbenen Unternehmens in die eigene Struktur. Ein Financial Buyer, typischerweise eine Private-Equity-Firma, kauft Unternehmen primär mit der Absicht, diese nach einigen Jahren mit Gewinn wieder zu verkaufen. Sie konzentrieren sich stark auf Finanzkennzahlen, Effizienzsteigerungen und Kostensenkungen, um den Unternehmenswert zu maximieren, ohne notwendigerweise operative Synergien mit eigenen Beständen zu suchen.",
+    "takeaway": "Strategic Buyer streben nach Synergien und operativer Integration, während Financial Buyer ihren Fokus auf finanzielle Wertsteigerung und den Exit legen. Das Verständnis dieser unterschiedlichen Perspektiven ist entscheidend für M&A-Prozesse und Verhandlungen."
   }
 }
