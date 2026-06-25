@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Wahlstreit in Kolumbien beigelegt: Linker Kandidat räumt Niederlage ein",
-      "summary": "Der Rechtsruck in Südamerika setzt sich fort, da in Kolumbien mit de la Espriella ein weiterer rechtsgerichteter Politiker die Präsidentschaftswahl gewann. Der linke Kandidat Cepeda räumte seine Niederlage ein, was die geopolitische Landschaft der Region weiter prägt."
+      "headline": "Handelsstreit: EU-Parlament billigt tiefere Zölle auf US-Waren",
+      "summary": "Das EU-Parlament hat tiefere Zölle auf US-Waren gebilligt, was den anhaltenden Handelsstreit zwischen der EU und den USA weiter anheizt. Trumps umstrittene Zollpolitik sorgt weiterhin weltweit für Turbulenzen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Milliardengeschenk für Iran: Die USA heben die Ölsanktionen fast ganz auf",
-      "summary": "Die USA heben fast alle Ölsanktionen gegen den Iran auf, um Friedensgespräche zu erleichtern, was Teheran neue Einnahmen in Milliardenhöhe beschert. Dies markiert das größte Entgegenkommen Washingtons seit der Islamischen Revolution von 1979 und beeinflusst die globalen Energiemärkte."
+      "headline": "Milliardengeschenk für Iran: Die USA heben die Ölsanktionen fast ganz auf und bescheren Teheran neue Einnahmen",
+      "summary": "Die USA lockern fast alle Ölsanktionen gegen Iran, um Friedensgespräche zu erleichtern, was Teheran Milliarden an neuen Einnahmen beschert. Dies markiert das größte Entgegenkommen Washingtons seit 1979."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Anforderungen an Firmen zum Energiesparen sollen gesenkt werden",
-      "summary": "Das Kabinett hat einen Gesetzentwurf beschlossen, der die Energiespar-Anforderungen für Firmen und Behörden auf EU-Maß zurückschrauben soll. Wirtschaftsministerin Reiche hofft, dass dies die Wirtschaft stärkt und Bürokratie abbaut."
+      "headline": "Marktbericht: Zinssorgen halten DAX zurück",
+      "summary": "Anleger zeigen sich vor wichtigen US-Teuerungszahlen zurückhaltend, was den DAX nur leicht zulegen lässt. Trotz Euphorie um KI-Chips halten Zinssorgen die Märkte in Schach."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "UBS-Vorschläge zur Reform der Altersvorsorge sorgen für Kritik",
-      "summary": "Die Ökonomen der Grossbank UBS raten, das Schweizer Dreisäulensystem zur Altersvorsorge komplett zu überarbeiten. Branchenexperten halten die Ideen für zu weitreichend und nicht der Schweizer Mentalität entsprechend."
+      "headline": "Merck kauft US-Laborausrüster für zehn Milliarden +++ Easyjet lehnt Angebot von US-Investor ab",
+      "summary": "Merck hat einen US-Laborausrüster für zehn Milliarden Euro gekauft, was einen bedeutenden M&A-Deal darstellt. Parallel lehnte Easyjet ein Übernahmeangebot eines US-Investors ab."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Hitzewelle in Europa - Vereinigtes Königreich bricht Temperaturrekord",
-      "summary": "Eine anhaltende Hitzewelle lässt Europa ächzen, wobei Großbritannien und Frankreich neue Temperaturrekorde für den Juni melden. Das Vereinigte Königreich verzeichnete die höchste Juni-Temperatur seit Beginn der Aufzeichnungen, während Paris 40,9 Grad erreichte."
+      "headline": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "summary": "Adobe hat den Hersteller von Bild- und Videoverbesserungstools Topaz Labs übernommen. Die Integration von Topaz Labs' Werkzeugen in Adobes Apps wird erwartet."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Was über die Bahn-Störung bekannt ist",
-      "summary": "Ein beispielloser Funk-Ausfall hat Züge deutschlandweit lahmgelegt, und die Deutsche Bahn sucht nach Antworten auf den Vorfall. Ermittler prüfen die Ursache und die weitreichenden Auswirkungen auf den Zugverkehr."
+      "headline": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "summary": "Amazon investiert weitere 13 Milliarden Dollar in den Ausbau seiner KI-Infrastruktur in Indien. Dies unterstreicht den globalen Wettlauf von Technologieunternehmen um die Expansion ihrer KI-Kapazitäten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Warum sich Risikokapitalgeber aus dem Silicon Valley für Schweizer Startups interessieren",
-      "summary": "Risikokapitalgeber aus dem Silicon Valley interessieren sich zunehmend für Schweizer Startups, da sich der Fokus von Internet und Software auf Hochtechnologie wie Biotech oder Robotik verlagert. Die Schweiz profitiert massiv von diesem Trend, da sie in diesen Bereichen stark aufgestellt ist."
+      "headline": "Warum sich Risikokapitalgeber aus dem Silicon Valley plötzlich für Schweizer Startups interessieren",
+      "summary": "Risikokapitalgeber aus dem Silicon Valley fokussieren sich zunehmend auf Hochtechnologie wie Biotech und Robotik, wovon Schweizer Startups massiv profitieren. Dies verschiebt den Investitionsfokus weg von reiner Software."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Agility Robotics plant Börsengang über SPAC-Deal von 2,5 Mrd. USD",
-      "summary": "Agility Robotics, ein Startup für humanoide Robotik, plant seinen Börsengang über einen SPAC-Deal im Wert von 2,5 Milliarden US-Dollar. Das 2015 gegründete Unternehmen erwartet einen Erlös von 620 Millionen US-Dollar und könnte damit zu einem Schlüsselakteur im Robotik-Sektor werden."
+      "headline": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "summary": "Der ehemalige Infosys-Chef Vishal Sikka hat ein neues Startup gegründet, das die IT-Dienstleistungswelt herausfordern will. Es wird von Mayfield und Aramco Ventures unterstützt und bringt Veteranen aus SAP und Infosys zusammen."
     }
   ],
   "learning": {
-    "topic": "ETF-Namenszusätze entschlüsseln: Core, IMI, Acc vs. Dist, UCITS, Swap/Physisch",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "ETF-Namen sind mehr als nur Bezeichnungen; sie sind eine kompakte Informationsquelle über die Eigenschaften und die Funktionsweise eines Fonds. Das Verständnis dieser Kürzel hilft Anlegern, fundierte Entscheidungen zu treffen.",
-    "details": "Der Zusatz 'Core' deutet oft auf kostengünstige ETFs hin, die breite Märkte abdecken. 'IMI' (Investable Market Index) signalisiert eine noch breitere Streuung, die auch Small Caps umfasst. 'Acc' steht für thesaurierende Fonds, die Erträge automatisch wieder anlegen, während 'Dist' ausschüttende Fonds kennzeichnet, die Dividenden direkt an Anleger auszahlen. 'UCITS' garantiert, dass der Fonds den europäischen Regulierungsstandards für Anlegerschutz entspricht. Schließlich beschreibt 'Swap' eine synthetische Replikation des Index, während 'Physisch' bedeutet, dass der Fonds die Indexwerte direkt hält.",
-    "takeaway": "Das Entschlüsseln dieser Namenszusätze ist entscheidend, um die Steuerbehandlung von Erträgen, das genaue Anlageuniversum und die Replikationsmethode eines ETFs zu verstehen, bevor man investiert."
+    "topic": "Pre-Money und Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money Bewertung ist der Unternehmenswert vor einer neuen Finanzierungsrunde, während die Post-Money Bewertung den Wert nach Erhalt des neuen Kapitals darstellt.",
+    "details": "Stell dir vor, ein Startup ist vor einer Finanzierungsrunde 10 Millionen Euro wert (Pre-Money). Wenn ein Investor nun 2 Millionen Euro investiert, wird das frische Kapital zum Unternehmenswert addiert. Die Post-Money Bewertung beträgt dann 10 Millionen (Pre-Money) + 2 Millionen (Investment) = 12 Millionen Euro. Die Pre-Money Bewertung ist entscheidend für die Berechnung des Anteils, den ein Investor für sein Kapital erhält, da sie den Wert des Unternehmens widerspiegelt, den die Gründer und bestehenden Anteilseigner eingebracht haben, bevor das neue Geld hinzukommt.",
+    "takeaway": "Die Post-Money Bewertung ist immer die Summe aus Pre-Money Bewertung und dem investierten Kapital. Sie ist fundamental für die Berechnung der Eigentumsanteile nach einer Finanzierungsrunde."
   }
 }
