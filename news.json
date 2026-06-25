@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit: EU-Parlament billigt tiefere Zölle auf US-Waren",
-      "summary": "Das EU-Parlament hat tiefere Zölle auf US-Waren gebilligt, was den anhaltenden Handelsstreit zwischen der EU und den USA weiter anheizt. Trumps umstrittene Zollpolitik sorgt weiterhin weltweit für Turbulenzen."
+      "headline": "Konferenz in Danzig: EU-Partner bereiten Wiederaufbau der Ukraine vor",
+      "summary": "Trotz abgesagter Teilnahme Selenskyjs haben EU-Partner in Danzig den Wiederaufbau der Ukraine vorangetrieben. Regierungschefin Swyrydenko nahm neue Milliardenzusagen entgegen, was die geopolitische Unterstützung für das Land unterstreicht."
     },
     {
       "tag": "POLITIK & GLOBAL",
       "headline": "Milliardengeschenk für Iran: Die USA heben die Ölsanktionen fast ganz auf und bescheren Teheran neue Einnahmen",
-      "summary": "Die USA lockern fast alle Ölsanktionen gegen Iran, um Friedensgespräche zu erleichtern, was Teheran Milliarden an neuen Einnahmen beschert. Dies markiert das größte Entgegenkommen Washingtons seit 1979."
+      "summary": "Die USA lockern fast alle Ölsanktionen gegen den Iran, um Friedensgespräche zu erleichtern, was Teheran neue Milliardenerträge beschert. Iranisches Erdöl darf nun nahezu weltweit verkauft werden, ein bedeutendes Entgegenkommen Washingtons seit 1979."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Zinssorgen halten DAX zurück",
-      "summary": "Anleger zeigen sich vor wichtigen US-Teuerungszahlen zurückhaltend, was den DAX nur leicht zulegen lässt. Trotz Euphorie um KI-Chips halten Zinssorgen die Märkte in Schach."
+      "headline": "KURZMELDUNGEN - Wirtschaft: Merck kauft US-Laborausrüster für zehn Milliarden +++ Easyjet lehnt Angebot von US-Investor ab",
+      "summary": "Der deutsche Konzern Merck plant den Zukauf eines US-Laborausrüsters für zehn Milliarden Dollar, was eine bedeutende M&A-Transaktion darstellt. Gleichzeitig wies Easyjet ein Übernahmeangebot eines US-Investors ab, was die Konsolidierungsdynamik im Markt zeigt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Merck kauft US-Laborausrüster für zehn Milliarden +++ Easyjet lehnt Angebot von US-Investor ab",
-      "summary": "Merck hat einen US-Laborausrüster für zehn Milliarden Euro gekauft, was einen bedeutenden M&A-Deal darstellt. Parallel lehnte Easyjet ein Übernahmeangebot eines US-Investors ab."
+      "headline": "Der IWF stärkt dem Bundesrat im Streit um die UBS den Rücken",
+      "summary": "Der Internationale Währungsfonds (IWF) unterstützt den Bundesrat im Streit mit der UBS um neue Eigenkapitalregeln, was die Forderungen nach strengerer Finanzregulierung untermauert. Dies ist ein wichtiger Rückschlag für die UBS, die auf parlamentarische Entgegenkommen gehofft hatte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-      "summary": "Adobe hat den Hersteller von Bild- und Videoverbesserungstools Topaz Labs übernommen. Die Integration von Topaz Labs' Werkzeugen in Adobes Apps wird erwartet."
+      "headline": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "summary": "Daten zeigen, dass Anthropic's KI-Modell Claude zunehmend zahlende Nutzer von ChatGPT abwirbt und damit im Kampf um den Markt für Premium-KI-Dienste aufholt. Dies deutet auf eine wachsende Konkurrenz und Diversifizierung im Bereich der künstlichen Intelligenz hin."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "summary": "Amazon investiert weitere 13 Milliarden Dollar in den Ausbau seiner KI-Infrastruktur in Indien. Dies unterstreicht den globalen Wettlauf von Technologieunternehmen um die Expansion ihrer KI-Kapazitäten."
+      "headline": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "summary": "General Intuition hat 320 Millionen Dollar eingesammelt, um KI-Agenten mit Millionen Stunden Spieldaten zu trainieren und so menschenähnliche Intuition zu entwickeln. Das Unternehmen wettet auf das enorme Potenzial von Videospielen für die KI-Entwicklung im realen Einsatz."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Warum sich Risikokapitalgeber aus dem Silicon Valley plötzlich für Schweizer Startups interessieren",
-      "summary": "Risikokapitalgeber aus dem Silicon Valley fokussieren sich zunehmend auf Hochtechnologie wie Biotech und Robotik, wovon Schweizer Startups massiv profitieren. Dies verschiebt den Investitionsfokus weg von reiner Software."
+      "headline": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "summary": "Das von ehemaligen Meta AI-Forschern gegründete Startup Patronus AI hat 50 Millionen Dollar an Finanzierung erhalten, um \"digitale Welten\" für das Stresstesting von KI-Agenten zu entwickeln. Die Nachfrage nach den Testlösungen des Unternehmens ist laut Investoren enorm."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "summary": "Der ehemalige Infosys-Chef Vishal Sikka hat ein neues Startup gegründet, das die IT-Dienstleistungswelt herausfordern will. Es wird von Mayfield und Aramco Ventures unterstützt und bringt Veteranen aus SAP und Infosys zusammen."
+      "headline": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+      "summary": "Das von a16z unterstützte Startup Base Power umgeht traditionelle Warteschlangen, indem es Batterien in Privathaushalten platziert und so dem Stromnetz dringend benötigte günstigere Energie zuführt. Im Gegenzug bietet das Unternehmen Backup-Services an, was eine innovative Lösung für Energieengpässe darstellt."
     }
   ],
   "learning": {
-    "topic": "Pre-Money und Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money Bewertung ist der Unternehmenswert vor einer neuen Finanzierungsrunde, während die Post-Money Bewertung den Wert nach Erhalt des neuen Kapitals darstellt.",
-    "details": "Stell dir vor, ein Startup ist vor einer Finanzierungsrunde 10 Millionen Euro wert (Pre-Money). Wenn ein Investor nun 2 Millionen Euro investiert, wird das frische Kapital zum Unternehmenswert addiert. Die Post-Money Bewertung beträgt dann 10 Millionen (Pre-Money) + 2 Millionen (Investment) = 12 Millionen Euro. Die Pre-Money Bewertung ist entscheidend für die Berechnung des Anteils, den ein Investor für sein Kapital erhält, da sie den Wert des Unternehmens widerspiegelt, den die Gründer und bestehenden Anteilseigner eingebracht haben, bevor das neue Geld hinzukommt.",
-    "takeaway": "Die Post-Money Bewertung ist immer die Summe aus Pre-Money Bewertung und dem investierten Kapital. Sie ist fundamental für die Berechnung der Eigentumsanteile nach einer Finanzierungsrunde."
+    "topic": "Die Sprache der ETFs: Was bedeuten Acc, Dist, UCITS und Co.?",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Exchange Traded Funds (ETFs) tragen oft komplexe Abkürzungen in ihrem Namen, die wichtige Informationen über ihre Struktur, Ertragsverwendung und rechtliche Einordnung liefern.",
+    "details": "Acc (Accumulating) vs. Dist (Distributing) beschreibt, wie mit den Erträgen (z.B. Dividenden) verfahren wird: 'Acc' thesauriert diese und reinvestiert sie, während 'Dist' sie regelmäßig ausschüttet. UCITS steht für 'Undertakings for Collective Investment in Transferable Securities' und ist ein EU-Regelwerk, das bestimmte Anlegerschutz- und Diversifikationsvorschriften für ETFs festlegt. Die Begriffe 'Swap' vs. 'Physisch' beziehen sich auf die Replikationsmethode des Index; physische ETFs kaufen die tatsächlichen Wertpapiere, Swap-basierte nutzen Derivate. Zusätze wie 'Core' oder 'IMI' (Investable Market Index) signalisieren den Fokus des ETFs auf bestimmte Marktsegmente, beispielsweise breit oder umfassend über verschiedene Unternehmensgrößen hinweg.",
+    "takeaway": "Das Verständnis dieser Kürzel hilft dir, ETFs gezielter nach deinen Anlagezielen, steuerlichen Präferenzen und der individuellen Risikobereitschaft auszuwählen und fundierte Entscheidungen zu treffen."
   }
 }
