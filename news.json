@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Konferenz in Danzig: EU-Partner bereiten Wiederaufbau der Ukraine vor",
-      "summary": "Trotz abgesagter Teilnahme Selenskyjs haben EU-Partner in Danzig den Wiederaufbau der Ukraine vorangetrieben. Regierungschefin Swyrydenko nahm neue Milliardenzusagen entgegen, was die geopolitische Unterstützung für das Land unterstreicht."
+      "headline": "Krieg gegen die Ukraine: Kiew und Moskau tauschen Kriegsgefangene aus",
+      "summary": "Russland und die Ukraine tauschten erneut je 160 Kriegsgefangene aus, während die ukrainischen Angriffe weitergingen und Russland auf der Krim den Ausnahmezustand verhängte. Diese Entwicklungen signalisieren eine Fortsetzung der angespannten Konfliktlage, die geopolitische Unsicherheit auf den Märkten erhöht."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Milliardengeschenk für Iran: Die USA heben die Ölsanktionen fast ganz auf und bescheren Teheran neue Einnahmen",
-      "summary": "Die USA lockern fast alle Ölsanktionen gegen den Iran, um Friedensgespräche zu erleichtern, was Teheran neue Milliardenerträge beschert. Iranisches Erdöl darf nun nahezu weltweit verkauft werden, ein bedeutendes Entgegenkommen Washingtons seit 1979."
+      "headline": "«Schrödingers Strasse»: Trotz Friedensgesprächen ist die Meerenge von Hormuz gleichzeitig offen und geschlossen",
+      "summary": "Trotz Friedensgesprächen bleibt die Meerenge von Hormuz eine unsichere Transitroute, wie ein neuer Angriff auf einen Frachter zeigt. Washington und Teheran konkurrieren um die Durchfahrt, was die Instabilität in der Golfregion verstärkt und globale Handelsströme beeinflussen könnte."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "KURZMELDUNGEN - Wirtschaft: Merck kauft US-Laborausrüster für zehn Milliarden +++ Easyjet lehnt Angebot von US-Investor ab",
-      "summary": "Der deutsche Konzern Merck plant den Zukauf eines US-Laborausrüsters für zehn Milliarden Dollar, was eine bedeutende M&A-Transaktion darstellt. Gleichzeitig wies Easyjet ein Übernahmeangebot eines US-Investors ab, was die Konsolidierungsdynamik im Markt zeigt."
+      "headline": "Volkswagen könnte bis zu 100 000 Stellen abbauen und vier Werke schliessen",
+      "summary": "Volkswagen plant offenbar einen Abbau von bis zu 100.000 Stellen weltweit und die Schließung von vier Werken. Diese beispiellosen Einschnitte verdeutlichen den tiefgreifenden Strukturwandel und den Druck auf die Automobilindustrie, was weitreichende makroökonomische Folgen haben könnte."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "Der IWF stärkt dem Bundesrat im Streit um die UBS den Rücken",
-      "summary": "Der Internationale Währungsfonds (IWF) unterstützt den Bundesrat im Streit mit der UBS um neue Eigenkapitalregeln, was die Forderungen nach strengerer Finanzregulierung untermauert. Dies ist ein wichtiger Rückschlag für die UBS, die auf parlamentarische Entgegenkommen gehofft hatte."
+      "summary": "Der IWF stärkt dem Bundesrat im Streit um die UBS den Rücken und spricht sich für strengere Eigenkapitalregeln aus. Diese Haltung der multilateralen Finanzorganisation betont die globale Bedeutung von Finanzstabilität und könnte die Regulierung von Großbanken international beeinflussen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "summary": "Daten zeigen, dass Anthropic's KI-Modell Claude zunehmend zahlende Nutzer von ChatGPT abwirbt und damit im Kampf um den Markt für Premium-KI-Dienste aufholt. Dies deutet auf eine wachsende Konkurrenz und Diversifizierung im Bereich der künstlichen Intelligenz hin."
+      "headline": "40 Grad im Juni - ist das das neue Normal?",
+      "summary": "Extreme Hitzewellen mit Temperaturen von 40 Grad im Juni lassen die Frage aufkommen, ob dies das neue Normal ist. Diese Wetterphänomene sind ein dringendes Zeichen des Klimawandels und beeinflussen zunehmend das öffentliche Leben."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "summary": "General Intuition hat 320 Millionen Dollar eingesammelt, um KI-Agenten mit Millionen Stunden Spieldaten zu trainieren und so menschenähnliche Intuition zu entwickeln. Das Unternehmen wettet auf das enorme Potenzial von Videospielen für die KI-Entwicklung im realen Einsatz."
+      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "summary": "Das Weiße Haus hat OpenAI aus Sicherheitsgründen um eine verzögerte Veröffentlichung ihres neuen KI-Modells GPT 5.6 gebeten. Diese Intervention unterstreicht die wachsende Besorgnis über die potenziellen Risiken und die Notwendigkeit einer verantwortungsvollen Entwicklung fortschrittlicher Künstlicher Intelligenz."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
       "headline": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "summary": "Das von ehemaligen Meta AI-Forschern gegründete Startup Patronus AI hat 50 Millionen Dollar an Finanzierung erhalten, um \"digitale Welten\" für das Stresstesting von KI-Agenten zu entwickeln. Die Nachfrage nach den Testlösungen des Unternehmens ist laut Investoren enorm."
+      "summary": "Das Startup Patronus AI, gegründet von ehemaligen Meta AI-Forschern, sicherte sich 50 Millionen US-Dollar für die Entwicklung von 'digitalen Welten'. Diese dienen dem Stresstest von KI-Agenten, was die hohe Nachfrage im Bereich KI-Sicherheit und -Validierung widerspiegelt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
-      "summary": "Das von a16z unterstützte Startup Base Power umgeht traditionelle Warteschlangen, indem es Batterien in Privathaushalten platziert und so dem Stromnetz dringend benötigte günstigere Energie zuführt. Im Gegenzug bietet das Unternehmen Backup-Services an, was eine innovative Lösung für Energieengpässe darstellt."
+      "headline": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "summary": "General Intuition hat 320 Millionen US-Dollar eingesammelt, um KI-Agenten mit Millionen Stunden an Videospieldaten zu trainieren. Das Unternehmen setzt darauf, dass solche Aktionsdaten der KI helfen können, eine menschenähnlichere Intuition für reale Anwendungen zu entwickeln."
     }
   ],
   "learning": {
-    "topic": "Die Sprache der ETFs: Was bedeuten Acc, Dist, UCITS und Co.?",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Exchange Traded Funds (ETFs) tragen oft komplexe Abkürzungen in ihrem Namen, die wichtige Informationen über ihre Struktur, Ertragsverwendung und rechtliche Einordnung liefern.",
-    "details": "Acc (Accumulating) vs. Dist (Distributing) beschreibt, wie mit den Erträgen (z.B. Dividenden) verfahren wird: 'Acc' thesauriert diese und reinvestiert sie, während 'Dist' sie regelmäßig ausschüttet. UCITS steht für 'Undertakings for Collective Investment in Transferable Securities' und ist ein EU-Regelwerk, das bestimmte Anlegerschutz- und Diversifikationsvorschriften für ETFs festlegt. Die Begriffe 'Swap' vs. 'Physisch' beziehen sich auf die Replikationsmethode des Index; physische ETFs kaufen die tatsächlichen Wertpapiere, Swap-basierte nutzen Derivate. Zusätze wie 'Core' oder 'IMI' (Investable Market Index) signalisieren den Fokus des ETFs auf bestimmte Marktsegmente, beispielsweise breit oder umfassend über verschiedene Unternehmensgrößen hinweg.",
-    "takeaway": "Das Verständnis dieser Kürzel hilft dir, ETFs gezielter nach deinen Anlagezielen, steuerlichen Präferenzen und der individuellen Risikobereitschaft auszuwählen und fundierte Entscheidungen zu treffen."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money-Bewertung ist der Wert eines Startups *vor* einer Finanzierungsrunde, während Post-Money-Bewertung der Wert *nach* Erhalt der neuen Investition ist.",
+    "details": "Wenn ein Venture Capitalist (VC) in ein Startup investiert, fließt Kapital in das Unternehmen. Die Pre-Money-Bewertung spiegelt wider, wie viel das Startup vor diesem frischen Geld wert war. Die Post-Money-Bewertung ergibt sich aus der Summe der Pre-Money-Bewertung und dem investierten Kapital. Sie ist entscheidend, um den prozentualen Anteil zu berechnen, den die neuen Investoren für ihr Geld erhalten und wie sich die Anteile der Gründer durch die Kapitalerhöhung verwässern.",
+    "takeaway": "Pre-Money + Investment = Post-Money. Diese Unterscheidung ist essenziell, um die Verteilung der Anteile nach einer Finanzierungsrunde zu verstehen und den genauen Wertzuwachs durch das investierte Kapital zu erfassen."
   }
 }
