@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Krieg gegen die Ukraine: Kiew und Moskau tauschen Kriegsgefangene aus",
-      "summary": "Russland und die Ukraine tauschten erneut je 160 Kriegsgefangene aus, während die ukrainischen Angriffe weitergingen und Russland auf der Krim den Ausnahmezustand verhängte. Diese Entwicklungen signalisieren eine Fortsetzung der angespannten Konfliktlage, die geopolitische Unsicherheit auf den Märkten erhöht."
+      "headline": "US greift Iran an, Spannungen im Persischen Golf eskalieren",
+      "summary": "Das US-Militär bestätigte Angriffe gegen Iran als Reaktion auf einen Frachterangriff, was die Lage in der strategisch wichtigen Meerenge von Hormuz weiter destabilisiert. Trotz Waffenruhe und Friedensgesprächen bleibt die Region hochgradig volatil."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "«Schrödingers Strasse»: Trotz Friedensgesprächen ist die Meerenge von Hormuz gleichzeitig offen und geschlossen",
-      "summary": "Trotz Friedensgesprächen bleibt die Meerenge von Hormuz eine unsichere Transitroute, wie ein neuer Angriff auf einen Frachter zeigt. Washington und Teheran konkurrieren um die Durchfahrt, was die Instabilität in der Golfregion verstärkt und globale Handelsströme beeinflussen könnte."
+      "headline": "Trump droht EU wegen Digitalsteuer erneut mit Strafzöllen",
+      "summary": "US-Präsident Trump droht europäischen Ländern, insbesondere Frankreich, erneut mit Strafzöllen im Streit um Digitalsteuern auf US-Konzerne. Die EU reagierte scharf auf diese Androhungen, die den Handelskonflikt verschärfen könnten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Volkswagen könnte bis zu 100 000 Stellen abbauen und vier Werke schliessen",
-      "summary": "Volkswagen plant offenbar einen Abbau von bis zu 100.000 Stellen weltweit und die Schließung von vier Werken. Diese beispiellosen Einschnitte verdeutlichen den tiefgreifenden Strukturwandel und den Druck auf die Automobilindustrie, was weitreichende makroökonomische Folgen haben könnte."
+      "headline": "KI-Euphorie ebbt ab und drückt globale Aktienmärkte",
+      "summary": "Eine zunehmende Vorsicht gegenüber KI-Tech-Werten führt weltweit zu einem Rückgang an den Aktienmärkten. Auch der DAX konnte sich diesem Trend nicht entziehen und musste zusätzlich negative Unternehmensmeldungen verkraften."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der IWF stärkt dem Bundesrat im Streit um die UBS den Rücken",
-      "summary": "Der IWF stärkt dem Bundesrat im Streit um die UBS den Rücken und spricht sich für strengere Eigenkapitalregeln aus. Diese Haltung der multilateralen Finanzorganisation betont die globale Bedeutung von Finanzstabilität und könnte die Regulierung von Großbanken international beeinflussen."
+      "headline": "Volkswagen plant massiven Stellenabbau und Werksschließungen",
+      "summary": "Volkswagen erwägt die Streichung von bis zu 100.000 Stellen und die Schließung von vier Werken als Teil eines umfassenden Umstrukturierungskonzepts. Dies würde weitreichende Konsequenzen für den Konzern und seine deutschen Standorte haben."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "40 Grad im Juni - ist das das neue Normal?",
-      "summary": "Extreme Hitzewellen mit Temperaturen von 40 Grad im Juni lassen die Frage aufkommen, ob dies das neue Normal ist. Diese Wetterphänomene sind ein dringendes Zeichen des Klimawandels und beeinflussen zunehmend das öffentliche Leben."
+      "headline": "Neuer Hitzerekord in Deutschland mit 41,3 Grad gemessen",
+      "summary": "In Deutschland wurde in Saarbrücken mit 41,3 Grad Celsius ein neuer Allzeit-Temperaturrekord registriert. Bereits zuvor gab es einen Juni-Höchstwert über 40 Grad, was die extremen Wetterbedingungen des Sommers unterstreicht."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "summary": "Das Weiße Haus hat OpenAI aus Sicherheitsgründen um eine verzögerte Veröffentlichung ihres neuen KI-Modells GPT 5.6 gebeten. Diese Intervention unterstreicht die wachsende Besorgnis über die potenziellen Risiken und die Notwendigkeit einer verantwortungsvollen Entwicklung fortschrittlicher Künstlicher Intelligenz."
+      "headline": "OpenAI beschränkt GPT-5.6-Rollout auf Bitten der Regierung",
+      "summary": "OpenAI hat die Veröffentlichung seines neuen Modells GPT-5.6 auf Wunsch der US-Regierung eingeschränkt, die Sicherheitsbedenken äußerte. Das Unternehmen betont, dass solche Einschränkungen nicht zur Norm werden sollten, um Innovation nicht zu behindern."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "summary": "Das Startup Patronus AI, gegründet von ehemaligen Meta AI-Forschern, sicherte sich 50 Millionen US-Dollar für die Entwicklung von 'digitalen Welten'. Diese dienen dem Stresstest von KI-Agenten, was die hohe Nachfrage im Bereich KI-Sicherheit und -Validierung widerspiegelt."
+      "headline": "Startup Aseon Labs sichert 10 Mio. $ für Robotaxi-Infrastruktur",
+      "summary": "Das aus dem Y Combinator hervorgegangene Startup Aseon Labs hat 10 Millionen US-Dollar von Crane Venture Partners und anderen Investoren erhalten. Es will das Problem ineffizienter Reinigungs- und Ladevorgänge für Robotaxis lösen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-      "summary": "General Intuition hat 320 Millionen US-Dollar eingesammelt, um KI-Agenten mit Millionen Stunden an Videospieldaten zu trainieren. Das Unternehmen setzt darauf, dass solche Aktionsdaten der KI helfen können, eine menschenähnlichere Intuition für reale Anwendungen zu entwickeln."
+      "headline": "Novak Djokovic wird strategischer Berater bei General Atlantic",
+      "summary": "Tennis-Legende Novak Djokovic wurde vom Private-Equity-Unternehmen General Atlantic als globaler strategischer Berater verpflichtet. Diese Ernennung bringt eine bekannte Persönlichkeit in die Finanzwelt."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money-Bewertung ist der Wert eines Startups *vor* einer Finanzierungsrunde, während Post-Money-Bewertung der Wert *nach* Erhalt der neuen Investition ist.",
-    "details": "Wenn ein Venture Capitalist (VC) in ein Startup investiert, fließt Kapital in das Unternehmen. Die Pre-Money-Bewertung spiegelt wider, wie viel das Startup vor diesem frischen Geld wert war. Die Post-Money-Bewertung ergibt sich aus der Summe der Pre-Money-Bewertung und dem investierten Kapital. Sie ist entscheidend, um den prozentualen Anteil zu berechnen, den die neuen Investoren für ihr Geld erhalten und wie sich die Anteile der Gründer durch die Kapitalerhöhung verwässern.",
-    "takeaway": "Pre-Money + Investment = Post-Money. Diese Unterscheidung ist essenziell, um die Verteilung der Anteile nach einer Finanzierungsrunde zu verstehen und den genauen Wertzuwachs durch das investierte Kapital zu erfassen."
+    "topic": "Der Ablauf eines Short Squeeze: Wenn Wetten gegen eine Aktie teuer werden",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze tritt auf, wenn der Preis einer 'geschorteten' Aktie plötzlich stark ansteigt und Shortseller dazu zwingt, diese zurückzukaufen, was den Preis weiter in die Höhe treibt.",
+    "details": "Beim Leerverkauf (Short Selling) leihen sich Anleger Aktien, verkaufen sie und hoffen, diese später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Wenn jedoch unvorhergesehene positive Nachrichten oder eine hohe Nachfrage den Aktienkurs unerwartet in die Höhe treiben, drohen den Leerverkäufern immer höhere Verluste. Um diese zu begrenzen, sind sie gezwungen, die geliehenen Aktien zurückzukaufen, was wiederum die Nachfrage erhöht und einen beschleunigten Preisanstieg verursacht – ein 'Squeeze' für diejenigen, die auf fallende Kurse gewettet haben.",
+    "takeaway": "Ein Short Squeeze zeigt, wie Anleger, die auf fallende Kurse wetten, bei einem unerwarteten Preisanstieg gezwungen werden, ihre Positionen zu schließen, was den Kurs weiter in die Höhe treibt. Dies ist ein kraftvolles Phänomen, das erhebliche Gewinne oder Verluste in kurzer Zeit verursachen kann."
   }
 }
