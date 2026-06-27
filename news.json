@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US greift Iran an, Spannungen im Persischen Golf eskalieren",
-      "summary": "Das US-Militär bestätigte Angriffe gegen Iran als Reaktion auf einen Frachterangriff, was die Lage in der strategisch wichtigen Meerenge von Hormuz weiter destabilisiert. Trotz Waffenruhe und Friedensgesprächen bleibt die Region hochgradig volatil."
+      "headline": "Handelsstreit: Trump droht Europäern mit 100-Prozent-Zöllen",
+      "summary": "Donald Trump droht den Europäern erneut mit drastischen 100-Prozent-Zöllen, obwohl der Supreme Court seine früheren Zölle für unrechtmäßig erklärt hatte. Dieser Handelsstreit verursacht weltweit Turbulenzen und schürt Ängste vor weitreichenden wirtschaftlichen Konsequenzen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump droht EU wegen Digitalsteuer erneut mit Strafzöllen",
-      "summary": "US-Präsident Trump droht europäischen Ländern, insbesondere Frankreich, erneut mit Strafzöllen im Streit um Digitalsteuern auf US-Konzerne. Die EU reagierte scharf auf diese Androhungen, die den Handelskonflikt verschärfen könnten."
+      "headline": "US-Militär: Haben Angriffe gegen Iran durchgeführt",
+      "summary": "Die USA haben nach eigenen Angaben Luftangriffe gegen den Iran geflogen, nachdem ein Handelsschiff in der Straße von Hormus von einer iranischen Drohne getroffen wurde. Der Iran reagierte daraufhin mit Angriffen auf US-Stützpunkte, was die Spannungen in der Region erheblich verschärft."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "KI-Euphorie ebbt ab und drückt globale Aktienmärkte",
-      "summary": "Eine zunehmende Vorsicht gegenüber KI-Tech-Werten führt weltweit zu einem Rückgang an den Aktienmärkten. Auch der DAX konnte sich diesem Trend nicht entziehen und musste zusätzlich negative Unternehmensmeldungen verkraften."
+      "headline": "Volkswagen könnte bis zu 100 000 Stellen abbauen und vier Werke schliessen",
+      "summary": "Ein Konzept der Konzernführung bei Volkswagen sieht beispiellose Einschnitte vor, die zum Abbau von bis zu 100.000 Stellen und der Schließung von vier Werken führen könnten. Dies würde den deutschen Autobauer aus weiten Teilen Deutschlands verabschieden und stößt auf großen Widerstand."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Volkswagen plant massiven Stellenabbau und Werksschließungen",
-      "summary": "Volkswagen erwägt die Streichung von bis zu 100.000 Stellen und die Schließung von vier Werken als Teil eines umfassenden Umstrukturierungskonzepts. Dies würde weitreichende Konsequenzen für den Konzern und seine deutschen Standorte haben."
+      "headline": "Der IWF stärkt dem Bundesrat im Streit um die UBS den Rücken",
+      "summary": "Im Streit um neue Eigenkapitalregeln für die UBS erhält der Bundesrat nun Unterstützung vom Internationalen Währungsfonds (IWF), während die Bank auf Entgegenkommen des Parlaments hofft. Die Position des IWF als wichtige multilaterale Finanzorganisation stärkt die Haltung des Bundesrates erheblich."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Neuer Hitzerekord in Deutschland mit 41,3 Grad gemessen",
-      "summary": "In Deutschland wurde in Saarbrücken mit 41,3 Grad Celsius ein neuer Allzeit-Temperaturrekord registriert. Bereits zuvor gab es einen Juni-Höchstwert über 40 Grad, was die extremen Wetterbedingungen des Sommers unterstreicht."
+      "headline": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "summary": "OpenAI hat die Einführung von GPT-5.6 auf Verlangen der US-Regierung eingeschränkt, äußert aber Bedenken, dass solche staatlichen Zugangsverfahren nicht zur Norm werden sollten. Das Unternehmen argumentiert, dass dies die besten Tools von Nutzern und Entwicklern fernhält, die sie dringend benötigen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI beschränkt GPT-5.6-Rollout auf Bitten der Regierung",
-      "summary": "OpenAI hat die Veröffentlichung seines neuen Modells GPT-5.6 auf Wunsch der US-Regierung eingeschränkt, die Sicherheitsbedenken äußerte. Das Unternehmen betont, dass solche Einschränkungen nicht zur Norm werden sollten, um Innovation nicht zu behindern."
+      "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "summary": "Immer mehr Technologiegiganten wie OpenAI und SpaceX entwickeln eigene Chips, um ihre Abhängigkeit von Nvidia zu reduzieren und die Leistung für spezifische Anwendungen zu optimieren. OpenAI plant mit seinem „Jalapeño“-Chip, der in Zusammenarbeit mit Broadcom entwickelt wurde, den Wettbewerb im KI-Chipmarkt weiter anzuheizen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Startup Aseon Labs sichert 10 Mio. $ für Robotaxi-Infrastruktur",
-      "summary": "Das aus dem Y Combinator hervorgegangene Startup Aseon Labs hat 10 Millionen US-Dollar von Crane Venture Partners und anderen Investoren erhalten. Es will das Problem ineffizienter Reinigungs- und Ladevorgänge für Robotaxis lösen."
+      "headline": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+      "summary": "Die FTC hat Elon Musk die Genehmigung erteilt, das von SpaceX-Alumni gegründete Startup Mesh zu übernehmen, welches erst im Februar mit einer Series A Finanzierung von 50 Millionen Dollar aus dem Stealth-Modus kam. Diese Akquisition könnte Musks Ökosystem im Tech-Sektor weiter ausbauen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Novak Djokovic wird strategischer Berater bei General Atlantic",
-      "summary": "Tennis-Legende Novak Djokovic wurde vom Private-Equity-Unternehmen General Atlantic als globaler strategischer Berater verpflichtet. Diese Ernennung bringt eine bekannte Persönlichkeit in die Finanzwelt."
+      "headline": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+      "summary": "Corgi, ein vielbeachtetes und von Y Combinator unterstütztes Insurtech-Startup, verteidigt sich gegen den Vorwurf, ein Open-Source-Produkt gestohlen zu haben. Diese Kontroverse wirft neue Fragen über die Grenzen und Ethik beim sogenannten 'Vibe Coding' in der Startup-Welt auf."
     }
   ],
   "learning": {
-    "topic": "Der Ablauf eines Short Squeeze: Wenn Wetten gegen eine Aktie teuer werden",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze tritt auf, wenn der Preis einer 'geschorteten' Aktie plötzlich stark ansteigt und Shortseller dazu zwingt, diese zurückzukaufen, was den Preis weiter in die Höhe treibt.",
-    "details": "Beim Leerverkauf (Short Selling) leihen sich Anleger Aktien, verkaufen sie und hoffen, diese später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Wenn jedoch unvorhergesehene positive Nachrichten oder eine hohe Nachfrage den Aktienkurs unerwartet in die Höhe treiben, drohen den Leerverkäufern immer höhere Verluste. Um diese zu begrenzen, sind sie gezwungen, die geliehenen Aktien zurückzukaufen, was wiederum die Nachfrage erhöht und einen beschleunigten Preisanstieg verursacht – ein 'Squeeze' für diejenigen, die auf fallende Kurse gewettet haben.",
-    "takeaway": "Ein Short Squeeze zeigt, wie Anleger, die auf fallende Kurse wetten, bei einem unerwarteten Preisanstieg gezwungen werden, ihre Positionen zu schließen, was den Kurs weiter in die Höhe treibt. Dies ist ein kraftvolles Phänomen, das erhebliche Gewinne oder Verluste in kurzer Zeit verursachen kann."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Was ist der Unterschied?",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer neuen Finanzierungsrunde, während die Post-Money-Bewertung den Wert NACH Erhalt des neuen Kapitals darstellt.",
+    "details": "Wenn Investoren Kapital in ein Startup einbringen, kaufen sie dafür Anteile an einem Unternehmen, das bereits einen bestimmten Wert hat (Pre-Money). Nach der Investition erhöht sich der Gesamtwert des Unternehmens um das eingezahlte Kapital, was zur Post-Money-Bewertung führt. Diese Kennzahlen sind entscheidend für die Berechnung des Anteils, den neue Investoren erhalten, und für die Verwässerung der bestehenden Eigentümer, da der Preis pro Aktie auf Basis der Pre-Money-Bewertung und des eingezahlten Kapitals festgelegt wird.",
+    "takeaway": "Für Gründer ist das Verständnis der Post-Money-Bewertung essenziell, um die zukünftige Verwässerung ihrer Anteile zu antizipieren. Für Investoren ist es die Basis zur Berechnung des Return on Investment."
   }
 }
