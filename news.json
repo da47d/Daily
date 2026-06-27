@@ -3,55 +3,55 @@
     {
       "tag": "POLITIK & GLOBAL",
       "headline": "Handelsstreit: Trump droht Europäern mit 100-Prozent-Zöllen",
-      "summary": "Donald Trump droht den Europäern erneut mit drastischen 100-Prozent-Zöllen, obwohl der Supreme Court seine früheren Zölle für unrechtmäßig erklärt hatte. Dieser Handelsstreit verursacht weltweit Turbulenzen und schürt Ängste vor weitreichenden wirtschaftlichen Konsequenzen."
+      "summary": "Ex-Präsident Trump droht bei einer möglichen Wiederwahl mit drastischen Zöllen von bis zu 100 Prozent auf europäische Importe. Dies löst große Besorgnis in der Wirtschaft aus und könnte laufende Handelsabkommen erheblich beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Militär: Haben Angriffe gegen Iran durchgeführt",
-      "summary": "Die USA haben nach eigenen Angaben Luftangriffe gegen den Iran geflogen, nachdem ein Handelsschiff in der Straße von Hormus von einer iranischen Drohne getroffen wurde. Der Iran reagierte daraufhin mit Angriffen auf US-Stützpunkte, was die Spannungen in der Region erheblich verschärft."
+      "headline": "Angriffe lösen Sorge vor Eskalation am Persischen Golf aus",
+      "summary": "Die Straße von Hormus bleibt ein brisanter Streitpunkt zwischen den USA und Iran, mit neuen Angriffen auf Frachter und prompten Reaktionen. Diese Unsicherheit in der wichtigen Meerenge betrifft den globalen Handel und birgt das Risiko einer militärischen Eskalation."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Volkswagen könnte bis zu 100 000 Stellen abbauen und vier Werke schliessen",
-      "summary": "Ein Konzept der Konzernführung bei Volkswagen sieht beispiellose Einschnitte vor, die zum Abbau von bis zu 100.000 Stellen und der Schließung von vier Werken führen könnten. Dies würde den deutschen Autobauer aus weiten Teilen Deutschlands verabschieden und stößt auf großen Widerstand."
+      "headline": "Volkswagen könnte bis zu 100 000 Stellen abbauen",
+      "summary": "Ein Konzept der Konzernführung sieht bei Volkswagen beispiellose Einschnitte vor, die zum Abbau von bis zu 100.000 Stellen und der Schließung von vier Werken führen könnten. Dies würde einen massiven Umbau des deutschen Autobauers bedeuten und stößt bereits auf großen Widerstand."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der IWF stärkt dem Bundesrat im Streit um die UBS den Rücken",
-      "summary": "Im Streit um neue Eigenkapitalregeln für die UBS erhält der Bundesrat nun Unterstützung vom Internationalen Währungsfonds (IWF), während die Bank auf Entgegenkommen des Parlaments hofft. Die Position des IWF als wichtige multilaterale Finanzorganisation stärkt die Haltung des Bundesrates erheblich."
+      "headline": "IWF stärkt Bundesrat im Streit um UBS-Eigenkapital den Rücken",
+      "summary": "Der Internationale Währungsfonds (IWF) unterstützt den Schweizer Bundesrat in seinen Forderungen nach neuen Eigenkapitalregeln für die UBS. Dies stärkt die Position des Bundesrats gegenüber der Großbank, die im Parlament auf Entgegenkommen bei den regulatorischen Anforderungen hofft."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "summary": "OpenAI hat die Einführung von GPT-5.6 auf Verlangen der US-Regierung eingeschränkt, äußert aber Bedenken, dass solche staatlichen Zugangsverfahren nicht zur Norm werden sollten. Das Unternehmen argumentiert, dass dies die besten Tools von Nutzern und Entwicklern fernhält, die sie dringend benötigen."
+      "headline": "OpenAI begrenzt GPT-5.6 Rollout nach Regierungsanfrage",
+      "summary": "OpenAI hat nach einer Anfrage der US-Regierung den Zugang zu ihrem neuesten KI-Modell GPT-5.6 eingeschränkt. Das Unternehmen äußert Bedenken, dass solche staatlichen Zugangsverfahren Innovation bremsen und die besten Tools Nutzern vorenthalten könnten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "summary": "Immer mehr Technologiegiganten wie OpenAI und SpaceX entwickeln eigene Chips, um ihre Abhängigkeit von Nvidia zu reduzieren und die Leistung für spezifische Anwendungen zu optimieren. OpenAI plant mit seinem „Jalapeño“-Chip, der in Zusammenarbeit mit Broadcom entwickelt wurde, den Wettbewerb im KI-Chipmarkt weiter anzuheizen."
+      "headline": "Novak Djokovic wird strategischer Berater für Private Equity Firma",
+      "summary": "Tennislegende Novak Djokovic wechselt ins Finanzgeschäft und wird globaler strategischer Berater für die Private Equity Firma General Atlantic. Dieser prominente Schritt sorgt für Aufsehen und verbindet die Welt des Spitzensports mit der Finanzbranche."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-      "summary": "Die FTC hat Elon Musk die Genehmigung erteilt, das von SpaceX-Alumni gegründete Startup Mesh zu übernehmen, welches erst im Februar mit einer Series A Finanzierung von 50 Millionen Dollar aus dem Stealth-Modus kam. Diese Akquisition könnte Musks Ökosystem im Tech-Sektor weiter ausbauen."
+      "headline": "FTC genehmigt Musk die Übernahme des SpaceX-Alumni-Startups Mesh",
+      "summary": "Die US-Handelskommission (FTC) hat Elon Musk die Genehmigung erteilt, das Startup Mesh zu übernehmen, welches von ehemaligen SpaceX-Mitarbeitern gegründet wurde. Mesh trat im Februar mit einer Series-A-Finanzierung von 50 Millionen US-Dollar aus dem Stealth-Modus hervor."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-      "summary": "Corgi, ein vielbeachtetes und von Y Combinator unterstütztes Insurtech-Startup, verteidigt sich gegen den Vorwurf, ein Open-Source-Produkt gestohlen zu haben. Diese Kontroverse wirft neue Fragen über die Grenzen und Ethik beim sogenannten 'Vibe Coding' in der Startup-Welt auf."
+      "headline": "Apple Vision Pro Manager wechselt zu OpenAI",
+      "summary": "Paul Meade, der Apple-Vizepräsident, der für das Vision Pro Headset verantwortlich war, verlässt das Unternehmen Berichten zufolge, um sich dem Hardware-Team von OpenAI anzuschließen. Dieser prominente Wechsel unterstreicht den Wettbewerb um Top-Talente im Tech-Sektor."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Was ist der Unterschied?",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer neuen Finanzierungsrunde, während die Post-Money-Bewertung den Wert NACH Erhalt des neuen Kapitals darstellt.",
-    "details": "Wenn Investoren Kapital in ein Startup einbringen, kaufen sie dafür Anteile an einem Unternehmen, das bereits einen bestimmten Wert hat (Pre-Money). Nach der Investition erhöht sich der Gesamtwert des Unternehmens um das eingezahlte Kapital, was zur Post-Money-Bewertung führt. Diese Kennzahlen sind entscheidend für die Berechnung des Anteils, den neue Investoren erhalten, und für die Verwässerung der bestehenden Eigentümer, da der Preis pro Aktie auf Basis der Pre-Money-Bewertung und des eingezahlten Kapitals festgelegt wird.",
-    "takeaway": "Für Gründer ist das Verständnis der Post-Money-Bewertung essenziell, um die zukünftige Verwässerung ihrer Anteile zu antizipieren. Für Investoren ist es die Basis zur Berechnung des Return on Investment."
+    "topic": "Der Short Squeeze: Eine Kettenreaktion an den Märkten",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein plötzlicher, starker Kursanstieg einer Aktie, der durch die gezwungene Auflösung von Leerverkaufspositionen ausgelöst wird.",
+    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie sich Aktien leihen und sofort verkaufen. Steigt der Kurs entgegen ihrer Erwartung stark an, müssen sie die geliehenen Aktien teurer zurückkaufen, um ihre Verluste zu begrenzen. Dieser erzwungene Rückkauf schafft eine erhöhte Nachfrage, die den Kurs weiter in die Höhe treibt und eine positive Rückkopplungsschleife erzeugt, die als 'Short Squeeze' bekannt ist. Dies kann zu extremer Volatilität und schnellen Kursgewinnen führen.",
+    "takeaway": "Ein Short Squeeze demonstriert, wie die Positionierung von Leerverkäufern einen Kursturbo zünden kann. Für Anleger ist es ein Zeichen für potenzielle extreme Volatilität und die Möglichkeit schneller Gewinne, birgt aber auch hohe Risiken."
   }
 }
