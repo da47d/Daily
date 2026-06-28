@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit: Trump droht Europäern mit 100-Prozent-Zöllen",
-      "summary": "Ex-Präsident Trump droht bei einer möglichen Wiederwahl mit drastischen Zöllen von bis zu 100 Prozent auf europäische Importe. Dies löst große Besorgnis in der Wirtschaft aus und könnte laufende Handelsabkommen erheblich beeinflussen."
+      "headline": "Erneut gegenseitige Angriffe zwischen USA und Iran, Spannungen am Golf nehmen zu",
+      "summary": "Die USA und Iran griffen sich erneut gegenseitig an, nachdem ein iranischer Angriff auf einen Frachter gemeldet wurde. Teheran reagierte mit Angriffen auf US-Militärstützpunkte, was die Spannungen am Golf deutlich verstärkt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Angriffe lösen Sorge vor Eskalation am Persischen Golf aus",
-      "summary": "Die Straße von Hormus bleibt ein brisanter Streitpunkt zwischen den USA und Iran, mit neuen Angriffen auf Frachter und prompten Reaktionen. Diese Unsicherheit in der wichtigen Meerenge betrifft den globalen Handel und birgt das Risiko einer militärischen Eskalation."
+      "headline": "Warten auf Deal mit Trump: Wirtschaft fürchtet zweiten Zollhammer",
+      "summary": "Angesichts bevorstehender Verhandlungen mit Donald Trump wächst in der Wirtschaft die Sorge vor erneuten Handelszöllen. Ein dringend benötigtes Abkommen soll fatalen höheren Zöllen entgegenwirken."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Volkswagen könnte bis zu 100 000 Stellen abbauen",
-      "summary": "Ein Konzept der Konzernführung sieht bei Volkswagen beispiellose Einschnitte vor, die zum Abbau von bis zu 100.000 Stellen und der Schließung von vier Werken führen könnten. Dies würde einen massiven Umbau des deutschen Autobauers bedeuten und stößt bereits auf großen Widerstand."
+      "headline": "Risiko an der Börse zurückfahren: Hohe Bewertungen und ausserordentliche Risiken warnen vor Sommerferien",
+      "summary": "Experten raten, angesichts sehr hoher Aktienbewertungen und ungewöhnlicher Risiken Positionen an der Börse zu reduzieren. Es wird empfohlen, noch vor den Sommerferien Gewinne zu sichern und das Risiko zu steuern."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "IWF stärkt Bundesrat im Streit um UBS-Eigenkapital den Rücken",
-      "summary": "Der Internationale Währungsfonds (IWF) unterstützt den Schweizer Bundesrat in seinen Forderungen nach neuen Eigenkapitalregeln für die UBS. Dies stärkt die Position des Bundesrats gegenüber der Großbank, die im Parlament auf Entgegenkommen bei den regulatorischen Anforderungen hofft."
+      "headline": "Historische Abbaupläne bei VW: Oliver Blume gilt als radikalster Manager Europas",
+      "summary": "Oliver Blume, der frühere Porsche-Manager, plant bei VW einen historischen Stellenabbau von 100.000 Positionen. Diese radikalen Maßnahmen könnten weitreichende wirtschaftliche und soziale Auswirkungen haben."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI begrenzt GPT-5.6 Rollout nach Regierungsanfrage",
-      "summary": "OpenAI hat nach einer Anfrage der US-Regierung den Zugang zu ihrem neuesten KI-Modell GPT-5.6 eingeschränkt. Das Unternehmen äußert Bedenken, dass solche staatlichen Zugangsverfahren Innovation bremsen und die besten Tools Nutzern vorenthalten könnten."
+      "headline": "Mistral als letztes europäisches Bollwerk bei großen Sprachmodellen: Warnungen vor Fehleinschätzung",
+      "summary": "Mistral gilt als letzte europäische Firma, die große Sprachmodelle entwickelt, und wird von Warnern als Symbol einer katastrophalen europäischen Fehleinschätzung im KI-Bereich gesehen. Dies wirft Fragen über die technologische Souveränität des Kontinents auf."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Novak Djokovic wird strategischer Berater für Private Equity Firma",
-      "summary": "Tennislegende Novak Djokovic wechselt ins Finanzgeschäft und wird globaler strategischer Berater für die Private Equity Firma General Atlantic. Dieser prominente Schritt sorgt für Aufsehen und verbindet die Welt des Spitzensports mit der Finanzbranche."
+      "headline": "OpenAI schränkt GPT-5.6-Rollout nach Regierungsanfrage ein, warnt vor dauerhaften Beschränkungen",
+      "summary": "OpenAI hat die Einführung von GPT-5.6 auf Verlangen der US-Regierung eingeschränkt, äußert jedoch Bedenken, dass solche Eingriffe nicht zum Standard werden sollten. Man befürchtet, dass dies den Zugang zu wichtigen Tools für Nutzer und Unternehmen behindert."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "FTC genehmigt Musk die Übernahme des SpaceX-Alumni-Startups Mesh",
-      "summary": "Die US-Handelskommission (FTC) hat Elon Musk die Genehmigung erteilt, das Startup Mesh zu übernehmen, welches von ehemaligen SpaceX-Mitarbeitern gegründet wurde. Mesh trat im Februar mit einer Series-A-Finanzierung von 50 Millionen US-Dollar aus dem Stealth-Modus hervor."
+      "headline": "Asiatische KI-Startups lancieren Mythos-ähnliche Modelle, während Anthropic-Exportverbot anhält",
+      "summary": "Neue KI-Modelle mit Mythos-ähnlichen Fähigkeiten werden in Asien von Startups auf den Markt gebracht, um von Anthropic's Exportbeschränkungen zu profitieren. US-KI-Labs könnten diesen riesigen Markt dauerhaft verlieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Apple Vision Pro Manager wechselt zu OpenAI",
-      "summary": "Paul Meade, der Apple-Vizepräsident, der für das Vision Pro Headset verantwortlich war, verlässt das Unternehmen Berichten zufolge, um sich dem Hardware-Team von OpenAI anzuschließen. Dieser prominente Wechsel unterstreicht den Wettbewerb um Top-Talente im Tech-Sektor."
+      "headline": "FTC genehmigt Musk-Akquisition von SpaceX-Alumni-Startup Mesh",
+      "summary": "Die FTC hat Elon Musk grünes Licht für die Übernahme des Startups Mesh gegeben, das von SpaceX-Alumni gegründet wurde. Mesh trat erst im Februar mit einer Series A-Finanzierung von 50 Millionen Dollar aus dem Stealth-Modus."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Eine Kettenreaktion an den Märkten",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein plötzlicher, starker Kursanstieg einer Aktie, der durch die gezwungene Auflösung von Leerverkaufspositionen ausgelöst wird.",
-    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie sich Aktien leihen und sofort verkaufen. Steigt der Kurs entgegen ihrer Erwartung stark an, müssen sie die geliehenen Aktien teurer zurückkaufen, um ihre Verluste zu begrenzen. Dieser erzwungene Rückkauf schafft eine erhöhte Nachfrage, die den Kurs weiter in die Höhe treibt und eine positive Rückkopplungsschleife erzeugt, die als 'Short Squeeze' bekannt ist. Dies kann zu extremer Volatilität und schnellen Kursgewinnen führen.",
-    "takeaway": "Ein Short Squeeze demonstriert, wie die Positionierung von Leerverkäufern einen Kursturbo zünden kann. Für Anleger ist es ein Zeichen für potenzielle extreme Volatilität und die Möglichkeit schneller Gewinne, birgt aber auch hohe Risiken."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens *vor* einer Investition, während die Post-Money-Bewertung den Wert *nach* dem Erhalt des Kapitals beschreibt und somit die Investition bereits beinhaltet.",
+    "details": "Wenn ein Investor Kapital in ein Startup einbringt, erhält er im Gegenzug Anteile. Die Pre-Money-Bewertung ist entscheidend, um den Anteil des Investors am Unternehmen zu bestimmen, bevor das neue Geld eingeht. Die Post-Money-Bewertung ergibt sich aus der Addition der Pre-Money-Bewertung und des investierten Kapitals und repräsentiert den Gesamtwert des Startups nach der Finanzierungsrunde. Der Prozentsatz, den der Investor für sein Kapital erhält, wird berechnet als Investitionsbetrag geteilt durch die Post-Money-Bewertung. Ein klares Verständnis dieser Konzepte ist unerlässlich für Gründer, um die Verwässerung ihrer Anteile und die Wertentwicklung ihres Unternehmens zu beurteilen und faire Deals auszuhandeln.",
+    "takeaway": "Pre-Money plus Investment ergibt Post-Money. Dieses Wissen hilft Gründern, den Wert ihrer Firma und die Verwässerung ihrer Anteile bei Finanzierungsrunden präzise zu verstehen und zu kommunizieren."
   }
 }
