@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Erneut gegenseitige Angriffe zwischen USA und Iran, Spannungen am Golf nehmen zu",
-      "summary": "Die USA und Iran griffen sich erneut gegenseitig an, nachdem ein iranischer Angriff auf einen Frachter gemeldet wurde. Teheran reagierte mit Angriffen auf US-Militärstützpunkte, was die Spannungen am Golf deutlich verstärkt."
+      "headline": "USA-Iran-Konflikt verschärft sich trotz des Rahmenabkommens wieder",
+      "summary": "Der Konflikt zwischen den USA und Iran eskaliert erneut, mit gegenseitigen Angriffen auf Frachtschiffe und Ziele in Kuwait und Bahrain. Dies geschieht nur zwei Wochen nach einem unterzeichneten Rahmenabkommen und signalisiert eine angespannte geopolitische Lage."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Warten auf Deal mit Trump: Wirtschaft fürchtet zweiten Zollhammer",
-      "summary": "Angesichts bevorstehender Verhandlungen mit Donald Trump wächst in der Wirtschaft die Sorge vor erneuten Handelszöllen. Ein dringend benötigtes Abkommen soll fatalen höheren Zöllen entgegenwirken."
+      "headline": "Warten auf einen Deal mit Trump: Die Wirtschaft fürchtet sich vor einem zweiten Zollhammer",
+      "summary": "Die Schweizer Wirtschaft bangt vor erneuten Zöllen durch die Trump-Administration und drängt auf einen dringlichen Handelsdeal mit den USA. Bundespräsident Parmelin reist für Verhandlungen nach Washington, um fatale Zollschläge abzuwenden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Risiko an der Börse zurückfahren: Hohe Bewertungen und ausserordentliche Risiken warnen vor Sommerferien",
-      "summary": "Experten raten, angesichts sehr hoher Aktienbewertungen und ungewöhnlicher Risiken Positionen an der Börse zu reduzieren. Es wird empfohlen, noch vor den Sommerferien Gewinne zu sichern und das Risiko zu steuern."
+      "headline": "Die Bank der Zentralbanken sieht grosses Potenzial in der künstlichen Intelligenz – und eine wachsende Gefahr für einen Crash",
+      "summary": "Die Bank für Internationalen Zahlungsausgleich (BIZ) warnt, dass der Wettlauf um die KI-Vorherrschaft historisch gesehen zu Finanzkrisen führen könnte. Technologische Revolutionen mündeten oft in Marktturbulenzen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Historische Abbaupläne bei VW: Oliver Blume gilt als radikalster Manager Europas",
-      "summary": "Oliver Blume, der frühere Porsche-Manager, plant bei VW einen historischen Stellenabbau von 100.000 Positionen. Diese radikalen Maßnahmen könnten weitreichende wirtschaftliche und soziale Auswirkungen haben."
+      "headline": "Open AI schränkt nach Verlangen der US-Regierung Zugang zu neuer KI ein",
+      "summary": "Open AI hat auf Verlangen der US-Regierung den Zugang zu neuer KI eingeschränkt, was die zunehmende staatliche Regulierung im schnell wachsenden Tech-Sektor verdeutlicht. Dies könnte weitreichende Auswirkungen auf die globale KI-Entwicklung und -Wirtschaft haben."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Mistral als letztes europäisches Bollwerk bei großen Sprachmodellen: Warnungen vor Fehleinschätzung",
-      "summary": "Mistral gilt als letzte europäische Firma, die große Sprachmodelle entwickelt, und wird von Warnern als Symbol einer katastrophalen europäischen Fehleinschätzung im KI-Bereich gesehen. Dies wirft Fragen über die technologische Souveränität des Kontinents auf."
+      "headline": "Erneuter Temperaturhöchstwert in Deutschland",
+      "summary": "Deutschland verzeichnete den dritten Tag in Folge einen Temperaturhöchstwert von 41,7 Grad in Brandenburg, was die anhaltende und besorgniserregende Hitzewelle unterstreicht. Diese extremen Wetterereignisse dominieren die öffentlichen Schlagzeilen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI schränkt GPT-5.6-Rollout nach Regierungsanfrage ein, warnt vor dauerhaften Beschränkungen",
-      "summary": "OpenAI hat die Einführung von GPT-5.6 auf Verlangen der US-Regierung eingeschränkt, äußert jedoch Bedenken, dass solche Eingriffe nicht zum Standard werden sollten. Man befürchtet, dass dies den Zugang zu wichtigen Tools für Nutzer und Unternehmen behindert."
+      "headline": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Die Trump-Administration hat die Nutzung des bedeutenden KI-Modells Anthropic Mythos für über 100 US-Unternehmen und Behörden freigegeben. Dies markiert einen wichtigen Schritt in der breiten Anwendung fortgeschrittener KI-Technologien in den USA."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Asiatische KI-Startups lancieren Mythos-ähnliche Modelle, während Anthropic-Exportverbot anhält",
-      "summary": "Neue KI-Modelle mit Mythos-ähnlichen Fähigkeiten werden in Asien von Startups auf den Markt gebracht, um von Anthropic's Exportbeschränkungen zu profitieren. US-KI-Labs könnten diesen riesigen Markt dauerhaft verlieren."
+      "headline": "Mistral ist die letzte europäische Firma, die grosse Sprachmodelle entwickelt",
+      "summary": "Mistral, als letzte europäische Firma für große Sprachmodelle, wird von Kritikern als Symbol für Europas mögliche Fehleinschätzung in der KI-Entwicklung gesehen. Ihre strategische Bedeutung für die technologische Souveränität des Kontinents ist enorm."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "FTC genehmigt Musk-Akquisition von SpaceX-Alumni-Startup Mesh",
-      "summary": "Die FTC hat Elon Musk grünes Licht für die Übernahme des Startups Mesh gegeben, das von SpaceX-Alumni gegründet wurde. Mesh trat erst im Februar mit einer Series A-Finanzierung von 50 Millionen Dollar aus dem Stealth-Modus."
+      "headline": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+      "summary": "Die FTC hat Elon Musk die Genehmigung erteilt, das aus SpaceX-Alumni hervorgegangene Startup Mesh zu erwerben. Das Unternehmen war erst kürzlich mit einer Series-A-Finanzierung von 50 Millionen Dollar aus dem Stealth-Modus gekommen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens *vor* einer Investition, während die Post-Money-Bewertung den Wert *nach* dem Erhalt des Kapitals beschreibt und somit die Investition bereits beinhaltet.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, erhält er im Gegenzug Anteile. Die Pre-Money-Bewertung ist entscheidend, um den Anteil des Investors am Unternehmen zu bestimmen, bevor das neue Geld eingeht. Die Post-Money-Bewertung ergibt sich aus der Addition der Pre-Money-Bewertung und des investierten Kapitals und repräsentiert den Gesamtwert des Startups nach der Finanzierungsrunde. Der Prozentsatz, den der Investor für sein Kapital erhält, wird berechnet als Investitionsbetrag geteilt durch die Post-Money-Bewertung. Ein klares Verständnis dieser Konzepte ist unerlässlich für Gründer, um die Verwässerung ihrer Anteile und die Wertentwicklung ihres Unternehmens zu beurteilen und faire Deals auszuhandeln.",
-    "takeaway": "Pre-Money plus Investment ergibt Post-Money. Dieses Wissen hilft Gründern, den Wert ihrer Firma und die Verwässerung ihrer Anteile bei Finanzierungsrunden präzise zu verstehen und zu kommunizieren."
+    "topic": "Der Ablauf eines Short Squeeze: Wenn Leerverkäufer in die Klemme geraten",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze beschreibt eine Situation, in der der Kurs einer Aktie plötzlich stark ansteigt und Leerverkäufer gezwungen sind, ihre Positionen durch Rückkäufe zu schließen, was den Preis weiter in die Höhe treibt.",
+    "details": "Leerverkäufer leihen sich Aktien aus, verkaufen diese am Markt und hoffen, sie später zu einem niedrigeren Preis zurückkaufen und zurückgeben zu können, um von der Kursdifferenz zu profitieren. Wenn der Aktienkurs jedoch unerwartet stark steigt, drohen ihnen unbegrenzte Verluste. Um diese Verluste zu begrenzen, sind sie gezwungen, die geliehenen Aktien zu jedem Preis zurückzukaufen. Diese erzwungenen Käufe erzeugen eine zusätzliche Nachfrage, die den Kurs weiter nach oben treibt und eine Kaskade von weiteren Rückkäufen auslöst – den sogenannten Short Squeeze.",
+    "takeaway": "Ein Short Squeeze verdeutlicht, wie eine kollektive Marktbewegung Leerverkäufer unter enormen Druck setzen und zu rasanten Kursanstiegen führen kann. Für Investoren ist es ein Signal für eine potenziell überzogene Marktreaktion, die jedoch kurzfristig erhebliche Gewinnchancen bieten kann."
   }
 }
