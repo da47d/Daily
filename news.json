@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Maschinengewehre auf zivilem russischen Tanker",
-      "summary": "Estnische Grenzschützer entdeckten ein russisches LNG-Schiff mit Maschinengewehren in der Ostsee, was Experten als Russlands Reaktion auf ukrainische Drohnenangriffe werten. Dieser Vorfall eskaliert regionale Spannungen und zeigt die Militarisierung ziviler Schifffahrt in Konfliktgebieten auf."
+      "headline": "Benzinkrise in Russland setzt Putin unter Druck",
+      "summary": "Der anhaltende Benzinmangel in Russland frustriert Autofahrer und führt zu Krisenberatungen im Kreml unter Präsident Putin. Diese innenpolitische Herausforderung für einen großen Energielieferanten kann globale Märkte beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ärger über die EU-Zölle: In Brüssel lobbyieren der Bundesrat und andere Regierungen gegen neue Handelsbeschränkungen",
-      "summary": "Neue EU-Stahlzölle und 'Buy European'-Initiativen stoßen auf Widerstand, da Regierungen wie die Schweiz gegen diese Handelsbeschränkungen lobbyieren. Diese Maßnahmen bergen das Risiko höherer Preise für europäische Konsumenten, obwohl die Schweiz die schlimmsten Auswirkungen abwenden kann."
+      "headline": "Ärger über neue EU-Zölle und Handelsbeschränkungen",
+      "summary": "Die EU plant neue Stahlzölle und 'Buy European'-Initiativen, die Handelspartner verärgern und höhere Preise für europäische Konsumenten bedeuten könnten. Mehrere Regierungen und der Bundesrat lobbyieren bereits in Brüssel gegen diese Handelsbeschränkungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Privatbanken: Was folgt aus dem Fall Berenberg?",
-      "summary": "Die Finanzaufsicht BaFin hat die gesamte Geschäftsführung der Privatbank Berenberg entmachtet, ein fast einzigartiger Vorgang im Bankensektor. Dieser Schritt wirft wichtige Fragen bezüglich der Governance und Aufsicht deutscher Finanzinstitute auf."
+      "headline": "Deutscher Aktienmarkt sucht Orientierung trotz Kurssprung",
+      "summary": "Dem deutschen Aktienmarkt mangelt es weiterhin an klarer Orientierung, der DAX startete mit leichten Verlusten in die neue Woche. Dennoch gab es im SDAX einen rekordverdächtigen Kurssprung, der die Marktvolatilität verdeutlicht."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Bank der Zentralbanken sieht grosses Potenzial in der künstlichen Intelligenz – und eine wachsende Gefahr für einen Crash",
-      "summary": "Die Bank für Internationalen Zahlungsausgleich (BIZ) erkennt großes Potenzial in der KI, warnt jedoch gleichzeitig vor einer wachsenden Gefahr eines Finanzcrashs. Historisch gesehen führten technologische Revolutionen oft zu Krisen, eine Sorge, die durch den finanziellen Wettlauf um die KI-Dominanz verstärkt wird."
+      "headline": "BIZ warnt vor KI-Wettlauf als Gefahr für Finanzstabilität",
+      "summary": "Die Bank für Internationalen Zahlungsausgleich (BIZ) sieht im finanziellen Wettlauf um die KI-Vorherrschaft großes Potenzial, aber auch eine wachsende Gefahr für einen Crash. Historisch mündeten technologische Revolutionen oft in Finanzkrisen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Forschende warnen vor unkritischer KI-Nutzung",
-      "summary": "Forschende warnen vor dem unkritischen Einsatz der boomenden KI, die zunehmend Entscheidungen in Bereichen wie autonomem Fahren und medizinischen Auswertungen trifft. Sie mahnen zu Vorsicht angesichts potenzieller Risiken, trotz der nützlichen Anwendungen als Chatbots oder Bildbearbeitungstools."
+      "headline": "Mistral: Europas letzte Hoffnung im KI-Wettbewerb?",
+      "summary": "Mistral gilt als letzte europäische Firma, die große Sprachmodelle entwickelt, und wird von Warnern als Symbol für eine katastrophale Fehleinschätzung Europas im KI-Rennen betrachtet. Die Sorge wächst, dass der Kontinent den Anschluss an die globale Tech-Entwicklung verlieren könnte."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Mistral ist die letzte europäische Firma, die grosse Sprachmodelle entwickelt. Sie gilt Warnern als Symbol für eine katastrophale Fehleinschätzung",
-      "summary": "Mistral, Europas letzte Firma zur Entwicklung großer Sprachmodelle, wird von Kritikern als Symbol für eine katastrophale Fehleinschätzung des Kontinents im KI-Wettlauf gesehen. Ein fiktives 'Europe 2031'-Szenario warnt davor, dass Europa aufgrund seines KI-Rückstands zu einem amerikanischen Protektorat werden könnte."
+      "headline": "Südkoreanische Tech-Giganten investieren 550 Mrd. USD in Chip-Produktion",
+      "summary": "Die zwei größten Speicherchip-Unternehmen Südkoreas verpflichten sich zu Investitionen von über 550 Milliarden US-Dollar in neue Fabriken, um die 'RAMageddon'-Engpässe zu lindern. Südkorea will sich damit als führende Nation im Bereich der KI-Technologie positionieren."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "summary": "Paul Meade, ein wichtiger Apple-Vizepräsident für das Vision Pro Headset, verlässt das Unternehmen Berichten zufolge, um sich dem Hardware-Team von OpenAI anzuschließen. Dieser prominente Talentwechsel unterstreicht die strategische Expansion von OpenAI in den Hardware-Bereich und die aggressive Talentakquise im KI-Sektor."
+      "headline": "Robotik-Startup Proception sichert 11 Mio. USD und beendet Tesla-Klage",
+      "summary": "Das Robotik-Startup Proception, spezialisiert auf Roboterhände, hat eine Finanzierungsrunde von 11 Millionen US-Dollar bekannt gegeben. Zuvor legte das Unternehmen einen Handelsgeheimnis-Streit mit Tesla bei."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
-      "summary": "Asiatische KI-Startups bringen neue Modelle mit 'Mythos-ähnlichen' Fähigkeiten auf den Markt und profitieren dabei vom anhaltenden Exportverbot, das das US-KI-Labor Anthropic betrifft. Diese Entwicklung deutet auf eine signifikante Verschiebung im globalen KI-Markt hin, wobei asiatische Firmen aufgrund geopolitischer Faktoren an Boden gewinnen."
+      "headline": "Pocket sammelt 11 Mio. USD für AI-Notizgeräte ein",
+      "summary": "Pocket hat 11 Millionen US-Dollar eingesammelt, um die steigende Nachfrage nach KI-gesteuerten Notizgeräten zu bedienen. Das Startup bietet einen 129 US-Dollar teuren Puck an, der unbegrenzte Aufzeichnungen und Transkriptionen ermöglicht."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Dieses Konzept erklärt, wie der Wert eines Unternehmens vor und nach einer Finanzierungsrunde berechnet wird, um die Verteilung von Eigentumsanteilen und die Kapitalaufnahme zu verstehen.",
-    "details": "Wenn ein Startup Kapital von Investoren erhält, gibt es zwei wichtige Bewertungszeitpunkte: Die Pre-Money Bewertung ist der Wert des Unternehmens *vor* der Kapitalzufuhr durch eine Investition, während die Post-Money Bewertung den Wert *nach* Erhalt des neuen Kapitals darstellt. Die Post-Money Bewertung ergibt sich einfach aus der Pre-Money Bewertung plus dem Investitionsbetrag. Diese Unterscheidung ist entscheidend, da sie bestimmt, welchen prozentualen Anteil der Investor für sein Geld erhält und wie die Anteile der bestehenden Eigentümer (Gründer, frühere Investoren) durch die neue Kapitalzufuhr verwässert werden. Sie ist die unumgängliche Basis für die korrekte Berechnung der Anteilsverteilung im sogenannten Cap Table (Capitalization Table) eines Startups.",
-    "takeaway": "Für Investoren und Gründer ist das Verständnis von Pre- und Post-Money-Bewertungen essenziell, um den fairen Wert einer Finanzierungsrunde zu bestimmen und die daraus resultierenden Eigentumsverhältnisse transparent abzubilden. Es ist die fundamentale Metrik zur Strukturierung jeder Startup-Finanzierung und wichtig für die Entscheidungsfindung über Anteilsabgaben und Wertsteigerung."
+    "topic": "Der Short Squeeze: Mechanik eines Kursanstiegs durch Leerverkäufer",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein plötzlicher, starker Kursanstieg eines Wertpapiers, der ausgelöst wird, wenn Leerverkäufer ihre Positionen schließen müssen, um Verluste zu begrenzen.",
+    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie Aktien leihen und verkaufen. Steigt der Kurs unerwartet stark an, geraten sie unter Druck, ihre geliehenen Aktien zurückzukaufen (Covering), um hohe Verluste zu vermeiden. Dieser erzwungene Rückkauf treibt den Kurs weiter in die Höhe, was eine Kettenreaktion auslösen kann, da immer mehr Leerverkäufer ihre Positionen glattstellen müssen.",
+    "takeaway": "Ein Short Squeeze zeigt die Macht der Dynamik im Markt und wie die Aktionen von Leerverkäufern paradoxerweise zu massiven Kursanstiegen führen können."
   }
 }
