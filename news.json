@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA-Iran-Konflikt verschärft sich trotz des Rahmenabkommens wieder",
-      "summary": "Der Konflikt zwischen den USA und Iran eskaliert erneut, mit gegenseitigen Angriffen auf Frachtschiffe und Ziele in Kuwait und Bahrain. Dies geschieht nur zwei Wochen nach einem unterzeichneten Rahmenabkommen und signalisiert eine angespannte geopolitische Lage."
+      "headline": "Maschinengewehre auf zivilem russischen Tanker",
+      "summary": "Estnische Grenzschützer entdeckten ein russisches LNG-Schiff mit Maschinengewehren in der Ostsee, was Experten als Russlands Reaktion auf ukrainische Drohnenangriffe werten. Dieser Vorfall eskaliert regionale Spannungen und zeigt die Militarisierung ziviler Schifffahrt in Konfliktgebieten auf."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Warten auf einen Deal mit Trump: Die Wirtschaft fürchtet sich vor einem zweiten Zollhammer",
-      "summary": "Die Schweizer Wirtschaft bangt vor erneuten Zöllen durch die Trump-Administration und drängt auf einen dringlichen Handelsdeal mit den USA. Bundespräsident Parmelin reist für Verhandlungen nach Washington, um fatale Zollschläge abzuwenden."
+      "headline": "Ärger über die EU-Zölle: In Brüssel lobbyieren der Bundesrat und andere Regierungen gegen neue Handelsbeschränkungen",
+      "summary": "Neue EU-Stahlzölle und 'Buy European'-Initiativen stoßen auf Widerstand, da Regierungen wie die Schweiz gegen diese Handelsbeschränkungen lobbyieren. Diese Maßnahmen bergen das Risiko höherer Preise für europäische Konsumenten, obwohl die Schweiz die schlimmsten Auswirkungen abwenden kann."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Bank der Zentralbanken sieht grosses Potenzial in der künstlichen Intelligenz – und eine wachsende Gefahr für einen Crash",
-      "summary": "Die Bank für Internationalen Zahlungsausgleich (BIZ) warnt, dass der Wettlauf um die KI-Vorherrschaft historisch gesehen zu Finanzkrisen führen könnte. Technologische Revolutionen mündeten oft in Marktturbulenzen."
+      "headline": "Privatbanken: Was folgt aus dem Fall Berenberg?",
+      "summary": "Die Finanzaufsicht BaFin hat die gesamte Geschäftsführung der Privatbank Berenberg entmachtet, ein fast einzigartiger Vorgang im Bankensektor. Dieser Schritt wirft wichtige Fragen bezüglich der Governance und Aufsicht deutscher Finanzinstitute auf."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Open AI schränkt nach Verlangen der US-Regierung Zugang zu neuer KI ein",
-      "summary": "Open AI hat auf Verlangen der US-Regierung den Zugang zu neuer KI eingeschränkt, was die zunehmende staatliche Regulierung im schnell wachsenden Tech-Sektor verdeutlicht. Dies könnte weitreichende Auswirkungen auf die globale KI-Entwicklung und -Wirtschaft haben."
+      "headline": "Die Bank der Zentralbanken sieht grosses Potenzial in der künstlichen Intelligenz – und eine wachsende Gefahr für einen Crash",
+      "summary": "Die Bank für Internationalen Zahlungsausgleich (BIZ) erkennt großes Potenzial in der KI, warnt jedoch gleichzeitig vor einer wachsenden Gefahr eines Finanzcrashs. Historisch gesehen führten technologische Revolutionen oft zu Krisen, eine Sorge, die durch den finanziellen Wettlauf um die KI-Dominanz verstärkt wird."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Erneuter Temperaturhöchstwert in Deutschland",
-      "summary": "Deutschland verzeichnete den dritten Tag in Folge einen Temperaturhöchstwert von 41,7 Grad in Brandenburg, was die anhaltende und besorgniserregende Hitzewelle unterstreicht. Diese extremen Wetterereignisse dominieren die öffentlichen Schlagzeilen."
+      "headline": "Forschende warnen vor unkritischer KI-Nutzung",
+      "summary": "Forschende warnen vor dem unkritischen Einsatz der boomenden KI, die zunehmend Entscheidungen in Bereichen wie autonomem Fahren und medizinischen Auswertungen trifft. Sie mahnen zu Vorsicht angesichts potenzieller Risiken, trotz der nützlichen Anwendungen als Chatbots oder Bildbearbeitungstools."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "summary": "Die Trump-Administration hat die Nutzung des bedeutenden KI-Modells Anthropic Mythos für über 100 US-Unternehmen und Behörden freigegeben. Dies markiert einen wichtigen Schritt in der breiten Anwendung fortgeschrittener KI-Technologien in den USA."
+      "headline": "Mistral ist die letzte europäische Firma, die grosse Sprachmodelle entwickelt. Sie gilt Warnern als Symbol für eine katastrophale Fehleinschätzung",
+      "summary": "Mistral, Europas letzte Firma zur Entwicklung großer Sprachmodelle, wird von Kritikern als Symbol für eine katastrophale Fehleinschätzung des Kontinents im KI-Wettlauf gesehen. Ein fiktives 'Europe 2031'-Szenario warnt davor, dass Europa aufgrund seines KI-Rückstands zu einem amerikanischen Protektorat werden könnte."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Mistral ist die letzte europäische Firma, die grosse Sprachmodelle entwickelt",
-      "summary": "Mistral, als letzte europäische Firma für große Sprachmodelle, wird von Kritikern als Symbol für Europas mögliche Fehleinschätzung in der KI-Entwicklung gesehen. Ihre strategische Bedeutung für die technologische Souveränität des Kontinents ist enorm."
+      "headline": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, ein wichtiger Apple-Vizepräsident für das Vision Pro Headset, verlässt das Unternehmen Berichten zufolge, um sich dem Hardware-Team von OpenAI anzuschließen. Dieser prominente Talentwechsel unterstreicht die strategische Expansion von OpenAI in den Hardware-Bereich und die aggressive Talentakquise im KI-Sektor."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-      "summary": "Die FTC hat Elon Musk die Genehmigung erteilt, das aus SpaceX-Alumni hervorgegangene Startup Mesh zu erwerben. Das Unternehmen war erst kürzlich mit einer Series-A-Finanzierung von 50 Millionen Dollar aus dem Stealth-Modus gekommen."
+      "headline": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "summary": "Asiatische KI-Startups bringen neue Modelle mit 'Mythos-ähnlichen' Fähigkeiten auf den Markt und profitieren dabei vom anhaltenden Exportverbot, das das US-KI-Labor Anthropic betrifft. Diese Entwicklung deutet auf eine signifikante Verschiebung im globalen KI-Markt hin, wobei asiatische Firmen aufgrund geopolitischer Faktoren an Boden gewinnen."
     }
   ],
   "learning": {
-    "topic": "Der Ablauf eines Short Squeeze: Wenn Leerverkäufer in die Klemme geraten",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze beschreibt eine Situation, in der der Kurs einer Aktie plötzlich stark ansteigt und Leerverkäufer gezwungen sind, ihre Positionen durch Rückkäufe zu schließen, was den Preis weiter in die Höhe treibt.",
-    "details": "Leerverkäufer leihen sich Aktien aus, verkaufen diese am Markt und hoffen, sie später zu einem niedrigeren Preis zurückkaufen und zurückgeben zu können, um von der Kursdifferenz zu profitieren. Wenn der Aktienkurs jedoch unerwartet stark steigt, drohen ihnen unbegrenzte Verluste. Um diese Verluste zu begrenzen, sind sie gezwungen, die geliehenen Aktien zu jedem Preis zurückzukaufen. Diese erzwungenen Käufe erzeugen eine zusätzliche Nachfrage, die den Kurs weiter nach oben treibt und eine Kaskade von weiteren Rückkäufen auslöst – den sogenannten Short Squeeze.",
-    "takeaway": "Ein Short Squeeze verdeutlicht, wie eine kollektive Marktbewegung Leerverkäufer unter enormen Druck setzen und zu rasanten Kursanstiegen führen kann. Für Investoren ist es ein Signal für eine potenziell überzogene Marktreaktion, die jedoch kurzfristig erhebliche Gewinnchancen bieten kann."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Dieses Konzept erklärt, wie der Wert eines Unternehmens vor und nach einer Finanzierungsrunde berechnet wird, um die Verteilung von Eigentumsanteilen und die Kapitalaufnahme zu verstehen.",
+    "details": "Wenn ein Startup Kapital von Investoren erhält, gibt es zwei wichtige Bewertungszeitpunkte: Die Pre-Money Bewertung ist der Wert des Unternehmens *vor* der Kapitalzufuhr durch eine Investition, während die Post-Money Bewertung den Wert *nach* Erhalt des neuen Kapitals darstellt. Die Post-Money Bewertung ergibt sich einfach aus der Pre-Money Bewertung plus dem Investitionsbetrag. Diese Unterscheidung ist entscheidend, da sie bestimmt, welchen prozentualen Anteil der Investor für sein Geld erhält und wie die Anteile der bestehenden Eigentümer (Gründer, frühere Investoren) durch die neue Kapitalzufuhr verwässert werden. Sie ist die unumgängliche Basis für die korrekte Berechnung der Anteilsverteilung im sogenannten Cap Table (Capitalization Table) eines Startups.",
+    "takeaway": "Für Investoren und Gründer ist das Verständnis von Pre- und Post-Money-Bewertungen essenziell, um den fairen Wert einer Finanzierungsrunde zu bestimmen und die daraus resultierenden Eigentumsverhältnisse transparent abzubilden. Es ist die fundamentale Metrik zur Strukturierung jeder Startup-Finanzierung und wichtig für die Entscheidungsfindung über Anteilsabgaben und Wertsteigerung."
   }
 }
