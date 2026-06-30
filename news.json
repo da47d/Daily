@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Fujimori gewinnt Präsidentenwahl in Peru knapp",
-      "summary": "Keiko Fujimori hat in einem extrem knappen Rennen die Präsidentschaftswahl in Peru gewonnen. Sie setzte sich mit nur wenigen Stimmen Vorsprung gegen ihren Linkspolitiker-Kontrahenten Sánchez durch."
+      "headline": "London erhöht Verteidigungsetat um 15 Milliarden Pfund",
+      "summary": "Nach monatelangem Streit erhöht die britische Regierung den Verteidigungsetat um 15 Milliarden Pfund. Kritiker halten die Investitionen jedoch weiterhin für zu gering, um das Land ausreichend kriegstüchtig zu machen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Setzen USA und Iran Gespräche fort?",
-      "summary": "Trotz jüngster gegenseitiger Angriffe sollen Gespräche zwischen den USA und Iran offenbar wie geplant stattfinden. US-Präsident Trump kündigte ein heutiges Treffen in Doha an, wobei die genauen Teilnehmer noch unklar sind."
+      "headline": "EU-Stahlzölle belasten Schweizer Hersteller und europäische Konsumenten",
+      "summary": "Ab Juli erhöhen sich die EU-Zölle und sinken die Quoten für Stahlimporte, was Schweizer Hersteller massiv einschränkt. Dies führt nicht nur zu Nachteilen für die Produzenten, sondern auch zu höheren Preisen für Europas Konsumenten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Anleger fassen Mut vor neuen Inflationszahlen",
-      "summary": "Anleger zeigen sich vor der Veröffentlichung wichtiger deutscher Inflationsdaten zuversichtlich, gestützt durch schwächere Preissteigerungen in Frankreich. Der DAX verzeichnete dabei solide Zuwächse, und aus dem Nahen Osten gab es bislang keine neuen negativen Impulse."
+      "headline": "Marktbericht: Versöhnlicher Halbjahres-Abschluss an der Börse",
+      "summary": "Das erste Halbjahr schloss versöhnlich ab, da Anleger wieder Mut fassten. Der DAX kletterte im Sog der Nasdaq knapp an die 25.000 Punkte-Marke, unterstützt durch erfreuliche Inflationsdaten."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Supreme Court stärkt Fed-Unabhängigkeit",
-      "summary": "Ein Urteil des Supreme Courts stärkt die Unabhängigkeit der amerikanischen Notenbank, indem es die Entlassung von Fed-Gouverneurin Lisa Cook für unzulässig erklärte. Zugleich wurde die Macht des Präsidenten in einem anderen Fall erweitert, Mitglieder der Federal Trade Commission nach Belieben zu entlassen."
+      "headline": "US Supreme Court stärkt Fed-Unabhängigkeit, erweitert aber Präsidentenmacht",
+      "summary": "Ein Supreme-Court-Urteil stärkt die Unabhängigkeit der US-Notenbank durch die Unzulässigkeit der Entlassung einer Fed-Gouverneurin. Zugleich aber erweitert ein anderer Entscheid die Macht des Präsidenten zur Entlassung von FTC-Mitgliedern erheblich."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Singapur: KI-Kurse fürs Volk",
-      "summary": "Singapur verfolgt das ehrgeizige Ziel, der führende KI-Hub der Region zu werden. Dazu fördert der Staat mit subventionierten Kursen die digitale Fitness seiner breiten Bevölkerung."
+      "headline": "Anthropic präsentiert Claude Sonnet 5 als günstigere KI-Agenten-Alternative",
+      "summary": "Anthropic hat Claude Sonnet 5 auf den Markt gebracht, das stärkere Agenten-Fähigkeiten, niedrigere Preise und verbesserte Sicherheit bietet. Es positioniert sich als günstigere Alternative zu Modellen wie Opus, GPT-5.5 und Gemini Pro."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Gemini: Personalisierte KI-Bilder jetzt kostenlos in den USA",
-      "summary": "Google erweitert die personalisierte KI-Bilderzeugung von Gemini für berechtigte kostenlose Nutzer in den USA. Der Chatbot kann nun Bilder basierend auf Interessen und Daten aus verbundenen Google-Apps erstellen."
+      "headline": "Tesla testet Cybercab ohne Pedale und Lenkrad in Austin",
+      "summary": "Tesla beginnt in Austin mit Tests des Cybercab, eines robotaxifähigen Fahrzeugs ohne Pedale oder Lenkrad. Damit scheint das Unternehmen bereit, Elon Musks jahrelanges Versprechen eines eigenen Robotaxi-Netzwerks einzulösen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Chamath Palihapitiya sichert $135M Series A für KI-Startup",
-      "summary": "Der bekannte Investor Chamath Palihapitiya hat eine Serie-A-Finanzierungsrunde von 135 Millionen US-Dollar für sein KI-Coding-Startup abgeschlossen. Er übernimmt zudem die Rolle des CEO, was das ungebrochene Interesse von VCs an solchen Startups unterstreicht."
+      "headline": "Nvidia-Konkurrent Etched erreicht $5 Mrd. Bewertung und $1 Mrd. Umsatz",
+      "summary": "Der KI-Chip-Wettbewerber Etched hat eine Bewertung von 5 Milliarden US-Dollar erreicht und bereits Verträge im Wert von 1 Milliarde US-Dollar für seine Inferen-Systeme abgeschlossen. Das Startup tritt damit als ernsthafter Konkurrent zu Nvidia im Bereich der KI-Chips auf."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI-Leaderboard Arena erreicht $100M Bewertung",
-      "summary": "Das Startup Arena, bekannt für sein kostenloses AI-Leaderboard, hat sich zu einem 100-Millionen-Dollar-Unternehmen entwickelt. Der kommerzielle Dienst wurde erst im letzten September eingeführt, was das schnelle Wachstum unterstreicht."
+      "headline": "Arcturus verspricht Halbierung der Stromnetzverluste mit Nano-Metall",
+      "summary": "Das Stealth-Startup Arcturus nutzt Laser, um Kohlenstoff-Nanomaterialien in Kupfer zu integrieren und dessen Leitfähigkeit dramatisch zu verbessern. Diese Technologie könnte die elektrischen Verluste im Stromnetz um die Hälfte reduzieren."
     }
   ],
   "learning": {
-    "topic": "Vesting für Gründer: Bindung und Anreizmechanismus",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting ist ein Mechanismus, der Gründer und Schlüsselmitarbeiter über einen bestimmten Zeitraum an ihr Unternehmen bindet, indem Anteile erst nach und nach überlassen werden. Es stellt sicher, dass Gründer ihre Anteile nicht sofort nach einer Finanzierung verkaufen können, ohne dass sie sich um das Wachstum des Unternehmens verdient gemacht haben.",
-    "details": "Beim Vesting wird vereinbart, dass Gründer ihre Unternehmensanteile nicht sofort vollständig besitzen, sondern diese schrittweise über einen festgelegten Zeitraum, die sogenannte 'Vesting-Periode' (oft 3-4 Jahre), 'erwerben'. Scheidet ein Gründer vor Ablauf dieser Periode aus, verliert er einen Teil seiner unverfestigten Anteile, die dann in der Regel an das Unternehmen oder die verbleibenden Gründer zurückfallen. Häufig gibt es auch einen 'Cliff', eine Mindestzeit (z.B. 1 Jahr), nach der die erste Tranche der Anteile vergeben wird; verlässt man das Unternehmen vorher, erhält man gar keine Anteile. Dies dient als starker Anreiz, langfristig im Unternehmen zu bleiben und gemeinsame Ziele zu verfolgen.",
-    "takeaway": "Vesting ist ein entscheidendes Instrument, um das Engagement von Gründern und frühen Mitarbeitern langfristig zu sichern und Interessenskonflikte zwischen Investoren und dem Management zu vermeiden. Es ist ein Standardbestandteil von Finanzierungsrunden und ein Indikator für die Ernsthaftigkeit und den langfristigen Plan eines Startup-Teams."
+    "topic": "Optionen vs. Optionsscheine",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Optionen sind standardisierte, börsengehandelte Verträge mit klar definierten Rechten und Pflichten, während Optionsscheine von Emittenten ausgegebene Derivate sind, die meist außerbörslich gehandelt werden.",
+    "details": "Eine Option gibt dem Käufer das Recht, aber nicht die Pflicht, einen Basiswert zu einem bestimmten Preis bis zu einem bestimmten Datum zu kaufen oder zu verkaufen. Optionen sind hoch standardisiert, transparent und werden von Clearinghäusern garantiert. Optionsscheine (Warrants) hingegen sind Schuldverschreibungen des Emittenten und keine direkten Verträge auf einen Basiswert; ihr Wert und ihre Konditionen werden vom Emittenten festgelegt, was sie komplexer und weniger transparent machen kann, oft mit höherer Volatilität und geringerer Liquidität.",
+    "takeaway": "Optionen sind primär ein Instrument zur Absicherung oder Spekulation mit klaren Börsenregeln, während Optionsscheine eher ein Hebelprodukt für Privatanleger sind, dessen Risiko auch stark vom Emittenten abhängt."
   }
 }
