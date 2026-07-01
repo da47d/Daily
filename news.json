@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Zolldeal in Kraft: US-Industriegüter und Hummer ab heute zollfrei",
-      "summary": "Der Zolldeal der EU mit den USA ist in Kraft getreten, was US-Industrieprodukte und Hummer zollfrei macht. Gleichzeitig gelten in der EU strengere Regeln für Stahlimporte."
+      "headline": "Trump lobt indirekte Gespräche mit Iran in Katar",
+      "summary": "In Katar fanden erneut indirekte Gespräche zwischen den USA und dem Iran über einen Waffenstillstand statt. US-Präsident Trump bezeichnete die Denuklearisierung Irans als weit fortgeschritten."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Stahlzölle der EU: Die Schweizer Hersteller würden massiv eingeschränkt, klagt Swissmem",
-      "summary": "Ab Juli treten in der EU höhere Zölle und niedrigere Quoten für Stahlimporte in Kraft. Schweizer Hersteller klagen, dass dies sie massiv einschränken und Europas Konsumenten schaden wird."
+      "headline": "Stahlzölle der EU: Schweizer Hersteller klagen über massive Einschränkungen",
+      "summary": "Ab Juli gelten in der EU höhere Zölle und niedrigere Quoten für Stahlimporte, was Schweizer Hersteller und europäische Konsumenten gleichermaßen beeinträchtigt. Swissmem warnt vor negativen Folgen für die Wettbewerbsfähigkeit der Branche."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Inflation: Warum das Preisniveau bald wieder deutlich steigen könnte",
-      "summary": "Ökonomen warnen, dass die Inflation trotz jüngstem Rückgang bald wieder deutlich steigen könnte. Die Nachwirkungen der Energiepreiskrise könnten sich verzögert auf Konsumgüter, Lebensmittel und Dienstleistungen auswirken."
+      "headline": "Alarmzeichen für den Wohlstand: Unternehmen scheuen Zukunftsinvestitionen in Deutschland",
+      "summary": "Deutschlands Wirtschaft leidet unter einer schwachen Konjunktur und einer tiefgreifenderen Problematik mangelnder Zukunftsinvestitionen. Dies stellt ein ernstes Alarmzeichen für den Wohlstand des Landes dar."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX mäandert um 25.000-Punkte-Marke",
-      "summary": "Der deutsche Aktienmarkt ist verhalten in den Juli gestartet und der DAX verharrt an der Marke von 25.000 Punkten. Neue Impulse werden vom Notenbanktreffen in Sintra erwartet."
+      "headline": "Der Goldpreis ist abgestürzt – doch der Boom beim Edelmetall geht weiter",
+      "summary": "Trotz eines jüngsten Goldpreisrückgangs sehen Experten weiterhin gute Gründe für einen anhaltenden Boom des Edelmetalls. Die zukünftige Entwicklung wird dabei zunehmend von den asiatischen Märkten, insbesondere China, bestimmt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Realta Fusion generiert Strom direkt aus Fusionsreaktion",
-      "summary": "Realta Fusion meldet, als erstes Unternehmen direkt Strom aus einer Fusionsreaktion gewonnen zu haben. Dies markiert einen bedeutenden Meilenstein für die Energieerzeugung."
+      "headline": "Dank Abnehmspritzen: Eli Lilly sprengt alle Massstäbe in der Pharmabranche",
+      "summary": "Eine Marktstudie prognostiziert dem amerikanischen Medikamentenhersteller Eli Lilly bis 2032 einen Umsatz von fast 140 Milliarden Dollar. An der Börse ist das Unternehmen nun fast doppelt so viel wert wie Roche und Novartis zusammen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "US-Regierung hebt Sperren für KI-Modelle von Anthropic auf",
-      "summary": "Die US-Regierung hat die Sperren für die KI-Modelle \"Mythos 5\" und \"Fable 5\" von Anthropic aufgehoben. Dies zeigt den unbeständigen Ansatz der Trump-Administration in der KI-Regulierung."
+      "headline": "Sony beendet Produktion physischer PlayStation-Spiele ab 2028",
+      "summary": "Sony wird ab 2028 keine physischen Discs mehr für neue PlayStation-Spiele produzieren und setzt damit vollständig auf eine digitale Zukunft. Dieser Schritt markiert eine bedeutende Wende in der Gaming-Industrie."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Wayve launcht $85M Mitarbeiter-Tenderangebot bei $8.5B Bewertung",
-      "summary": "Das KI-Startup Wayve führt ein Mitarbeiter-Tenderangebot über 85 Millionen Dollar bei einer Bewertung von 8,5 Milliarden Dollar durch. Dies unterstreicht einen wachsenden Trend zur Talentbindung in AI-Startups."
+      "headline": "Neocloud Together AI sammelt 800 Mio. $ ein und erreicht 8,3 Mrd. $ Bewertung",
+      "summary": "Der AI-Neocloud-Anbieter Neocloud Together AI, spezialisiert auf das Hosting von Open-Source-Modellen, hat eine neue Finanzierungsrunde über 800 Millionen Dollar abgeschlossen. Dies katapultiert das Unternehmen zu einer Bewertung von 8,3 Milliarden Dollar, nach 3,3 Milliarden Dollar Anfang 2025."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Nvidia-Konkurrent Etched erreicht $5B Bewertung",
-      "summary": "Der Nvidia-Konkurrent Etched, Hersteller von KI-Chips, erreicht eine Bewertung von 5 Milliarden Dollar. Das Unternehmen hat bereits Aufträge im Wert von 1 Milliarde Dollar für seine Inferenzsysteme gebucht."
+      "headline": "SpaceX entwickelt Prototyp für KI-Gerät, das einem Smartphone ähnelt",
+      "summary": "SpaceX soll Investoren vor dem Börsengang einen 'handset-like' KI-Geräte-Prototyp präsentiert haben. Dies deutet darauf hin, dass SpaceX in den drahtlosen Markt expandieren möchte."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese Begriffe beschreiben, wie der Wert eines Startups vor und nach einer Finanzierungsrunde berechnet wird. Sie sind entscheidend, um den Anteil zu verstehen, den ein Investor im Austausch für seine Investition erhält.",
-    "details": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* dem Erhalt einer neuen Investition. Wenn ein Investor beispielsweise 1 Million Euro für 10% eines Unternehmens investiert, muss die Pre-Money-Bewertung 9 Millionen Euro betragen. Die Post-Money-Bewertung ist die Pre-Money-Bewertung *plus* der Investitionsbetrag, also der Gesamtwert des Unternehmens *nach* der Finanzierungsrunde. Der neue Investor kauft Anteile am Post-Money-Wert, der sich in unserem Beispiel auf 10 Millionen Euro beläuft (9M Pre-Money + 1M Investition).",
-    "takeaway": "Investoren verhandeln primär über die Pre-Money-Bewertung, da diese direkt ihren prozentualen Anteil am Unternehmen bestimmt, basierend auf dem Kapital, das sie einbringen. Für Gründer ist das Verständnis beider Werte essenziell, um die Verwässerung ihrer eigenen Anteile korrekt einzuschätzen."
+    "topic": "Optionen vs. Optionsscheine",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Beide sind Derivate, die das Recht, aber nicht die Pflicht geben, einen Basiswert zu einem bestimmten Preis zu kaufen oder zu verkaufen, unterscheiden sich jedoch in Herausgeber, Markt und Laufzeit.",
+    "details": "Standardisierte Optionen werden an Terminbörsen gehandelt und sind durch Clearinghäuser gesichert, was das Ausfallrisiko minimiert. Sie dienen primär professionellen Anlegern zur Absicherung oder Spekulation auf große Basiswerte mit festen Laufzeiten und hoher Liquidität. Optionsscheine hingegen sind nicht-standardisierte Derivate, die von Banken (Emittenten) ausgegeben und im Freiverkehr gehandelt werden, wodurch sie ein Emittentenrisiko aufweisen. Sie sind oft auf spezifischere Aktien zugeschnitten, haben flexiblere Laufzeiten und werden hauptsächlich von Privatanlegern für Spekulationszwecke genutzt.",
+    "takeaway": "Optionen bieten höhere Sicherheit und Liquidität durch Börsenstandards und Clearinghäuser, während Optionsscheine zwar flexibler sind, aber ein Emittentenrisiko bergen und oft für Hebelstrategien von Privatanlegern verwendet werden."
   }
 }
