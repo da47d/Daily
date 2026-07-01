@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "London erhöht Verteidigungsetat um 15 Milliarden Pfund",
-      "summary": "Nach monatelangem Streit erhöht die britische Regierung den Verteidigungsetat um 15 Milliarden Pfund. Kritiker halten die Investitionen jedoch weiterhin für zu gering, um das Land ausreichend kriegstüchtig zu machen."
+      "headline": "Zolldeal in Kraft: US-Industriegüter und Hummer ab heute zollfrei",
+      "summary": "Der Zolldeal der EU mit den USA ist in Kraft getreten, was US-Industrieprodukte und Hummer zollfrei macht. Gleichzeitig gelten in der EU strengere Regeln für Stahlimporte."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU-Stahlzölle belasten Schweizer Hersteller und europäische Konsumenten",
-      "summary": "Ab Juli erhöhen sich die EU-Zölle und sinken die Quoten für Stahlimporte, was Schweizer Hersteller massiv einschränkt. Dies führt nicht nur zu Nachteilen für die Produzenten, sondern auch zu höheren Preisen für Europas Konsumenten."
+      "headline": "Stahlzölle der EU: Die Schweizer Hersteller würden massiv eingeschränkt, klagt Swissmem",
+      "summary": "Ab Juli treten in der EU höhere Zölle und niedrigere Quoten für Stahlimporte in Kraft. Schweizer Hersteller klagen, dass dies sie massiv einschränken und Europas Konsumenten schaden wird."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Versöhnlicher Halbjahres-Abschluss an der Börse",
-      "summary": "Das erste Halbjahr schloss versöhnlich ab, da Anleger wieder Mut fassten. Der DAX kletterte im Sog der Nasdaq knapp an die 25.000 Punkte-Marke, unterstützt durch erfreuliche Inflationsdaten."
+      "headline": "Inflation: Warum das Preisniveau bald wieder deutlich steigen könnte",
+      "summary": "Ökonomen warnen, dass die Inflation trotz jüngstem Rückgang bald wieder deutlich steigen könnte. Die Nachwirkungen der Energiepreiskrise könnten sich verzögert auf Konsumgüter, Lebensmittel und Dienstleistungen auswirken."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "US Supreme Court stärkt Fed-Unabhängigkeit, erweitert aber Präsidentenmacht",
-      "summary": "Ein Supreme-Court-Urteil stärkt die Unabhängigkeit der US-Notenbank durch die Unzulässigkeit der Entlassung einer Fed-Gouverneurin. Zugleich aber erweitert ein anderer Entscheid die Macht des Präsidenten zur Entlassung von FTC-Mitgliedern erheblich."
+      "headline": "Marktbericht: DAX mäandert um 25.000-Punkte-Marke",
+      "summary": "Der deutsche Aktienmarkt ist verhalten in den Juli gestartet und der DAX verharrt an der Marke von 25.000 Punkten. Neue Impulse werden vom Notenbanktreffen in Sintra erwartet."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Anthropic präsentiert Claude Sonnet 5 als günstigere KI-Agenten-Alternative",
-      "summary": "Anthropic hat Claude Sonnet 5 auf den Markt gebracht, das stärkere Agenten-Fähigkeiten, niedrigere Preise und verbesserte Sicherheit bietet. Es positioniert sich als günstigere Alternative zu Modellen wie Opus, GPT-5.5 und Gemini Pro."
+      "headline": "Realta Fusion generiert Strom direkt aus Fusionsreaktion",
+      "summary": "Realta Fusion meldet, als erstes Unternehmen direkt Strom aus einer Fusionsreaktion gewonnen zu haben. Dies markiert einen bedeutenden Meilenstein für die Energieerzeugung."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Tesla testet Cybercab ohne Pedale und Lenkrad in Austin",
-      "summary": "Tesla beginnt in Austin mit Tests des Cybercab, eines robotaxifähigen Fahrzeugs ohne Pedale oder Lenkrad. Damit scheint das Unternehmen bereit, Elon Musks jahrelanges Versprechen eines eigenen Robotaxi-Netzwerks einzulösen."
+      "headline": "US-Regierung hebt Sperren für KI-Modelle von Anthropic auf",
+      "summary": "Die US-Regierung hat die Sperren für die KI-Modelle \"Mythos 5\" und \"Fable 5\" von Anthropic aufgehoben. Dies zeigt den unbeständigen Ansatz der Trump-Administration in der KI-Regulierung."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Nvidia-Konkurrent Etched erreicht $5 Mrd. Bewertung und $1 Mrd. Umsatz",
-      "summary": "Der KI-Chip-Wettbewerber Etched hat eine Bewertung von 5 Milliarden US-Dollar erreicht und bereits Verträge im Wert von 1 Milliarde US-Dollar für seine Inferen-Systeme abgeschlossen. Das Startup tritt damit als ernsthafter Konkurrent zu Nvidia im Bereich der KI-Chips auf."
+      "headline": "Wayve launcht $85M Mitarbeiter-Tenderangebot bei $8.5B Bewertung",
+      "summary": "Das KI-Startup Wayve führt ein Mitarbeiter-Tenderangebot über 85 Millionen Dollar bei einer Bewertung von 8,5 Milliarden Dollar durch. Dies unterstreicht einen wachsenden Trend zur Talentbindung in AI-Startups."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Arcturus verspricht Halbierung der Stromnetzverluste mit Nano-Metall",
-      "summary": "Das Stealth-Startup Arcturus nutzt Laser, um Kohlenstoff-Nanomaterialien in Kupfer zu integrieren und dessen Leitfähigkeit dramatisch zu verbessern. Diese Technologie könnte die elektrischen Verluste im Stromnetz um die Hälfte reduzieren."
+      "headline": "Nvidia-Konkurrent Etched erreicht $5B Bewertung",
+      "summary": "Der Nvidia-Konkurrent Etched, Hersteller von KI-Chips, erreicht eine Bewertung von 5 Milliarden Dollar. Das Unternehmen hat bereits Aufträge im Wert von 1 Milliarde Dollar für seine Inferenzsysteme gebucht."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Optionen sind standardisierte, börsengehandelte Verträge mit klar definierten Rechten und Pflichten, während Optionsscheine von Emittenten ausgegebene Derivate sind, die meist außerbörslich gehandelt werden.",
-    "details": "Eine Option gibt dem Käufer das Recht, aber nicht die Pflicht, einen Basiswert zu einem bestimmten Preis bis zu einem bestimmten Datum zu kaufen oder zu verkaufen. Optionen sind hoch standardisiert, transparent und werden von Clearinghäusern garantiert. Optionsscheine (Warrants) hingegen sind Schuldverschreibungen des Emittenten und keine direkten Verträge auf einen Basiswert; ihr Wert und ihre Konditionen werden vom Emittenten festgelegt, was sie komplexer und weniger transparent machen kann, oft mit höherer Volatilität und geringerer Liquidität.",
-    "takeaway": "Optionen sind primär ein Instrument zur Absicherung oder Spekulation mit klaren Börsenregeln, während Optionsscheine eher ein Hebelprodukt für Privatanleger sind, dessen Risiko auch stark vom Emittenten abhängt."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe beschreiben, wie der Wert eines Startups vor und nach einer Finanzierungsrunde berechnet wird. Sie sind entscheidend, um den Anteil zu verstehen, den ein Investor im Austausch für seine Investition erhält.",
+    "details": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* dem Erhalt einer neuen Investition. Wenn ein Investor beispielsweise 1 Million Euro für 10% eines Unternehmens investiert, muss die Pre-Money-Bewertung 9 Millionen Euro betragen. Die Post-Money-Bewertung ist die Pre-Money-Bewertung *plus* der Investitionsbetrag, also der Gesamtwert des Unternehmens *nach* der Finanzierungsrunde. Der neue Investor kauft Anteile am Post-Money-Wert, der sich in unserem Beispiel auf 10 Millionen Euro beläuft (9M Pre-Money + 1M Investition).",
+    "takeaway": "Investoren verhandeln primär über die Pre-Money-Bewertung, da diese direkt ihren prozentualen Anteil am Unternehmen bestimmt, basierend auf dem Kapital, das sie einbringen. Für Gründer ist das Verständnis beider Werte essenziell, um die Verwässerung ihrer eigenen Anteile korrekt einzuschätzen."
   }
 }
