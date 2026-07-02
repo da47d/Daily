@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump lobt indirekte Gespräche mit Iran in Katar",
-      "summary": "In Katar fanden erneut indirekte Gespräche zwischen den USA und dem Iran über einen Waffenstillstand statt. US-Präsident Trump bezeichnete die Denuklearisierung Irans als weit fortgeschritten."
+      "headline": "Ukraine meldet massive russische Luftangriffe - mehrere Tote",
+      "summary": "Die Ukraine wurde in der Nacht erneut Ziel heftiger russischer Luftangriffe, die in Kiew mehrere Wohnhäuser und ein Hotel zerstörten. Laut Bürgermeister Klitschko gab es dabei mindestens 13 Todesopfer."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Stahlzölle der EU: Schweizer Hersteller klagen über massive Einschränkungen",
-      "summary": "Ab Juli gelten in der EU höhere Zölle und niedrigere Quoten für Stahlimporte, was Schweizer Hersteller und europäische Konsumenten gleichermaßen beeinträchtigt. Swissmem warnt vor negativen Folgen für die Wettbewerbsfähigkeit der Branche."
+      "headline": "Venezuela: Hoffnung auf Neuanfang durch Erdbeben erschüttert",
+      "summary": "Nach der Festnahme des Langzeitmachthabers Maduro weckte Interimspräsidentin Rodriguez Hoffnungen auf einen Aufschwung in Venezuela. Verheerende Erdbeben haben diese Aussichten nun jedoch stark eingetrübt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Alarmzeichen für den Wohlstand: Unternehmen scheuen Zukunftsinvestitionen in Deutschland",
-      "summary": "Deutschlands Wirtschaft leidet unter einer schwachen Konjunktur und einer tiefgreifenderen Problematik mangelnder Zukunftsinvestitionen. Dies stellt ein ernstes Alarmzeichen für den Wohlstand des Landes dar."
+      "headline": "Marktbericht: Setzt sich der DAX über 25.000 Punkte fest?",
+      "summary": "Der DAX dürfte zum Handelsstart zulegen und die Marke von 25.000 Punkten weiter hinter sich lassen. Echte Impulse fehlen jedoch, und die schwachen US-Vorgaben warten auf den neuen Arbeitsmarktbericht."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der Goldpreis ist abgestürzt – doch der Boom beim Edelmetall geht weiter",
-      "summary": "Trotz eines jüngsten Goldpreisrückgangs sehen Experten weiterhin gute Gründe für einen anhaltenden Boom des Edelmetalls. Die zukünftige Entwicklung wird dabei zunehmend von den asiatischen Märkten, insbesondere China, bestimmt."
+      "headline": "Alarmzeichen für den Wohlstand: Viele Unternehmen scheuen Zukunftsinvestitionen in Deutschland",
+      "summary": "Deutschlands Wirtschaft leidet nicht nur unter einer schwachen Konjunktur, sondern auch unter der Zurückhaltung vieler Unternehmen bei Zukunftsinvestitionen. Dies deutet auf ein tieferliegendes Problem für den langfristigen Wohlstand des Landes hin."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Dank Abnehmspritzen: Eli Lilly sprengt alle Massstäbe in der Pharmabranche",
-      "summary": "Eine Marktstudie prognostiziert dem amerikanischen Medikamentenhersteller Eli Lilly bis 2032 einen Umsatz von fast 140 Milliarden Dollar. An der Börse ist das Unternehmen nun fast doppelt so viel wert wie Roche und Novartis zusammen."
+      "headline": "Infineon eröffnet neue Chipfabrik in Dresden",
+      "summary": "Infineon hat in Dresden eine der modernsten Chipfabriken eröffnet, um der weltweit steigenden Nachfrage nach Mikrochips gerecht zu werden. Dies stärkt Sachsens Rolle als internationaler Technologiestandort."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Sony beendet Produktion physischer PlayStation-Spiele ab 2028",
-      "summary": "Sony wird ab 2028 keine physischen Discs mehr für neue PlayStation-Spiele produzieren und setzt damit vollständig auf eine digitale Zukunft. Dieser Schritt markiert eine bedeutende Wende in der Gaming-Industrie."
+      "headline": "Niederlage vor EuGH: Google muss EU-Rekordstrafe zahlen",
+      "summary": "Google muss eine milliardenschwere Wettbewerbsstrafe der EU-Kommission akzeptieren, nachdem der EuGH eine Niederlage für den Tech-Giganten bestätigte. Die Strafe betrifft die Standardplatzierung von Google-Apps auf Android-Handys."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Neocloud Together AI sammelt 800 Mio. $ ein und erreicht 8,3 Mrd. $ Bewertung",
-      "summary": "Der AI-Neocloud-Anbieter Neocloud Together AI, spezialisiert auf das Hosting von Open-Source-Modellen, hat eine neue Finanzierungsrunde über 800 Millionen Dollar abgeschlossen. Dies katapultiert das Unternehmen zu einer Bewertung von 8,3 Milliarden Dollar, nach 3,3 Milliarden Dollar Anfang 2025."
+      "headline": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "summary": "Der AI-Neocloud-Anbieter Neocloud Together AI hat in einer neuen Finanzierungsrunde 800 Millionen Dollar eingesammelt und seine Bewertung damit auf 8,3 Milliarden Dollar gesteigert. Zuvor lag die Bewertung bei 3,3 Milliarden Dollar Anfang 2025, was einen deutlichen Sprung darstellt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "SpaceX entwickelt Prototyp für KI-Gerät, das einem Smartphone ähnelt",
-      "summary": "SpaceX soll Investoren vor dem Börsengang einen 'handset-like' KI-Geräte-Prototyp präsentiert haben. Dies deutet darauf hin, dass SpaceX in den drahtlosen Markt expandieren möchte."
+      "headline": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "summary": "Ashton Kutcher verlässt Sound Ventures, um zusammen mit Morgan Beller eine neue VC-Firma zu gründen. Diese wird sich auf die Infrastruktur und Energie konzentrieren, die führende KI-Labs antreiben."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Beide sind Derivate, die das Recht, aber nicht die Pflicht geben, einen Basiswert zu einem bestimmten Preis zu kaufen oder zu verkaufen, unterscheiden sich jedoch in Herausgeber, Markt und Laufzeit.",
-    "details": "Standardisierte Optionen werden an Terminbörsen gehandelt und sind durch Clearinghäuser gesichert, was das Ausfallrisiko minimiert. Sie dienen primär professionellen Anlegern zur Absicherung oder Spekulation auf große Basiswerte mit festen Laufzeiten und hoher Liquidität. Optionsscheine hingegen sind nicht-standardisierte Derivate, die von Banken (Emittenten) ausgegeben und im Freiverkehr gehandelt werden, wodurch sie ein Emittentenrisiko aufweisen. Sie sind oft auf spezifischere Aktien zugeschnitten, haben flexiblere Laufzeiten und werden hauptsächlich von Privatanlegern für Spekulationszwecke genutzt.",
-    "takeaway": "Optionen bieten höhere Sicherheit und Liquidität durch Börsenstandards und Clearinghäuser, während Optionsscheine zwar flexibler sind, aber ein Emittentenrisiko bergen und oft für Hebelstrategien von Privatanlegern verwendet werden."
+    "topic": "Vesting: Die Mechanismen hinter Gründeranteilen",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Vesting regelt den zeitlich gestaffelten Erwerb von Unternehmensanteilen durch Gründer oder Mitarbeiter. Es ist ein Anreizsystem, das Loyalität und langfristiges Engagement sichern soll.",
+    "details": "Wenn Gründer oder frühe Mitarbeiter Anteile an einem Startup erhalten, sind diese oft nicht sofort vollständig in ihrem Besitz. Stattdessen werden die Anteile über einen festgelegten Zeitraum, zum Beispiel vier Jahre, freigegeben (gevestet). Ein häufiger Zusatz ist ein 'Cliff', beispielsweise ein Jahr, was bedeutet, dass die ersten Anteile erst nach Ablauf dieses Jahres erworben werden. Verlässt eine Person das Unternehmen vor Ablauf des Cliffs, verliert sie in der Regel alle bis dahin nicht gevesteten Anteile. Danach werden die restlichen Anteile monatlich oder quartalsweise über den verbleibenden Vesting-Zeitraum freigegeben.",
+    "takeaway": "Vesting ist ein entscheidender Mechanismus in Startup-Finanzierungen, um sicherzustellen, dass Gründer und Schlüsselpersonal langfristig an das Unternehmen gebunden sind. Es schützt Investoren vor dem Verlust von Wert, falls wichtige Personen das Unternehmen frühzeitig verlassen."
   }
 }
