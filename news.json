@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine meldet massive russische Luftangriffe - mehrere Tote",
-      "summary": "Die Ukraine wurde in der Nacht erneut Ziel heftiger russischer Luftangriffe, die in Kiew mehrere Wohnhäuser und ein Hotel zerstörten. Laut Bürgermeister Klitschko gab es dabei mindestens 13 Todesopfer."
+      "headline": "Nahost-Konflikt: 1.000 Tage Dauerkrise",
+      "summary": "Der Nahe Osten steckt seit dem Hamas-Überfall vor 1.000 Tagen in einer tiefen Dauerkrise, ohne Hoffnung auf Besserung. Diese anhaltende Instabilität birgt Risiken für die globalen Märkte und die allgemeine Geopolitik."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Venezuela: Hoffnung auf Neuanfang durch Erdbeben erschüttert",
-      "summary": "Nach der Festnahme des Langzeitmachthabers Maduro weckte Interimspräsidentin Rodriguez Hoffnungen auf einen Aufschwung in Venezuela. Verheerende Erdbeben haben diese Aussichten nun jedoch stark eingetrübt."
+      "headline": "Trumps Krypto-Deals: US-Präsident in der Kritik",
+      "summary": "US-Präsident Trump und sein Umfeld sollen über 1,4 Milliarden Dollar mit Krypto-Deals verdient haben, was Fragen zu Interessenkonflikten aufwirft. Diese Einnahmen verdeutlichen den wachsenden Einfluss von Kryptowährungen auf politische Finanzströme."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Setzt sich der DAX über 25.000 Punkte fest?",
-      "summary": "Der DAX dürfte zum Handelsstart zulegen und die Marke von 25.000 Punkten weiter hinter sich lassen. Echte Impulse fehlen jedoch, und die schwachen US-Vorgaben warten auf den neuen Arbeitsmarktbericht."
+      "headline": "DAX auf Rekordhoch: Optimismus an den Märkten",
+      "summary": "Der Deutsche Aktienindex erreichte ein neues Allzeithoch, getragen von sinkenden Ölpreisen und der Hoffnung auf stabile US-Leitzinsen. Dies deutet auf eine positive Anlegerstimmung und Konjunkturerwartungen hin."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Alarmzeichen für den Wohlstand: Viele Unternehmen scheuen Zukunftsinvestitionen in Deutschland",
-      "summary": "Deutschlands Wirtschaft leidet nicht nur unter einer schwachen Konjunktur, sondern auch unter der Zurückhaltung vieler Unternehmen bei Zukunftsinvestitionen. Dies deutet auf ein tieferliegendes Problem für den langfristigen Wohlstand des Landes hin."
+      "headline": "US-Arbeitslosigkeit sinkt: Positive Konjunkturdaten",
+      "summary": "Die Arbeitslosigkeit in den USA ist leicht gesunken, was auf eine stabile Wirtschaft hindeutet. Solche Daten sind entscheidend für die Geldpolitik der Notenbanken und die globalen Konjunkturaussichten."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Infineon eröffnet neue Chipfabrik in Dresden",
-      "summary": "Infineon hat in Dresden eine der modernsten Chipfabriken eröffnet, um der weltweit steigenden Nachfrage nach Mikrochips gerecht zu werden. Dies stärkt Sachsens Rolle als internationaler Technologiestandort."
+      "headline": "Google erhält Rekordstrafe der EU-Kommission",
+      "summary": "Google wurde von der EU-Kommission mit einer milliardenschweren Strafe belegt, da das Unternehmen seine Marktmacht missbraucht haben soll. Dies sendet ein klares Signal an Tech-Giganten bezüglich Wettbewerbsrecht und Nutzerdominanz."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Niederlage vor EuGH: Google muss EU-Rekordstrafe zahlen",
-      "summary": "Google muss eine milliardenschwere Wettbewerbsstrafe der EU-Kommission akzeptieren, nachdem der EuGH eine Niederlage für den Tech-Giganten bestätigte. Die Strafe betrifft die Standardplatzierung von Google-Apps auf Android-Handys."
+      "headline": "Eli Lilly: Abnehmspritzen treiben Pharmariesen zum Rekord",
+      "summary": "Dank des Erfolgs seiner Abnehmspritzen wird dem Pharmariesen Eli Lilly ein Umsatz von fast 140 Milliarden Dollar bis 2032 prognostiziert. Der Börsenwert des Unternehmens übertrifft nun namhafte Konkurrenten wie Roche und Novartis zusammen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
-      "summary": "Der AI-Neocloud-Anbieter Neocloud Together AI hat in einer neuen Finanzierungsrunde 800 Millionen Dollar eingesammelt und seine Bewertung damit auf 8,3 Milliarden Dollar gesteigert. Zuvor lag die Bewertung bei 3,3 Milliarden Dollar Anfang 2025, was einen deutlichen Sprung darstellt."
+      "headline": "Melinda Gates’ Firma investiert in neuen VC-Fonds",
+      "summary": "Melinda French Gates' Pivotal Ventures hat den neuen, 46,6 Millionen Dollar schweren Magnify Ventures Fund II unterstützt. Dies stärkt das Ökosystem für Frühphasen-Startups und neue Technologien."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "summary": "Ashton Kutcher verlässt Sound Ventures, um zusammen mit Morgan Beller eine neue VC-Firma zu gründen. Diese wird sich auf die Infrastruktur und Energie konzentrieren, die führende KI-Labs antreiben."
+      "headline": "OpenAI schlägt Beteiligung für US-Staatsfonds vor",
+      "summary": "OpenAI-CEO Sam Altman schlug vor, 5% der Unternehmensanteile an einen US-Staatsfonds abzutreten, um die Öffentlichkeit am KI-Boom teilhaben zu lassen. Dieser Vorschlag könnte Diskussionen über die Verteilung von Gewinnen aus technologischem Fortschritt neu entfachen."
     }
   ],
   "learning": {
-    "topic": "Vesting: Die Mechanismen hinter Gründeranteilen",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting regelt den zeitlich gestaffelten Erwerb von Unternehmensanteilen durch Gründer oder Mitarbeiter. Es ist ein Anreizsystem, das Loyalität und langfristiges Engagement sichern soll.",
-    "details": "Wenn Gründer oder frühe Mitarbeiter Anteile an einem Startup erhalten, sind diese oft nicht sofort vollständig in ihrem Besitz. Stattdessen werden die Anteile über einen festgelegten Zeitraum, zum Beispiel vier Jahre, freigegeben (gevestet). Ein häufiger Zusatz ist ein 'Cliff', beispielsweise ein Jahr, was bedeutet, dass die ersten Anteile erst nach Ablauf dieses Jahres erworben werden. Verlässt eine Person das Unternehmen vor Ablauf des Cliffs, verliert sie in der Regel alle bis dahin nicht gevesteten Anteile. Danach werden die restlichen Anteile monatlich oder quartalsweise über den verbleibenden Vesting-Zeitraum freigegeben.",
-    "takeaway": "Vesting ist ein entscheidender Mechanismus in Startup-Finanzierungen, um sicherzustellen, dass Gründer und Schlüsselpersonal langfristig an das Unternehmen gebunden sind. Es schützt Investoren vor dem Verlust von Wert, falls wichtige Personen das Unternehmen frühzeitig verlassen."
+    "topic": "Der feine Unterschied: Optionen vs. Optionsscheine",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Optionen sind standardisierte Terminkontrakte, die an regulierten Börsen gehandelt werden, während Optionsscheine von Finanzinstituten emittierte und oft weniger standardisierte Schuldverschreibungen sind.",
+    "details": "Bei einer Option hat man das Recht, einen Basiswert zu einem bestimmten Preis zu kaufen (Call) oder zu verkaufen (Put). Sie sind durch Clearingstellen abgesichert und unterliegen strengen Regeln. Optionsscheine hingegen sind Derivate, die von Banken oder Brokern ausgegeben werden. Sie ähneln Optionen, bieten aber oft mehr Flexibilität in Bezug auf Basiswerte und Laufzeiten, bergen jedoch auch das Emittentenrisiko. Das bedeutet, falls der Emittent zahlungsunfähig wird, kann der Optionsschein wertlos werden, unabhängig von der Entwicklung des Basiswerts.",
+    "takeaway": "Während Optionen durch ihre Standardisierung und Börsenregulierung eine hohe Transparenz bieten, können Optionsscheine komplexer sein und bergen zusätzlich das Risiko des Emittenten."
   }
 }
