@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine: Selenskyj fordert eigene Patriot-Produktion nach Angriffen",
-      "summary": "Russland setzt Angriffe in der Ukraine fort, wobei in Kiew die Zahl der Todesopfer auf mindestens 30 gestiegen ist. Präsident Selenskyj fordert angesichts schwindender Bestände eine eigene Produktion von Patriot-Flugabwehrraketen, um die Verteidigungsfähigkeit zu stärken."
+      "headline": "Politiker nach Spionage-Enthüllungen mit Pegasus-Software gehackt",
+      "summary": "Ein europäischer Politiker, der einen EU-Ausschuss zur Untersuchung der Spionageindustrie leitete, wurde selbst mit der Pegasus-Spyware gehackt. Ein staatlicher Kunde der NSO Group nutzte die Software, um in sein Telefon einzudringen, was internationale Besorgnis über staatliche Überwachung hervorruft."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Politiker, der Spyware untersuchte, mit Pegasus gehackt",
-      "summary": "Ein europäischer Politiker, der in einem EU-Ausschuss zur Untersuchung der Spyware-Industrie tätig war, wurde mit der Pegasus-Spyware der NSO Group gehackt. Dieser Vorfall wirft ernste Fragen zur Überwachung von Regierungsvertretern und den Implikationen für die globale Cybersicherheit auf."
+      "headline": "UN-Wetterorganisation warnt: El Niño verstärkt Extremwetter weltweit",
+      "summary": "Die UN-Organisation für Meteorologie warnt vor einer globalen Zunahme von Hitzewellen und extremen Wetterlagen in den kommenden Monaten. Das sich verstärkende Wetterphänomen El Niño wird als Hauptursache für diese potenziellen geopolitischen und wirtschaftlichen Auswirkungen genannt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX vor neuem Rekordhoch: Zinshoffnung treibt Märkte",
-      "summary": "Der DAX könnte zum Wochenschluss ein neues Rekordhoch erreichen, getrieben von der Hoffnung auf baldige Zinssenkungen in den USA. Positive Vorgaben aus Asien verstärken den Optimismus und locken Anleger verstärkt in den Markt."
+      "headline": "Steuerreform der Bundesregierung könnte Entlastung verpuffen lassen",
+      "summary": "Obwohl die Bundesregierung Familien Hunderte Euro mehr im Jahr verspricht, zeigen Analysen, dass von der geplanten Steuerreform unter dem Strich weit weniger übrig bleiben könnte. Dies wirft Fragen zur tatsächlichen makroökonomischen Wirkung und zur Kaufkraft der Bürger auf."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Tesla-Lieferungen über Erwartung, US-Arbeitslosigkeit sinkt",
-      "summary": "Tesla hat überraschend deutlich mehr Autos ausgeliefert als erwartet, was ein Zeichen für eine starke operative Leistung ist. Gleichzeitig ist die Arbeitslosigkeit in den USA leicht gesunken, was auf einen robusten Arbeitsmarkt hindeutet."
+      "headline": "Alarmierende Zurückhaltung bei Zukunftsinvestitionen in Deutschland",
+      "summary": "Viele Unternehmen in Deutschland scheuen notwendige Zukunftsinvestitionen, was ein tiefgreifendes Problem für den Wohlstand des Landes darstellt. Dies deutet auf strukturelle Schwächen jenseits der aktuellen Konjunktur hin und könnte die langfristige Wettbewerbsfähigkeit beeinträchtigen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "FIFA-WM-Finale erstmals mit elfminütiger Halbzeitshow",
-      "summary": "Das bevorstehende FIFA-WM-Finale wird erstmalig eine spektakuläre Halbzeitshow im Stil des Super Bowls mit Popstars bieten. Die Show ist auf elf Minuten begrenzt, um den Spielfluss des Fußballmatches nicht unnötig zu unterbrechen."
+      "headline": "Rekordstrafe für Google wegen Machtmissbrauchs bei Nutzern",
+      "summary": "Google muss eine milliardenschwere Strafe der EU-Kommission akzeptieren, da das Unternehmen seine Marktdominanz missbraucht haben soll. Es ging dabei um die Standardisierung von Chrome und Google Search auf bestimmten Mobiltelefonen, was als Wettbewerbsverzerrung gewertet wird."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Rekordstrafe für Google wegen Marktmachtmissbrauchs durch EU",
-      "summary": "Google wurde von der EU-Kommission zu einer milliardenschweren Rekordstrafe verurteilt, da das Unternehmen seine Marktdominanz missbraucht haben soll. Insbesondere geht es um die Voreinstellung von Chrome und Google Search auf bestimmten Mobiltelefonen, was den Wettbewerb verzerrte."
+      "headline": "Ernst & Young Mitarbeiter hackt Konto des australischen Premierministers",
+      "summary": "Ein Angestellter der Prüfungsfirma Ernst & Young wurde vor Gericht gestellt, nachdem er und ein weiterer Mann das Bankkonto des australischen Premierministers gehackt hatten. Dieser Vorfall könnte weitreichende Konsequenzen für die großen Beratungsfirmen haben, da die Regierung nun eine Aufspaltung erwägt."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Thiel Capital's Jack Selby investiert in 'heiße' Startups",
-      "summary": "Jack Selby von Thiel Capital sichert sich über seine VC-Firma Copper Sky Capital Anteile an aufstrebenden Startups wie Etched. Seine Firma ist aktuell dabei, einen zweiten Fonds in Höhe von 300 Millionen Dollar aufzulegen, was auf erhöhte Investitionsaktivitäten hindeutet."
+      "headline": "Thiel Capital Partner Jack Selby sichert Beteiligungen an vielversprechenden Startups",
+      "summary": "Jack Selby von Thiel Capital hat über seine VC-Firma Copper Sky Capital, die derzeit einen 300-Millionen-Dollar-Fonds auflegt, Anteile an heißen Startups wie Etched erworben. Seine Arizona-Verbindungen spielen eine Schlüsselrolle bei diesen Investments."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Europas erstes Quantum-Startup IQM geht an die Börse",
-      "summary": "IQM, Europas erstes börsennotiertes Quantencomputing-Unternehmen aus Finnland, ging an die Nasdaq mit einer Bewertung von rund 1,9 Milliarden Dollar. Trotz dieses Meilensteins räumt das Unternehmen ein, dass die Zukunft der Quantentechnologie noch ungewiss ist."
+      "headline": "Europas erstes Quanten-Unternehmen IQM geht an die Börse mit ungewisser Zukunft",
+      "summary": "IQM, Europas erstes Full-Stack-Quantenunternehmen aus Finnland, ging am Nasdaq mit einer Bewertung von rund 1,9 Milliarden Dollar an die Börse. Das Unternehmen räumt jedoch ein, dass die Zukunft der Quantentechnologie weiterhin ungewiss ist, was die Risiken in diesem Hochtechnologiebereich verdeutlicht."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert NACH Erhalt des neuen Kapitals darstellt.",
-    "details": "Wenn ein Venture Capital (VC)-Investor in ein Startup investiert, fließt neues Kapital in das Unternehmen. Die Pre-Money-Bewertung ist entscheidend für die Festlegung des Anteils, den neue Investoren für ihr Kapital erhalten. Addiert man das investierte Kapital zur Pre-Money-Bewertung, ergibt sich die Post-Money-Bewertung. Diese ist der Gesamtwert des Unternehmens inklusive des neuen Geldes und bildet die Basis für die Berechnung der Eigentumsanteile aller Investoren und Gründer nach der Finanzierungsrunde.",
-    "takeaway": "Das Verständnis dieser Bewertungen ist fundamental, um zu beurteilen, wie sich Finanzierungsrunden auf die Eigentümerstruktur und den Unternehmenswert auswirken. Es ist der Schlüssel zur Analyse von Dilution und zur Verhandlung von Investitionsbedingungen."
+    "topic": "Derivate – Das Konzept vom Ernte-Vergleich",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem 'Basiswert' ableitet – ähnlich wie der Preis für einen zukünftigen Erntevertrag vom tatsächlichen Ernteertrag abhängt.",
+    "details": "Stell dir vor, ein Landwirt will in sechs Monaten Mais verkaufen und ein Müslihersteller Mais kaufen. Beide sind unsicher über den zukünftigen Marktpreis. Ein Derivat, wie ein Terminkontrakt (Futures), erlaubt ihnen, sich heute auf einen Preis für die zukünftige Lieferung zu einigen. Der Landwirt sichert seinen Verkaufspreis, der Hersteller seinen Einkaufspreis. Ihr Vertragswert 'leitet sich ab' vom Maispreis, der in der Zukunft gilt. Dieser Mechanismus hilft beiden Parteien, Preisrisiken zu managen, ohne den Mais heute schon physisch handeln zu müssen.",
+    "takeaway": "Derivate dienen primär der Absicherung gegen zukünftige Preisänderungen (Hedging) und ermöglichen es, auf Preisbewegungen zu spekulieren, ohne den Basiswert direkt besitzen zu müssen."
   }
 }
