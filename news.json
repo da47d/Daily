@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Nahost-Konflikt: 1.000 Tage Dauerkrise",
-      "summary": "Der Nahe Osten steckt seit dem Hamas-Überfall vor 1.000 Tagen in einer tiefen Dauerkrise, ohne Hoffnung auf Besserung. Diese anhaltende Instabilität birgt Risiken für die globalen Märkte und die allgemeine Geopolitik."
+      "headline": "Ukraine: Selenskyj fordert eigene Patriot-Produktion nach Angriffen",
+      "summary": "Russland setzt Angriffe in der Ukraine fort, wobei in Kiew die Zahl der Todesopfer auf mindestens 30 gestiegen ist. Präsident Selenskyj fordert angesichts schwindender Bestände eine eigene Produktion von Patriot-Flugabwehrraketen, um die Verteidigungsfähigkeit zu stärken."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trumps Krypto-Deals: US-Präsident in der Kritik",
-      "summary": "US-Präsident Trump und sein Umfeld sollen über 1,4 Milliarden Dollar mit Krypto-Deals verdient haben, was Fragen zu Interessenkonflikten aufwirft. Diese Einnahmen verdeutlichen den wachsenden Einfluss von Kryptowährungen auf politische Finanzströme."
+      "headline": "Politiker, der Spyware untersuchte, mit Pegasus gehackt",
+      "summary": "Ein europäischer Politiker, der in einem EU-Ausschuss zur Untersuchung der Spyware-Industrie tätig war, wurde mit der Pegasus-Spyware der NSO Group gehackt. Dieser Vorfall wirft ernste Fragen zur Überwachung von Regierungsvertretern und den Implikationen für die globale Cybersicherheit auf."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX auf Rekordhoch: Optimismus an den Märkten",
-      "summary": "Der Deutsche Aktienindex erreichte ein neues Allzeithoch, getragen von sinkenden Ölpreisen und der Hoffnung auf stabile US-Leitzinsen. Dies deutet auf eine positive Anlegerstimmung und Konjunkturerwartungen hin."
+      "headline": "DAX vor neuem Rekordhoch: Zinshoffnung treibt Märkte",
+      "summary": "Der DAX könnte zum Wochenschluss ein neues Rekordhoch erreichen, getrieben von der Hoffnung auf baldige Zinssenkungen in den USA. Positive Vorgaben aus Asien verstärken den Optimismus und locken Anleger verstärkt in den Markt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "US-Arbeitslosigkeit sinkt: Positive Konjunkturdaten",
-      "summary": "Die Arbeitslosigkeit in den USA ist leicht gesunken, was auf eine stabile Wirtschaft hindeutet. Solche Daten sind entscheidend für die Geldpolitik der Notenbanken und die globalen Konjunkturaussichten."
+      "headline": "Tesla-Lieferungen über Erwartung, US-Arbeitslosigkeit sinkt",
+      "summary": "Tesla hat überraschend deutlich mehr Autos ausgeliefert als erwartet, was ein Zeichen für eine starke operative Leistung ist. Gleichzeitig ist die Arbeitslosigkeit in den USA leicht gesunken, was auf einen robusten Arbeitsmarkt hindeutet."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Google erhält Rekordstrafe der EU-Kommission",
-      "summary": "Google wurde von der EU-Kommission mit einer milliardenschweren Strafe belegt, da das Unternehmen seine Marktmacht missbraucht haben soll. Dies sendet ein klares Signal an Tech-Giganten bezüglich Wettbewerbsrecht und Nutzerdominanz."
+      "headline": "FIFA-WM-Finale erstmals mit elfminütiger Halbzeitshow",
+      "summary": "Das bevorstehende FIFA-WM-Finale wird erstmalig eine spektakuläre Halbzeitshow im Stil des Super Bowls mit Popstars bieten. Die Show ist auf elf Minuten begrenzt, um den Spielfluss des Fußballmatches nicht unnötig zu unterbrechen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Eli Lilly: Abnehmspritzen treiben Pharmariesen zum Rekord",
-      "summary": "Dank des Erfolgs seiner Abnehmspritzen wird dem Pharmariesen Eli Lilly ein Umsatz von fast 140 Milliarden Dollar bis 2032 prognostiziert. Der Börsenwert des Unternehmens übertrifft nun namhafte Konkurrenten wie Roche und Novartis zusammen."
+      "headline": "Rekordstrafe für Google wegen Marktmachtmissbrauchs durch EU",
+      "summary": "Google wurde von der EU-Kommission zu einer milliardenschweren Rekordstrafe verurteilt, da das Unternehmen seine Marktdominanz missbraucht haben soll. Insbesondere geht es um die Voreinstellung von Chrome und Google Search auf bestimmten Mobiltelefonen, was den Wettbewerb verzerrte."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Melinda Gates’ Firma investiert in neuen VC-Fonds",
-      "summary": "Melinda French Gates' Pivotal Ventures hat den neuen, 46,6 Millionen Dollar schweren Magnify Ventures Fund II unterstützt. Dies stärkt das Ökosystem für Frühphasen-Startups und neue Technologien."
+      "headline": "Thiel Capital's Jack Selby investiert in 'heiße' Startups",
+      "summary": "Jack Selby von Thiel Capital sichert sich über seine VC-Firma Copper Sky Capital Anteile an aufstrebenden Startups wie Etched. Seine Firma ist aktuell dabei, einen zweiten Fonds in Höhe von 300 Millionen Dollar aufzulegen, was auf erhöhte Investitionsaktivitäten hindeutet."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI schlägt Beteiligung für US-Staatsfonds vor",
-      "summary": "OpenAI-CEO Sam Altman schlug vor, 5% der Unternehmensanteile an einen US-Staatsfonds abzutreten, um die Öffentlichkeit am KI-Boom teilhaben zu lassen. Dieser Vorschlag könnte Diskussionen über die Verteilung von Gewinnen aus technologischem Fortschritt neu entfachen."
+      "headline": "Europas erstes Quantum-Startup IQM geht an die Börse",
+      "summary": "IQM, Europas erstes börsennotiertes Quantencomputing-Unternehmen aus Finnland, ging an die Nasdaq mit einer Bewertung von rund 1,9 Milliarden Dollar. Trotz dieses Meilensteins räumt das Unternehmen ein, dass die Zukunft der Quantentechnologie noch ungewiss ist."
     }
   ],
   "learning": {
-    "topic": "Der feine Unterschied: Optionen vs. Optionsscheine",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Optionen sind standardisierte Terminkontrakte, die an regulierten Börsen gehandelt werden, während Optionsscheine von Finanzinstituten emittierte und oft weniger standardisierte Schuldverschreibungen sind.",
-    "details": "Bei einer Option hat man das Recht, einen Basiswert zu einem bestimmten Preis zu kaufen (Call) oder zu verkaufen (Put). Sie sind durch Clearingstellen abgesichert und unterliegen strengen Regeln. Optionsscheine hingegen sind Derivate, die von Banken oder Brokern ausgegeben werden. Sie ähneln Optionen, bieten aber oft mehr Flexibilität in Bezug auf Basiswerte und Laufzeiten, bergen jedoch auch das Emittentenrisiko. Das bedeutet, falls der Emittent zahlungsunfähig wird, kann der Optionsschein wertlos werden, unabhängig von der Entwicklung des Basiswerts.",
-    "takeaway": "Während Optionen durch ihre Standardisierung und Börsenregulierung eine hohe Transparenz bieten, können Optionsscheine komplexer sein und bergen zusätzlich das Risiko des Emittenten."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert NACH Erhalt des neuen Kapitals darstellt.",
+    "details": "Wenn ein Venture Capital (VC)-Investor in ein Startup investiert, fließt neues Kapital in das Unternehmen. Die Pre-Money-Bewertung ist entscheidend für die Festlegung des Anteils, den neue Investoren für ihr Kapital erhalten. Addiert man das investierte Kapital zur Pre-Money-Bewertung, ergibt sich die Post-Money-Bewertung. Diese ist der Gesamtwert des Unternehmens inklusive des neuen Geldes und bildet die Basis für die Berechnung der Eigentumsanteile aller Investoren und Gründer nach der Finanzierungsrunde.",
+    "takeaway": "Das Verständnis dieser Bewertungen ist fundamental, um zu beurteilen, wie sich Finanzierungsrunden auf die Eigentümerstruktur und den Unternehmenswert auswirken. Es ist der Schlüssel zur Analyse von Dilution und zur Verhandlung von Investitionsbedingungen."
   }
 }
