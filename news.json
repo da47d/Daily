@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Politiker nach Spionage-Enthüllungen mit Pegasus-Software gehackt",
-      "summary": "Ein europäischer Politiker, der einen EU-Ausschuss zur Untersuchung der Spionageindustrie leitete, wurde selbst mit der Pegasus-Spyware gehackt. Ein staatlicher Kunde der NSO Group nutzte die Software, um in sein Telefon einzudringen, was internationale Besorgnis über staatliche Überwachung hervorruft."
+      "headline": "NATO-Staaten einig über Militärhilfe für die Ukraine",
+      "summary": "Europäische NATO-Staaten und Kanada planen, der Ukraine Militärhilfe von insgesamt 140 Milliarden Euro zuzusagen. Dies wurde bereits vor dem anstehenden NATO-Gipfel in Ankara bekannt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "UN-Wetterorganisation warnt: El Niño verstärkt Extremwetter weltweit",
-      "summary": "Die UN-Organisation für Meteorologie warnt vor einer globalen Zunahme von Hitzewellen und extremen Wetterlagen in den kommenden Monaten. Das sich verstärkende Wetterphänomen El Niño wird als Hauptursache für diese potenziellen geopolitischen und wirtschaftlichen Auswirkungen genannt."
+      "headline": "In Iran beginnt Trauerfeier für getöteten obersten Führer Chamenei",
+      "summary": "Nach dem Tod des obersten iranischen Führers Ali Chamenei finden mehrtägige Trauerfeiern statt, die vom Regime inszeniert werden. Dabei versucht die Führung, maximale öffentliche Anteilnahme zu demonstrieren, stößt jedoch nicht bei allen auf Zustimmung."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Steuerreform der Bundesregierung könnte Entlastung verpuffen lassen",
-      "summary": "Obwohl die Bundesregierung Familien Hunderte Euro mehr im Jahr verspricht, zeigen Analysen, dass von der geplanten Steuerreform unter dem Strich weit weniger übrig bleiben könnte. Dies wirft Fragen zur tatsächlichen makroökonomischen Wirkung und zur Kaufkraft der Bürger auf."
+      "headline": "Bundeshaushalt 2027: Klingbeil plant höhere Ausgaben und mehr Schulden",
+      "summary": "Für den Bundeshaushalt 2027 prognostiziert Bundesfinanzminister Klingbeil deutlich höhere Ausgaben und eine Neuverschuldung von 203 Milliarden Euro. Dies deutet auf eine expansive Fiskalpolitik hin, die das deutsche Bruttoinlandsprodukt beeinflussen könnte."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Alarmierende Zurückhaltung bei Zukunftsinvestitionen in Deutschland",
-      "summary": "Viele Unternehmen in Deutschland scheuen notwendige Zukunftsinvestitionen, was ein tiefgreifendes Problem für den Wohlstand des Landes darstellt. Dies deutet auf strukturelle Schwächen jenseits der aktuellen Konjunktur hin und könnte die langfristige Wettbewerbsfähigkeit beeinträchtigen."
+      "headline": "Streit um UBS-Kapital: Die SNB bezeichnet die Forderungen des Bundesrates als «zielgerichtet und verhältnismässig»",
+      "summary": "Die Schweizerische Nationalbank (SNB) unterstützt die Forderung des Bundesrates, ausländische Töchter der UBS vollständig mit hartem Eigenkapital zu unterlegen. Laut SNB verfügt die Bank bereits über genügend Mittel, um diese strengeren Kapitalanforderungen zu erfüllen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Rekordstrafe für Google wegen Machtmissbrauchs bei Nutzern",
-      "summary": "Google muss eine milliardenschwere Strafe der EU-Kommission akzeptieren, da das Unternehmen seine Marktdominanz missbraucht haben soll. Es ging dabei um die Standardisierung von Chrome und Google Search auf bestimmten Mobiltelefonen, was als Wettbewerbsverzerrung gewertet wird."
+      "headline": "KI-Firmen kaufen offenbar Antiquariate leer - Buchhändler alarmiert",
+      "summary": "Künstliche Intelligenz-Firmen kaufen massenweise alte Ladenhüter aus Antiquariaten, um ihre KIs zu trainieren. Diese ungewöhnlichen Bestellungen alarmieren Buchhändler und werfen Fragen über die Datengrundlagen von KI auf."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Ernst & Young Mitarbeiter hackt Konto des australischen Premierministers",
-      "summary": "Ein Angestellter der Prüfungsfirma Ernst & Young wurde vor Gericht gestellt, nachdem er und ein weiterer Mann das Bankkonto des australischen Premierministers gehackt hatten. Dieser Vorfall könnte weitreichende Konsequenzen für die großen Beratungsfirmen haben, da die Regierung nun eine Aufspaltung erwägt."
+      "headline": "Klinische Studie für Medikamente gegen seltene Ebola-Variante",
+      "summary": "In der Demokratischen Republik Kongo haben erste klinische Studien für zwei antivirale Therapien gegen die seltene Ebola-Variante Bundibugyo begonnen. Diese Tests sind entscheidend, um die Wirksamkeit der Medikamente zu prüfen und zukünftige Ausbrüche besser bekämpfen zu können."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Thiel Capital Partner Jack Selby sichert Beteiligungen an vielversprechenden Startups",
-      "summary": "Jack Selby von Thiel Capital hat über seine VC-Firma Copper Sky Capital, die derzeit einen 300-Millionen-Dollar-Fonds auflegt, Anteile an heißen Startups wie Etched erworben. Seine Arizona-Verbindungen spielen eine Schlüsselrolle bei diesen Investments."
+      "headline": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+      "summary": "Jack Selby von Thiel Capital, jetzt mit seiner eigenen VC-Firma Copper Sky Capital, sichert sich Beteiligungen an vielversprechenden Startups wie Etched. Seine Firma sammelt aktuell einen zweiten Fonds in Höhe von 300 Millionen Dollar ein."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Europas erstes Quanten-Unternehmen IQM geht an die Börse mit ungewisser Zukunft",
-      "summary": "IQM, Europas erstes Full-Stack-Quantenunternehmen aus Finnland, ging am Nasdaq mit einer Bewertung von rund 1,9 Milliarden Dollar an die Börse. Das Unternehmen räumt jedoch ein, dass die Zukunft der Quantentechnologie weiterhin ungewiss ist, was die Risiken in diesem Hochtechnologiebereich verdeutlicht."
+      "headline": "Er machte Audemars Piguet gross – nun gründet François-Henry Bennahmias seine eigene Uhrenmarke",
+      "summary": "Der ehemalige CEO von Audemars Piguet, François-Henry Bennahmias, kehrt in die Uhrenindustrie zurück und gründet eine eigene Marke. Er arbeitet dabei mit namhaften Zulieferern und Handwerkern zusammen, was Spannung in der Branche erzeugt."
     }
   ],
   "learning": {
-    "topic": "Derivate – Das Konzept vom Ernte-Vergleich",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem 'Basiswert' ableitet – ähnlich wie der Preis für einen zukünftigen Erntevertrag vom tatsächlichen Ernteertrag abhängt.",
-    "details": "Stell dir vor, ein Landwirt will in sechs Monaten Mais verkaufen und ein Müslihersteller Mais kaufen. Beide sind unsicher über den zukünftigen Marktpreis. Ein Derivat, wie ein Terminkontrakt (Futures), erlaubt ihnen, sich heute auf einen Preis für die zukünftige Lieferung zu einigen. Der Landwirt sichert seinen Verkaufspreis, der Hersteller seinen Einkaufspreis. Ihr Vertragswert 'leitet sich ab' vom Maispreis, der in der Zukunft gilt. Dieser Mechanismus hilft beiden Parteien, Preisrisiken zu managen, ohne den Mais heute schon physisch handeln zu müssen.",
-    "takeaway": "Derivate dienen primär der Absicherung gegen zukünftige Preisänderungen (Hedging) und ermöglichen es, auf Preisbewegungen zu spekulieren, ohne den Basiswert direkt besitzen zu müssen."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Wert deines Startups vor und nach der Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung beziffert den Unternehmenswert vor einer Kapitalerhöhung, während die Post-Money-Bewertung den Wert nach der Investition und der Ausgabe neuer Anteile darstellt.",
+    "details": "Wenn ein Startup Kapital von Investoren erhält, wird der Wert des Unternehmens vor der Geldzufuhr als 'Pre-Money-Bewertung' festgelegt. Sobald das Investment hinzukommt, erhöht sich der Unternehmenswert um diesen Betrag, was die 'Post-Money-Bewertung' ergibt. Die Anzahl der neuen Anteile, die der Investor für sein Geld erhält, wird auf Basis der Pre-Money-Bewertung berechnet und führt zu einer anteiligen Verwässerung der bestehenden Gesellschafter. Der Investor selbst zahlt quasi für einen Anteil an der Post-Money-Bewertung.",
+    "takeaway": "Das Verständnis dieser Begriffe ist entscheidend, um zu beurteilen, wie viel Prozent des Unternehmens ein Investor für sein Geld erhält und wie stark die Anteile der Gründer verwässert werden."
   }
 }
