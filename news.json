@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "China und Russland starten Marineübung",
-      "summary": "China und Russland führen eine Woche lang eine gemeinsame Marineübung durch, nachdem China eine Rakete im Pazifik abgefeuert hat. Dies löst in der Region Besorgnis aus und signalisiert eine verstärkte militärische Zusammenarbeit."
+      "headline": "OECD warnt: Ohne Kernkraft wird Energiewende untragbar",
+      "summary": "Die OECD warnt, dass die Energiewende ohne Kernkraft finanziell untragbar wird, da rein auf Sonne und Wind basierende Stromsysteme enorme Systemkosten verursachen. Neue Atomkraftwerke seien notwendig, stoßen jedoch auf große Hürden beim Ausbau."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine meldet mehrere Tote nach russischen Angriffen",
-      "summary": "Russland hat die Ukraine erneut massiv angegriffen, kurz vor einem NATO-Gipfel in der Türkei, was zu Luftalarm im ganzen Land und Explosionen in Kiew führte. Behörden bestätigten mindestens elf Todesopfer durch die Attacken."
+      "headline": "Breite Kritik an Haushaltsplänen der Bundesregierung",
+      "summary": "Die deutschen Haushaltspläne für 2027 sehen Ausgaben von 555,4 Milliarden Euro und eine Neuverschuldung von 200 Milliarden Euro vor, was auf breite Kritik stößt. Die Regierung verschiebt damit laut Analysten Probleme in die Zukunft und plant höhere Ausgaben für Verteidigung sowie Steuererhöhungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX steigt erstmals über 25.900 Punkte",
-      "summary": "Der DAX setzt seine Rekordjagd fort und überschreitet erstmals die Marke von 25.900 Punkten, getrieben von freundlichen Konjunkturdaten aus der Industrie und positiven Signalen vom Ölmarkt."
+      "headline": "DAX kann Rekordhoch nicht halten",
+      "summary": "Der DAX behielt seine Rekordlaune nicht vollständig, nachdem positive Konjunkturdaten aus der Industrie zunächst Anleger lockten. Spätere Gewinnmitnahmen führten dazu, dass das Rekordhoch nicht gehalten werden konnte."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Einbruch am Krypto-Markt: Ist der Bitcoin entzaubert?",
-      "summary": "Der Bitcoin hat in den letzten Monaten erheblich an Wert verloren und liegt nur noch bei der Hälfte seines Allzeithochs. Dies wirft Fragen nach den Gründen für den Einbruch und der zukünftigen Entwicklung von Kryptowährungen auf."
+      "headline": "US-Investoren übernehmen EasyJet – Europa zittert",
+      "summary": "Die US-Investmentfirma Castlelake bietet rund 5,2 Milliarden Pfund für die britische Fluggesellschaft EasyJet, was in Europa Befürchtungen einer möglichen Zerschlagung weckt. Dies könnte das Angebot an wichtigen Flughäfen wie London, Berlin und Genf beschneiden."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Der Vormarsch der KI sorgt bei Unternehmensberatern für Nervosität",
-      "summary": "Der Aktienkurs des Beratungskolosses Accenture brach um fast die Hälfte ein, da Anleger befürchten, dass Kunden durch KI-Tools zunehmend selbst programmieren könnten. Der Vormarsch der KI verändert die Unternehmensberatungsbranche fundamental."
+      "headline": "Microsoft streicht Tausende Jobs bei Xbox und Sales",
+      "summary": "Microsoft hat fast 5.000 Mitarbeiter in den Bereichen Xbox und Commercial Sales entlassen, was rund 2,1% der globalen Belegschaft entspricht. Diese Entlassungen schüren Ängste vor der zunehmenden Verdrängung menschlicher Arbeitsplätze durch KI."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Microsoft ist Sinnbild einer gefährlichen Abhängigkeit von amerikanischer Technologie",
-      "summary": "Die Debatte um digitale Souveränität befeuert paradoxerweise das Wachstum tausender Firmen in der Schweiz, die Microsoft-Produkte verkaufen und implementieren. Dies unterstreicht die tiefe Abhängigkeit von US-Tech-Riesen, die Microsofts Position nur stärkt."
+      "headline": "Reddit nutzt LLMs gegen LLM-erzeugten Spam",
+      "summary": "Reddit setzt große Sprachmodelle (LLMs) ein, um gegen Spam vorzugehen. Dies ist eine Reaktion auf ein Problem, das paradoxerweise zum großen Teil durch LLMs selbst geschaffen wurde."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Smart glasses maker Even Realities hits $1B valuation with $150M funding",
-      "summary": "Even Realities, ein Startup ehemaliger Apple-Mitarbeiter, das kameralose Smart Glasses entwickelt, hat in einer Finanzierungsrunde 150 Millionen Dollar eingesammelt. Das Unternehmen wird nun mit einer Milliarde Dollar bewertet, angeführt von Meituan und Tencent."
+      "headline": "Smart-Glasses-Hersteller Even Realities erreicht Milliarden-Bewertung",
+      "summary": "Even Realities, ein Startup aus ehemaligen Apple-Mitarbeitern, das kamerafreie Smart Glasses entwickelt, erreichte mit einer Finanzierungsrunde von 150 Millionen Dollar, angeführt von Meituan und Tencent, eine Bewertung von 1 Milliarde Dollar."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Mistral AI: Der neue OpenAI-Konkurrent mit Ambitionen",
-      "summary": "Mistral AI, ein 2023 gegründetes Unternehmen, hat seit seiner Gründung erhebliche Finanzmittel erhalten, um 'Frontier AI für jedermann' zugänglich zu machen. Die Firma bietet teils Open-Source-KI-Modelle an und positioniert sich als wichtiger Wettbewerber zu OpenAI."
+      "headline": "Station F wird zum Launchpad für Europas KI-Startups",
+      "summary": "Station F in Paris baut sein F/ai-Accelerator-Programm aus, um seine Position als Sprungbrett für vielversprechende europäische KI-Startups zu festigen. Der Hub wird damit zu einem zentralen Anlaufpunkt für die nächste Generation von AI-Unternehmen."
     }
   ],
   "learning": {
-    "topic": "ETF-Namen entschlüsseln: Core, IMI, Acc vs. Dist & mehr",
-    "category": "Finanz-Dechiffrierung: Abkürzungen und Produktbezeichnungen zerlegen",
-    "concept": "ETF-Namen sind nicht zufällig, sondern geben wichtige Hinweise auf Anlagestrategie, Replikationsmethode und Ertragsverwendung. Sie helfen, den passenden Fonds für individuelle Ziele zu finden.",
-    "details": "Ein 'Core' ETF konzentriert sich auf breite Märkte mit niedrigen Kosten, während 'IMI' (Investable Market Index) auch Small Caps einschließt. 'Acc' (accumulating) Fonds reinvestieren Gewinne automatisch, während 'Dist' (distributing) Fonds diese an Anleger ausschütten. 'UCITS' ist eine EU-Richtlinie für Anlegerschutz und Diversifikation. Die Replikationsmethode, ob 'physisch' (kauft echte Aktien) oder 'Swap' (nutzt Derivate), beeinflusst Risiko und Kosten. Das Verständnis dieser Kürzel ermöglicht eine fundierte Auswahl und vermeidet Fehlentscheidungen.",
-    "takeaway": "Lerne die Bedeutung der Kürzel in ETF-Namen, um schnell die Anlagestrategie und Struktur eines Fonds zu erfassen. Das ist entscheidend für die Auswahl des richtigen Investitionsprodukts und minimiert Überraschungen."
+    "topic": "Derivate einfach erklärt: Das Ernte-Vergleichs-Prinzip",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem zugrunde liegenden Vermögenswert (Basiswert) abhängt, ähnlich wie ein Erntevertrag auf zukünftige Produkte. Sie ermöglichen es, Risiken abzusichern oder auf Preisentwicklungen zu spekulieren, ohne den Basiswert direkt besitzen zu müssen.",
+    "details": "Stell dir vor, du bist ein Bäcker und möchtest im Herbst Weizen kaufen. Du kannst entweder warten und den Marktpreis zahlen oder schon heute einen Vertrag mit einem Bauern abschließen. Dieser Vertrag könnte dir das Recht geben, im Herbst Weizen zu einem bestimmten Preis zu kaufen (Option), oder dich sogar verpflichten, ihn zu diesem Preis abzunehmen (Future). Der Wert deines Vertrags (des Derivats) hängt dann vom tatsächlichen Weizenpreis im Herbst ab. Der Bauer sichert sich so einen stabilen Verkaufspreis, du als Bäcker einen stabilen Einkaufspreis. Die logische Funktion ist die Übertragung von Preisrisiken oder die Möglichkeit, mit geringem Kapitaleinsatz an Preisbewegungen des Basiswerts zu partizipieren.",
+    "takeaway": "Derivate sind im Kern wie Wetten oder Versicherungen auf die zukünftige Entwicklung eines Basiswerts. Sie sind mächtige Werkzeuge für Risikomanagement und Spekulation, deren Verständnis entscheidend ist, um Marktstrategien und komplexe Finanzprodukte zu durchschauen."
   }
 }
