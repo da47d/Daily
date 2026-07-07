@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "NATO-Gipfel in Ankara: Trump kritisiert europäische Verbündete",
-      "summary": "Vor dem NATO-Gipfel in Ankara äußert US-Präsident Trump erneut Kritik an europäischen Verbündeten wegen angeblich zu geringer Verteidigungsausgaben. NATO-Generalsekretär Rutte versucht derweil, die Wogen zu glätten."
+      "headline": "Le Pen will trotz Urteils bei Präsidentschaftswahl 2027 antreten",
+      "summary": "Marine Le Pen bekräftigt ihre Kandidatur für die französischen Präsidentschaftswahlen 2027, trotz einer Verurteilung wegen Veruntreuung von EU-Geldern zu einem Jahr Hausarrest. Ihre anhaltende politische Ambition bleibt ein wichtiger Faktor in der europäischen Politik."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Schicksalstag für Le Pen: Gerichtsurteil könnte Frankreichs Politik umkrempeln",
-      "summary": "Ein Pariser Berufungsgericht entscheidet heute über die Zulassung von Marine Le Pen zur Präsidentschaftswahl im kommenden Jahr. Das Urteil könnte die politische Landschaft in Frankreich grundlegend verändern."
+      "headline": "Was das U-Boot-Geschäft mit Kanada bedeutet",
+      "summary": "Kanada plant, U-Boote beim deutschen Hersteller TKMS bauen zu lassen, was Kanzler Scholz als einen der größten Rüstungsaufträge in der Geschichte der Bundesrepublik bezeichnet. Dieser strategisch bedeutsame Deal unterstreicht die wachsende Bedeutung der Verteidigungsindustrie auf dem Weltmarkt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "US-Investoren übernehmen Easy Jet: Europa befürchtet Angebotskürzungen",
-      "summary": "Die Investmentfirma Castlelake bietet 5,2 Milliarden Pfund für Easy Jet, was in Europa Befürchtungen vor einer Zerschlagung und Service-Einschränkungen weckt. Dies könnte das Flugangebot an wichtigen Flughäfen wie London, Berlin und Genf beeinflussen."
+      "headline": "Marktbericht: Tech-Ausverkauf belastet Börse",
+      "summary": "Ein kräftiger Ausverkauf von KI-Aktien und enttäuschende Samsung-Zahlen drücken den DAX. Anleger scheuen trotz guter Konjunkturdaten das Risiko am Markt, was zu einer erhöhten Volatilität führt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Microsoft streicht fast 5.000 Stellen: Xbox- und Vertriebs-Sparten betroffen",
-      "summary": "Microsoft hat rund 4.800 Stellen, 2,1% seiner globalen Belegschaft, abgebaut. Diese jüngste Entlassungswelle schürt Ängste vor KI-bedingtem Jobverlust und betrifft vor allem die Xbox- und kommerziellen Vertriebsbereiche."
+      "headline": "US-Investoren übernehmen die Billig-Airline Easy Jet – und Europa zittert",
+      "summary": "Die Investmentfirma Castlelake bietet rund 5,2 Milliarden Pfund für die britische Fluggesellschaft Easy Jet, was in Europa Befürchtungen vor einer Zerschlagung der Airline weckt. Eine Übernahme könnte das Flugangebot an großen europäischen Flughäfen reduzieren und den Wettbewerb beeinflussen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Spekulationen um SpaceX-Übernahme von Tesla durch Elon Musk",
-      "summary": "Einen Monat nach dem Börsengang von SpaceX reißen die Spekulationen nicht ab, dass Elon Musk seinen Raketenbauer mit Tesla fusionieren könnte. Die Aktionäre beider Unternehmen würden sich dieser Vision wohl kaum entgegenstellen."
+      "headline": "Google’s Pixel event is set for August 12",
+      "summary": "Google hat ein Event für den 12. August angekündigt, bei dem neue Pixel-Geräte vorgestellt werden sollen. Tech-Enthusiasten erwarten spannende Produktneuheiten vom Giganten, die den Markt beeinflussen könnten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Autonome US-Bodenfahrzeuge erstmals im Einsatz in der Ukraine",
-      "summary": "Über 100 autonome Bodenfahrzeuge des amerikanischen Herstellers Forterra sind erstmals in der Ukraine im Einsatz. Dies markiert einen bedeutenden Meilenstein im Bereich der Militärtechnologie und autonomen Systeme."
+      "headline": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "summary": "Mehr als 100 selbstfahrende ATVs des US-Unternehmens Forterra werden bereits in den Konfliktzonen der Ukraine eingesetzt. Dies markiert den ersten Einsatz autonomer Bodenfahrzeuge im Kampf und weist auf eine neue Ära der Kriegsführung hin."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "KI-Boom treibt Start-up-Gründungen in Deutschland auf Rekordhoch",
-      "summary": "Deutschland verzeichnet einen neuen Rekord bei Start-up-Gründungen mit über 3.000 neuen Firmen, wovon jede dritte einen KI-Bezug hat. Ein Münchener Kernfusions-Start-up erreichte dabei eine Milliardenbewertung."
+      "headline": "VC firm Chemistry is raising $500M for its second fund",
+      "summary": "Chemistry Ventures, eine von Bessemer, Index Ventures und Andreessen Horowitz Alumni gegründete VC-Firma, sammelt 500 Millionen US-Dollar für ihren zweiten Fonds ein. Dies signalisiert weiterhin starkes Vertrauen in den Venture-Capital-Markt und die Innovationskraft von Startups."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Singapur verliert Status als sicherer Hafen für chinesische Tech-Startups",
-      "summary": "Nach dem Verkauf von KI-Pionier Manus an Meta verschärft Peking seine Gesetze, wodurch Singapur seine Attraktivität für chinesische Tech-Firmen einbüßt. Der Stadtstaat muss seine Rolle als Fluchtburg für Startups neu bewerten."
+      "headline": "AI law startup Norm raises $120M, hits unicorn valuation",
+      "summary": "Das KI-Rechts-Startup Norm hat eine Series C-Finanzierungsrunde über 120 Millionen US-Dollar unter der Führung von Khosla Ventures abgeschlossen. Damit erreicht das Unternehmen eine Bewertung von 1,2 Milliarden US-Dollar und Unicorn-Status, was seinen schnellen Aufstieg in der Tech-Branche unterstreicht."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Das VC-Einmaleins der Unternehmensbewertung",
+    "topic": "Vesting für Gründer: So sichert man langfristiges Engagement im Startup",
     "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese beiden Begriffe beschreiben die Bewertung eines Startups vor und nach einer Kapitalfinanzierungsrunde und sind entscheidend für die Berechnung der Anteile neuer und alter Investoren.",
-    "details": "Die Pre-Money Bewertung ist der Wert des Unternehmens vor der Investition von neuem Kapital und spiegelt wider, was das Startup zum Zeitpunkt der Verhandlung wert ist. Die Post-Money Bewertung ist die Pre-Money Bewertung plus das neu investierte Kapital und repräsentiert den Wert des Unternehmens nach Abschluss der Finanzierungsrunde. Diese Unterscheidung ist fundamental, da der Anteil, den ein Investor für sein Kapital erhält, auf der Post-Money Bewertung basiert. Wenn beispielsweise ein Startup eine Pre-Money Bewertung von 10 Millionen Euro hat und 2 Millionen Euro frisches Kapital aufnimmt, beträgt die Post-Money Bewertung 12 Millionen Euro. Der neue Investor, der 2 Millionen Euro einbringt, erhält dann 2/12 = 16,67% der Anteile am Unternehmen, wodurch alte Anteile entsprechend verwässert werden.",
-    "takeaway": "Investoren verhandeln meist über die Pre-Money Bewertung, aber die Berechnung der Beteiligungsanteile erfolgt immer auf Basis der Post-Money Bewertung. Das Verständnis dieser Begriffe ist entscheidend, um die Verteilung der Eigentumsanteile in Finanzierungsrunden korrekt zu interpretieren."
+    "concept": "Vesting ist ein Mechanismus, der festlegt, wann Gründer und Mitarbeiter Eigentumsrechte an Unternehmensanteilen (Aktien oder Optionen) tatsächlich erwerben. Es dient als Anreiz, um die Bindung an das Unternehmen zu gewährleisten und ein langfristiges Commitment sicherzustellen.",
+    "details": "Typischerweise wird Vesting über einen Zeitraum von drei bis fünf Jahren vereinbart, oft mit einer einjährigen 'Cliff'-Periode. Das bedeutet, dass die Anteile erst nach dem ersten Jahr zu einem bestimmten Prozentsatz ('gevested') und danach monatlich oder quartalsweise weiter 'vesten'. Verlässt ein Gründer das Unternehmen vor dem vollständigen Vesting, verliert er die Rechte an den unverfallbaren Anteilen. Dies schützt Investoren und die verbleibenden Gründer, indem es sicherstellt, dass alle Beteiligten langfristig engagiert bleiben und ihren Beitrag zum Unternehmenserfolg leisten.",
+    "takeaway": "Vesting ist entscheidend für Gründer und Investoren, um Anreize und Engagement langfristig zu synchronisieren. Es ist ein zentrales Instrument zur Risikominimierung für Geldgeber und zur Sicherstellung der Kontinuität sowie des gemeinsamen Interesses im Team."
   }
 }
