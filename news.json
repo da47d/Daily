@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "OECD warnt: Ohne Kernkraft wird Energiewende untragbar",
-      "summary": "Die OECD warnt, dass die Energiewende ohne Kernkraft finanziell untragbar wird, da rein auf Sonne und Wind basierende Stromsysteme enorme Systemkosten verursachen. Neue Atomkraftwerke seien notwendig, stoßen jedoch auf große Hürden beim Ausbau."
+      "headline": "NATO-Gipfel in Ankara: Trump kritisiert europäische Verbündete",
+      "summary": "Vor dem NATO-Gipfel in Ankara äußert US-Präsident Trump erneut Kritik an europäischen Verbündeten wegen angeblich zu geringer Verteidigungsausgaben. NATO-Generalsekretär Rutte versucht derweil, die Wogen zu glätten."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Breite Kritik an Haushaltsplänen der Bundesregierung",
-      "summary": "Die deutschen Haushaltspläne für 2027 sehen Ausgaben von 555,4 Milliarden Euro und eine Neuverschuldung von 200 Milliarden Euro vor, was auf breite Kritik stößt. Die Regierung verschiebt damit laut Analysten Probleme in die Zukunft und plant höhere Ausgaben für Verteidigung sowie Steuererhöhungen."
+      "headline": "Schicksalstag für Le Pen: Gerichtsurteil könnte Frankreichs Politik umkrempeln",
+      "summary": "Ein Pariser Berufungsgericht entscheidet heute über die Zulassung von Marine Le Pen zur Präsidentschaftswahl im kommenden Jahr. Das Urteil könnte die politische Landschaft in Frankreich grundlegend verändern."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX kann Rekordhoch nicht halten",
-      "summary": "Der DAX behielt seine Rekordlaune nicht vollständig, nachdem positive Konjunkturdaten aus der Industrie zunächst Anleger lockten. Spätere Gewinnmitnahmen führten dazu, dass das Rekordhoch nicht gehalten werden konnte."
+      "headline": "US-Investoren übernehmen Easy Jet: Europa befürchtet Angebotskürzungen",
+      "summary": "Die Investmentfirma Castlelake bietet 5,2 Milliarden Pfund für Easy Jet, was in Europa Befürchtungen vor einer Zerschlagung und Service-Einschränkungen weckt. Dies könnte das Flugangebot an wichtigen Flughäfen wie London, Berlin und Genf beeinflussen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "US-Investoren übernehmen EasyJet – Europa zittert",
-      "summary": "Die US-Investmentfirma Castlelake bietet rund 5,2 Milliarden Pfund für die britische Fluggesellschaft EasyJet, was in Europa Befürchtungen einer möglichen Zerschlagung weckt. Dies könnte das Angebot an wichtigen Flughäfen wie London, Berlin und Genf beschneiden."
+      "headline": "Microsoft streicht fast 5.000 Stellen: Xbox- und Vertriebs-Sparten betroffen",
+      "summary": "Microsoft hat rund 4.800 Stellen, 2,1% seiner globalen Belegschaft, abgebaut. Diese jüngste Entlassungswelle schürt Ängste vor KI-bedingtem Jobverlust und betrifft vor allem die Xbox- und kommerziellen Vertriebsbereiche."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Microsoft streicht Tausende Jobs bei Xbox und Sales",
-      "summary": "Microsoft hat fast 5.000 Mitarbeiter in den Bereichen Xbox und Commercial Sales entlassen, was rund 2,1% der globalen Belegschaft entspricht. Diese Entlassungen schüren Ängste vor der zunehmenden Verdrängung menschlicher Arbeitsplätze durch KI."
+      "headline": "Spekulationen um SpaceX-Übernahme von Tesla durch Elon Musk",
+      "summary": "Einen Monat nach dem Börsengang von SpaceX reißen die Spekulationen nicht ab, dass Elon Musk seinen Raketenbauer mit Tesla fusionieren könnte. Die Aktionäre beider Unternehmen würden sich dieser Vision wohl kaum entgegenstellen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Reddit nutzt LLMs gegen LLM-erzeugten Spam",
-      "summary": "Reddit setzt große Sprachmodelle (LLMs) ein, um gegen Spam vorzugehen. Dies ist eine Reaktion auf ein Problem, das paradoxerweise zum großen Teil durch LLMs selbst geschaffen wurde."
+      "headline": "Autonome US-Bodenfahrzeuge erstmals im Einsatz in der Ukraine",
+      "summary": "Über 100 autonome Bodenfahrzeuge des amerikanischen Herstellers Forterra sind erstmals in der Ukraine im Einsatz. Dies markiert einen bedeutenden Meilenstein im Bereich der Militärtechnologie und autonomen Systeme."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Smart-Glasses-Hersteller Even Realities erreicht Milliarden-Bewertung",
-      "summary": "Even Realities, ein Startup aus ehemaligen Apple-Mitarbeitern, das kamerafreie Smart Glasses entwickelt, erreichte mit einer Finanzierungsrunde von 150 Millionen Dollar, angeführt von Meituan und Tencent, eine Bewertung von 1 Milliarde Dollar."
+      "headline": "KI-Boom treibt Start-up-Gründungen in Deutschland auf Rekordhoch",
+      "summary": "Deutschland verzeichnet einen neuen Rekord bei Start-up-Gründungen mit über 3.000 neuen Firmen, wovon jede dritte einen KI-Bezug hat. Ein Münchener Kernfusions-Start-up erreichte dabei eine Milliardenbewertung."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Station F wird zum Launchpad für Europas KI-Startups",
-      "summary": "Station F in Paris baut sein F/ai-Accelerator-Programm aus, um seine Position als Sprungbrett für vielversprechende europäische KI-Startups zu festigen. Der Hub wird damit zu einem zentralen Anlaufpunkt für die nächste Generation von AI-Unternehmen."
+      "headline": "Singapur verliert Status als sicherer Hafen für chinesische Tech-Startups",
+      "summary": "Nach dem Verkauf von KI-Pionier Manus an Meta verschärft Peking seine Gesetze, wodurch Singapur seine Attraktivität für chinesische Tech-Firmen einbüßt. Der Stadtstaat muss seine Rolle als Fluchtburg für Startups neu bewerten."
     }
   ],
   "learning": {
-    "topic": "Derivate einfach erklärt: Das Ernte-Vergleichs-Prinzip",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem zugrunde liegenden Vermögenswert (Basiswert) abhängt, ähnlich wie ein Erntevertrag auf zukünftige Produkte. Sie ermöglichen es, Risiken abzusichern oder auf Preisentwicklungen zu spekulieren, ohne den Basiswert direkt besitzen zu müssen.",
-    "details": "Stell dir vor, du bist ein Bäcker und möchtest im Herbst Weizen kaufen. Du kannst entweder warten und den Marktpreis zahlen oder schon heute einen Vertrag mit einem Bauern abschließen. Dieser Vertrag könnte dir das Recht geben, im Herbst Weizen zu einem bestimmten Preis zu kaufen (Option), oder dich sogar verpflichten, ihn zu diesem Preis abzunehmen (Future). Der Wert deines Vertrags (des Derivats) hängt dann vom tatsächlichen Weizenpreis im Herbst ab. Der Bauer sichert sich so einen stabilen Verkaufspreis, du als Bäcker einen stabilen Einkaufspreis. Die logische Funktion ist die Übertragung von Preisrisiken oder die Möglichkeit, mit geringem Kapitaleinsatz an Preisbewegungen des Basiswerts zu partizipieren.",
-    "takeaway": "Derivate sind im Kern wie Wetten oder Versicherungen auf die zukünftige Entwicklung eines Basiswerts. Sie sind mächtige Werkzeuge für Risikomanagement und Spekulation, deren Verständnis entscheidend ist, um Marktstrategien und komplexe Finanzprodukte zu durchschauen."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Das VC-Einmaleins der Unternehmensbewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese beiden Begriffe beschreiben die Bewertung eines Startups vor und nach einer Kapitalfinanzierungsrunde und sind entscheidend für die Berechnung der Anteile neuer und alter Investoren.",
+    "details": "Die Pre-Money Bewertung ist der Wert des Unternehmens vor der Investition von neuem Kapital und spiegelt wider, was das Startup zum Zeitpunkt der Verhandlung wert ist. Die Post-Money Bewertung ist die Pre-Money Bewertung plus das neu investierte Kapital und repräsentiert den Wert des Unternehmens nach Abschluss der Finanzierungsrunde. Diese Unterscheidung ist fundamental, da der Anteil, den ein Investor für sein Kapital erhält, auf der Post-Money Bewertung basiert. Wenn beispielsweise ein Startup eine Pre-Money Bewertung von 10 Millionen Euro hat und 2 Millionen Euro frisches Kapital aufnimmt, beträgt die Post-Money Bewertung 12 Millionen Euro. Der neue Investor, der 2 Millionen Euro einbringt, erhält dann 2/12 = 16,67% der Anteile am Unternehmen, wodurch alte Anteile entsprechend verwässert werden.",
+    "takeaway": "Investoren verhandeln meist über die Pre-Money Bewertung, aber die Berechnung der Beteiligungsanteile erfolgt immer auf Basis der Post-Money Bewertung. Das Verständnis dieser Begriffe ist entscheidend, um die Verteilung der Eigentumsanteile in Finanzierungsrunden korrekt zu interpretieren."
   }
 }
