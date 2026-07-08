@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Le Pen will trotz Urteils bei Präsidentschaftswahl 2027 antreten",
-      "summary": "Marine Le Pen bekräftigt ihre Kandidatur für die französischen Präsidentschaftswahlen 2027, trotz einer Verurteilung wegen Veruntreuung von EU-Geldern zu einem Jahr Hausarrest. Ihre anhaltende politische Ambition bleibt ein wichtiger Faktor in der europäischen Politik."
+      "headline": "Ukraine: Erneut Angriffe auf Kiew in der Nacht",
+      "summary": "Erneut heulten in der Nacht in Kiew die Sirenen, wobei mindestens eine Person starb. Die Ukraine griff ihrerseits Industrieanlagen in Russland an."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Was das U-Boot-Geschäft mit Kanada bedeutet",
-      "summary": "Kanada plant, U-Boote beim deutschen Hersteller TKMS bauen zu lassen, was Kanzler Scholz als einen der größten Rüstungsaufträge in der Geschichte der Bundesrepublik bezeichnet. Dieser strategisch bedeutsame Deal unterstreicht die wachsende Bedeutung der Verteidigungsindustrie auf dem Weltmarkt."
+      "headline": "Marktbericht: Die Nahost-Krise ist zurück an der Börse",
+      "summary": "Die erneute Eskalation im Nahen Osten wird von den Anlegern bislang relativ gelassen aufgenommen. Obwohl die Ölpreise zulegen, rechnen die Märkte offenbar nicht mit einem Wiederaufflammen des Kriegs."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Tech-Ausverkauf belastet Börse",
-      "summary": "Ein kräftiger Ausverkauf von KI-Aktien und enttäuschende Samsung-Zahlen drücken den DAX. Anleger scheuen trotz guter Konjunkturdaten das Risiko am Markt, was zu einer erhöhten Volatilität führt."
+      "headline": "Bäckerei-Insolvenzen im ersten Halbjahr um 40 Prozent gestiegen",
+      "summary": "Die Zahl der Bäckerei-Insolvenzen stieg im ersten Halbjahr um 40 Prozent, da Verbraucher zunehmend Supermärkte bevorzugen. Viele traditionelle Betriebe müssen dadurch aufgeben."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "US-Investoren übernehmen die Billig-Airline Easy Jet – und Europa zittert",
-      "summary": "Die Investmentfirma Castlelake bietet rund 5,2 Milliarden Pfund für die britische Fluggesellschaft Easy Jet, was in Europa Befürchtungen vor einer Zerschlagung der Airline weckt. Eine Übernahme könnte das Flugangebot an großen europäischen Flughäfen reduzieren und den Wettbewerb beeinflussen."
+      "summary": "Die Investmentfirma Castlelake bietet 5,2 Milliarden Pfund für EasyJet, was in Europa Sorgen vor einer Zerschlagung und dem Beschneiden des Flugangebots auslöst."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Google’s Pixel event is set for August 12",
-      "summary": "Google hat ein Event für den 12. August angekündigt, bei dem neue Pixel-Geräte vorgestellt werden sollen. Tech-Enthusiasten erwarten spannende Produktneuheiten vom Giganten, die den Markt beeinflussen könnten."
+      "headline": "INTERVIEW - «Die KI, die wir heute haben, ist die schlechteste, die es jemals geben wird»: Munich-Re-Chef setzt auf künstliche Intelligenz und will ihre Fehler versichern",
+      "summary": "Der Munich-Re-Chef Christoph Jurecka sieht in KI großes Potenzial und plant, deren Fehler zu versichern. Er betont, dass die aktuelle KI-Generation die schlechteste sein wird, da ständige Weiterentwicklung garantiert ist."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Mehr als 100 selbstfahrende ATVs des US-Unternehmens Forterra werden bereits in den Konfliktzonen der Ukraine eingesetzt. Dies markiert den ersten Einsatz autonomer Bodenfahrzeuge im Kampf und weist auf eine neue Ära der Kriegsführung hin."
+      "headline": "Wird Elon Musk bald SpaceX und Tesla fusionieren? Die Aktionäre werden sich ihm kaum in den Weg stellen",
+      "summary": "Spekulationen über eine Fusion von SpaceX und Tesla halten einen Monat nach dem SpaceX-Börsengang an. Die Aktionäre beider Unternehmen dürften Elon Musk bei diesem Vorhaben kaum Steine in den Weg legen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "VC firm Chemistry is raising $500M for its second fund",
-      "summary": "Chemistry Ventures, eine von Bessemer, Index Ventures und Andreessen Horowitz Alumni gegründete VC-Firma, sammelt 500 Millionen US-Dollar für ihren zweiten Fonds ein. Dies signalisiert weiterhin starkes Vertrauen in den Venture-Capital-Markt und die Innovationskraft von Startups."
+      "headline": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "summary": "Das französische KI-Startup ZML hat die Software ZML/LLMD vorgestellt, um die Inferenz bei KI-Anwendungen zu beschleunigen. Dies könnte die Betriebskosten von KI erheblich senken."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI law startup Norm raises $120M, hits unicorn valuation",
-      "summary": "Das KI-Rechts-Startup Norm hat eine Series C-Finanzierungsrunde über 120 Millionen US-Dollar unter der Führung von Khosla Ventures abgeschlossen. Damit erreicht das Unternehmen eine Bewertung von 1,2 Milliarden US-Dollar und Unicorn-Status, was seinen schnellen Aufstieg in der Tech-Branche unterstreicht."
+      "headline": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "summary": "Der AI-Chip-Hersteller SambaNova hat eine Finanzierungsrunde von 1 Milliarde Dollar bei einer Bewertung von 11 Milliarden Dollar abgeschlossen. Dies folgt nur fünf Monate nach der vorherigen Mega-Runde und verdeutlicht das massive Interesse an KI-Hardware."
     }
   ],
   "learning": {
-    "topic": "Vesting für Gründer: So sichert man langfristiges Engagement im Startup",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting ist ein Mechanismus, der festlegt, wann Gründer und Mitarbeiter Eigentumsrechte an Unternehmensanteilen (Aktien oder Optionen) tatsächlich erwerben. Es dient als Anreiz, um die Bindung an das Unternehmen zu gewährleisten und ein langfristiges Commitment sicherzustellen.",
-    "details": "Typischerweise wird Vesting über einen Zeitraum von drei bis fünf Jahren vereinbart, oft mit einer einjährigen 'Cliff'-Periode. Das bedeutet, dass die Anteile erst nach dem ersten Jahr zu einem bestimmten Prozentsatz ('gevested') und danach monatlich oder quartalsweise weiter 'vesten'. Verlässt ein Gründer das Unternehmen vor dem vollständigen Vesting, verliert er die Rechte an den unverfallbaren Anteilen. Dies schützt Investoren und die verbleibenden Gründer, indem es sicherstellt, dass alle Beteiligten langfristig engagiert bleiben und ihren Beitrag zum Unternehmenserfolg leisten.",
-    "takeaway": "Vesting ist entscheidend für Gründer und Investoren, um Anreize und Engagement langfristig zu synchronisieren. Es ist ein zentrales Instrument zur Risikominimierung für Geldgeber und zur Sicherstellung der Kontinuität sowie des gemeinsamen Interesses im Team."
+    "topic": "Der Ablauf eines Short Squeeze: Wenn Leerverkäufer unter Druck geraten",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein Phänomen, bei dem ein starker Kursanstieg eines Wertpapiers Leerverkäufer dazu zwingt, ihre Positionen durch Rückkäufe zu schließen, was den Kurs weiter beschleunigt.",
+    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie Aktien leihen und verkaufen, mit der Absicht, diese später zu einem niedrigeren Preis zurückzukaufen. Steigt der Kurs jedoch unerwartet stark an, sehen sie sich gezwungen, die geliehenen Aktien zurückzukaufen, um ihre Verluste zu begrenzen. Diese erzwungenen Käufe erhöhen die Nachfrage nach der Aktie zusätzlich und treiben den Preis noch weiter in die Höhe, was einen Teufelskreis aus steigenden Preisen und weiteren Rückkäufen auslöst.",
+    "takeaway": "Ein Short Squeeze kann zu extrem schnellen und volatilen Kursbewegungen führen, die Leerverkäufer in eine prekäre Lage bringen. Es ist ein klares Beispiel dafür, wie die Marktpsychologie und technische Faktoren fundamentale Bewertungen kurzfristig außer Kraft setzen können."
   }
 }
