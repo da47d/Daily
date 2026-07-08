@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine: Erneut Angriffe auf Kiew in der Nacht",
-      "summary": "Erneut heulten in der Nacht in Kiew die Sirenen, wobei mindestens eine Person starb. Die Ukraine griff ihrerseits Industrieanlagen in Russland an."
+      "headline": "Trump droht Iran bei NATO-Gipfel mit neuen Angriffen",
+      "summary": "US-Präsident Trump drohte beim NATO-Gipfel mit neuen Angriffen auf Iran und schloss weitere Verhandlungen aus. Er rechnete jedoch nicht mit langen Kriegshandlungen, was die Unsicherheit in der Region verstärkt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Marktbericht: Die Nahost-Krise ist zurück an der Börse",
-      "summary": "Die erneute Eskalation im Nahen Osten wird von den Anlegern bislang relativ gelassen aufgenommen. Obwohl die Ölpreise zulegen, rechnen die Märkte offenbar nicht mit einem Wiederaufflammen des Kriegs."
+      "headline": "NATO sendet Signal der Geschlossenheit trotz Trumps Provokationen",
+      "summary": "Trotz Provokationen von US-Präsident Trump gelang es den Teilnehmern des NATO-Gipfels in Ankara, ein Signal der Geschlossenheit zu senden. Kanzler Merz sprach sich für eine schnellere Erreichung des Fünf-Prozent-Ziels aus."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Bäckerei-Insolvenzen im ersten Halbjahr um 40 Prozent gestiegen",
-      "summary": "Die Zahl der Bäckerei-Insolvenzen stieg im ersten Halbjahr um 40 Prozent, da Verbraucher zunehmend Supermärkte bevorzugen. Viele traditionelle Betriebe müssen dadurch aufgeben."
+      "headline": "DAX rauscht nach Eskalation im Nahen Osten in die Tiefe",
+      "summary": "Die Furcht vor einem Wiederaufflammen des Kriegs im Nahen Osten hat Anleger in die Flucht geschlagen, wodurch der DAX in die Tiefe rauschte. Gleichzeitig zogen die Ölpreise wieder stark an, was die globale Wirtschaftslage weiter anspannt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "US-Investoren übernehmen die Billig-Airline Easy Jet – und Europa zittert",
-      "summary": "Die Investmentfirma Castlelake bietet 5,2 Milliarden Pfund für EasyJet, was in Europa Sorgen vor einer Zerschlagung und dem Beschneiden des Flugangebots auslöst."
+      "headline": "Apple und Broadcom schließen Milliarden-Deal für US-Chip-Produktion ab",
+      "summary": "Apple hat einen über 30 Milliarden Dollar schweren Mehrjahresvertrag mit Broadcom unterzeichnet, um künftig kundenspezifische Funkchips in den USA zu produzieren. Dieser Deal unterstreicht Apples Bemühungen zur Stärkung der heimischen Lieferketten."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "INTERVIEW - «Die KI, die wir heute haben, ist die schlechteste, die es jemals geben wird»: Munich-Re-Chef setzt auf künstliche Intelligenz und will ihre Fehler versichern",
-      "summary": "Der Munich-Re-Chef Christoph Jurecka sieht in KI großes Potenzial und plant, deren Fehler zu versichern. Er betont, dass die aktuelle KI-Generation die schlechteste sein wird, da ständige Weiterentwicklung garantiert ist."
+      "headline": "OpenAI veröffentlicht neue Sprachmodelle für natürlichere Live-Gespräche",
+      "summary": "OpenAI hat neue Sprachmodelle vorgestellt, die ein gleichzeitiges Sprechen und Zuhören ermöglichen und somit natürlichere Live-Gespräche simulieren. Diese Fähigkeit ist entscheidend für Anwendungen wie Echtzeit-Übersetzungen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Wird Elon Musk bald SpaceX und Tesla fusionieren? Die Aktionäre werden sich ihm kaum in den Weg stellen",
-      "summary": "Spekulationen über eine Fusion von SpaceX und Tesla halten einen Monat nach dem SpaceX-Börsengang an. Die Aktionäre beider Unternehmen dürften Elon Musk bei diesem Vorhaben kaum Steine in den Weg legen."
+      "headline": "Spekulationen um mögliche Fusion von SpaceX und Tesla unter Elon Musk",
+      "summary": "Einen Monat nach dem Börsengang von SpaceX halten die Spekulationen an, dass der Raketenbauer den Elektroauto-Pionier Tesla übernehmen könnte. Eine solche Fusion würde Elon Musks Imperium erheblich erweitern und die Märkte bewegen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "summary": "Das französische KI-Startup ZML hat die Software ZML/LLMD vorgestellt, um die Inferenz bei KI-Anwendungen zu beschleunigen. Dies könnte die Betriebskosten von KI erheblich senken."
+      "headline": "Prime Intellect sichert 130 Millionen Dollar Series A für KI-Agenten-Entwicklung",
+      "summary": "Prime Intellect, gegründet 2024, hat eine Series A Finanzierungsrunde in Höhe von 130 Millionen Dollar abgeschlossen. Das Startup will Unternehmen befähigen, eigene KI-Agentensysteme zu trainieren, ohne auf externe Frontier-Labs angewiesen zu sein."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "summary": "Der AI-Chip-Hersteller SambaNova hat eine Finanzierungsrunde von 1 Milliarde Dollar bei einer Bewertung von 11 Milliarden Dollar abgeschlossen. Dies folgt nur fünf Monate nach der vorherigen Mega-Runde und verdeutlicht das massive Interesse an KI-Hardware."
+      "headline": "Venus Aerospace erhält 90 Millionen Dollar Series B für innovativen Raketenantrieb",
+      "summary": "Venus Aerospace hat eine Series B Finanzierungsrunde über 90 Millionen Dollar erfolgreich abgeschlossen, um eine neuartige Art von Raketentriebwerken zu entwickeln. Das Unternehmen zieht damit viel Aufmerksamkeit in der Deep-Tech-Branche auf sich."
     }
   ],
   "learning": {
-    "topic": "Der Ablauf eines Short Squeeze: Wenn Leerverkäufer unter Druck geraten",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein Phänomen, bei dem ein starker Kursanstieg eines Wertpapiers Leerverkäufer dazu zwingt, ihre Positionen durch Rückkäufe zu schließen, was den Kurs weiter beschleunigt.",
-    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie Aktien leihen und verkaufen, mit der Absicht, diese später zu einem niedrigeren Preis zurückzukaufen. Steigt der Kurs jedoch unerwartet stark an, sehen sie sich gezwungen, die geliehenen Aktien zurückzukaufen, um ihre Verluste zu begrenzen. Diese erzwungenen Käufe erhöhen die Nachfrage nach der Aktie zusätzlich und treiben den Preis noch weiter in die Höhe, was einen Teufelskreis aus steigenden Preisen und weiteren Rückkäufen auslöst.",
-    "takeaway": "Ein Short Squeeze kann zu extrem schnellen und volatilen Kursbewegungen führen, die Leerverkäufer in eine prekäre Lage bringen. Es ist ein klares Beispiel dafür, wie die Marktpsychologie und technische Faktoren fundamentale Bewertungen kurzfristig außer Kraft setzen können."
+    "topic": "Pre-Money vs. Post-Money Bewertung im VC-Umfeld",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* einer neuen Investition, während die Post-Money-Bewertung den Wert *nach* der Investition und somit mit dem neuen Kapital angibt.",
+    "details": "Stellen Sie sich vor, ein Startup ist vor einer Finanzierungsrunde 10 Millionen Euro wert (Pre-Money) und möchte 2 Millionen Euro frisches Kapital aufnehmen. Nach der Investition beträgt der neue Unternehmenswert 12 Millionen Euro (Post-Money). Die 2 Millionen Euro Investition bedeuten, dass der Investor 2/12 oder 16,67% des Unternehmens erhält. Dieser Anteil verwässert die bestehenden Eigentumsverhältnisse der Gründer und früheren Investoren. Die Pre-Money-Bewertung ist also der Ausgangspunkt, um zu bestimmen, welchen Anteil ein Investor für sein Kapital erhält, während die Post-Money-Bewertung den neuen Gesamtwert des Unternehmens nach der Kapitalerhöhung widerspiegelt.",
+    "takeaway": "Die Pre-Money-Bewertung definiert, wie viel das Startup vor dem neuen Geld wert ist, während die Post-Money-Bewertung den Wert *inklusive* des neuen Geldes darstellt. Sie ist die Basis, um die prozentuale Beteiligung des neuen Investors korrekt zu ermitteln."
   }
 }
