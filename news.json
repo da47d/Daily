@@ -3,55 +3,55 @@
     {
       "tag": "POLITIK & GLOBAL",
       "headline": "Der Ölmarkt reagiert nervös: Trump stellt Waffenstillstand mit Iran infrage",
-      "summary": "Nach Angriffen auf Tanker im Persischen Golf schlug das US-Militär gegen Iran zurück, woraufhin Donald Trump den Waffenstillstand als Zeitverschwendung bezeichnete. Diese Eskalation weckt bei Anlegern erneut Zweifel an der globalen Ölversorgungssicherheit."
+      "summary": "Der Ölmarkt zeigt sich aufgrund der Spannungen im Nahen Osten und Trumps Aussagen zu einem möglichen Waffenstillstand mit Iran nervös. Angriffe auf Tanker in der Straße von Hormus und die amerikanische Militärreaktion schüren Zweifel an der Versorgungssicherheit."
     },
     {
       "tag": "POLITIK & GLOBAL",
       "headline": "Pekings Zangengriff: Chinas Regierung will Chinesen die Geldanlage in Hongkong erschweren",
-      "summary": "Pekings Regierung erschwert es Anlegern vom Festland erheblich, ihr Geld über Hongkong in ausländische Aktien, Versicherungen oder Immobilien zu investieren. Dieser Schritt beeinflusst internationale Finanzinstitute wie UBS und signalisiert zunehmende Kapitalkontrollen."
+      "summary": "Die chinesische Regierung erschwert Anlegern vom Festland den Zugang zu ausländischen Aktien, Versicherungen oder Immobilien über Hongkong. Diese Maßnahmen betreffen auch internationale Banken wie die UBS und könnten den Kapitalfluss erheblich beeinflussen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Trotz Iran-Kriegs: Exporte wachsen vierten Monat in Folge",
-      "summary": "Nach den Einzelhandelsumsätzen und Industrieaufträgen sind die deutschen Exporte im Mai, insbesondere in die USA, den vierten Monat in Folge gestiegen. Ökonomen schöpfen wieder Hoffnung für die schwächelnde Wirtschaft und sehen positive Konjunktursignale."
+      "headline": "Marktbericht: DAX wieder über 25.000 Punkten",
+      "summary": "Trotz der unsicheren Lage im Nahen Osten und der Anlegerzurückhaltung schloss der deutsche Leitindex DAX wieder über 25.000 Punkten. Investoren behalten die Öltransporte durch die Straße von Hormus verstärkt im Auge."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "KURZMELDUNGEN - Wirtschaft: Silvana Tenreyro wird Chefökonomin des IWF +++ Unicredit nähert sich Mehrheit bei Commerzbank",
-      "summary": "Silvana Tenreyro wird neue Chefökonomin des IWF, was wichtige Weichenstellungen in der globalen Finanzpolitik andeutet. Parallel dazu nähert sich Unicredit einer Mehrheit bei der Commerzbank, was auf bedeutende M&A-Aktivitäten im Bankensektor hinweist."
+      "headline": "Riesige Umstrukturierung bei VW? Der Chef Oliver Blume tritt vor den Aufsichtsrat – und in ganz Deutschland protestieren die Arbeitnehmer",
+      "summary": "Volkswagen plant offenbar eine massive Umstrukturierung mit potenziell 100.000 Stellenstreichungen und der Schließung von vier Werken in Deutschland. Arbeitnehmer protestieren bundesweit, während eine Aufsichtsratssitzung keine neuen Informationen lieferte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Der neue Börsenstar nach SpaceX: Südkoreas Speicherchip-Riese SK Hynix wagt das zweitgrösste Listing aller Zeiten",
-      "summary": "Der südkoreanische Speicherchip-Gigant SK Hynix bereitet den zweitgrößten Börsengang aller Zeiten vor und will voraussichtlich 28 Milliarden Dollar an der Nasdaq aufnehmen. Dies gilt als entscheidender Test für den anhaltenden Erfolg von KI-Aktien am Markt."
+      "headline": "Europäischer Gerichtshof: Widerrufsrecht gilt auch für Streaming-Abos",
+      "summary": "Der Europäische Gerichtshof hat entschieden, dass Konsumenten Streaming-Abos innerhalb von 14 Tagen widerrufen können. Das Streaming bis zum Widerruf bleibt jedoch kostenpflichtig."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Oracle hat wegen KI 21 000 Jobs gestrichen – um noch mehr in KI zu investieren",
-      "summary": "Oracle hat 21.000 Arbeitsplätze abgebaut, um verstärkt in die KI-Infrastruktur zu investieren und im Wettbewerb mit Amazon und Microsoft bestehen zu können. Die Anleger bleiben jedoch hinsichtlich der langfristigen Auswirkungen dieser Strategie noch skeptisch."
+      "headline": "Meta’s new AI chips will begin production in September",
+      "summary": "Meta beginnt im September mit der Produktion seiner neuen AI-Chips, wobei das Unternehmen einen modularen Ansatz verfolgt. Dies soll Flexibilität angesichts der raschen Entwicklung der KI-Technologie gewährleisten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Lovable reportedly in talks to double its valuation to $13.2B",
-      "summary": "Das Startup Lovable befindet sich Berichten zufolge in Gesprächen, um eine Finanzierungsrunde von 300 Millionen Dollar abzuschließen, die seine Bewertung auf 13,2 Milliarden Dollar verdoppeln könnte. Menlo Ventures wird voraussichtlich diese bedeutende Runde anführen."
+      "headline": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "summary": "Das Pariser KI-Voice-Startup Gradium hat eine Seed-Erweiterungsrunde von 100 Millionen Dollar abgeschlossen, unterstützt von Nvidia. Damit positioniert es sich als wichtiger Akteur im Wettbewerb mit Unternehmen wie ElevenLabs."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-      "summary": "Das deutsche Startup QuantumDiamonds will mit Unterstützung der EU die Chipfertigung mittels eines neuartigen Inspektionsansatzes beschleunigen. Diese Initiative ist Teil des European Chips Act, der die Halbleiterindustrie in Europa stärken soll."
+      "headline": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "summary": "Ollama, ein beliebtes Open-Source-Tool für KI-Entwickler, hat 65 Millionen Dollar eingesammelt und verzeichnet fast 9 Millionen Nutzer. Die Plattform hilft Entwicklern, KI-Modelle einfach auf ihren PCs auszuführen."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine: Die feinen, aber entscheidenden Unterschiede",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Optionen sind standardisierte, börsennotierte Finanzkontrakte, die Anlegern das Recht, aber nicht die Pflicht geben, einen Basiswert zu einem bestimmten Preis zu kaufen oder zu verkaufen. Optionsscheine hingegen sind Schuldverschreibungen, die von Banken ausgegeben werden und ähnliche Rechte verbriefen, jedoch maßgeschneiderter und komplexer strukturiert sein können.",
-    "details": "Der wesentliche Unterschied liegt in ihrem Wesen: Optionen sind Derivate, die meist an Terminbörsen gehandelt werden und ein direktes Recht auf den zugrunde liegenden Vermögenswert (Aktie, Index etc.) darstellen, wobei der Verkäufer (Stillhalter) die Lieferpflicht trägt. Optionsscheine sind hingegen Emittentenprodukte, also Schuldverschreibungen einer Bank. Sie sind nicht standardisiert, und ihr Wert wird stärker von der Bonität des Emittenten und dessen Preispolitik beeinflusst. Optionsscheine bieten oft eine größere Hebelwirkung und können auf eine Vielzahl von Basiswerten ausgestellt werden, bergen aber auch das Emittentenrisiko.",
-    "takeaway": "Für Anleger ist es entscheidend zu verstehen, dass Optionsscheine ein Emittentenrisiko tragen und weniger transparent sein können als börsengehandelte Optionen. Die Wahl hängt von der Risikobereitschaft, der Liquiditätsanforderung und der gewünschten Produktflexibilität ab."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Den Wert eines Startups verstehen",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "\"Pre-Money\" ist die Bewertung eines Unternehmens *vor* einer Finanzierungsrunde, während \"Post-Money\" den Wert *nach* der Kapitalzufuhr widerspiegelt. Diese Unterscheidung ist fundamental für Investoren und Gründer, um Anteile und Wertsteigerungen zu berechnen.",
+    "details": "Wenn ein Investor Kapital in ein Startup investiert, erhöht sich der Unternehmenswert. Die Pre-Money-Bewertung wird als Basis genommen, das investierte Kapital wird addiert, um die Post-Money-Bewertung zu erhalten. Beispiel: Bei einer Pre-Money von 10 Mio. € und einer Investition von 2 Mio. € beträgt die Post-Money-Bewertung 12 Mio. €. Der Investor erhält dann Anteile basierend auf der Post-Money-Bewertung und seinem Investment, wodurch sich die prozentualen Beteiligungen der Gründer und früherer Investoren entsprechend verwässern.",
+    "takeaway": "Die korrekte Unterscheidung zwischen Pre-Money und Post-Money ist entscheidend, um den Anteil, den ein Investor für sein Kapital erhält, und die resultierende Verwässerung der bestehenden Anteilseigner präzise zu verstehen und zu verhandeln."
   }
 }
