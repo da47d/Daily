@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine attackiert erneut russische Energieanlagen",
-      "summary": "Russischen Angaben zufolge hat die Ukraine erneut russische Energieanlagen mit Hunderten Drohnen attackiert, wobei Raffinerien und Ölanlagen Hauptziele waren. Bisher wurden keine Todesopfer oder Verletzten gemeldet."
+      "headline": "EU droht Meta wegen Suchtgefahr mit hohen Strafen für Facebook und Instagram",
+      "summary": "Die EU-Kommission droht Meta mit hohen Strafen wegen angeblich süchtig machender Funktionen auf Facebook und Instagram. Dies signalisiert eine verschärfte Regulierung von Tech-Giganten und könnte deren Geschäftsmodelle beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Der «Zwangsarbeit-Zoll» ist erst der Anfang: Das sind Trumps nächste Schritte im Handelsstreit mit dem Rest der Welt",
-      "summary": "Die USA müssen am 24. Juli ihr Zollregime anpassen, was für Länder wie die Schweiz vorerst keine drastischen Änderungen bedeutet. Dennoch drohen später unangenehme Überraschungen im globalen Handelsstreit."
+      "headline": "Trumps nächste Schritte im Handelsstreit mit der Welt: Der «Zwangsarbeit-Zoll» ist erst der Anfang",
+      "summary": "Die USA stehen kurz davor, ihr aktuelles Zollregime zu ersetzen, was potenziell zu einer Eskalation internationaler Handelsstreitigkeiten führen könnte. Trumps angekündigte Schritte drohen mit unangenehmen Überraschungen für globale Handelspartner."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Welche Preise besonders stark steigen und sinken",
-      "summary": "Sinkende Ölpreise und ein Tankrabatt haben die Preisentwicklung zuletzt gedämpft, zudem wurden Nahrungsmittel teils günstiger. Gleichzeitig verteuerten sich einige Dienstleistungen."
+      "headline": "DAX vom Rekordhoch weit entfernt",
+      "summary": "Nach einem Rekordhoch zu Wochenbeginn fiel der DAX bis zum Wochenschluss deutlich zurück, beeinflusst durch die Unsicherheit der Investoren. Die geopolitische Lage im Nahen Osten dämpft die Marktstimmung erheblich."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "China produziert Waren, die in China immer weniger Absatz finden. Dem Land droht ein Rückfall in die Deflation",
-      "summary": "Aktuelle Inflationsdaten zeigen, dass chinesische Hersteller Schwierigkeiten haben, sich aus der negativen Preisspirale zu befreien. Dies könnte sich stark auf Chinas nationale Wachstumszahlen und die globale Wirtschaft auswirken."
+      "headline": "China droht ein Rückfall in die Deflation, da Waren im Inland immer weniger Absatz finden",
+      "summary": "Chinas Hersteller kämpfen mit sinkender Nachfrage im Inland, was laut neuen Inflationsdaten das Risiko einer Deflation erhöht. Diese Entwicklung könnte sich maßgeblich auf die nationalen Wachstumszahlen auswirken."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Riesige Umstrukturierung bei VW? Der Chef Oliver Blume tritt vor den Aufsichtsrat – und in ganz Deutschland protestieren die Arbeitnehmer",
-      "summary": "VW-Chef Oliver Blume will den Konzern radikal umbauen, wobei Medienberichte von bis zu 100.000 Stellenstreichungen und vier Werksschließungen sprechen. Dies führt zu bundesweiten Protesten der Arbeitnehmer und erhöhter Aufmerksamkeit in der Autoindustrie."
+      "headline": "Hugging Face CEO: Unternehmen sind fertig damit, KI nur zu mieten",
+      "summary": "Der CEO von Hugging Face beobachtet einen starken Trend, dass Unternehmen zunehmend auf Open-Source-KI-Modelle setzen, anstatt proprietäre Lösungen zu mieten. Dies unterstreicht den Wunsch nach mehr Kontrolle und Anpassung in der KI-Entwicklung."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Der neue Börsenstar nach SpaceX: Südkoreas Speicherchip-Riese SK Hynix wagt das zweitgrösste Listing aller Zeiten",
-      "summary": "Südkoreas Speicherchip-Gigant SK Hynix plant das zweitgrößte Listing aller Zeiten an der Nasdaq mit voraussichtlich 28 Milliarden Dollar. Dieser Börsengang gilt als wichtiger Test für den anhaltenden Erfolg der KI-Aktien."
+      "headline": "China holt bei wiederverwendbaren Raketen zu Elon Musk auf",
+      "summary": "Chinas staatliche Raumfahrtgesellschaft hat erstmals einen orbitalen Raketenbooster erfolgreich geborgen, ein Meilenstein in der Technologie wiederverwendbarer Raketen. Dieser Fortschritt demonstriert Chinas schnellen Aufstieg im globalen Raumfahrtwettlauf."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "«Als hätte eine Private-Equity-Firma ein Kind mit Google bekommen»: Das ist das italienische Einhorn Bending Spoons",
-      "summary": "Das Mailänder Startup Bending Spoons hat sich durch den Ankauf und Umbau gut eingeführter Internetfirmen zu einem globalen Einhorn entwickelt. Die Gründer haben es geschafft, ihr Unternehmen an die Wall Street zu bringen."
+      "headline": "Oratomic erhält 300 Millionen Dollar für Quantencomputer mit nur 20.000 Qubits",
+      "summary": "Oratomic hat 300 Millionen Dollar in einer Finanzierungsrunde von führenden VCs wie ARCH Venture Partners erhalten, um einen praktikablen Quantencomputer zu entwickeln. Das Ziel ist ein System, das nur 20.000 Qubits benötigt und damit einen Durchbruch verspricht."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "An AI agent startup just let its agent run its $100M fundraise",
-      "summary": "Das Startup Lyzr, das KI-Agenten für Unternehmen entwickelt, hat seine eigene KI zur Durchführung einer 100-Millionen-Dollar-Finanzierungsrunde eingesetzt. Dies demonstriert auf eindrucksvolle Weise die Funktionalität ihres Produkts."
+      "headline": "Das ist das italienische Einhorn Bending Spoons: Eine Fusion aus Private Equity und Google",
+      "summary": "Das italienische Einhorn Bending Spoons kauft etablierte Internetfirmen auf, baut sie um und bringt sie an die Wall Street. Das Startup demonstriert ein einzigartiges Modell zur Transformation digitaler Assets in globale Unternehmen."
     }
   ],
   "learning": {
-    "topic": "Bedeutung von Vesting für Gründer: Langfristige Bindung und Anreize",
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
     "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting regelt den schrittweisen Erwerb von Anteilen durch Gründer oder Mitarbeiter über eine bestimmte Zeit und bei Erreichen von Meilensteinen, um Loyalität und Engagement zu sichern.",
-    "details": "Stellen Sie sich vor, ein Startup-Gründer bekommt nicht alle seine Unternehmensanteile sofort, sondern erst nach und nach über beispielsweise vier Jahre. Jedes Jahr \"vestet\" ein Viertel seiner Anteile, oft mit einem \"Cliff\" von einem Jahr, was bedeutet, dass er die ersten Anteile erst nach einem vollen Jahr im Unternehmen erhält. Wenn der Gründer das Unternehmen vorher verlässt, verliert er die noch nicht \"gevesteten\" Anteile. Das schützt Investoren und das Unternehmen davor, dass Gründer nach kurzer Zeit mit ihren vollen Anteilen abspringen, und richtet die Interessen aller Beteiligten auf den langfristigen Erfolg aus.",
-    "takeaway": "Vesting ist ein zentrales Instrument im Startup-Bereich, um Gründer und Schlüsselpersonen langfristig an das Unternehmen zu binden und ihre Motivation auf den langfristigen Wertaufbau auszurichten."
+    "concept": "'Pre-Money' ist der Wert eines Startups VOR einer Finanzierungsrunde, während 'Post-Money' der Wert NACH der Investition ist.",
+    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird der Unternehmenswert bestimmt. Die Pre-Money-Bewertung spiegelt den Wert des Startups wider, den die Gründer und bestehenden Investoren vor der neuen Kapitalzufuhr aufgebaut haben. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese Post-Money-Bewertung definiert den neuen Gesamtwert des Unternehmens, auf dessen Basis die Anteile des neuen Investors und die Verwässerung der bestehenden Anteile berechnet werden.",
+    "takeaway": "Das Verständnis dieser beiden Bewertungen ist entscheidend, um den Anteil zu verstehen, den ein Investor für sein Kapital erhält, und wie sich die Eigentumsverhältnisse der Gründer verändern. Es ist eine zentrale Kennzahl bei jeder Finanzierungsrunde."
   }
 }
