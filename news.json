@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Der Ölmarkt reagiert nervös: Trump stellt Waffenstillstand mit Iran infrage",
-      "summary": "Der Ölmarkt zeigt sich aufgrund der Spannungen im Nahen Osten und Trumps Aussagen zu einem möglichen Waffenstillstand mit Iran nervös. Angriffe auf Tanker in der Straße von Hormus und die amerikanische Militärreaktion schüren Zweifel an der Versorgungssicherheit."
+      "headline": "Ukraine attackiert erneut russische Energieanlagen",
+      "summary": "Russischen Angaben zufolge hat die Ukraine erneut russische Energieanlagen mit Hunderten Drohnen attackiert, wobei Raffinerien und Ölanlagen Hauptziele waren. Bisher wurden keine Todesopfer oder Verletzten gemeldet."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Pekings Zangengriff: Chinas Regierung will Chinesen die Geldanlage in Hongkong erschweren",
-      "summary": "Die chinesische Regierung erschwert Anlegern vom Festland den Zugang zu ausländischen Aktien, Versicherungen oder Immobilien über Hongkong. Diese Maßnahmen betreffen auch internationale Banken wie die UBS und könnten den Kapitalfluss erheblich beeinflussen."
+      "headline": "Der «Zwangsarbeit-Zoll» ist erst der Anfang: Das sind Trumps nächste Schritte im Handelsstreit mit dem Rest der Welt",
+      "summary": "Die USA müssen am 24. Juli ihr Zollregime anpassen, was für Länder wie die Schweiz vorerst keine drastischen Änderungen bedeutet. Dennoch drohen später unangenehme Überraschungen im globalen Handelsstreit."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX wieder über 25.000 Punkten",
-      "summary": "Trotz der unsicheren Lage im Nahen Osten und der Anlegerzurückhaltung schloss der deutsche Leitindex DAX wieder über 25.000 Punkten. Investoren behalten die Öltransporte durch die Straße von Hormus verstärkt im Auge."
+      "headline": "Welche Preise besonders stark steigen und sinken",
+      "summary": "Sinkende Ölpreise und ein Tankrabatt haben die Preisentwicklung zuletzt gedämpft, zudem wurden Nahrungsmittel teils günstiger. Gleichzeitig verteuerten sich einige Dienstleistungen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Riesige Umstrukturierung bei VW? Der Chef Oliver Blume tritt vor den Aufsichtsrat – und in ganz Deutschland protestieren die Arbeitnehmer",
-      "summary": "Volkswagen plant offenbar eine massive Umstrukturierung mit potenziell 100.000 Stellenstreichungen und der Schließung von vier Werken in Deutschland. Arbeitnehmer protestieren bundesweit, während eine Aufsichtsratssitzung keine neuen Informationen lieferte."
+      "headline": "China produziert Waren, die in China immer weniger Absatz finden. Dem Land droht ein Rückfall in die Deflation",
+      "summary": "Aktuelle Inflationsdaten zeigen, dass chinesische Hersteller Schwierigkeiten haben, sich aus der negativen Preisspirale zu befreien. Dies könnte sich stark auf Chinas nationale Wachstumszahlen und die globale Wirtschaft auswirken."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Europäischer Gerichtshof: Widerrufsrecht gilt auch für Streaming-Abos",
-      "summary": "Der Europäische Gerichtshof hat entschieden, dass Konsumenten Streaming-Abos innerhalb von 14 Tagen widerrufen können. Das Streaming bis zum Widerruf bleibt jedoch kostenpflichtig."
+      "headline": "Riesige Umstrukturierung bei VW? Der Chef Oliver Blume tritt vor den Aufsichtsrat – und in ganz Deutschland protestieren die Arbeitnehmer",
+      "summary": "VW-Chef Oliver Blume will den Konzern radikal umbauen, wobei Medienberichte von bis zu 100.000 Stellenstreichungen und vier Werksschließungen sprechen. Dies führt zu bundesweiten Protesten der Arbeitnehmer und erhöhter Aufmerksamkeit in der Autoindustrie."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Meta’s new AI chips will begin production in September",
-      "summary": "Meta beginnt im September mit der Produktion seiner neuen AI-Chips, wobei das Unternehmen einen modularen Ansatz verfolgt. Dies soll Flexibilität angesichts der raschen Entwicklung der KI-Technologie gewährleisten."
+      "headline": "Der neue Börsenstar nach SpaceX: Südkoreas Speicherchip-Riese SK Hynix wagt das zweitgrösste Listing aller Zeiten",
+      "summary": "Südkoreas Speicherchip-Gigant SK Hynix plant das zweitgrößte Listing aller Zeiten an der Nasdaq mit voraussichtlich 28 Milliarden Dollar. Dieser Börsengang gilt als wichtiger Test für den anhaltenden Erfolg der KI-Aktien."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "summary": "Das Pariser KI-Voice-Startup Gradium hat eine Seed-Erweiterungsrunde von 100 Millionen Dollar abgeschlossen, unterstützt von Nvidia. Damit positioniert es sich als wichtiger Akteur im Wettbewerb mit Unternehmen wie ElevenLabs."
+      "headline": "«Als hätte eine Private-Equity-Firma ein Kind mit Google bekommen»: Das ist das italienische Einhorn Bending Spoons",
+      "summary": "Das Mailänder Startup Bending Spoons hat sich durch den Ankauf und Umbau gut eingeführter Internetfirmen zu einem globalen Einhorn entwickelt. Die Gründer haben es geschafft, ihr Unternehmen an die Wall Street zu bringen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-      "summary": "Ollama, ein beliebtes Open-Source-Tool für KI-Entwickler, hat 65 Millionen Dollar eingesammelt und verzeichnet fast 9 Millionen Nutzer. Die Plattform hilft Entwicklern, KI-Modelle einfach auf ihren PCs auszuführen."
+      "headline": "An AI agent startup just let its agent run its $100M fundraise",
+      "summary": "Das Startup Lyzr, das KI-Agenten für Unternehmen entwickelt, hat seine eigene KI zur Durchführung einer 100-Millionen-Dollar-Finanzierungsrunde eingesetzt. Dies demonstriert auf eindrucksvolle Weise die Funktionalität ihres Produkts."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Den Wert eines Startups verstehen",
+    "topic": "Bedeutung von Vesting für Gründer: Langfristige Bindung und Anreize",
     "category": "Tech & VC Deal-Decoder",
-    "concept": "\"Pre-Money\" ist die Bewertung eines Unternehmens *vor* einer Finanzierungsrunde, während \"Post-Money\" den Wert *nach* der Kapitalzufuhr widerspiegelt. Diese Unterscheidung ist fundamental für Investoren und Gründer, um Anteile und Wertsteigerungen zu berechnen.",
-    "details": "Wenn ein Investor Kapital in ein Startup investiert, erhöht sich der Unternehmenswert. Die Pre-Money-Bewertung wird als Basis genommen, das investierte Kapital wird addiert, um die Post-Money-Bewertung zu erhalten. Beispiel: Bei einer Pre-Money von 10 Mio. € und einer Investition von 2 Mio. € beträgt die Post-Money-Bewertung 12 Mio. €. Der Investor erhält dann Anteile basierend auf der Post-Money-Bewertung und seinem Investment, wodurch sich die prozentualen Beteiligungen der Gründer und früherer Investoren entsprechend verwässern.",
-    "takeaway": "Die korrekte Unterscheidung zwischen Pre-Money und Post-Money ist entscheidend, um den Anteil, den ein Investor für sein Kapital erhält, und die resultierende Verwässerung der bestehenden Anteilseigner präzise zu verstehen und zu verhandeln."
+    "concept": "Vesting regelt den schrittweisen Erwerb von Anteilen durch Gründer oder Mitarbeiter über eine bestimmte Zeit und bei Erreichen von Meilensteinen, um Loyalität und Engagement zu sichern.",
+    "details": "Stellen Sie sich vor, ein Startup-Gründer bekommt nicht alle seine Unternehmensanteile sofort, sondern erst nach und nach über beispielsweise vier Jahre. Jedes Jahr \"vestet\" ein Viertel seiner Anteile, oft mit einem \"Cliff\" von einem Jahr, was bedeutet, dass er die ersten Anteile erst nach einem vollen Jahr im Unternehmen erhält. Wenn der Gründer das Unternehmen vorher verlässt, verliert er die noch nicht \"gevesteten\" Anteile. Das schützt Investoren und das Unternehmen davor, dass Gründer nach kurzer Zeit mit ihren vollen Anteilen abspringen, und richtet die Interessen aller Beteiligten auf den langfristigen Erfolg aus.",
+    "takeaway": "Vesting ist ein zentrales Instrument im Startup-Bereich, um Gründer und Schlüsselpersonen langfristig an das Unternehmen zu binden und ihre Motivation auf den langfristigen Wertaufbau auszurichten."
   }
 }
