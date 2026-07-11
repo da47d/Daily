@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU droht Meta wegen Suchtgefahr mit hohen Strafen für Facebook und Instagram",
-      "summary": "Die EU-Kommission droht Meta mit hohen Strafen wegen angeblich süchtig machender Funktionen auf Facebook und Instagram. Dies signalisiert eine verschärfte Regulierung von Tech-Giganten und könnte deren Geschäftsmodelle beeinflussen."
+      "headline": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
+      "summary": "Die USA fordern von Iran die Zusicherung eines gefahrlosen Seewegs in der Straße von Hormus, wo es zuletzt immer wieder zu Angriffen kam. Dies ist entscheidend für globale Handelsrouten und die Energiesicherheit."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trumps nächste Schritte im Handelsstreit mit der Welt: Der «Zwangsarbeit-Zoll» ist erst der Anfang",
-      "summary": "Die USA stehen kurz davor, ihr aktuelles Zollregime zu ersetzen, was potenziell zu einer Eskalation internationaler Handelsstreitigkeiten führen könnte. Trumps angekündigte Schritte drohen mit unangenehmen Überraschungen für globale Handelspartner."
+      "headline": "Trumps nächste Schritte im Handelsstreit mit der Welt",
+      "summary": "Ex-Präsident Trump plant bei einer möglichen Wiederwahl umfassende neue Handelsschritte, die über den bestehenden \"Zwangsarbeit-Zoll\" hinausgehen. Dies könnte die globalen Handelsbeziehungen und besonders Staaten wie die Schweiz vor Herausforderungen stellen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX vom Rekordhoch weit entfernt",
-      "summary": "Nach einem Rekordhoch zu Wochenbeginn fiel der DAX bis zum Wochenschluss deutlich zurück, beeinflusst durch die Unsicherheit der Investoren. Die geopolitische Lage im Nahen Osten dämpft die Marktstimmung erheblich."
+      "headline": "SK Hynix mit furioser Börsendebüt – KI-Boom treibt Anlegervertrauen",
+      "summary": "Der südkoreanische Chiphersteller SK Hynix erlebte ein beeindruckendes US-Börsendebüt mit einer Kapitalaufnahme von 26,5 Mrd. Dollar, getrieben vom anhaltenden Glauben an den KI-Boom. Dies ist der größte ausländische IPO in der US-Geschichte und zieht Forderungen nach US-Fabriken nach sich."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "China droht ein Rückfall in die Deflation, da Waren im Inland immer weniger Absatz finden",
-      "summary": "Chinas Hersteller kämpfen mit sinkender Nachfrage im Inland, was laut neuen Inflationsdaten das Risiko einer Deflation erhöht. Diese Entwicklung könnte sich maßgeblich auf die nationalen Wachstumszahlen auswirken."
+      "headline": "China droht Rückfall in Deflation durch sinkende Binnennachfrage",
+      "summary": "China kämpft mit einer sinkenden Binnennachfrage und dem Risiko eines Rückfalls in die Deflation, da die Preise für Waren, die im eigenen Land produziert werden, immer weniger Abnehmer finden. Diese Entwicklung könnte das nationale Wachstum bremsen und globale Auswirkungen haben."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Hugging Face CEO: Unternehmen sind fertig damit, KI nur zu mieten",
-      "summary": "Der CEO von Hugging Face beobachtet einen starken Trend, dass Unternehmen zunehmend auf Open-Source-KI-Modelle setzen, anstatt proprietäre Lösungen zu mieten. Dies unterstreicht den Wunsch nach mehr Kontrolle und Anpassung in der KI-Entwicklung."
+      "headline": "Apple verklagt OpenAI wegen angeblich gestohlener Firmengeheimnisse",
+      "summary": "Apple hat OpenAI wegen angeblichen Diebstahls von Geschäftsgeheimnissen verklagt, da das KI-Unternehmen ein neues Produkt mit ehemaligen Apple-Mitarbeitern entwickelt. Die Klage fokussiert sich auch auf zwei hochrangige ehemalige Apple-Mitarbeiter."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "China holt bei wiederverwendbaren Raketen zu Elon Musk auf",
-      "summary": "Chinas staatliche Raumfahrtgesellschaft hat erstmals einen orbitalen Raketenbooster erfolgreich geborgen, ein Meilenstein in der Technologie wiederverwendbarer Raketen. Dieser Fortschritt demonstriert Chinas schnellen Aufstieg im globalen Raumfahrtwettlauf."
+      "headline": "EU-Kommission sieht Suchtgefahr bei Meta-Plattformen und droht mit Strafen",
+      "summary": "Die EU-Kommission wirft Meta (Instagram, Facebook) nach zweijährigen Ermittlungen eine zu große Suchtgefahr vor allem für Jugendliche vor. Reagiert der Konzern nicht, drohen hohe Strafen für Mark Zuckerberg."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Oratomic erhält 300 Millionen Dollar für Quantencomputer mit nur 20.000 Qubits",
-      "summary": "Oratomic hat 300 Millionen Dollar in einer Finanzierungsrunde von führenden VCs wie ARCH Venture Partners erhalten, um einen praktikablen Quantencomputer zu entwickeln. Das Ziel ist ein System, das nur 20.000 Qubits benötigt und damit einen Durchbruch verspricht."
+      "headline": "Oratomic erhält 300 Millionen Dollar für Quantencomputer-Entwicklung",
+      "summary": "Oratomic hat 300 Millionen Dollar in einer Finanzierungsrunde erhalten, um einen praktikablen Quantencomputer mit nur 20.000 Qubits zu entwickeln. Dies markiert eine bedeutende Investition in die zukunftsweisende Quantencomputer-Technologie."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Das ist das italienische Einhorn Bending Spoons: Eine Fusion aus Private Equity und Google",
-      "summary": "Das italienische Einhorn Bending Spoons kauft etablierte Internetfirmen auf, baut sie um und bringt sie an die Wall Street. Das Startup demonstriert ein einzigartiges Modell zur Transformation digitaler Assets in globale Unternehmen."
+      "headline": "Das italienische Einhorn Bending Spoons: Eine Mischung aus PE und Tech-Gigant",
+      "summary": "Das italienische Einhorn Bending Spoons kauft etablierte Internetfirmen auf und baut sie um, was ihm einen einzigartigen Weg zur Wall Street ebnet. Das Startup wird als innovative Mischung aus Private Equity und Tech-Gigant beschrieben."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "'Pre-Money' ist der Wert eines Startups VOR einer Finanzierungsrunde, während 'Post-Money' der Wert NACH der Investition ist.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird der Unternehmenswert bestimmt. Die Pre-Money-Bewertung spiegelt den Wert des Startups wider, den die Gründer und bestehenden Investoren vor der neuen Kapitalzufuhr aufgebaut haben. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese Post-Money-Bewertung definiert den neuen Gesamtwert des Unternehmens, auf dessen Basis die Anteile des neuen Investors und die Verwässerung der bestehenden Anteile berechnet werden.",
-    "takeaway": "Das Verständnis dieser beiden Bewertungen ist entscheidend, um den Anteil zu verstehen, den ein Investor für sein Kapital erhält, und wie sich die Eigentumsverhältnisse der Gründer verändern. Es ist eine zentrale Kennzahl bei jeder Finanzierungsrunde."
+    "topic": "ETF-Namenszusätze entschlüsseln: Core, IMI, Acc/Dist & Co.",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "ETF-Namen enthalten wichtige Abkürzungen, die Aufschluss über die Anlagestrategie, Replikationsmethode und Ertragsverwendung geben und für die Auswahl entscheidend sind.",
+    "details": "Das Kürzel \"Core\" steht oft für günstige Basis-ETFs, während \"IMI\" (Investable Market Index) auch Small-Caps in den Index integriert. \"Acc\" (Accumulating) bedeutet, dass Erträge automatisch reinvestiert werden, wohingegen \"Dist\" (Distributing) die Ausschüttungen an die Anleger auszahlt. \"UCITS\" garantiert EU-weite Anlegerschutzstandards. \"Swap\" (synthetisch) repliziert den Index über Tauschgeschäfte, während \"Physisch\" die Indexwerte direkt kauft. Beide Replikationsmethoden unterscheiden sich in Kosten und Risikoprofil.",
+    "takeaway": "Das Verständnis dieser Kürzel hilft dir, ETFs gezielt auszuwählen, die zu deinen Anlagezielen passen, und die zugrundeliegende Struktur und Kosten besser einzuschätzen. Es ist ein Muss für jeden, der passiv investieren möchte."
   }
 }
