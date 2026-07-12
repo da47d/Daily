@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
-      "summary": "Russland hat die Ukraine erneut mit Raketen angegriffen, was zu mindestens sieben Todesopfern führte. Trotz der aktuellen Eskalation sieht Bundesaußenminister Wadephul überraschend einen guten Zeitpunkt für Verhandlungen."
+      "headline": "Neue US-Angriffe auf Iran - Straße von Hormus gesperrt",
+      "summary": "Das US-Militär hat nach eigenen Angaben neue Angriffe auf Iran gestartet, nachdem die Revolutionsgarde ein Containerschiff in der Straße von Hormus attackierte. Iran erklärte daraufhin die strategisch wichtige Meerenge für gesperrt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trumps nächste Schritte im Handelsstreit: «Zwangsarbeit-Zoll» ist erst der Anfang",
-      "summary": "Die USA bereiten sich auf die Ablösung ihres Zollregimes vor, wobei Donald Trumps nächste Schritte im Handelsstreit mit der Welt erwartet werden. Dies könnte zukünftig unangenehme Überraschungen für globale Handelspartner bereithalten."
+      "headline": "Neuer Anlauf für Iran-Verhandlungen im Oman",
+      "summary": "Trotz öffentlicher Drohungen zwischen den USA und Iran wird hinter den Kulissen offenbar wieder verhandelt, unter anderem im Oman. Im Fokus steht die Öffnung der strategisch wichtigen Straße von Hormus."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "China droht ein Rückfall in die Deflation: Überproduktion und mangelnder Absatz",
-      "summary": "Chinas Hersteller kämpfen mit Überproduktion und mangelndem Absatz im Inland, was auf einen Rückfall in die Deflation hindeutet. Neue Inflationsdaten zeigen, dass das Land sich möglicherweise nicht aus dieser negativen Preisspirale befreien kann."
+      "headline": "Volkswagen-Chef plant weitreichenden Stellenabbau und Werksschließungen",
+      "summary": "VW-Konzernchef Oliver Blume will bis zu 120.000 Stellen abbauen und vier Werke schließen, um den angeschlagenen Autobauer zu sanieren. Er kämpft damit um das Überleben von Volkswagen und seine eigene Zukunft."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Übernahme-Krimi um Easy Jet: Apollo statt Castlelake führt zu Verlustängsten in der Schweiz",
-      "summary": "Die Fluggesellschaft EasyJet steht im Zentrum eines Übernahme-Krimis, bei dem Apollo als neuer Bieter auftritt. Für die Schweizer Luftfahrt, wo EasyJet von großer Bedeutung ist, könnten diese Entwicklungen zu Unsicherheiten und Verlustängsten führen."
+      "headline": "SK Hynix mit furioser US-Börsendebüt amid KI-Boom",
+      "summary": "Der südkoreanische Chiphersteller SK Hynix feierte das größte ausländische Börsendebüt in der US-Geschichte und wurde deutlich über dem Ausgabepreis gehandelt. Anleger glauben fest an den anhaltenden KI-Boom und fordern neue US-Fabriken."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Meta nimmt nach Protesten KI-Bildgenerator 'Muse Image' vom Netz",
-      "summary": "Nach öffentlichen Protesten und Bedenken hinsichtlich des Datenschutzes hat Meta seine KI-Bildgenerator-Anwendung 'Muse Image' wieder vom Netz genommen. Das Unternehmen reagierte auf das Feedback, dass die Funktion ihr Ziel verfehlt habe."
+      "headline": "Taifun Bavi trifft große Teile Ostasiens",
+      "summary": "Taifun Bavi hielt viele Menschen in Ostasien in Atem, wobei auf den Philippinen 17 Menschen ums Leben kamen. Auf der Insel Taiwan gab es zudem zahlreiche Verletzte durch den Wirbelsturm."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "EU-Kommission: Instagram und Facebook mit zu hoher Suchtgefahr – Zuckerberg droht Strafe",
-      "summary": "Die EU-Kommission erhebt nach zweijährigen Ermittlungen schwere Vorwürfe gegen Meta, da Instagram und Facebook eine zu hohe Suchtgefahr für Kinder und Jugendliche bergen. Sollte Zuckerberg nicht reagieren, drohen dem Konzern hohe Strafen."
+      "headline": "Apple verklagt Open AI wegen Diebstahls von Geschäftsgeheimnissen",
+      "summary": "Der Wettstreit um die KI-Ära eskaliert: Apple verklagt OpenAI mit dem Vorwurf, zahlreiche Apple-Ingenieure abgeworben und zum Stehlen vertraulicher Daten ermutigt zu haben. OpenAI wehrt sich gegen die Anschuldigungen des iPhone-Herstellers."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Italienisches Einhorn Bending Spoons: Private-Equity-Ansatz trifft Google-Strategie",
-      "summary": "Das italienische Startup Bending Spoons hat sich zu einem globalen Einhorn entwickelt, indem es gut eingeführte Internetfirmen aufkauft und umstrukturiert. Die Gründer haben es geschafft, ihr Mailänder Unternehmen bis an die Wall Street zu bringen."
+      "headline": "Phia, das Startup von Bill Gates' Tochter, unter Betrugsverdacht",
+      "summary": "Phia, das Shopping-Startup von Phoebe Gates und Sophia Kianni, wird der 'Cookie Stuffing'-Praxis beschuldigt, um unverdiente Affiliate-Provisionen zu kassieren. Eine Bloomberg-Untersuchung brachte die Vorwürfe ans Licht."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "College-App Fizz beschuldigt VC des Datenteilens mit Rivalen Sidechat",
-      "summary": "Die College-App Fizz hat ihre Klage gegen den Rivalen Sidechat erweitert und beschuldigt einen Maveron-VC, vertrauliche Informationen während eines Fundraising-Meetings weitergegeben zu haben. Dies deutet auf einen ernsten Vorwurf von Vertrauensbruch im Startup-Ökosystem hin."
+      "headline": "College-App Fizz verklagt VC wegen Weitergabe vertraulicher Informationen",
+      "summary": "Die College-App Fizz hat ihre Klage gegen den Rivalen Sidechat erweitert und wirft einem Maveron VC vor, vertrauliche Startup-Informationen aus einem Fundraising-Meeting geteilt zu haben. Dies deutet auf Spannungen im VC-Ökosystem hin."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang entschlüsseln: Die wichtigsten Begriffe für Tech-Deals",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Der Startup-Slang umfasst Abkürzungen und Fachbegriffe, die für die Kommunikation, Bewertung und das Verständnis der Performance von Technologie-Unternehmen unerlässlich sind.",
-    "details": "SaaS (Software as a Service) beschreibt ein abonnementbasiertes Softwaremodell, oft B2B (Business-to-Business) für Firmenkunden. ARR (Annual Recurring Revenue) ist der wiederkehrende Jahresumsatz, eine Schlüsselkennzahl für stabile Einnahmen. Die Burn Rate zeigt, wie schnell ein Startup sein Kapital verbraucht, während die Churn Rate die Abwanderung von Kunden oder Einnahmen misst. Eine hohe Churn Rate ist ein Warnsignal.",
-    "takeaway": "Das Verständnis dieses Jargons ist entscheidend, um die Geschäftsmodelle und die finanzielle Performance von Startups präzise zu analysieren und im Gespräch mit Gründern und VCs souverän zu agieren."
+    "topic": "Der Short Squeeze: Mechanik eines Kursfeuers",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist eine plötzliche, schnelle Kursrallye eines Wertpapiers, die auftritt, wenn Leerverkäufer aufgrund steigender Kurse ihre Positionen zwangsweise schließen müssen.",
+    "details": "Leerverkäufer (Short Seller) wetten auf fallende Kurse, indem sie sich Aktien leihen und verkaufen, in der Hoffnung, sie später günstiger zurückzukaufen. Steigt der Kurs unerwartet stark an, geraten sie unter Druck, da ihre potenziellen Verluste unbegrenzt sind. Um Verluste zu begrenzen oder Margin Calls zu erfüllen, müssen sie die geliehenen Aktien zurückkaufen – dies wird als 'Covering' bezeichnet. Dieser erzwungene Rückkauf von Aktien erhöht die Nachfrage und treibt den Kurs weiter nach oben, was wiederum weitere Leerverkäufer zum Covering zwingt und eine Aufwärtsspirale auslösen kann.",
+    "takeaway": "Ein Short Squeeze zeigt die Macht der Anlegerpsychologie und Hebelwirkung. Er kann enorme, schnelle Gewinne für Long-Positionen und massive Verluste für Short-Seller bedeuten, oft ausgelöst durch unerwartet positive Nachrichten oder koordiniertes Kaufverhalten."
   }
 }
