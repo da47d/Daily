@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Neue US-Angriffe auf Iran - Straße von Hormus gesperrt",
-      "summary": "Das US-Militär hat nach eigenen Angaben neue Angriffe auf Iran gestartet, nachdem die Revolutionsgarde ein Containerschiff in der Straße von Hormus attackierte. Iran erklärte daraufhin die strategisch wichtige Meerenge für gesperrt."
+      "headline": "Ukrainischer Präsident Selenskyj will Regierung umbauen",
+      "summary": "Präsident Selenskyj plant einen Umbau der ukrainischen Regierung, um die politische Strategie des Landes anzupassen. Die mögliche Umbesetzung der Ministerpräsidentin nach nur einem Jahr signalisiert einen fundamentalen Kurswechsel."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Neuer Anlauf für Iran-Verhandlungen im Oman",
-      "summary": "Trotz öffentlicher Drohungen zwischen den USA und Iran wird hinter den Kulissen offenbar wieder verhandelt, unter anderem im Oman. Im Fokus steht die Öffnung der strategisch wichtigen Straße von Hormus."
+      "headline": "Iran attackiert Ziele in mehreren Golfstaaten",
+      "summary": "Nach US-Angriffen hat der Iran Ziele in mehreren Golfstaaten attackiert und die strategische Bedeutung der Straße von Hormus betont. Diese Eskalation verschärft den Konflikt zwischen den USA und Iran erheblich."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Volkswagen-Chef plant weitreichenden Stellenabbau und Werksschließungen",
-      "summary": "VW-Konzernchef Oliver Blume will bis zu 120.000 Stellen abbauen und vier Werke schließen, um den angeschlagenen Autobauer zu sanieren. Er kämpft damit um das Überleben von Volkswagen und seine eigene Zukunft."
+      "headline": "China investiert neuerdings massiv in den Bereich Biotechnologie",
+      "summary": "China identifiziert Biotechnologie als strategische Schlüsselbranche und investiert massiv, was den globalen Wettbewerbsdruck erhöht. Dies könnte einen weiteren Industriebereich markieren, in dem China westliche Konkurrenten überflügelt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "SK Hynix mit furioser US-Börsendebüt amid KI-Boom",
-      "summary": "Der südkoreanische Chiphersteller SK Hynix feierte das größte ausländische Börsendebüt in der US-Geschichte und wurde deutlich über dem Ausgabepreis gehandelt. Anleger glauben fest an den anhaltenden KI-Boom und fordern neue US-Fabriken."
+      "headline": "INTERVIEW - «Herr Feld, ist Deutschland ein hoffnungsloser Fall?»",
+      "summary": "Der liberale Ökonom Lars Feld kritisiert Deutschlands massive Schuldenwende und das Fehlen von Härte bei den notwendigen Reformen scharf. Er beurteilt das Wirtschaftsprogramm der AfD als unterirdisch und sieht die Schweiz vor einer schwerwiegenden Entscheidung."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Taifun Bavi trifft große Teile Ostasiens",
-      "summary": "Taifun Bavi hielt viele Menschen in Ostasien in Atem, wobei auf den Philippinen 17 Menschen ums Leben kamen. Auf der Insel Taiwan gab es zudem zahlreiche Verletzte durch den Wirbelsturm."
+      "headline": "Der Wettstreit um das «iPhone der KI-Ära» eskaliert: Apple verklagt Open AI wegen Diebstahls von Geschäftsgeheimnissen",
+      "summary": "Apple verklagt OpenAI wegen angeblichen Diebstahls von Geschäftsgeheimnissen und wirft dem KI-Unternehmen vor, Apple-Ingenieure abgeworben zu haben, um vertrauliche Daten zu entwenden. Dieser Vorwurf verschärft den ohnehin intensiven Wettbewerb um die Vorherrschaft in der KI-Ära dramatisch."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Apple verklagt Open AI wegen Diebstahls von Geschäftsgeheimnissen",
-      "summary": "Der Wettstreit um die KI-Ära eskaliert: Apple verklagt OpenAI mit dem Vorwurf, zahlreiche Apple-Ingenieure abgeworben und zum Stehlen vertraulicher Daten ermutigt zu haben. OpenAI wehrt sich gegen die Anschuldigungen des iPhone-Herstellers."
+      "headline": "Sein letztes Gefecht: Volkswagen-Konzernchef Oliver Blume geht aufs Ganze",
+      "summary": "Volkswagen-Konzernchef Oliver Blume plant einen radikalen Umbau mit bis zu 120.000 Stellenstreichungen und der Schließung von vier Werken, um das Überleben des Konzerns zu sichern. Dieser drastische Schritt ist entscheidend für die Zukunft von Volkswagen und Blumes eigene Position."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Phia, das Startup von Bill Gates' Tochter, unter Betrugsverdacht",
-      "summary": "Phia, das Shopping-Startup von Phoebe Gates und Sophia Kianni, wird der 'Cookie Stuffing'-Praxis beschuldigt, um unverdiente Affiliate-Provisionen zu kassieren. Eine Bloomberg-Untersuchung brachte die Vorwürfe ans Licht."
+      "headline": "SK Hynix legt in Amerika ein furioses Börsendebüt hin – die Anleger glauben, dass der KI-Boom andauern wird",
+      "summary": "Der südkoreanische Chiphersteller SK Hynix feierte ein furioses Börsendebüt an der Nasdaq, wobei die Hinterlegungsscheine deutlich über dem Ausgabepreis gehandelt wurden. Dieses starke Abschneiden spiegelt das Vertrauen der Anleger in einen anhaltenden KI-Boom wider."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "College-App Fizz verklagt VC wegen Weitergabe vertraulicher Informationen",
-      "summary": "Die College-App Fizz hat ihre Klage gegen den Rivalen Sidechat erweitert und wirft einem Maveron VC vor, vertrauliche Startup-Informationen aus einem Fundraising-Meeting geteilt zu haben. Dies deutet auf Spannungen im VC-Ökosystem hin."
+      "headline": "Reed Jobs would rather talk about curing cancer than his last name",
+      "summary": "Reed Jobs, Sohn des Apple-Gründers, fokussiert sich mit seiner Venture-Firma Yosemite auf Biotechnologie und Krebsheilung, wobei KI eine immer größere Rolle spielt. Sein Unternehmen hat sich rasant entwickelt und profitiert von auslaufenden Patenten sowie dem Potenzial der Künstlichen Intelligenz."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Mechanik eines Kursfeuers",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist eine plötzliche, schnelle Kursrallye eines Wertpapiers, die auftritt, wenn Leerverkäufer aufgrund steigender Kurse ihre Positionen zwangsweise schließen müssen.",
-    "details": "Leerverkäufer (Short Seller) wetten auf fallende Kurse, indem sie sich Aktien leihen und verkaufen, in der Hoffnung, sie später günstiger zurückzukaufen. Steigt der Kurs unerwartet stark an, geraten sie unter Druck, da ihre potenziellen Verluste unbegrenzt sind. Um Verluste zu begrenzen oder Margin Calls zu erfüllen, müssen sie die geliehenen Aktien zurückkaufen – dies wird als 'Covering' bezeichnet. Dieser erzwungene Rückkauf von Aktien erhöht die Nachfrage und treibt den Kurs weiter nach oben, was wiederum weitere Leerverkäufer zum Covering zwingt und eine Aufwärtsspirale auslösen kann.",
-    "takeaway": "Ein Short Squeeze zeigt die Macht der Anlegerpsychologie und Hebelwirkung. Er kann enorme, schnelle Gewinne für Long-Positionen und massive Verluste für Short-Seller bedeuten, oft ausgelöst durch unerwartet positive Nachrichten oder koordiniertes Kaufverhalten."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* dem Erhalt des frischen Kapitals angibt. Diese Unterscheidung ist entscheidend, um den Anteil der Investoren und die Verwässerung der bestehenden Eigentümer zu berechnen.",
+    "details": "Wenn ein Startup Kapital aufnimmt, investieren neue Anteilseigner für einen bestimmten Prozentsatz des Unternehmens. Die Pre-Money-Bewertung wird durch Multiplikation des Preises pro Aktie mit der Anzahl der ausstehenden Aktien *vor* der Runde ermittelt. Die Post-Money-Bewertung ergibt sich aus der Summe der Pre-Money-Bewertung und dem investierten Kapital oder alternativ durch Multiplikation des Preises pro Aktie mit der Anzahl der Aktien *nach* der Kapitalerhöhung. Diese Bewertungsmethoden bestimmen, wie das Eigentum nach der Finanzierung verteilt wird und sind Grundlage für die Anpassung der Cap Table.",
+    "takeaway": "Für Gründer und Investoren ist das Verständnis von Pre- und Post-Money essenziell, um den effektiven Wert des Unternehmens und die Beteiligungsverteilung nach einer Investition korrekt zu beurteilen und Verhandlungen zu führen. Es zeigt direkt, wie sich das eingebrachte Kapital auf die Anteile aller Beteiligten auswirkt."
   }
 }
