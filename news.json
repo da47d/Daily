@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukrainischer Präsident Selenskyj will Regierung umbauen",
-      "summary": "Präsident Selenskyj plant einen Umbau der ukrainischen Regierung, um die politische Strategie des Landes anzupassen. Die mögliche Umbesetzung der Ministerpräsidentin nach nur einem Jahr signalisiert einen fundamentalen Kurswechsel."
+      "headline": "USA-Iran-Konflikt: Wie geht es weiter mit der Straße von Hormus?",
+      "summary": "Der Konflikt zwischen den USA und Iran eskaliert weiter, mit der Straße von Hormus als zentralem Streitpunkt für den globalen Handel. Eine diplomatische Lösung oder ein Atomabkommen scheinen derzeit unwahrscheinlich."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran attackiert Ziele in mehreren Golfstaaten",
-      "summary": "Nach US-Angriffen hat der Iran Ziele in mehreren Golfstaaten attackiert und die strategische Bedeutung der Straße von Hormus betont. Diese Eskalation verschärft den Konflikt zwischen den USA und Iran erheblich."
+      "headline": "Neue US-Angriffe auf Iran",
+      "summary": "Das US-Militär hat erneut Ziele in Iran bombardiert, um Angriffe auf Handelsschiffe in der Straße von Hormus zu unterbinden. Iran reagierte umgehend mit Gegenangriffen, was die Spannungen weiter eskaliert."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "China investiert neuerdings massiv in den Bereich Biotechnologie",
-      "summary": "China identifiziert Biotechnologie als strategische Schlüsselbranche und investiert massiv, was den globalen Wettbewerbsdruck erhöht. Dies könnte einen weiteren Industriebereich markieren, in dem China westliche Konkurrenten überflügelt."
+      "headline": "Marktbericht: Neue Spannungen machen DAX-Anleger nervös",
+      "summary": "Der DAX startete mit Verlusten in die Woche, beeinflusst durch schwache Vorgaben aus Asien und zunehmende geopolitische Spannungen. Diese Entwicklung spiegelt die Nervosität der Anleger wider und deutet auf eine unsichere Marktstimmung hin."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "INTERVIEW - «Herr Feld, ist Deutschland ein hoffnungsloser Fall?»",
-      "summary": "Der liberale Ökonom Lars Feld kritisiert Deutschlands massive Schuldenwende und das Fehlen von Härte bei den notwendigen Reformen scharf. Er beurteilt das Wirtschaftsprogramm der AfD als unterirdisch und sieht die Schweiz vor einer schwerwiegenden Entscheidung."
+      "headline": "Private Credit in der Krise: Die UBS soll Rücknahmewelle bei Fonds ausgelöst haben",
+      "summary": "Die UBS soll durch Empfehlungen an Kunden, das Engagement in Private Credit zu reduzieren, eine Rücknahmewelle ausgelöst haben. Obwohl die Grossbank selbst an der Anlageklasse festhält, signalisiert dies eine potenzielle Marktverunsicherung."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
       "headline": "Der Wettstreit um das «iPhone der KI-Ära» eskaliert: Apple verklagt Open AI wegen Diebstahls von Geschäftsgeheimnissen",
-      "summary": "Apple verklagt OpenAI wegen angeblichen Diebstahls von Geschäftsgeheimnissen und wirft dem KI-Unternehmen vor, Apple-Ingenieure abgeworben zu haben, um vertrauliche Daten zu entwenden. Dieser Vorwurf verschärft den ohnehin intensiven Wettbewerb um die Vorherrschaft in der KI-Ära dramatisch."
+      "summary": "Apple hat OpenAI wegen angeblichen Diebstahls von Geschäftsgeheimnissen und Abwerbung von Ingenieuren verklagt, was den Wettstreit um die KI-Ära verschärft. Der iPhone-Hersteller wirft dem KI-Unternehmen vor, vertrauliche Daten neuer Produkte entwendet zu haben."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Sein letztes Gefecht: Volkswagen-Konzernchef Oliver Blume geht aufs Ganze",
-      "summary": "Volkswagen-Konzernchef Oliver Blume plant einen radikalen Umbau mit bis zu 120.000 Stellenstreichungen und der Schließung von vier Werken, um das Überleben des Konzerns zu sichern. Dieser drastische Schritt ist entscheidend für die Zukunft von Volkswagen und Blumes eigene Position."
+      "headline": "TechCrunch Mobility: A robotaxi ultimatum",
+      "summary": "Der Bereich der Robotaxis und autonomen Mobilität steht vor entscheidenden Entwicklungen, die von der fortschreitenden Integration künstlicher Intelligenz geprägt sind. Die Zukunft des Transports wird zunehmend von diesen Innovationen geformt."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "SK Hynix legt in Amerika ein furioses Börsendebüt hin – die Anleger glauben, dass der KI-Boom andauern wird",
-      "summary": "Der südkoreanische Chiphersteller SK Hynix feierte ein furioses Börsendebüt an der Nasdaq, wobei die Hinterlegungsscheine deutlich über dem Ausgabepreis gehandelt wurden. Dieses starke Abschneiden spiegelt das Vertrauen der Anleger in einen anhaltenden KI-Boom wider."
+      "headline": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "summary": "SK Hynix hat mit einem 26,5 Milliarden US-Dollar schweren Börsengang das größte ausländische IPO in der Geschichte der USA hingelegt. Der Erfolg untermauert das Vertrauen in den anhaltenden KI-Chip-Boom und führt zu Forderungen nach neuen US-Produktionsstätten."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Reed Jobs would rather talk about curing cancer than his last name",
-      "summary": "Reed Jobs, Sohn des Apple-Gründers, fokussiert sich mit seiner Venture-Firma Yosemite auf Biotechnologie und Krebsheilung, wobei KI eine immer größere Rolle spielt. Sein Unternehmen hat sich rasant entwickelt und profitiert von auslaufenden Patenten sowie dem Potenzial der Künstlichen Intelligenz."
+      "headline": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "summary": "Die College-App Fizz hat ihre Klage gegen den Rivalen Sidechat erweitert und wirft einem VC vor, vertrauliche Informationen aus einem Fundraising-Meeting geteilt zu haben. Dieser Vorfall beleuchtet kritische Vertrauensfragen im Startup- und Venture-Capital-Umfeld."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* dem Erhalt des frischen Kapitals angibt. Diese Unterscheidung ist entscheidend, um den Anteil der Investoren und die Verwässerung der bestehenden Eigentümer zu berechnen.",
-    "details": "Wenn ein Startup Kapital aufnimmt, investieren neue Anteilseigner für einen bestimmten Prozentsatz des Unternehmens. Die Pre-Money-Bewertung wird durch Multiplikation des Preises pro Aktie mit der Anzahl der ausstehenden Aktien *vor* der Runde ermittelt. Die Post-Money-Bewertung ergibt sich aus der Summe der Pre-Money-Bewertung und dem investierten Kapital oder alternativ durch Multiplikation des Preises pro Aktie mit der Anzahl der Aktien *nach* der Kapitalerhöhung. Diese Bewertungsmethoden bestimmen, wie das Eigentum nach der Finanzierung verteilt wird und sind Grundlage für die Anpassung der Cap Table.",
-    "takeaway": "Für Gründer und Investoren ist das Verständnis von Pre- und Post-Money essenziell, um den effektiven Wert des Unternehmens und die Beteiligungsverteilung nach einer Investition korrekt zu beurteilen und Verhandlungen zu führen. Es zeigt direkt, wie sich das eingebrachte Kapital auf die Anteile aller Beteiligten auswirkt."
+    "topic": "Der Mechanismus eines Short Squeeze",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein Phänomen an der Börse, bei dem der Kurs einer Aktie plötzlich und stark ansteigt, was Leerverkäufer dazu zwingt, ihre Positionen unter Verlust zu schließen und den Aufwärtstrend weiter verstärkt.",
+    "details": "Ein Short Squeeze beginnt, wenn viele Anleger eine Aktie leerverkaufen, also auf fallende Kurse wetten, indem sie geliehene Aktien verkaufen. Steigt der Kurs dieser Aktie unerwartet an, geraten die Leerverkäufer in Bedrängnis, da ihre potenziellen Verluste unbegrenzt sind. Um diese Verluste zu begrenzen, müssen sie die leerverkauften Aktien zurückkaufen und an den Verleiher zurückgeben – dies wird 'Covering' genannt. Die erzwungenen Käufe treiben den Kurs weiter in die Höhe, was wiederum weitere Leerverkäufer zum Covering zwingt und eine positive Rückkopplungsschleife erzeugt, die den Short Squeeze verstärkt.",
+    "takeaway": "Ein Short Squeeze ist eine erzwungene Kaufwelle, die durch steigende Kurse bei stark leerverkauften Aktien ausgelöst wird und zu extrem schnellen und volatilen Kursanstiegen führen kann. Für Anleger ist es wichtig, das Risiko leerverkaufter Positionen und die potenzielle Dynamik eines Squeeze-Ereignisses zu verstehen."
   }
 }
