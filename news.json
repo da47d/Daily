@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA-Iran-Konflikt: Wie geht es weiter mit der Straße von Hormus?",
-      "summary": "Der Konflikt zwischen den USA und Iran eskaliert weiter, mit der Straße von Hormus als zentralem Streitpunkt für den globalen Handel. Eine diplomatische Lösung oder ein Atomabkommen scheinen derzeit unwahrscheinlich."
+      "headline": "US-Präsident Trump kündigt neue Seeblockade gegen Iran an",
+      "summary": "Nach erneuten gegenseitigen Angriffen droht US-Präsident Trump dem Iran mit einer neuen Seeblockade. Die USA wollen zudem offenbar in der Straße von Hormus mitverdienen, doch die tatsächliche Lage bleibt unklar."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Neue US-Angriffe auf Iran",
-      "summary": "Das US-Militär hat erneut Ziele in Iran bombardiert, um Angriffe auf Handelsschiffe in der Straße von Hormus zu unterbinden. Iran reagierte umgehend mit Gegenangriffen, was die Spannungen weiter eskaliert."
+      "headline": "Europäer schmieden Bündnis für Raketenabwehr",
+      "summary": "Frankreich, Deutschland und sieben weitere europäische Staaten, einschließlich der Ukraine, haben eine Koalition zur Raketenabwehr vereinbart. Das Bündnis betont seinen defensiven Charakter zur Stärkung der eigenen Sicherheit."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Neue Spannungen machen DAX-Anleger nervös",
-      "summary": "Der DAX startete mit Verlusten in die Woche, beeinflusst durch schwache Vorgaben aus Asien und zunehmende geopolitische Spannungen. Diese Entwicklung spiegelt die Nervosität der Anleger wider und deutet auf eine unsichere Marktstimmung hin."
+      "headline": "UBS soll Rücknahmewelle bei Private-Credit-Fonds ausgelöst haben",
+      "summary": "Laut einem Bericht soll die Grossbank UBS bestimmten Kunden empfohlen haben, ihr Engagement in Private Credit zu reduzieren, was eine Rücknahmewelle bei Fonds ausgelöst haben könnte. Die UBS hält jedoch unverändert an dieser Anlageklasse fest."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Private Credit in der Krise: Die UBS soll Rücknahmewelle bei Fonds ausgelöst haben",
-      "summary": "Die UBS soll durch Empfehlungen an Kunden, das Engagement in Private Credit zu reduzieren, eine Rücknahmewelle ausgelöst haben. Obwohl die Grossbank selbst an der Anlageklasse festhält, signalisiert dies eine potenzielle Marktverunsicherung."
+      "headline": "12 US-Bundesstaaten verklagen Paramount wegen Warner Bros. Deals",
+      "summary": "Zwölf US-Bundesstaaten haben eine Klage eingereicht, um den geplanten 110 Milliarden Dollar schweren Zusammenschluss von Paramount und Warner Bros. zu blockieren. Sie befürchten, dass der Deal Kinos, Kabelnetzbetreiber und das Publikum schädigen würde."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Der Wettstreit um das «iPhone der KI-Ära» eskaliert: Apple verklagt Open AI wegen Diebstahls von Geschäftsgeheimnissen",
-      "summary": "Apple hat OpenAI wegen angeblichen Diebstahls von Geschäftsgeheimnissen und Abwerbung von Ingenieuren verklagt, was den Wettstreit um die KI-Ära verschärft. Der iPhone-Hersteller wirft dem KI-Unternehmen vor, vertrauliche Daten neuer Produkte entwendet zu haben."
+      "headline": "Apple verklagt OpenAI wegen Diebstahls von Geschäftsgeheimnissen",
+      "summary": "Apple wirft OpenAI vor, zahlreiche Ingenieure abgeworben und zum Diebstahl vertraulicher Daten neuer Produkte angestiftet zu haben, was das KI-Unternehmen zurückweist. Der Vorwurf wiegt schwer im Wettstreit um das 'iPhone der KI-Ära'."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "TechCrunch Mobility: A robotaxi ultimatum",
-      "summary": "Der Bereich der Robotaxis und autonomen Mobilität steht vor entscheidenden Entwicklungen, die von der fortschreitenden Integration künstlicher Intelligenz geprägt sind. Die Zukunft des Transports wird zunehmend von diesen Innovationen geformt."
+      "headline": "SpaceX nach Starship-Booster-Fehler erneut zum Start freigegeben",
+      "summary": "SpaceX hat die Freigabe erhalten, Starship erneut zu fliegen, nachdem es im Mai zu einem Booster-Fehler kam. Dies wird der erste Testflug als börsenkotiertes Unternehmen sein und die Akzeptanz des Marktes für den 'fly, fail, fix'-Ansatz des Unternehmens prüfen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "summary": "SK Hynix hat mit einem 26,5 Milliarden US-Dollar schweren Börsengang das größte ausländische IPO in der Geschichte der USA hingelegt. Der Erfolg untermauert das Vertrauen in den anhaltenden KI-Chip-Boom und führt zu Forderungen nach neuen US-Produktionsstätten."
+      "headline": "General Fusion geht als erstes Fusionsunternehmen an die Börse",
+      "summary": "General Fusion startete nach einer Reverse-Merger-Transaktion, die hohe Rücknahmen sah, den Handel an der Nasdaq und ist damit das erste öffentlich gehandelte Fusionsunternehmen. Investoren schickten die Aktie bei ihrem Debüt in die Höhe."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
-      "summary": "Die College-App Fizz hat ihre Klage gegen den Rivalen Sidechat erweitert und wirft einem VC vor, vertrauliche Informationen aus einem Fundraising-Meeting geteilt zu haben. Dieser Vorfall beleuchtet kritische Vertrauensfragen im Startup- und Venture-Capital-Umfeld."
+      "headline": "Anthropic lokalisiert Claude-Preise für den indischen Markt",
+      "summary": "Anthropic beginnt, die Abonnementpreise für seinen KI-Assistenten Claude in indischen Rupien anzubieten, da Indien nach den USA zum grössten Markt avanciert ist. Dieser strategische Schritt reflektiert die Marktbedeutung und lokale Anpassung."
     }
   ],
   "learning": {
-    "topic": "Der Mechanismus eines Short Squeeze",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein Phänomen an der Börse, bei dem der Kurs einer Aktie plötzlich und stark ansteigt, was Leerverkäufer dazu zwingt, ihre Positionen unter Verlust zu schließen und den Aufwärtstrend weiter verstärkt.",
-    "details": "Ein Short Squeeze beginnt, wenn viele Anleger eine Aktie leerverkaufen, also auf fallende Kurse wetten, indem sie geliehene Aktien verkaufen. Steigt der Kurs dieser Aktie unerwartet an, geraten die Leerverkäufer in Bedrängnis, da ihre potenziellen Verluste unbegrenzt sind. Um diese Verluste zu begrenzen, müssen sie die leerverkauften Aktien zurückkaufen und an den Verleiher zurückgeben – dies wird 'Covering' genannt. Die erzwungenen Käufe treiben den Kurs weiter in die Höhe, was wiederum weitere Leerverkäufer zum Covering zwingt und eine positive Rückkopplungsschleife erzeugt, die den Short Squeeze verstärkt.",
-    "takeaway": "Ein Short Squeeze ist eine erzwungene Kaufwelle, die durch steigende Kurse bei stark leerverkauften Aktien ausgelöst wird und zu extrem schnellen und volatilen Kursanstiegen führen kann. Für Anleger ist es wichtig, das Risiko leerverkaufter Positionen und die potenzielle Dynamik eines Squeeze-Ereignisses zu verstehen."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese beiden Begriffe beschreiben die Bewertung eines Startups vor und nach einer Finanzierungsrunde und sind entscheidend, um den Unternehmenswert sowie den Eigentumsanteil von Investoren zu bestimmen.",
+    "details": "Die Pre-Money Bewertung ist der Wert des Unternehmens, der *vor* dem Eingang des neuen Kapitals einer Finanzierungsrunde festgelegt wird. Addiert man das investierte Kapital zur Pre-Money Bewertung, erhält man die Post-Money Bewertung – den Wert des Unternehmens *nach* der Investition. Wenn ein Investor beispielsweise 1 Million Euro in ein Startup mit einer Pre-Money Bewertung von 9 Millionen Euro investiert, beträgt die Post-Money Bewertung 10 Millionen Euro, und der Investor erhält 10% der Anteile. Das Verständnis dieser Unterscheidung ist fundamental, da sie direkt beeinflusst, wie viel des Unternehmens Investoren für ihr Geld erhalten und wie sich die Anteile der Gründer verwässern.",
+    "takeaway": "Pre-Money ist der Wert vor der Finanzierung; Post-Money ist der Wert danach. Dies bestimmt, wie sich die Anteile nach einer Investition verteilen und ist zentral für die Deal-Strukturierung."
   }
 }
