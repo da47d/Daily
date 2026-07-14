@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Marktbericht: Hält sich der DAX über 25.000 Punkten?",
-      "summary": "Der Nahost-Konflikt und die Ankündigung einer neuen Blockade iranischer Häfen durch US-Präsident Trump belasten die weltweiten Aktienmärkte und trieben die Ölpreise in die Höhe. Der DAX kämpft infolge der globalen Spannungen darum, die 25.000-Punkte-Marke zu halten."
+      "headline": "Trump rudert bei Hormus-Maut zurück, fordert Investitionen von Golfstaaten",
+      "summary": "US-Präsident Trump revidiert seine Pläne zur Erhebung einer Maut für die Durchfahrt der Straße von Hormus. Stattdessen erwartet er nun hohe Investitionen der Golfländer in den USA, was den Ölmarkt weiterhin skeptisch stimmt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Straße von Hormus: Dritte Nacht in Folge US-Angriffe auf Iran",
-      "summary": "Erneut gab es in der vergangenen Nacht Angriffe der USA auf Iran sowie iranische Reaktionen im Streit um den Zugang zur Straße von Hormus. US-Präsident Trump fordert dort eine hohe Maut zugunsten der USA."
+      "headline": "Ukraine greift russische Ölproduktion an, Russland ziviles Schiff in Odessa",
+      "summary": "Die Ukraine setzt ihre Angriffe auf russische Tanker, Frachtschiffe und Ölraffinerien fort, um sich zur Wehr zu setzen. Im Gegenzug griff Russland Odessa an und traf laut ukrainischen Angaben ein ziviles Schiff."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "12 states sue to block Paramount’s $110B Warner Bros. deal",
-      "summary": "Zwölf US-Bundesstaaten klagen, um die 110 Milliarden Dollar schwere Übernahme von Warner Bros. durch Paramount zu stoppen. Sie befürchten, dass der Mega-Deal Kinos, Kabelanbieter und damit auch die Zuschauer schädigen würde."
+      "headline": "EZB bereitet Testphase für digitalen Euro mit 36 Banken vor",
+      "summary": "Die Europäische Zentralbank hat 36 Zahlungsdienstleister, darunter Deutsche Bank, DZ Bank und Helaba, für die Testphase des digitalen Euro ausgewählt. Die Digitalwährung soll ab 2027 unter realen Bedingungen erprobt werden."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Erstmals nach 40 Jahren: Japans wertvollster Konzern ist eine Bank",
-      "summary": "Mit steigenden Zinsen lässt Japan eine jahrzehntelange Deflation hinter sich, wovon die Finanzgruppe Mitsubishi UFJ massiv profitiert. Die Bank überholt Kioxia und Toyota in der Marktkapitalisierung und ist nun erstmals seit 40 Jahren Japans wertvollster Konzern."
+      "headline": "Japans wertvollster Konzern ist erstmals seit 40 Jahren eine Bank",
+      "summary": "Durch steigende Zinsen überwindet Japan eine jahrzehntelange Deflation, wovon die Finanzgruppe Mitsubishi UFJ stark profitiert. Sie überholt damit Konzerne wie Kioxia und Toyota in der Marktkapitalisierung und wird zum wertvollsten Unternehmen Japans."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Der Wettstreit um das «iPhone der KI-Ära» eskaliert: Apple verklagt Open AI wegen Diebstahls von Geschäftsgeheimnissen",
-      "summary": "Apple verklagt OpenAI wegen Diebstahls von Geschäftsgeheimnissen und wirft dem KI-Unternehmen vor, Apple-Ingenieure abgeworben und zum Datendiebstahl ermutigt zu haben. Dieser Rechtsstreit markiert eine Eskalation im Kampf um die Vorherrschaft in der KI-Ära."
+      "headline": "200 Ökonomen und Tech-Bosse warnen vor KI als 'größer als die industrielle Revolution'",
+      "summary": "Führende Wissenschaftler und Wirtschaftsgrößen äußern tiefe Besorgnis über die potenziellen wirtschaftlichen und gesellschaftlichen Folgen der Künstlichen Intelligenz. Selbst frühere Skeptiker sind nun alarmiert und sehen die KI als disruptive Kraft."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Ursula von der Leyen fordert: Tiktok, Facebook oder Instagram sollen beweisen, dass sie für Jugendliche ungefährlich sind",
-      "summary": "EU-Kommissionspräsidentin Ursula von der Leyen plädiert für einschneidende Maßnahmen und verlangt von sozialen Netzwerken, die Ungefährlichkeit ihrer Dienste für Kinder und Teenager zu beweisen. Dies adressiert die Sorge vor Suchtgefahren für junge Nutzer."
+      "headline": "DeepMind CEO fordert unabhängige Standards für KI-Regulierung nach FINRA-Modell",
+      "summary": "Demis Hassabis, CEO von DeepMind, schlägt die Gründung eines unabhängigen KI-Standardisierungsgremiums vor, angelehnt an das FINRA-Modell. Dieses soll Spitzenmodelle testen und Best Practices für deren Veröffentlichung entwickeln, um die Sicherheit zu gewährleisten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "summary": "Das Video-Generierungs-Startup PixVerse hat eine Finanzierungsrunde von 439 Millionen Dollar abgeschlossen, wodurch seine Bewertung auf über 2 Milliarden Dollar steigt. Mit diesem Kapital will das Unternehmen sein Weltmodell-Angebot erweitern und Kunden weltweit erreichen."
+      "headline": "Milliarden-Finanzierung für Helsing: Deutsches Startup sammelt Rekordsumme ein",
+      "summary": "Das Münchner Rüstungs-Startup Helsing hat eine Milliardenfinanzierung durch US-Finanzriesen wie JP Morgan und Goldman Sachs erhalten. Dies stellt die größte Einzelinvestition dar, die jemals ein deutsches Startup erhalten hat."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "summary": "Nous Research, Entwickler von Hermes-Agenten, verhandelt über eine neue Finanzierungsrunde von mindestens 75 Millionen Dollar, die das Unternehmen mit 1,5 Milliarden Dollar bewerten würde. Robot Ventures führt die Runde an, mit Beteiligung von USV und anderen prominenten Investoren."
+      "headline": "DeepSeek plant angeblich IPO nach 1,5 Milliarden US-Dollar Finanzierungsrunde",
+      "summary": "Der chinesische Entwickler großer Sprachmodelle, DeepSeek, strebt angeblich eine Finanzierungsrunde von 1,5 Milliarden US-Dollar bei einer Bewertung von 71 Milliarden US-Dollar an. Das Unternehmen soll sich zudem auf einen Börsengang im Jahr 2027 vorbereiten."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang: Die Bedeutung von SaaS, B2B, ARR, Burn Rate & Churn",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Startup-Slang umfasst zentrale Abkürzungen und Begriffe, die in der Tech- und Venture-Capital-Welt verwendet werden, um Geschäftsmodelle, Finanzkennzahlen und die Performance junger Unternehmen prägnant zu kommunizieren. Sie sind entscheidend, um die Dynamik und den Wert von Startups zu verstehen.",
-    "details": "SaaS (Software as a Service) beschreibt ein Geschäftsmodell, bei dem Software über ein Abonnement online genutzt wird, anstatt sie zu kaufen. B2B (Business-to-Business) kennzeichnet Unternehmen, die an andere Unternehmen verkaufen. ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements, ein Indikator für Stabilität. Die Burn Rate beziffert, wie schnell ein Startup sein Kapital aufbraucht, während die Churn Rate den Prozentsatz der Kunden angibt, die in einem bestimmten Zeitraum abspringen oder kündigen.",
-    "takeaway": "Das Verstehen dieser Begriffe ermöglicht eine schnelle Analyse des Geschäftsmodells, der finanziellen Gesundheit und des Wachstumspotenzials von Startups. Diese Fähigkeit ist unverzichtbar für jeden, der im Venture Capital oder im Tech-Sektor erfolgreich sein möchte."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Den wahren Unternehmenswert erkennen",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese beiden Begriffe sind entscheidend, um den Wert eines Startups vor und nach einer Finanzierungsrunde zu verstehen. Sie helfen, den Anteil zu bestimmen, den Investoren für ihr Kapital erhalten.",
+    "details": "Die Pre-Money-Bewertung (Pre-Money Valuation) ist der Wert des Unternehmens VOR dem Eingang neuer Investitionen in einer Finanzierungsrunde. Sie spiegelt wider, wie viel das Unternehmen vor dem frischen Kapital wert ist. Die Post-Money-Bewertung (Post-Money Valuation) ergibt sich aus der Summe der Pre-Money-Bewertung und dem zusätzlich investierten Kapital. Wenn ein Startup beispielsweise mit 10 Millionen Euro bewertet wird (Pre-Money) und 2 Millionen Euro von Investoren erhält, beträgt die Post-Money-Bewertung 12 Millionen Euro. Die Post-Money-Bewertung ist für Investoren ausschlaggebend, um ihren prozentualen Anteil am Unternehmen nach der Investition zu berechnen.",
+    "takeaway": "Verstehe, dass Investoren ihre Beteiligungsquote auf Basis der Post-Money-Bewertung kalkulieren. Der Unterschied ist essenziell, um die Kapitalisierung eines Startups und die Anteilsverteilung nach einer Finanzierungsrunde korrekt zu beurteilen."
   }
 }
