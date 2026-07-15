@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump rudert bei Hormus-Maut zurück, fordert Investitionen von Golfstaaten",
-      "summary": "US-Präsident Trump revidiert seine Pläne zur Erhebung einer Maut für die Durchfahrt der Straße von Hormus. Stattdessen erwartet er nun hohe Investitionen der Golfländer in den USA, was den Ölmarkt weiterhin skeptisch stimmt."
+      "headline": "US-Seeblockade wieder in Kraft - Angriffe auf Iran gehen weiter",
+      "summary": "Das US-Militär blockiert erneut iranische Häfen und Küstengebiete, während die Luftangriffe die vierte Nacht in Folge andauern. Präsident Trump droht zudem mit der Zerstörung wichtiger Infrastruktur im Iran."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine greift russische Ölproduktion an, Russland ziviles Schiff in Odessa",
-      "summary": "Die Ukraine setzt ihre Angriffe auf russische Tanker, Frachtschiffe und Ölraffinerien fort, um sich zur Wehr zu setzen. Im Gegenzug griff Russland Odessa an und traf laut ukrainischen Angaben ein ziviles Schiff."
+      "headline": "Lage am Persischen Golf: \"Kein Krieg, aber auch kein Frieden\"",
+      "summary": "Nach jüngsten US-Schlägen gegen Iran wächst am Persischen Golf die Sorge vor einer Eskalation und ihren Folgen für den Welthandel. Angriffe auf Tanker und Unsicherheit an der Straße von Hormus prägen die angespannte Lage."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EZB bereitet Testphase für digitalen Euro mit 36 Banken vor",
-      "summary": "Die Europäische Zentralbank hat 36 Zahlungsdienstleister, darunter Deutsche Bank, DZ Bank und Helaba, für die Testphase des digitalen Euro ausgewählt. Die Digitalwährung soll ab 2027 unter realen Bedingungen erprobt werden."
+      "headline": "Die US-Banken legen ein starkes Halbjahr hin – dank Elon Musk, den Börsen und einer Wirtschaft, die nicht totzukriegen ist",
+      "summary": "Großbanken profitieren von Elon Musks SpaceX-Börsengang und der volatilen Aktienmarktentwicklung. Sorgen um Kreditkartenschulden treten vorerst in den Hintergrund, da die Wirtschaft widerstandsfähig bleibt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Japans wertvollster Konzern ist erstmals seit 40 Jahren eine Bank",
-      "summary": "Durch steigende Zinsen überwindet Japan eine jahrzehntelange Deflation, wovon die Finanzgruppe Mitsubishi UFJ stark profitiert. Sie überholt damit Konzerne wie Kioxia und Toyota in der Marktkapitalisierung und wird zum wertvollsten Unternehmen Japans."
+      "headline": "Erstmals nach 40 Jahren: Japans wertvollster Konzern ist eine Bank",
+      "summary": "Mit steigenden Zinsen verabschiedet sich Japan von einer jahrzehntelangen Deflation, wovon die Finanzgruppe Mitsubishi UFJ besonders profitiert. Das Unternehmen überholt nun Kioxia und Toyota in der Marktkapitalisierung und wird zum wertvollsten Konzern des Landes."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "200 Ökonomen und Tech-Bosse warnen vor KI als 'größer als die industrielle Revolution'",
-      "summary": "Führende Wissenschaftler und Wirtschaftsgrößen äußern tiefe Besorgnis über die potenziellen wirtschaftlichen und gesellschaftlichen Folgen der Künstlichen Intelligenz. Selbst frühere Skeptiker sind nun alarmiert und sehen die KI als disruptive Kraft."
+      "headline": "«Grösser als die industrielle Revolution»: 200 Ökonomen und Tech-Bosse warnen vor KI",
+      "summary": "Führende Wissenschaftler und Wirtschaftsgrößen äußern sich besorgt über die potenziellen wirtschaftlichen und gesellschaftlichen Folgen der Künstlichen Intelligenz. Selbst frühere Skeptiker sind angesichts der Entwicklung alarmiert."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "DeepMind CEO fordert unabhängige Standards für KI-Regulierung nach FINRA-Modell",
-      "summary": "Demis Hassabis, CEO von DeepMind, schlägt die Gründung eines unabhängigen KI-Standardisierungsgremiums vor, angelehnt an das FINRA-Modell. Dieses soll Spitzenmodelle testen und Best Practices für deren Veröffentlichung entwickeln, um die Sicherheit zu gewährleisten."
+      "headline": "2:0-Sieg gegen Frankreich: Spanien erreicht WM-Finale",
+      "summary": "Spaniens Nationalmannschaft hat das erste Halbfinale der Fußball-WM in Arlington, USA, mit einem 2:0-Sieg gegen Frankreich gewonnen. Das Team zieht somit ins Finale des Turniers ein."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Milliarden-Finanzierung für Helsing: Deutsches Startup sammelt Rekordsumme ein",
-      "summary": "Das Münchner Rüstungs-Startup Helsing hat eine Milliardenfinanzierung durch US-Finanzriesen wie JP Morgan und Goldman Sachs erhalten. Dies stellt die größte Einzelinvestition dar, die jemals ein deutsches Startup erhalten hat."
+      "headline": "Milliarden für Helsing: Noch nie hat ein deutsches Startup so viel Geld auf einmal eingesammelt",
+      "summary": "Das Münchner Rüstungs-KI-Startup Helsing konnte eine Milliardenfinanzierungsrunde abschließen, bei der namhafte US-Finanzriesen wie JP Morgan und Goldman Sachs investierten. Dies markiert einen Rekord für deutsche Startups in Bezug auf die eingesammelte Summe."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "DeepSeek plant angeblich IPO nach 1,5 Milliarden US-Dollar Finanzierungsrunde",
-      "summary": "Der chinesische Entwickler großer Sprachmodelle, DeepSeek, strebt angeblich eine Finanzierungsrunde von 1,5 Milliarden US-Dollar bei einer Bewertung von 71 Milliarden US-Dollar an. Das Unternehmen soll sich zudem auf einen Börsengang im Jahr 2027 vorbereiten."
+      "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "summary": "Ein führender OpenAI-Forscher plant die Gründung eines Startups im Bereich KI-gestützter Medikamentenentwicklung mit einer angestrebten Bewertung von 2 Milliarden US-Dollar. Die laufenden Finanzierungsgespräche unterstreichen das hohe Investoreninteresse an der Anwendung von KI in den Biowissenschaften."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Den wahren Unternehmenswert erkennen",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese beiden Begriffe sind entscheidend, um den Wert eines Startups vor und nach einer Finanzierungsrunde zu verstehen. Sie helfen, den Anteil zu bestimmen, den Investoren für ihr Kapital erhalten.",
-    "details": "Die Pre-Money-Bewertung (Pre-Money Valuation) ist der Wert des Unternehmens VOR dem Eingang neuer Investitionen in einer Finanzierungsrunde. Sie spiegelt wider, wie viel das Unternehmen vor dem frischen Kapital wert ist. Die Post-Money-Bewertung (Post-Money Valuation) ergibt sich aus der Summe der Pre-Money-Bewertung und dem zusätzlich investierten Kapital. Wenn ein Startup beispielsweise mit 10 Millionen Euro bewertet wird (Pre-Money) und 2 Millionen Euro von Investoren erhält, beträgt die Post-Money-Bewertung 12 Millionen Euro. Die Post-Money-Bewertung ist für Investoren ausschlaggebend, um ihren prozentualen Anteil am Unternehmen nach der Investition zu berechnen.",
-    "takeaway": "Verstehe, dass Investoren ihre Beteiligungsquote auf Basis der Post-Money-Bewertung kalkulieren. Der Unterschied ist essenziell, um die Kapitalisierung eines Startups und die Anteilsverteilung nach einer Finanzierungsrunde korrekt zu beurteilen."
+    "topic": "Short Squeeze: Die Jagd nach fallenden Kursen",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist eine plötzliche, starke Kurssteigerung einer Aktie, die durch Anleger ausgelöst wird, die auf fallende Kurse wetten und ihre Positionen unter Druck schließen müssen. Dies kann zu einem Dominoeffekt führen, der den Kurs weiter in die Höhe treibt.",
+    "details": "Wenn viele Anleger eine Aktie 'shorten', leihen sie sich diese, verkaufen sie sofort und hoffen, sie später zu einem niedrigeren Preis zurückzukaufen, um die geliehene Aktie zurückzugeben und die Differenz als Gewinn einzustreichen. Steigt der Kurs unerwartet stark an, geraten diese Short-Seller unter Druck, da ihre potenziellen Verluste unbegrenzt sind. Um ihre Verluste zu begrenzen, müssen sie die Aktie zurückkaufen, was die Nachfrage und somit den Preis weiter in die Höhe treibt. Dieser erzwungene Rückkauf löst oft eine Kettenreaktion aus, da immer mehr Short-Seller zum Handeln gezwungen werden.",
+    "takeaway": "Ein Short Squeeze zeigt, wie die Erwartung vieler Händler an fallende Kurse bei einer Trendumkehr zu einer explosionsartigen Preisbewegung führen kann. Als Anleger ist es wichtig, die Risiken des Leerverkaufs und die Dynamik solcher Marktereignisse zu verstehen."
   }
 }
