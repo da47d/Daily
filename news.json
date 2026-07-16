@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Seeblockade wieder in Kraft - Angriffe auf Iran gehen weiter",
-      "summary": "Das US-Militär blockiert erneut iranische Häfen und Küstengebiete, während die Luftangriffe die vierte Nacht in Folge andauern. Präsident Trump droht zudem mit der Zerstörung wichtiger Infrastruktur im Iran."
+      "headline": "Iran-Krieg: Golfstaaten fürchten neue Eskalation",
+      "summary": "Die Golfstaaten fürchten eine neue Eskalation im Iran-Krieg, nachdem US-Militärbasen wiederholt angegriffen wurden. Dies schürt die Sorge vor größeren Kampfhandlungen und beeinflusst die globale Stabilität."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Lage am Persischen Golf: \"Kein Krieg, aber auch kein Frieden\"",
-      "summary": "Nach jüngsten US-Schlägen gegen Iran wächst am Persischen Golf die Sorge vor einer Eskalation und ihren Folgen für den Welthandel. Angriffe auf Tanker und Unsicherheit an der Straße von Hormus prägen die angespannte Lage."
+      "headline": "Handelsstreit: USA kündigen Zölle in Höhe von 25 Prozent auf Importe aus Brasilien an",
+      "summary": "Die USA haben Zölle von 25 Prozent auf Importe aus Brasilien angekündigt, trotz früherer Gerichtsentscheidungen gegen Trumps Zollpolitik. Diese Maßnahme verursacht weiterhin globale Turbulenzen im internationalen Handelsstreit."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die US-Banken legen ein starkes Halbjahr hin – dank Elon Musk, den Börsen und einer Wirtschaft, die nicht totzukriegen ist",
-      "summary": "Großbanken profitieren von Elon Musks SpaceX-Börsengang und der volatilen Aktienmarktentwicklung. Sorgen um Kreditkartenschulden treten vorerst in den Hintergrund, da die Wirtschaft widerstandsfähig bleibt."
+      "headline": "Fed-Chef Warsh verteidigt im Senatsausschuss seinen KI-Optimismus",
+      "summary": "Der neue US-Notenbankchef Warsh verteidigte seinen KI-Optimismus im Senatsausschuss und beruhigte Kritiker. Der Ausbau der KI-Infrastruktur wird seine Geldpolitik maßgeblich prägen, was die wirtschaftliche Ausrichtung der USA beeinflusst."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Erstmals nach 40 Jahren: Japans wertvollster Konzern ist eine Bank",
-      "summary": "Mit steigenden Zinsen verabschiedet sich Japan von einer jahrzehntelangen Deflation, wovon die Finanzgruppe Mitsubishi UFJ besonders profitiert. Das Unternehmen überholt nun Kioxia und Toyota in der Marktkapitalisierung und wird zum wertvollsten Konzern des Landes."
+      "headline": "Krisenstimmung in Peking: Chinas Wirtschaft verliert deutlich an Dynamik",
+      "summary": "Chinas Wirtschaft verzeichnete im zweiten Quartal das geringste Wachstum seit über drei Jahren, was auf eine deutliche Dynamikeinbuße hinweist. Lediglich der Exportsektor bietet einen kleinen Lichtblick in der Krisenstimmung Pekings."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "«Grösser als die industrielle Revolution»: 200 Ökonomen und Tech-Bosse warnen vor KI",
-      "summary": "Führende Wissenschaftler und Wirtschaftsgrößen äußern sich besorgt über die potenziellen wirtschaftlichen und gesellschaftlichen Folgen der Künstlichen Intelligenz. Selbst frühere Skeptiker sind angesichts der Entwicklung alarmiert."
+      "headline": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "summary": "Die Newsletter-Plattform Beehiiv führt eine Chat-Funktion für Abonnenten sowie einen KI-Copiloten ein, um Publisher bei Nutzerwachstum und Analyse zu unterstützen. Dies erweitert die Möglichkeiten für Content-Ersteller erheblich."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "2:0-Sieg gegen Frankreich: Spanien erreicht WM-Finale",
-      "summary": "Spaniens Nationalmannschaft hat das erste Halbfinale der Fußball-WM in Arlington, USA, mit einem 2:0-Sieg gegen Frankreich gewonnen. Das Team zieht somit ins Finale des Turniers ein."
+      "headline": "X cracks down on creators who steal content",
+      "summary": "X setzt nun Grok AI ein, um gestohlene Inhalte besser zu erkennen und Auszahlungen an Original-Creator umzuleiten. Damit will die Plattform aktiv gegen Engagement-Köder vorgehen und die Integrität der Inhalte schützen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Milliarden für Helsing: Noch nie hat ein deutsches Startup so viel Geld auf einmal eingesammelt",
-      "summary": "Das Münchner Rüstungs-KI-Startup Helsing konnte eine Milliardenfinanzierungsrunde abschließen, bei der namhafte US-Finanzriesen wie JP Morgan und Goldman Sachs investierten. Dies markiert einen Rekord für deutsche Startups in Bezug auf die eingesammelte Summe."
+      "headline": "AI-powered travel agency Fora hits unicorn status, raises $60M",
+      "summary": "Die KI-gestützte Reiseagentur Fora hat in einer Series-D-Runde 60 Millionen Dollar eingesammelt und erreicht damit eine Bewertung von einer Milliarde Dollar. Der Unicorn-Status unterstreicht das Wachstumspotenzial im Bereich AI-basierter Reisedienstleistungen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "summary": "Ein führender OpenAI-Forscher plant die Gründung eines Startups im Bereich KI-gestützter Medikamentenentwicklung mit einer angestrebten Bewertung von 2 Milliarden US-Dollar. Die laufenden Finanzierungsgespräche unterstreichen das hohe Investoreninteresse an der Anwendung von KI in den Biowissenschaften."
+      "headline": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "summary": "Ein ehemaliger DeepMind-Forscher hat vor dem Produkt-Launch eine Pre-Seed-Bewertung von 300 Millionen Dollar für sein visuelles KI-Projekt erzielt. Dies unterstreicht den enormen Investor-Optimismus für bahnbrechende KI-Technologien."
     }
   ],
   "learning": {
-    "topic": "Short Squeeze: Die Jagd nach fallenden Kursen",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist eine plötzliche, starke Kurssteigerung einer Aktie, die durch Anleger ausgelöst wird, die auf fallende Kurse wetten und ihre Positionen unter Druck schließen müssen. Dies kann zu einem Dominoeffekt führen, der den Kurs weiter in die Höhe treibt.",
-    "details": "Wenn viele Anleger eine Aktie 'shorten', leihen sie sich diese, verkaufen sie sofort und hoffen, sie später zu einem niedrigeren Preis zurückzukaufen, um die geliehene Aktie zurückzugeben und die Differenz als Gewinn einzustreichen. Steigt der Kurs unerwartet stark an, geraten diese Short-Seller unter Druck, da ihre potenziellen Verluste unbegrenzt sind. Um ihre Verluste zu begrenzen, müssen sie die Aktie zurückkaufen, was die Nachfrage und somit den Preis weiter in die Höhe treibt. Dieser erzwungene Rückkauf löst oft eine Kettenreaktion aus, da immer mehr Short-Seller zum Handeln gezwungen werden.",
-    "takeaway": "Ein Short Squeeze zeigt, wie die Erwartung vieler Händler an fallende Kurse bei einer Trendumkehr zu einer explosionsartigen Preisbewegung führen kann. Als Anleger ist es wichtig, die Risiken des Leerverkaufs und die Dynamik solcher Marktereignisse zu verstehen."
+    "topic": "Vesting: Der Weg zur Eigentümerschaft für Gründer und Mitarbeiter",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Vesting regelt den sukzessiven Erwerb von Anteilen über einen bestimmten Zeitraum und stellt sicher, dass Gründer und Mitarbeiter ihre Anteile nicht sofort, sondern nur bei fortgesetztem Engagement vollständig besitzen.",
+    "details": "Beim Vesting werden Anteile nicht direkt zum Start übertragen, sondern über eine vereinbarte Zeitspanne (z.B. 4 Jahre) 'verdient'. Üblich ist eine 'Cliff'-Periode (z.B. 1 Jahr), nach der eine erste Tranche der Anteile freigegeben wird. Verlässt man das Unternehmen vor dem Cliff, verfallen alle Anteile. Danach werden die restlichen Anteile monatlich oder quartalsweise freigeschaltet. Dies schützt Investoren und das Unternehmen davor, dass Personen mit wertvollen Anteilen ausscheiden, ohne langfristig beigetragen zu haben. Es schafft Anreize für langfristiges Engagement und Ausrichtung der Interessen.",
+    "takeaway": "Vesting ist ein zentrales Instrument in Startups, um Anreize für Gründer und Schlüsselmitarbeiter zu schaffen und gleichzeitig die Interessen der Investoren an langfristiger Bindung zu schützen. Im Interview zeigt das Verständnis dafür, dass man die Dynamik und Risikominimierung im Startup-Umfeld versteht."
   }
 }
