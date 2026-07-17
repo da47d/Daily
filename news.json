@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iranische Medien: USA greifen Brücken und Flughafen an",
-      "summary": "Die USA haben erneut Ziele im Iran angegriffen, wobei iranischen Medien zufolge sieben Menschen getötet wurden. Teheran reagierte mit Gegenangriffen auf die Golfstaaten und verschärft die Spannungen in der Region."
+      "headline": "Israels Parlament löst sich auf - Wahlkampf beginnt",
+      "summary": "Israels Koalition hat ihr Parlament aufgelöst, womit der Wahlkampf für eine neue Legislaturperiode beginnt. Premier Netanjahu kämpft um eine weitere Amtszeit in einem politisch instabilen Umfeld."
     },
     {
       "tag": "POLITIK & GLOBAL",
       "headline": "Handelsstreit: USA kündigen Zölle in Höhe von 25 Prozent auf Importe aus Brasilien an",
-      "summary": "Trotz eines Supreme-Court-Urteils kündigten die USA erneut Zölle von 25 Prozent auf brasilianische Importe an, was weltweit für neue Turbulenzen im Handelsstreit sorgt. Präsident Trump setzt seine umstrittene Zollpolitik fort und verursacht internationale Verwerfungen."
+      "summary": "Trotz zuvor für unrechtmäßig erklärter Zölle setzt die US-Regierung unter Präsident Trump ihre Handelspolitik fort. Neue Zölle von 25 Prozent auf brasilianische Importe verursachen weltweit Turbulenzen und beeinflussen internationale Handelsbeziehungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Tech-Ausverkauf schickt Börsen auf Talfahrt",
-      "summary": "Ein globaler Absturz von Tech-Aktien belastet die Börsen weltweit und schickt sie auf Talfahrt. Selbst die am Abend veröffentlichten Quartalszahlen des Streaming-Riesen Netflix konnten diesen Trend nicht umkehren."
+      "headline": "Mögliche Übernahme: Warum es bei PayPal kriselt",
+      "summary": "PayPal, eine beliebte Zahlungsplattform, kämpft seit Längerem mit Problemen, was das Unternehmen zu einem attraktiven Übernahmekandidaten macht. Diese Entwicklung spiegelt Herausforderungen im FinTech-Sektor wider und könnte weitreichende Auswirkungen haben."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
-      "summary": "Uber hat eine $14,8 Milliarden schwere Übernahme von Delivery Hero in einem reinen Aktiendeal vereinbart. Dies würde Ubers globale Präsenz fast verdoppeln und einen der größten Essenslieferplattformen außerhalb Chinas schaffen."
+      "headline": "Hoher CO2-Preis: Die EU schlägt Änderungen vor, trotzdem sprechen die Firmen von brutalem «Industrieabbau»",
+      "summary": "Die EU-Kommission reagiert auf den Druck der Industrie mit Vorschlägen zur Reform des Emissionshandels, um Unternehmen zu entlasten. Trotz geplanter Änderungen, die Einnahmen gezielter in Dekarbonisierung fließen lassen sollen, befürchten Firmen weiterhin massiven Stellenabbau und Industrieabwanderung."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-      "summary": "SpaceX musste den zweiten Start seines Starship V3 kurz nach der Zündung abrupt abbrechen, ohne sofort den Grund mitzuteilen. Die Aktie des Unternehmens reagierte im nachbörslichen Handel mit einem starken Kursrückgang."
+      "headline": "Chinesisches KI-Start-up Moonshot fordert US-Konkurrenz heraus",
+      "summary": "Das chinesische Start-up Moonshot hat ein neues KI-Modell namens Kimi K3 vorgestellt, das direkt mit führenden Systemen von OpenAI und Anthropic konkurrieren soll. Dieser Schritt verschärft den globalen Wettbewerb im Bereich der Künstlichen Intelligenz erheblich."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Google Vids now lets you star in your own AI videos",
-      "summary": "Google Vids führt personalisierte KI-Avatare ein, die Nutzer in ihren eigenen Videos auftreten lassen. Mithilfe von Gemini Omni-Tools können nun Videos per Text-Prompt generiert und bearbeitet werden."
+      "headline": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "summary": "Apple hat OpenAI wegen angeblicher Geheimnisverrat verklagt, was OpenAI's Pläne für einen Börsengang erheblich stören könnte. Die Klage wirft ein Muster von Fehlverhalten vor und unterstreicht die Spannungen zwischen großen Tech-Akteuren im KI-Sektor."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-      "summary": "Die KI-gestützte Reiseagentur Fora hat mit einer Series D Finanzierungsrunde über 60 Millionen Dollar den Unicorn-Status erreicht. Das Unternehmen wird nun mit einer Milliarde Dollar bewertet und expandiert weiter."
+      "headline": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+      "summary": "KI-Startups erhalten derzeit enorme Seed-Finanzierungen, was es für Pre-Seed-Gründer ohne fertiges Produkt erschwert, Investoren zu finden. Eine Session bei TechCrunch Disrupt 2026 soll diesen Gründern zeigen, wie sie mit Überzeugung und Storytelling Kapital aufnehmen können."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Founders Fund hires former OpenAI exec Ryan Beiermeister",
-      "summary": "Der Founders Fund hat Ryan Beiermeister, eine ehemalige Führungskraft von OpenAI, als Partnerin eingestellt. Ihre kühle analytische Herangehensweise, bekannt aus der YouTube-Serie 'Mafia', prädestinierte sie für die Rolle."
+      "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "summary": "Ein $400 Millionen schweres, durch Chips gesichertes Darlehen deutet auf die nächste Welle von Deals im Bereich der KI-Infrastruktur hin. Diese Entwicklung zeigt einen Paradigmenwechsel bei der Finanzierung von Hardware, weg von Training-GPUs hin zu Inference-Chips für den operativen Einsatz."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Eine Achterbahnfahrt für Short-Seller",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze tritt auf, wenn der Kurs einer Aktie, die von vielen Investoren 'short' verkauft wurde, plötzlich stark ansteigt. Dies zwingt Short-Seller, ihre Positionen zu schließen, was den Kurs weiter in die Höhe treibt.",
-    "details": "Wenn Investoren eine Aktie shorten, leihen sie sich diese, verkaufen sie und wetten darauf, dass der Kurs fallen wird, um sie später billiger zurückzukaufen und dem Verleiher zurückzugeben. Steigt der Kurs jedoch unerwartet stark an, müssen Short-Seller, um größere Verluste zu vermeiden, die Aktie zu jedem Preis zurückkaufen, um ihre Positionen zu decken. Dieser erzwungene Kaufdruck beschleunigt den Kursanstieg spiralförmig, was als Short Squeeze bezeichnet wird.",
-    "takeaway": "Ein Short Squeeze zeigt die Risiken des Short-Sellings und kann zu explosiven Kursbewegungen führen, wenn die kollektive Angst der Short-Seller den Markt dominiert. Für Finance-Studenten ist es wichtig zu verstehen, wie Liquidität und Marktpsychologie solche extremen Ereignisse auslösen können."
+    "topic": "Strategischer Käufer vs. Finanzinvestor im M&A-Geschäft",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Im M&A-Geschäft unterscheiden sich strategische Käufer und Finanzinvestoren grundlegend in ihren Motiven und der Herangehensweise an eine Akquisition.",
+    "details": "Ein strategischer Käufer ist in der Regel ein Unternehmen aus derselben oder einer komplementären Branche, das durch die Akquisition Synergien erzielen möchte, wie Kosteneinsparungen, Markterweiterung oder Technologiesicherung. Sein Ziel ist es, das übernommene Unternehmen langfristig in die eigene Struktur zu integrieren und den operativen Wert zu steigern. Ein Finanzinvestor, oft eine Private-Equity-Gesellschaft, hat primär das Ziel, das erworbene Unternehmen innerhalb von 3-7 Jahren mit Gewinn weiterzuverkaufen. Er konzentriert sich auf die Optimierung der Kapitalstruktur, operative Effizienzsteigerungen und Expansion, um den Wert für einen zukünftigen Exit zu maximieren, oft mit hohem Einsatz von Fremdkapital (Leverage Buyout).",
+    "takeaway": "Für einen Verkäufer ist es entscheidend, die Art des Käufers zu verstehen, da dies nicht nur den Kaufpreis, sondern auch die zukünftige Entwicklung und Integration des Unternehmens maßgeblich beeinflusst."
   }
 }
