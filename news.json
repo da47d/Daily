@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran-Krieg: Golfstaaten fürchten neue Eskalation",
-      "summary": "Die Golfstaaten fürchten eine neue Eskalation im Iran-Krieg, nachdem US-Militärbasen wiederholt angegriffen wurden. Dies schürt die Sorge vor größeren Kampfhandlungen und beeinflusst die globale Stabilität."
+      "headline": "Iranische Medien: USA greifen Brücken und Flughafen an",
+      "summary": "Die USA haben erneut Ziele im Iran angegriffen, wobei iranischen Medien zufolge sieben Menschen getötet wurden. Teheran reagierte mit Gegenangriffen auf die Golfstaaten und verschärft die Spannungen in der Region."
     },
     {
       "tag": "POLITIK & GLOBAL",
       "headline": "Handelsstreit: USA kündigen Zölle in Höhe von 25 Prozent auf Importe aus Brasilien an",
-      "summary": "Die USA haben Zölle von 25 Prozent auf Importe aus Brasilien angekündigt, trotz früherer Gerichtsentscheidungen gegen Trumps Zollpolitik. Diese Maßnahme verursacht weiterhin globale Turbulenzen im internationalen Handelsstreit."
+      "summary": "Trotz eines Supreme-Court-Urteils kündigten die USA erneut Zölle von 25 Prozent auf brasilianische Importe an, was weltweit für neue Turbulenzen im Handelsstreit sorgt. Präsident Trump setzt seine umstrittene Zollpolitik fort und verursacht internationale Verwerfungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Fed-Chef Warsh verteidigt im Senatsausschuss seinen KI-Optimismus",
-      "summary": "Der neue US-Notenbankchef Warsh verteidigte seinen KI-Optimismus im Senatsausschuss und beruhigte Kritiker. Der Ausbau der KI-Infrastruktur wird seine Geldpolitik maßgeblich prägen, was die wirtschaftliche Ausrichtung der USA beeinflusst."
+      "headline": "Marktbericht: Tech-Ausverkauf schickt Börsen auf Talfahrt",
+      "summary": "Ein globaler Absturz von Tech-Aktien belastet die Börsen weltweit und schickt sie auf Talfahrt. Selbst die am Abend veröffentlichten Quartalszahlen des Streaming-Riesen Netflix konnten diesen Trend nicht umkehren."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Krisenstimmung in Peking: Chinas Wirtschaft verliert deutlich an Dynamik",
-      "summary": "Chinas Wirtschaft verzeichnete im zweiten Quartal das geringste Wachstum seit über drei Jahren, was auf eine deutliche Dynamikeinbuße hinweist. Lediglich der Exportsektor bietet einen kleinen Lichtblick in der Krisenstimmung Pekings."
+      "headline": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
+      "summary": "Uber hat eine $14,8 Milliarden schwere Übernahme von Delivery Hero in einem reinen Aktiendeal vereinbart. Dies würde Ubers globale Präsenz fast verdoppeln und einen der größten Essenslieferplattformen außerhalb Chinas schaffen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-      "summary": "Die Newsletter-Plattform Beehiiv führt eine Chat-Funktion für Abonnenten sowie einen KI-Copiloten ein, um Publisher bei Nutzerwachstum und Analyse zu unterstützen. Dies erweitert die Möglichkeiten für Content-Ersteller erheblich."
+      "headline": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+      "summary": "SpaceX musste den zweiten Start seines Starship V3 kurz nach der Zündung abrupt abbrechen, ohne sofort den Grund mitzuteilen. Die Aktie des Unternehmens reagierte im nachbörslichen Handel mit einem starken Kursrückgang."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "X cracks down on creators who steal content",
-      "summary": "X setzt nun Grok AI ein, um gestohlene Inhalte besser zu erkennen und Auszahlungen an Original-Creator umzuleiten. Damit will die Plattform aktiv gegen Engagement-Köder vorgehen und die Integrität der Inhalte schützen."
+      "headline": "Google Vids now lets you star in your own AI videos",
+      "summary": "Google Vids führt personalisierte KI-Avatare ein, die Nutzer in ihren eigenen Videos auftreten lassen. Mithilfe von Gemini Omni-Tools können nun Videos per Text-Prompt generiert und bearbeitet werden."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
       "headline": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-      "summary": "Die KI-gestützte Reiseagentur Fora hat in einer Series-D-Runde 60 Millionen Dollar eingesammelt und erreicht damit eine Bewertung von einer Milliarde Dollar. Der Unicorn-Status unterstreicht das Wachstumspotenzial im Bereich AI-basierter Reisedienstleistungen."
+      "summary": "Die KI-gestützte Reiseagentur Fora hat mit einer Series D Finanzierungsrunde über 60 Millionen Dollar den Unicorn-Status erreicht. Das Unternehmen wird nun mit einer Milliarde Dollar bewertet und expandiert weiter."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "summary": "Ein ehemaliger DeepMind-Forscher hat vor dem Produkt-Launch eine Pre-Seed-Bewertung von 300 Millionen Dollar für sein visuelles KI-Projekt erzielt. Dies unterstreicht den enormen Investor-Optimismus für bahnbrechende KI-Technologien."
+      "headline": "Founders Fund hires former OpenAI exec Ryan Beiermeister",
+      "summary": "Der Founders Fund hat Ryan Beiermeister, eine ehemalige Führungskraft von OpenAI, als Partnerin eingestellt. Ihre kühle analytische Herangehensweise, bekannt aus der YouTube-Serie 'Mafia', prädestinierte sie für die Rolle."
     }
   ],
   "learning": {
-    "topic": "Vesting: Der Weg zur Eigentümerschaft für Gründer und Mitarbeiter",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting regelt den sukzessiven Erwerb von Anteilen über einen bestimmten Zeitraum und stellt sicher, dass Gründer und Mitarbeiter ihre Anteile nicht sofort, sondern nur bei fortgesetztem Engagement vollständig besitzen.",
-    "details": "Beim Vesting werden Anteile nicht direkt zum Start übertragen, sondern über eine vereinbarte Zeitspanne (z.B. 4 Jahre) 'verdient'. Üblich ist eine 'Cliff'-Periode (z.B. 1 Jahr), nach der eine erste Tranche der Anteile freigegeben wird. Verlässt man das Unternehmen vor dem Cliff, verfallen alle Anteile. Danach werden die restlichen Anteile monatlich oder quartalsweise freigeschaltet. Dies schützt Investoren und das Unternehmen davor, dass Personen mit wertvollen Anteilen ausscheiden, ohne langfristig beigetragen zu haben. Es schafft Anreize für langfristiges Engagement und Ausrichtung der Interessen.",
-    "takeaway": "Vesting ist ein zentrales Instrument in Startups, um Anreize für Gründer und Schlüsselmitarbeiter zu schaffen und gleichzeitig die Interessen der Investoren an langfristiger Bindung zu schützen. Im Interview zeigt das Verständnis dafür, dass man die Dynamik und Risikominimierung im Startup-Umfeld versteht."
+    "topic": "Der Short Squeeze: Eine Achterbahnfahrt für Short-Seller",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze tritt auf, wenn der Kurs einer Aktie, die von vielen Investoren 'short' verkauft wurde, plötzlich stark ansteigt. Dies zwingt Short-Seller, ihre Positionen zu schließen, was den Kurs weiter in die Höhe treibt.",
+    "details": "Wenn Investoren eine Aktie shorten, leihen sie sich diese, verkaufen sie und wetten darauf, dass der Kurs fallen wird, um sie später billiger zurückzukaufen und dem Verleiher zurückzugeben. Steigt der Kurs jedoch unerwartet stark an, müssen Short-Seller, um größere Verluste zu vermeiden, die Aktie zu jedem Preis zurückkaufen, um ihre Positionen zu decken. Dieser erzwungene Kaufdruck beschleunigt den Kursanstieg spiralförmig, was als Short Squeeze bezeichnet wird.",
+    "takeaway": "Ein Short Squeeze zeigt die Risiken des Short-Sellings und kann zu explosiven Kursbewegungen führen, wenn die kollektive Angst der Short-Seller den Markt dominiert. Für Finance-Studenten ist es wichtig zu verstehen, wie Liquidität und Marktpsychologie solche extremen Ereignisse auslösen können."
   }
 }
