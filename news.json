@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israels Parlament löst sich auf - Wahlkampf beginnt",
-      "summary": "Israels Koalition hat ihr Parlament aufgelöst, womit der Wahlkampf für eine neue Legislaturperiode beginnt. Premier Netanjahu kämpft um eine weitere Amtszeit in einem politisch instabilen Umfeld."
+      "headline": "USA und Iran melden neue gegenseitige Angriffe in der Golfregion",
+      "summary": "Der Konflikt zwischen den USA und Iran eskaliert in der Straße von Hormus, wo es die siebte Nacht in Folge zu gegenseitigen Angriffen kam. Iran droht mit weiterer Eskalation, was globale Märkte und Ölpreise beeinflussen könnte."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit: USA kündigen Zölle in Höhe von 25 Prozent auf Importe aus Brasilien an",
-      "summary": "Trotz zuvor für unrechtmäßig erklärter Zölle setzt die US-Regierung unter Präsident Trump ihre Handelspolitik fort. Neue Zölle von 25 Prozent auf brasilianische Importe verursachen weltweit Turbulenzen und beeinflussen internationale Handelsbeziehungen."
+      "headline": "Israels Parlament löst sich auf - Wahlkampf beginnt",
+      "summary": "Nach der ordnungsgemäßen Auflösung des israelischen Parlaments beginnt nun der Wahlkampf, in dem Premier Netanjahu um eine weitere Amtszeit kämpft. Diese Entwicklung kann regionale Stabilität und internationale Beziehungen beeinflussen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Mögliche Übernahme: Warum es bei PayPal kriselt",
-      "summary": "PayPal, eine beliebte Zahlungsplattform, kämpft seit Längerem mit Problemen, was das Unternehmen zu einem attraktiven Übernahmekandidaten macht. Diese Entwicklung spiegelt Herausforderungen im FinTech-Sektor wider und könnte weitreichende Auswirkungen haben."
+      "headline": "Hoher CO2-Preis: Die EU schlägt Änderungen vor, trotzdem sprechen die Firmen von brutalem «Industrieabbau»",
+      "summary": "Die EU-Klimapolitik gerät unter Druck, da Unternehmen angesichts hoher CO2-Preise massenhaft Stellen streichen und einen \"Industrieabbau\" befürchten. Trotz vorgeschlagener Änderungen wird das Emissionshandelssystem als Sündenbock betrachtet."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Hoher CO2-Preis: Die EU schlägt Änderungen vor, trotzdem sprechen die Firmen von brutalem «Industrieabbau»",
-      "summary": "Die EU-Kommission reagiert auf den Druck der Industrie mit Vorschlägen zur Reform des Emissionshandels, um Unternehmen zu entlasten. Trotz geplanter Änderungen, die Einnahmen gezielter in Dekarbonisierung fließen lassen sollen, befürchten Firmen weiterhin massiven Stellenabbau und Industrieabwanderung."
+      "headline": "Ist es doch eine Blase? Die Sorge um die Zukunft der KI-Unternehmen treibt die amerikanische Börse um",
+      "summary": "Die amerikanische Börse, insbesondere der Tech-Index Nasdaq, zeigte sich beunruhigt über die Zukunft der KI-Unternehmen nach starken Werten eines chinesischen KI-Modells. Trotz einer Erholung des Index blieb Raketenbauer SpaceX im Tief, was Sorgen vor einer potenziellen Blase im Sektor verstärkt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Chinesisches KI-Start-up Moonshot fordert US-Konkurrenz heraus",
-      "summary": "Das chinesische Start-up Moonshot hat ein neues KI-Modell namens Kimi K3 vorgestellt, das direkt mit führenden Systemen von OpenAI und Anthropic konkurrieren soll. Dieser Schritt verschärft den globalen Wettbewerb im Bereich der Künstlichen Intelligenz erheblich."
+      "headline": "Wie Xi Jinping Schwellen- und Entwicklungsländer für seine KI-Politik gewinnen will",
+      "summary": "Auf der Weltkonferenz für künstliche Intelligenz plädiert Chinas Staatschef Xi Jinping für eine globale KI-Governance, die Chancen und Sicherheitsaspekte berücksichtigen soll. Er versucht damit, Schwellen- und Entwicklungsländer für Chinas KI-Politik zu gewinnen und seine Führungsrolle in der Technologie zu stärken."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "summary": "Apple hat OpenAI wegen angeblicher Geheimnisverrat verklagt, was OpenAI's Pläne für einen Börsengang erheblich stören könnte. Die Klage wirft ein Muster von Fehlverhalten vor und unterstreicht die Spannungen zwischen großen Tech-Akteuren im KI-Sektor."
+      "headline": "Für nur 500 Franken: Swatch verkauft limitierte «Moonswatch» mit Seitenhieb auf Trump-Regierung",
+      "summary": "Swatch hat eine auf 1969 Stück limitierte \"Moonswatch\" auf den Markt gebracht, die an die erste Mondlandung erinnert und einen Fragebogen enthält, der an das Esta-Formular der USA erinnert. Diese Veröffentlichung sorgt für Gesprächsstoff durch ihr Design, die Exklusivität und den politischen Seitenhieb."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
-      "summary": "KI-Startups erhalten derzeit enorme Seed-Finanzierungen, was es für Pre-Seed-Gründer ohne fertiges Produkt erschwert, Investoren zu finden. Eine Session bei TechCrunch Disrupt 2026 soll diesen Gründern zeigen, wie sie mit Überzeugung und Storytelling Kapital aufnehmen können."
+      "headline": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "summary": "Databricks hat sich erfolgreich als führendes KI-Unternehmen neu positioniert und erreicht eine Bewertung von 188 Milliarden US-Dollar. Das Unternehmen veröffentlichte zudem Forschungsergebnisse zu den Kosteneinsparungen offener KI-Modelle im Coding-Bereich, was seinen Wert untermauert."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "summary": "Ein $400 Millionen schweres, durch Chips gesichertes Darlehen deutet auf die nächste Welle von Deals im Bereich der KI-Infrastruktur hin. Diese Entwicklung zeigt einen Paradigmenwechsel bei der Finanzierung von Hardware, weg von Training-GPUs hin zu Inference-Chips für den operativen Einsatz."
+      "headline": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "summary": "Apple hat eine Klage wegen Handelsgeheimnissen gegen OpenAI eingereicht, die weitreichende Auswirkungen auf die geplanten IPO-Pläne des KI-Giganten haben könnte. Die Klage, die auch über 400 ehemalige Apple-Mitarbeiter bei OpenAI betrifft, stellt eine erhebliche Herausforderung für das Unternehmen dar."
     }
   ],
   "learning": {
-    "topic": "Strategischer Käufer vs. Finanzinvestor im M&A-Geschäft",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Im M&A-Geschäft unterscheiden sich strategische Käufer und Finanzinvestoren grundlegend in ihren Motiven und der Herangehensweise an eine Akquisition.",
-    "details": "Ein strategischer Käufer ist in der Regel ein Unternehmen aus derselben oder einer komplementären Branche, das durch die Akquisition Synergien erzielen möchte, wie Kosteneinsparungen, Markterweiterung oder Technologiesicherung. Sein Ziel ist es, das übernommene Unternehmen langfristig in die eigene Struktur zu integrieren und den operativen Wert zu steigern. Ein Finanzinvestor, oft eine Private-Equity-Gesellschaft, hat primär das Ziel, das erworbene Unternehmen innerhalb von 3-7 Jahren mit Gewinn weiterzuverkaufen. Er konzentriert sich auf die Optimierung der Kapitalstruktur, operative Effizienzsteigerungen und Expansion, um den Wert für einen zukünftigen Exit zu maximieren, oft mit hohem Einsatz von Fremdkapital (Leverage Buyout).",
-    "takeaway": "Für einen Verkäufer ist es entscheidend, die Art des Käufers zu verstehen, da dies nicht nur den Kaufpreis, sondern auch die zukünftige Entwicklung und Integration des Unternehmens maßgeblich beeinflusst."
+    "topic": "Pre-Money vs. Post-Money Bewertung in der Startup-Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups vor einer neuen Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach Erhalt des frischen Kapitals darstellt.",
+    "details": "Wenn ein Startup neues Kapital von Investoren aufnimmt, verändert sich seine Bewertung und die Eigentümerstruktur. Die Pre-Money-Bewertung gibt an, wie viel das Unternehmen vor der Investition wert war. Die Post-Money-Bewertung ergibt sich aus der Summe der Pre-Money-Bewertung und dem investierten Kapital und repräsentiert den Wert des Unternehmens nach der Finanzierungsrunde. Für Gründer ist dies entscheidend, da ihre Anteile sich durch die Investition (Post-Money) auf eine höhere Gesamtbewertung verteilen, was zu einer anteiligen Verwässerung ihrer ursprünglichen Beteiligung führt.",
+    "takeaway": "Investoren berechnen ihren Anteilsbesitz auf Basis der Post-Money-Bewertung und des eingebrachten Kapitals. Daher ist es für Gründer essenziell, beide Werte zu kennen, um die Verwässerung ihrer Anteile und die effektive Bewertung ihres Unternehmens korrekt zu verstehen."
   }
 }
