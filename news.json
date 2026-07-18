@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA und Iran melden neue gegenseitige Angriffe in der Golfregion",
-      "summary": "Der Konflikt zwischen den USA und Iran eskaliert in der Straße von Hormus, wo es die siebte Nacht in Folge zu gegenseitigen Angriffen kam. Iran droht mit weiterer Eskalation, was globale Märkte und Ölpreise beeinflussen könnte."
+      "headline": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
+      "summary": "Die Hoffnungen auf eine diplomatische Lösung des Konflikts zwischen den USA und Iran schwinden, nachdem Teheran eine Mitte Juni getroffene Vereinbarung ausgesetzt hat. Dies folgte auf eine jüngste Eskalation der Kriegshandlungen zwischen den beiden Ländern."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israels Parlament löst sich auf - Wahlkampf beginnt",
-      "summary": "Nach der ordnungsgemäßen Auflösung des israelischen Parlaments beginnt nun der Wahlkampf, in dem Premier Netanjahu um eine weitere Amtszeit kämpft. Diese Entwicklung kann regionale Stabilität und internationale Beziehungen beeinflussen."
+      "headline": "Krieg gegen die Ukraine: Russland meldet Tote bei Angriffen",
+      "summary": "Die Ukraine hat ihre Gegenangriffe gegen Russland verstärkt, woraufhin Russland Tote bei einem Angriff auf ein Logistikzentrum meldet. Gleichzeitig griff Russland erneut den wichtigen Hafen von Odessa an."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Hoher CO2-Preis: Die EU schlägt Änderungen vor, trotzdem sprechen die Firmen von brutalem «Industrieabbau»",
-      "summary": "Die EU-Klimapolitik gerät unter Druck, da Unternehmen angesichts hoher CO2-Preise massenhaft Stellen streichen und einen \"Industrieabbau\" befürchten. Trotz vorgeschlagener Änderungen wird das Emissionshandelssystem als Sündenbock betrachtet."
+      "headline": "Ist es doch eine Blase? Die Sorge um die Zukunft der KI-Unternehmen treibt die amerikanische Börse um",
+      "summary": "Der Tech-Index Nasdaq gab nach starken chinesischen KI-Werten zeitweise deutlich nach, was Sorgen vor einer Blase im KI-Sektor aufwirft. Obwohl sich der Index erholte, blieb der Raketenbauer SpaceX im Tief."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Ist es doch eine Blase? Die Sorge um die Zukunft der KI-Unternehmen treibt die amerikanische Börse um",
-      "summary": "Die amerikanische Börse, insbesondere der Tech-Index Nasdaq, zeigte sich beunruhigt über die Zukunft der KI-Unternehmen nach starken Werten eines chinesischen KI-Modells. Trotz einer Erholung des Index blieb Raketenbauer SpaceX im Tief, was Sorgen vor einer potenziellen Blase im Sektor verstärkt."
+      "headline": "Hoher CO2-Preis: Die EU schlägt Änderungen vor, trotzdem sprechen die Firmen von brutalem «Industrieabbau»",
+      "summary": "Die Klimapolitik der EU gerät durch massive Stellenstreichungen in der Industrie unter Druck, wobei das Emissionshandelssystem (ETS) als Hauptverursacher gilt. Trotz geplanter EU-Änderungen warnen Unternehmen weiterhin vor einem brutalen Industrieabbau."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Wie Xi Jinping Schwellen- und Entwicklungsländer für seine KI-Politik gewinnen will",
-      "summary": "Auf der Weltkonferenz für künstliche Intelligenz plädiert Chinas Staatschef Xi Jinping für eine globale KI-Governance, die Chancen und Sicherheitsaspekte berücksichtigen soll. Er versucht damit, Schwellen- und Entwicklungsländer für Chinas KI-Politik zu gewinnen und seine Führungsrolle in der Technologie zu stärken."
+      "headline": "Für nur 500 Franken: Swatch verkauft limitierte «Moonswatch» mit Seitenhieb auf Trump-Regierung",
+      "summary": "Swatch bringt eine auf 1969 Stück limitierte \"Moonswatch\" auf den Markt, die an die erste Mondlandung erinnert. Käufer müssen einen Fragebogen im Stil des US-Esta-Formulars beantworten, was als Seitenhieb auf die Trump-Regierung interpretiert wird."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Für nur 500 Franken: Swatch verkauft limitierte «Moonswatch» mit Seitenhieb auf Trump-Regierung",
-      "summary": "Swatch hat eine auf 1969 Stück limitierte \"Moonswatch\" auf den Markt gebracht, die an die erste Mondlandung erinnert und einen Fragebogen enthält, der an das Esta-Formular der USA erinnert. Diese Veröffentlichung sorgt für Gesprächsstoff durch ihr Design, die Exklusivität und den politischen Seitenhieb."
+      "headline": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+      "summary": "Der San Francisco City Attorney hat Apple und Google angewiesen, \"Nudify\"-Apps aus ihren App Stores zu entfernen, da diese gegen das Gesetz verstoßen. Beide Unternehmen seien sich der illegalen Inhalte seit Langem bewusst gewesen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
       "headline": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "Databricks hat sich erfolgreich als führendes KI-Unternehmen neu positioniert und erreicht eine Bewertung von 188 Milliarden US-Dollar. Das Unternehmen veröffentlichte zudem Forschungsergebnisse zu den Kosteneinsparungen offener KI-Modelle im Coding-Bereich, was seinen Wert untermauert."
+      "summary": "Databricks hat sich erfolgreich als führendes KI-Unternehmen neu positioniert und erreicht eine Bewertung von 188 Milliarden Dollar. Das Unternehmen veröffentlichte kürzlich Forschungsergebnisse zu den Kosteneinsparungen offener KI-Modelle für die Programmierung."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "summary": "Apple hat eine Klage wegen Handelsgeheimnissen gegen OpenAI eingereicht, die weitreichende Auswirkungen auf die geplanten IPO-Pläne des KI-Giganten haben könnte. Die Klage, die auch über 400 ehemalige Apple-Mitarbeiter bei OpenAI betrifft, stellt eine erhebliche Herausforderung für das Unternehmen dar."
+      "headline": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "summary": "Das Nuklear-Startup Valar Atomics verhandelt über eine neue Finanzierungsrunde, die das Unternehmen mit 6 Milliarden Dollar bewerten würde. Dieser potenzielle Deal unterstreicht den Trend zu komplexen, mehrstufigen Finanzierungsrunden in der Deep-Tech-Branche."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung in der Startup-Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups vor einer neuen Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach Erhalt des frischen Kapitals darstellt.",
-    "details": "Wenn ein Startup neues Kapital von Investoren aufnimmt, verändert sich seine Bewertung und die Eigentümerstruktur. Die Pre-Money-Bewertung gibt an, wie viel das Unternehmen vor der Investition wert war. Die Post-Money-Bewertung ergibt sich aus der Summe der Pre-Money-Bewertung und dem investierten Kapital und repräsentiert den Wert des Unternehmens nach der Finanzierungsrunde. Für Gründer ist dies entscheidend, da ihre Anteile sich durch die Investition (Post-Money) auf eine höhere Gesamtbewertung verteilen, was zu einer anteiligen Verwässerung ihrer ursprünglichen Beteiligung führt.",
-    "takeaway": "Investoren berechnen ihren Anteilsbesitz auf Basis der Post-Money-Bewertung und des eingebrachten Kapitals. Daher ist es für Gründer essenziell, beide Werte zu kennen, um die Verwässerung ihrer Anteile und die effektive Bewertung ihres Unternehmens korrekt zu verstehen."
+    "topic": "Die Logik hinter Hedgefonds",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Hedgefonds sind spezialisierte Investmentfonds, die flexible Strategien nutzen, um bei allen Marktbedingungen Renditen zu erzielen, oft mit Hebelwirkung und komplexen Instrumenten.",
+    "details": "Im Gegensatz zu traditionellen Fonds, die meist nur in steigenden Märkten profitieren, können Hedgefonds durch Leerverkäufe, Derivate und Arbitrage auch in fallenden Märkten Gewinne anstreben. Sie sind typischerweise weniger reguliert und nur für institutionelle Anleger oder vermögende Privatpersonen zugänglich, da sie höhere Risiken eingehen und oft illiquide Anlagen halten. Die Manager erhalten eine Performance-Gebühr zusätzlich zu einer Verwaltungsgebühr.",
+    "takeaway": "Hedgefonds nutzen vielfältige, oft aggressive Strategien, um absolute Renditen zu erzielen, unabhängig von der Marktentwicklung; sie sind aber wegen ihrer Komplexität und Risikobereitschaft nur für bestimmte Anlegerkreise geeignet."
   }
 }
