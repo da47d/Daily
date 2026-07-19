@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Eskalation im Nahen Osten: Neue Angriffe zwischen USA und Iran",
-      "summary": "Die USA meldeten erneut Luftangriffe auf den Iran, der mit Attacken auf US-Militärstützpunkte in Kuwait reagierte. Zuvor waren bereits US-Soldaten in Jordanien getötet worden, was die vereinbarte Konfliktlösung durch Verhandlungen aussetzt."
+      "headline": "Hoher CO2-Preis: Die EU schlägt Änderungen vor, trotzdem sprechen die Firmen von brutalem «Industrieabbau»",
+      "summary": "Unter dem Druck von massivem Stellenabbau in der Industrie erwägt die EU Änderungen an ihrem CO2-Emissionshandelssystem (ETS). Unternehmen bezeichnen die aktuelle Klimapolitik als Ursache für einen 'Industrieabbau'."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russland intensiviert Angriffe auf Kiew mit ballistischen Raketen",
-      "summary": "Russland hat Kiew erneut mit ballistischen Raketen angegriffen, wobei Wohngebäude und ein Einkaufszentrum getroffen wurden. Dabei kam mindestens ein Mensch ums Leben und es gab mehrere Verletzte."
+      "headline": "Abwesend in Brüssel: Wie oft deutsche Minister bei EU-Treffen fehlen",
+      "summary": "Trotz Kanzler Merz' Ankündigung hoher Präsenz fehlen deutsche Minister laut einer ARD-Auswertung oft bei EU-Ministerratstreffen. Dies wirft Fragen zur Effektivität der deutschen Beteiligung an der europäischen Politik auf."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "KI-Skepsis wächst: Tech-Aktien unter Druck, SpaceX im Tief",
-      "summary": "Die Skepsis gegenüber Künstlicher Intelligenz führt zu fallenden Tech-Aktien an der US-Börse, wobei Raketenbauer SpaceX unter seinen Emissionspreis sank. Ein starkes chinesisches KI-Modell konnte den Tech-Index Nasdaq nur kurzzeitig stabilisieren, doch die Sorge um eine KI-Blase bleibt."
+      "headline": "Ist es doch eine Blase? Die Sorge um die Zukunft der KI-Unternehmen treibt die amerikanische Börse um",
+      "summary": "Nach starken Zahlen eines chinesischen KI-Modells gab der Tech-Index Nasdaq zeitweise stark nach, befeuert von Skepsis gegenüber der Zukunft der KI-Unternehmen. Raketenbauer SpaceX blieb im Tief, während sich der Gesamtindex erholte."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Krise der deutschen Autoindustrie führt zu Fabrikschliessungen",
-      "summary": "Die Restrukturierung bei Volkswagen mit bis zu 120.000 Stellenstreichungen belastet die deutsche Automobilindustrie und führt auch in der Schweiz zu Fabrikschliessungen bei Zulieferern. Für einige kann diese Krise eine Chance sein, für andere kommt jedoch jede Hilfe zu spät."
+      "headline": "«Wir haben die Ineffizienzen von VW mitfinanziert»: Die Krise der deutschen Automobilindustrie führt auch in der Schweiz zu Fabrikschliessungen",
+      "summary": "Volkswagen streicht bis zu 120.000 Stellen, was die deutsche Automobilindustrie in eine Krise stürzt und auch Zulieferer in der Schweiz betrifft. Während dies für einige eine Restrukturierungschance sein mag, kommt jede Hilfe für andere zu spät."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Künstliche Intelligenz erobert die Musikwelt: Verdrängen KI-Bands Musiker?",
-      "summary": "KI-generierte Songs und sogar komplette KI-Bands mit eigener Biografie fluten zunehmend die Streamingdienste. Dies wirft die Frage auf, ob Künstliche Intelligenz das Ende der Kreativität bedeutet oder eine neue Chance für die Musikbranche darstellt."
+      "headline": "Spanien: Großer Waldbrand bei Madrid außer Kontrolle",
+      "summary": "Ein grosser Waldbrand nordöstlich von Madrid breitet sich trotz des Einsatzes von über 500 Kräften am Boden und in der Luft weiter aus. Mehrere Orte mussten bereits evakuiert werden."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Chinesisches KI-Modell 'Kimi' löst Debatte über 'KI-Kommunismus' aus",
-      "summary": "Das chinesische Unternehmen Moonshot AI hat eine neue Version seines Kimi-Modells veröffentlicht, die umgehend Besorgnis über einen 'vollständigen KI-Kommunismus' auslöste. Die Entwicklung verdeutlicht die rasanten Fortschritte und kontroversen Diskussionen um KI-Technologien."
+      "headline": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "summary": "Der renommierte Regisseur Christopher Nolan bezeichnet Künstliche Intelligenz als ein 'Trojanisches Pferd'. Er spielt damit auf die versteckten Risiken und unbeabsichtigten Konsequenzen der Technologie an."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Spotify-Gründer Daniel Ek investiert in Rüstungs-Startup Helsing",
-      "summary": "Spotify-Gründer Daniel Ek hat frühzeitig in das deutsche Rüstungs-Startup Helsing investiert, das nun einen Wert von 18 Milliarden Dollar erreicht hat. Dies zeigt Eks strategisches Engagement in zukunftsträchtigen Branchen jenseits der Musikstreaming-Welt."
+      "headline": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "summary": "Databricks hat seine Bewertung auf 188 Milliarden Dollar gesteigert und festigt damit seine Position als führendes KI-Unternehmen. Das Unternehmen hat sich durch Forschung zu Kosteneinsparungen bei Open-Weight-KI-Modellen im Coding-Bereich neu positioniert."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Databricks erreicht $188 Mrd. Bewertung und wird zu 'AIs Favoriten'",
-      "summary": "Databricks hat seine Bewertung auf beeindruckende 188 Milliarden Dollar gesteigert und sich erfolgreich als führendes KI-Unternehmen neu positioniert. Das Unternehmen veröffentlichte zudem Studien über die Kosteneinsparungen von Open-Weight-KI-Modellen für die Codierung."
+      "headline": "Militärdrohnen statt Songs und Podcasts: Daniel Ek weiss in zukunftsträchtige Branchen einzusteigen",
+      "summary": "Spotify-Gründer Daniel Ek hat frühzeitig in das deutsche Rüstungs-Startup Helsing investiert, welches nun eine Bewertung von 18 Milliarden Dollar erreicht hat. Dies unterstreicht Eks Talent, zukunftsträchtige Branchen zu identifizieren und darin zu investieren."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach dem Erhalt der neuen Investition darstellt.",
-    "details": "Wenn ein Startup Kapital von Investoren aufnimmt, müssen Gründer und Investoren den Unternehmenswert bestimmen. Die Pre-Money-Bewertung ist die Grundlage dafür, wie viele Anteile Investoren für ihr Geld erhalten; sie ist der Wert des Unternehmens vor der Kapitalzuführung. Die Post-Money-Bewertung ist einfach die Pre-Money-Bewertung plus der Höhe der Investition. Dieser Wert repräsentiert den neuen, höheren Unternehmenswert nach der Finanzierungsrunde und ist entscheidend, um den prozentualen Anteil der Investoren am Unternehmen und die Verwässerung der bestehenden Aktionäre zu verstehen.",
-    "takeaway": "Die Post-Money-Bewertung ist das Ergebnis der Pre-Money-Bewertung plus der Investitionssumme und zeigt den Wert des Unternehmens nach der Kapitalaufnahme. Sie ist der Schlüssel, um zu verstehen, wie sich Anteile und Verwässerung in einer Finanzierungsrunde verschieben."
+    "topic": "Der Mechanismus eines Short Squeeze",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein Phänomen am Aktienmarkt, bei dem ein starker Preisanstieg einer Aktie Leerverkäufer zwingt, ihre Positionen zu schließen, was den Preis weiter in die Höhe treibt. Er entsteht, wenn viele Anleger auf fallende Kurse wetten, aber das Gegenteil eintritt.",
+    "details": "Wenn Leerverkäufer eine Aktie shorten, leihen sie diese und verkaufen sie in der Erwartung, sie später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Steigt der Kurs jedoch unerwartet stark, drohen ihnen hohe Verluste. Um diese zu begrenzen, müssen sie die geliehenen Aktien zu einem höheren Preis zurückkaufen ('Covering'), was die Nachfrage und den Kurs zusätzlich anheizt. Dies löst eine Kettenreaktion aus, da immer mehr Leerverkäufer zum Schließen ihrer Positionen gezwungen sind und den Kurs weiter in die Höhe treiben.",
+    "takeaway": "Ein Short Squeeze zeigt die Macht der kollektiven Marktbewegung und kann in kurzer Zeit extreme Kursbewegungen verursachen. Als Anleger ist es wichtig, das Risiko von Leerverkaufspositionen zu verstehen und zu erkennen, wie unvorhergesehene Nachrichten solche Squeezes auslösen können."
   }
 }
