@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Armee meldet neue Angriffe auf Iran",
-      "summary": "Das US-Militär hat in der neunten Nacht in Folge Ziele in Iran bombardiert, während Iran mit Attacken in Golfstaaten reagierte und ein Schiff in der Straße von Hormus in Brand geriet. Diese Eskalation des Konflikts treibt die Ölpreise auf den höchsten Stand seit Juni."
+      "headline": "Was will Christine Lagarde? Die amtierende EZB-Chefin heizt Spekulationen über ein vorzeitiges Ende ihrer Präsidentschaft an",
+      "summary": "Spekulationen um ein vorzeitiges Ende von Christine Lagardes Amtszeit als EZB-Chefin heizen die Diskussion auf. Eine frühe Neubesetzung könnte von Euro-Ländern genutzt werden, um die mögliche französische Staatschefin Marine Le Pen aus dem Rennen zu nehmen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Burnham als neuer Premier: Was das Amt inzwischen so schwierig macht",
-      "summary": "Andy Burnham wird als siebter britischer Premierminister in zehn Jahren ernannt und muss schwierige Herausforderungen meistern, um sein Amt nicht zum Schleudersitz werden zu lassen. Die hohe Fluktuation im Amt deutet auf politische Instabilität im Vereinigten Königreich hin."
+      "headline": "Neuer Premier Burnham will Briten wieder Hoffnung geben",
+      "summary": "Andy Burnham, der siebte britische Premier in zehn Jahren, steht vor der gewaltigen Aufgabe, ein tief gespaltenes Land zu einen. Seine ehrgeizigen Pläne umfassen die Senkung der Lebenshaltungskosten, die Ankurbelung der Wirtschaft und die Entlastung der Sozialsysteme."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Schafft der DAX heute die Stabilisierung?",
-      "summary": "Nach tagelangen US-Angriffen auf Iran und den Vergeltungsschlägen in der Golfregion droht der Konflikt weiter zu eskalieren, was die Ölpreise auf den höchsten Stand seit Juni treibt. Dies übt Druck auf den DAX aus, dessen Stabilisierung am Morgen fraglich ist."
+      "headline": "Judge pauses $110B Paramount-Warner Bros merger",
+      "summary": "Ein US-Gericht hat die geplante 110-Milliarden-Dollar-Fusion von Paramount und Warner Bros. vorerst gestoppt. Die Klage der Bundesstaaten behauptet, der Deal würde Kinobetreiber, Kabelanbieter und das Publikum schädigen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Ist es doch eine Blase? Die Sorge um die Zukunft der KI-Unternehmen treibt die amerikanische Börse um",
-      "summary": "Die amerikanische Börse wurde von Sorgen um eine mögliche Blase bei KI-Unternehmen und einer starken Performance eines chinesischen KI-Modells bewegt, wobei der Tech-Index Nasdaq zeitweise stark nachgab. Obwohl sich der Index erholte, blieb der Raketenbauer SpaceX im Tief und verdeutlichte die anhaltende KI-Skepsis der Anleger."
+      "headline": "Benzin ist wieder teurer als vor dem Tankrabatt",
+      "summary": "Das Tanken in Deutschland wird erneut teurer und hat fast das Preisniveau vor dem Tankrabatt erreicht. Dies ist auf gestiegene Ölpreise und den Ferienverkehr zurückzuführen, wobei der ADAC einen neuen Höhepunkt erwartet."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Spanien ist Fußball-Weltmeister 2026",
-      "summary": "Spanien sicherte sich zum zweiten Mal den Fußball-Weltmeistertitel, indem es im Finale in New Jersey Titelverteidiger Argentinien mit 1:0 nach Verlängerung besiegte. Der Sieg, erzielt durch Ferran Torres, sorgte in Madrid für euphorische Feiern."
+      "headline": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "summary": "Netflix hat 587 Millionen Dollar in bar für InterPositive gezahlt, ein KI-Filmemacher-Startup, das unter anderem von Ben Affleck mitgegründet wurde. Dies unterstreicht die wachsende Bedeutung von KI in der Unterhaltungsbranche und die Investitionen großer Player."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Was von dieser WM der Widersprüche bleibt",
-      "summary": "Die abgelaufene Fußball-WM war geprägt von Rekordeinschaltquoten und teuren Tickets, aber auch von Kontroversen wie einer zurückgenommenen Roten Karte und Pfiffen für FIFA-Boss Infantino. US-Präsident Trump bei der Siegerehrung unterstrich den widersprüchlichen Charakter dieses globalen Sportereignisses."
+      "headline": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "summary": "Hacker haben eine 'signifikante' Menge an Daten von Craneware gestohlen, einem Tech-Unternehmen, das von Tausenden US-Krankenhäusern und Apotheken für die Patientenabrechnung genutzt wird. Der Cyberangriff könnte sensible Gesundheitsdaten von Patienten preisgegeben haben."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-      "summary": "Netflix gab bekannt, 587 Millionen US-Dollar in bar für InterPositive gezahlt zu haben, ein Startup im Bereich KI-Filmemaking, das von Ben Affleck mitbegründet wurde. Diese Akquisition unterstreicht das wachsende Interesse großer Player an KI-Technologien in der Unterhaltungsindustrie."
+      "headline": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "summary": "Das KI-Infrastruktur-Startup Infinity gab eine 15-Millionen-Dollar-Finanzierungsrunde zu einer Bewertung von 100 Millionen Dollar bekannt. Zu den Investoren gehören Touring Capital sowie Forscher von OpenAI und Anthropic, was die Attraktivität des Sektors unterstreicht."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Militärdrohnen statt Songs und Podcasts: Daniel Ek weiss in zukunftsträchtige Branchen einzusteigen",
-      "summary": "Spotify-Gründer Daniel Ek investierte früh in das deutsche Rüstungs-Startup Helsing, das inzwischen eine Bewertung von 18 Milliarden Dollar erreicht hat. Dies zeigt das strategische Geschick von Tech-Gründern, vielversprechende, wenn auch unkonventionelle Branchen frühzeitig zu identifizieren."
+      "headline": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "Eine Klage von Apple wirft einen Schatten auf die Hardware-Pläne von OpenAI und dessen mögliche öffentliche Notierung. Es wird diskutiert, ob dieser Rechtsstreit die strategische Ausrichtung des führenden KI-Startups erheblich beeinflussen könnte."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung im Venture Capital",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "'Pre-Money' ist der Unternehmenswert vor einer Investition, 'Post-Money' der Wert nach der Investition, einschliesslich des neuen Kapitals.",
-    "details": "Wenn ein Startup beispielsweise vor einer Finanzierungsrunde auf 10 Millionen Euro (Pre-Money) bewertet wird und ein Investor 2 Millionen Euro für 20% des Unternehmens einbringt, beträgt die Post-Money-Bewertung 12 Millionen Euro. Die 2 Millionen Euro Kapital erhöhen den Unternehmenswert direkt nach der Runde. Diese Unterscheidung ist entscheidend, da sie den effektiven Anteil der Gründer und bestehenden Aktionäre nach der Kapitalerhöhung beeinflusst (Verwässerung) und die Basis für zukünftige Finanzierungsrunden bildet.",
-    "takeaway": "Die Post-Money-Bewertung ist immer die Summe aus Pre-Money-Bewertung und dem investierten Kapital; sie gibt den Gesamtwert des Unternehmens *nach* der Runde an und ist der Startpunkt für die Berechnung der Eigentumsanteile der Investoren."
+    "topic": "Startup-Slang: SaaS, B2B, ARR, Burn Rate, Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese Begriffe sind essenziell, um die Geschäftsmodelle und die finanzielle Gesundheit von Startups im Tech-Bereich zu verstehen. Sie beschreiben Einnahmequellen, Kundenbeziehungen und den Kapitalverbrauch.",
+    "details": "SaaS (Software as a Service) ist ein Abo-Modell, B2B (Business-to-Business) beschreibt den Vertrieb an Unternehmen, während ARR (Annual Recurring Revenue) die jährlich wiederkehrenden Einnahmen aus Abos beziffert. Die Burn Rate zeigt, wie schnell ein Startup Kapital verbrennt, und Churn misst die Kundenabwanderung. Zusammen geben sie Aufschluss über Skalierbarkeit, Rentabilität und das Überleben eines Startups.",
+    "takeaway": "Das Beherrschen dieser Begriffe ist entscheidend, um die Dynamik und das Potenzial von Startups zu analysieren und Investitionsentscheidungen fundiert zu treffen."
   }
 }
