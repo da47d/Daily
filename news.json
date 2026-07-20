@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Hoher CO2-Preis: Die EU schlägt Änderungen vor, trotzdem sprechen die Firmen von brutalem «Industrieabbau»",
-      "summary": "Unter dem Druck von massivem Stellenabbau in der Industrie erwägt die EU Änderungen an ihrem CO2-Emissionshandelssystem (ETS). Unternehmen bezeichnen die aktuelle Klimapolitik als Ursache für einen 'Industrieabbau'."
+      "headline": "US-Armee meldet neue Angriffe auf Iran",
+      "summary": "Das US-Militär hat in der neunten Nacht in Folge Ziele in Iran bombardiert, während Iran mit Attacken in Golfstaaten reagierte und ein Schiff in der Straße von Hormus in Brand geriet. Diese Eskalation des Konflikts treibt die Ölpreise auf den höchsten Stand seit Juni."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Abwesend in Brüssel: Wie oft deutsche Minister bei EU-Treffen fehlen",
-      "summary": "Trotz Kanzler Merz' Ankündigung hoher Präsenz fehlen deutsche Minister laut einer ARD-Auswertung oft bei EU-Ministerratstreffen. Dies wirft Fragen zur Effektivität der deutschen Beteiligung an der europäischen Politik auf."
+      "headline": "Burnham als neuer Premier: Was das Amt inzwischen so schwierig macht",
+      "summary": "Andy Burnham wird als siebter britischer Premierminister in zehn Jahren ernannt und muss schwierige Herausforderungen meistern, um sein Amt nicht zum Schleudersitz werden zu lassen. Die hohe Fluktuation im Amt deutet auf politische Instabilität im Vereinigten Königreich hin."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Ist es doch eine Blase? Die Sorge um die Zukunft der KI-Unternehmen treibt die amerikanische Börse um",
-      "summary": "Nach starken Zahlen eines chinesischen KI-Modells gab der Tech-Index Nasdaq zeitweise stark nach, befeuert von Skepsis gegenüber der Zukunft der KI-Unternehmen. Raketenbauer SpaceX blieb im Tief, während sich der Gesamtindex erholte."
+      "headline": "Marktbericht: Schafft der DAX heute die Stabilisierung?",
+      "summary": "Nach tagelangen US-Angriffen auf Iran und den Vergeltungsschlägen in der Golfregion droht der Konflikt weiter zu eskalieren, was die Ölpreise auf den höchsten Stand seit Juni treibt. Dies übt Druck auf den DAX aus, dessen Stabilisierung am Morgen fraglich ist."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "«Wir haben die Ineffizienzen von VW mitfinanziert»: Die Krise der deutschen Automobilindustrie führt auch in der Schweiz zu Fabrikschliessungen",
-      "summary": "Volkswagen streicht bis zu 120.000 Stellen, was die deutsche Automobilindustrie in eine Krise stürzt und auch Zulieferer in der Schweiz betrifft. Während dies für einige eine Restrukturierungschance sein mag, kommt jede Hilfe für andere zu spät."
+      "headline": "Ist es doch eine Blase? Die Sorge um die Zukunft der KI-Unternehmen treibt die amerikanische Börse um",
+      "summary": "Die amerikanische Börse wurde von Sorgen um eine mögliche Blase bei KI-Unternehmen und einer starken Performance eines chinesischen KI-Modells bewegt, wobei der Tech-Index Nasdaq zeitweise stark nachgab. Obwohl sich der Index erholte, blieb der Raketenbauer SpaceX im Tief und verdeutlichte die anhaltende KI-Skepsis der Anleger."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Spanien: Großer Waldbrand bei Madrid außer Kontrolle",
-      "summary": "Ein grosser Waldbrand nordöstlich von Madrid breitet sich trotz des Einsatzes von über 500 Kräften am Boden und in der Luft weiter aus. Mehrere Orte mussten bereits evakuiert werden."
+      "headline": "Spanien ist Fußball-Weltmeister 2026",
+      "summary": "Spanien sicherte sich zum zweiten Mal den Fußball-Weltmeistertitel, indem es im Finale in New Jersey Titelverteidiger Argentinien mit 1:0 nach Verlängerung besiegte. Der Sieg, erzielt durch Ferran Torres, sorgte in Madrid für euphorische Feiern."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "summary": "Der renommierte Regisseur Christopher Nolan bezeichnet Künstliche Intelligenz als ein 'Trojanisches Pferd'. Er spielt damit auf die versteckten Risiken und unbeabsichtigten Konsequenzen der Technologie an."
+      "headline": "Was von dieser WM der Widersprüche bleibt",
+      "summary": "Die abgelaufene Fußball-WM war geprägt von Rekordeinschaltquoten und teuren Tickets, aber auch von Kontroversen wie einer zurückgenommenen Roten Karte und Pfiffen für FIFA-Boss Infantino. US-Präsident Trump bei der Siegerehrung unterstrich den widersprüchlichen Charakter dieses globalen Sportereignisses."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "Databricks hat seine Bewertung auf 188 Milliarden Dollar gesteigert und festigt damit seine Position als führendes KI-Unternehmen. Das Unternehmen hat sich durch Forschung zu Kosteneinsparungen bei Open-Weight-KI-Modellen im Coding-Bereich neu positioniert."
+      "headline": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "summary": "Netflix gab bekannt, 587 Millionen US-Dollar in bar für InterPositive gezahlt zu haben, ein Startup im Bereich KI-Filmemaking, das von Ben Affleck mitbegründet wurde. Diese Akquisition unterstreicht das wachsende Interesse großer Player an KI-Technologien in der Unterhaltungsindustrie."
     },
     {
       "tag": "STARTUPS & VC",
       "headline": "Militärdrohnen statt Songs und Podcasts: Daniel Ek weiss in zukunftsträchtige Branchen einzusteigen",
-      "summary": "Spotify-Gründer Daniel Ek hat frühzeitig in das deutsche Rüstungs-Startup Helsing investiert, welches nun eine Bewertung von 18 Milliarden Dollar erreicht hat. Dies unterstreicht Eks Talent, zukunftsträchtige Branchen zu identifizieren und darin zu investieren."
+      "summary": "Spotify-Gründer Daniel Ek investierte früh in das deutsche Rüstungs-Startup Helsing, das inzwischen eine Bewertung von 18 Milliarden Dollar erreicht hat. Dies zeigt das strategische Geschick von Tech-Gründern, vielversprechende, wenn auch unkonventionelle Branchen frühzeitig zu identifizieren."
     }
   ],
   "learning": {
-    "topic": "Der Mechanismus eines Short Squeeze",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein Phänomen am Aktienmarkt, bei dem ein starker Preisanstieg einer Aktie Leerverkäufer zwingt, ihre Positionen zu schließen, was den Preis weiter in die Höhe treibt. Er entsteht, wenn viele Anleger auf fallende Kurse wetten, aber das Gegenteil eintritt.",
-    "details": "Wenn Leerverkäufer eine Aktie shorten, leihen sie diese und verkaufen sie in der Erwartung, sie später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Steigt der Kurs jedoch unerwartet stark, drohen ihnen hohe Verluste. Um diese zu begrenzen, müssen sie die geliehenen Aktien zu einem höheren Preis zurückkaufen ('Covering'), was die Nachfrage und den Kurs zusätzlich anheizt. Dies löst eine Kettenreaktion aus, da immer mehr Leerverkäufer zum Schließen ihrer Positionen gezwungen sind und den Kurs weiter in die Höhe treiben.",
-    "takeaway": "Ein Short Squeeze zeigt die Macht der kollektiven Marktbewegung und kann in kurzer Zeit extreme Kursbewegungen verursachen. Als Anleger ist es wichtig, das Risiko von Leerverkaufspositionen zu verstehen und zu erkennen, wie unvorhergesehene Nachrichten solche Squeezes auslösen können."
+    "topic": "Pre-Money vs. Post-Money Bewertung im Venture Capital",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "'Pre-Money' ist der Unternehmenswert vor einer Investition, 'Post-Money' der Wert nach der Investition, einschliesslich des neuen Kapitals.",
+    "details": "Wenn ein Startup beispielsweise vor einer Finanzierungsrunde auf 10 Millionen Euro (Pre-Money) bewertet wird und ein Investor 2 Millionen Euro für 20% des Unternehmens einbringt, beträgt die Post-Money-Bewertung 12 Millionen Euro. Die 2 Millionen Euro Kapital erhöhen den Unternehmenswert direkt nach der Runde. Diese Unterscheidung ist entscheidend, da sie den effektiven Anteil der Gründer und bestehenden Aktionäre nach der Kapitalerhöhung beeinflusst (Verwässerung) und die Basis für zukünftige Finanzierungsrunden bildet.",
+    "takeaway": "Die Post-Money-Bewertung ist immer die Summe aus Pre-Money-Bewertung und dem investierten Kapital; sie gibt den Gesamtwert des Unternehmens *nach* der Runde an und ist der Startpunkt für die Berechnung der Eigentumsanteile der Investoren."
   }
 }
