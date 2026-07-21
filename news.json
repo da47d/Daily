@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Was will Christine Lagarde? Die amtierende EZB-Chefin heizt Spekulationen über ein vorzeitiges Ende ihrer Präsidentschaft an",
-      "summary": "Spekulationen um ein vorzeitiges Ende von Christine Lagardes Amtszeit als EZB-Chefin heizen die Diskussion auf. Eine frühe Neubesetzung könnte von Euro-Ländern genutzt werden, um die mögliche französische Staatschefin Marine Le Pen aus dem Rennen zu nehmen."
+      "headline": "US-Militär bombardiert Iran die zehnte Nacht in Folge",
+      "summary": "Das US-Militär setzte seine Angriffe auf den Iran die zehnte Nacht in Folge fort, während die Islamische Republik ihrerseits US-Ziele attackierte. US-Präsident Trump droht mit Vergeltung, was die Spannungen in der Region weiter erhöht."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Neuer Premier Burnham will Briten wieder Hoffnung geben",
-      "summary": "Andy Burnham, der siebte britische Premier in zehn Jahren, steht vor der gewaltigen Aufgabe, ein tief gespaltenes Land zu einen. Seine ehrgeizigen Pläne umfassen die Senkung der Lebenshaltungskosten, die Ankurbelung der Wirtschaft und die Entlastung der Sozialsysteme."
+      "headline": "USA verhängen Zölle in Höhe von 50 Prozent auf Produkte aus Kanada",
+      "summary": "Der Handelsstreit zwischen den USA und Kanada eskaliert, da Washington neue Zölle von 50 Prozent verhängt hat. Betroffen sind auch Produkte, die bisher unter ein Freihandelsabkommen fielen, was weltweit für Turbulenzen sorgen könnte."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Judge pauses $110B Paramount-Warner Bros merger",
-      "summary": "Ein US-Gericht hat die geplante 110-Milliarden-Dollar-Fusion von Paramount und Warner Bros. vorerst gestoppt. Die Klage der Bundesstaaten behauptet, der Deal würde Kinobetreiber, Kabelanbieter und das Publikum schädigen."
+      "headline": "Gericht setzt Paramount-Übernahme von Warner vorerst aus",
+      "summary": "Ein US-Gericht hat die milliardenschwere Übernahme von Warner Bros. Discovery durch Paramount für zwei Wochen gestoppt. Zwölf Bundesstaaten sehen in dem Zusammenschluss eine erhebliche Gefahr für den Wettbewerb in der Branche."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Benzin ist wieder teurer als vor dem Tankrabatt",
-      "summary": "Das Tanken in Deutschland wird erneut teurer und hat fast das Preisniveau vor dem Tankrabatt erreicht. Dies ist auf gestiegene Ölpreise und den Ferienverkehr zurückzuführen, wobei der ADAC einen neuen Höhepunkt erwartet."
+      "headline": "Was will Christine Lagarde? Spekulationen um vorzeitiges Ende ihrer EZB-Präsidentschaft",
+      "summary": "Gerüchte über einen vorzeitigen Abgang von EZB-Chefin Christine Lagarde flammen erneut auf und heizen Spekulationen an. Eine frühe Ernennung eines Nachfolgers könnte auch dazu dienen, die mögliche französische Staatschefin Marine Le Pen auszustechen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-      "summary": "Netflix hat 587 Millionen Dollar in bar für InterPositive gezahlt, ein KI-Filmemacher-Startup, das unter anderem von Ben Affleck mitgegründet wurde. Dies unterstreicht die wachsende Bedeutung von KI in der Unterhaltungsbranche und die Investitionen großer Player."
+      "headline": "Anthropic's wegweisende $1.5 Mrd. Urheberrechts-Einigung genehmigt",
+      "summary": "Die endgültige Genehmigung regelt einen Fall, löst jedoch nicht das breitere Problem der Verwendung urheberrechtlich geschützter Werke zum Trainieren von KI-Modellen. Diese Einigung setzt einen wichtigen Präzedenzfall für die gesamte KI-Branche."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-      "summary": "Hacker haben eine 'signifikante' Menge an Daten von Craneware gestohlen, einem Tech-Unternehmen, das von Tausenden US-Krankenhäusern und Apotheken für die Patientenabrechnung genutzt wird. Der Cyberangriff könnte sensible Gesundheitsdaten von Patienten preisgegeben haben."
+      "headline": "Google entwickelt neuen KI-Chip für effizientere Gemini-Modelle",
+      "summary": "Alphabet, Googles Mutterkonzern, arbeitet Berichten zufolge an einem neuen Chip, der seine Gemini-Modelle erheblich effizienter machen soll. Diese Entwicklung unterstreicht den anhaltenden Wettbewerb und die Investitionen in fortschrittliche KI-Hardware."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-      "summary": "Das KI-Infrastruktur-Startup Infinity gab eine 15-Millionen-Dollar-Finanzierungsrunde zu einer Bewertung von 100 Millionen Dollar bekannt. Zu den Investoren gehören Touring Capital sowie Forscher von OpenAI und Anthropic, was die Attraktivität des Sektors unterstreicht."
+      "headline": "Colossal Biosciences plant Kapitalerhöhung mit $20-30 Mrd. Bewertung",
+      "summary": "Das De-Extinktions-Startup Colossal Biosciences soll Berichten zufolge eine neue Finanzierungsrunde anstreben, die seine Bewertung auf 20 bis 30 Milliarden Dollar verdoppeln oder verdreifachen könnte. Dies zeigt das enorme Investoreninteresse an disruptiven Biotechnologien und gewagten Visionen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "Eine Klage von Apple wirft einen Schatten auf die Hardware-Pläne von OpenAI und dessen mögliche öffentliche Notierung. Es wird diskutiert, ob dieser Rechtsstreit die strategische Ausrichtung des führenden KI-Startups erheblich beeinflussen könnte."
+      "headline": "Natural sichert sich $30 Mio. für revolutionäre KI-Agenten-Zahlungen",
+      "summary": "Das einjährige Startup Natural hat 30 Millionen Dollar eingesammelt, um Zahlungssysteme für autonome KI-Agenten neu zu erfinden und damit Stripe herauszufordern. Ziel ist es, die Finanzarchitektur für KI-basierte Transaktionen grundlegend zu modernisieren und effizienter zu gestalten."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang: SaaS, B2B, ARR, Burn Rate, Churn",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Begriffe sind essenziell, um die Geschäftsmodelle und die finanzielle Gesundheit von Startups im Tech-Bereich zu verstehen. Sie beschreiben Einnahmequellen, Kundenbeziehungen und den Kapitalverbrauch.",
-    "details": "SaaS (Software as a Service) ist ein Abo-Modell, B2B (Business-to-Business) beschreibt den Vertrieb an Unternehmen, während ARR (Annual Recurring Revenue) die jährlich wiederkehrenden Einnahmen aus Abos beziffert. Die Burn Rate zeigt, wie schnell ein Startup Kapital verbrennt, und Churn misst die Kundenabwanderung. Zusammen geben sie Aufschluss über Skalierbarkeit, Rentabilität und das Überleben eines Startups.",
-    "takeaway": "Das Beherrschen dieser Begriffe ist entscheidend, um die Dynamik und das Potenzial von Startups zu analysieren und Investitionsentscheidungen fundiert zu treffen."
+    "topic": "Derivate verstehen: Das Ernte-Vergleichs-Modell",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem Basiswert, wie etwa Rohstoffen, Aktien oder Zinsen, ableitet und die den Handel zukünftiger Preise ermöglichen.",
+    "details": "Stell dir vor, ein Bauer, der Weizen ernten will, befürchtet einen Preisverfall, während ein Bäcker steigende Preise fürchtet. Sie können einen Derivatvertrag, wie ein Termingeschäft (Forward), abschließen: Der Bauer verkauft dem Bäcker heute Weizen zum Preis X, Lieferung in drei Monaten. Beide Parteien sichern sich so gegen Preisrisiken ab und spekulieren auf zukünftige Preisbewegungen. Optionen hingegen sind flexibler, da sie nur das Recht, aber nicht die Pflicht zum Kauf oder Verkauf des Basiswerts zu einem festen Preis beinhalten.",
+    "takeaway": "Derivate dienen primär der Absicherung von Risiken (Hedging) oder der Spekulation auf zukünftige Preisentwicklungen. Ihr Wert ist stets eng an die Entwicklung eines zugrunde liegenden Vermögenswertes gebunden."
   }
 }
