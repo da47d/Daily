@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Militär bombardiert Iran die zehnte Nacht in Folge",
-      "summary": "Das US-Militär setzte seine Angriffe auf den Iran die zehnte Nacht in Folge fort, während die Islamische Republik ihrerseits US-Ziele attackierte. US-Präsident Trump droht mit Vergeltung, was die Spannungen in der Region weiter erhöht."
+      "headline": "Seeblockade: Huthi-Miliz zwingt offenbar Schiffe zur Umkehr",
+      "summary": "Die Huthi-Miliz setzt ihre Drohung einer Seeblockade gegen Saudi-Arabien um und zwingt Schiffe zur Umkehr. Dies könnte die globalen Handelsrouten im Jemen beeinflussen und Spannungen in der Region erhöhen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA verhängen Zölle in Höhe von 50 Prozent auf Produkte aus Kanada",
-      "summary": "Der Handelsstreit zwischen den USA und Kanada eskaliert, da Washington neue Zölle von 50 Prozent verhängt hat. Betroffen sind auch Produkte, die bisher unter ein Freihandelsabkommen fielen, was weltweit für Turbulenzen sorgen könnte."
+      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: USA kündigen neue Zölle für Kanada in Höhe von zusätzlichen 50 Prozent an",
+      "summary": "Die USA haben zusätzliche Zölle von 50 Prozent auf Produkte aus Kanada angekündigt, was den Handelsstreit zwischen beiden Ländern erheblich verschärft. Diese Maßnahme könnte globale Lieferketten beeinflussen und zu weiteren Handelsturbulenzen führen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Gericht setzt Paramount-Übernahme von Warner vorerst aus",
-      "summary": "Ein US-Gericht hat die milliardenschwere Übernahme von Warner Bros. Discovery durch Paramount für zwei Wochen gestoppt. Zwölf Bundesstaaten sehen in dem Zusammenschluss eine erhebliche Gefahr für den Wettbewerb in der Branche."
+      "headline": "Marktbericht: DAX hält sich auf hohem Niveau",
+      "summary": "Der DAX konnte sich mit leichtem Rückenwind aus New York stabilisieren und hält sich weiterhin auf hohem Niveau nahe der 25.000-Punkte-Marke. Der Markt verzeichnete heute sogar eine positive Überraschung, die auf anhaltende Stärke hindeutet."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Was will Christine Lagarde? Spekulationen um vorzeitiges Ende ihrer EZB-Präsidentschaft",
-      "summary": "Gerüchte über einen vorzeitigen Abgang von EZB-Chefin Christine Lagarde flammen erneut auf und heizen Spekulationen an. Eine frühe Ernennung eines Nachfolgers könnte auch dazu dienen, die mögliche französische Staatschefin Marine Le Pen auszustechen."
+      "headline": "Wichtige Konzerne wollen 800 Milliarden Euro in Deutschland investieren. Sie loben die Merz-Regierung – fordern aber noch mehr",
+      "summary": "Große Konzerne planen Investitionen von 800 Milliarden Euro in Deutschland und signalisieren Vertrauen in die Reformpläne der Regierung. Sie fordern jedoch zusätzliche Maßnahmen und eine höhere Arbeitsproduktivität, um den Standort weiter zu stärken."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Anthropic's wegweisende $1.5 Mrd. Urheberrechts-Einigung genehmigt",
-      "summary": "Die endgültige Genehmigung regelt einen Fall, löst jedoch nicht das breitere Problem der Verwendung urheberrechtlich geschützter Werke zum Trainieren von KI-Modellen. Diese Einigung setzt einen wichtigen Präzedenzfall für die gesamte KI-Branche."
+      "headline": "Data centers expected to use 4x more electricity by 2035",
+      "summary": "Neue Rechenzentren, die bis 2033 gebaut werden, könnten voraussichtlich so viel Strom verbrauchen wie Indien heute. Dies deutet auf einen massiven Anstieg des globalen Energiebedarfs durch die Digitalisierung hin."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Google entwickelt neuen KI-Chip für effizientere Gemini-Modelle",
-      "summary": "Alphabet, Googles Mutterkonzern, arbeitet Berichten zufolge an einem neuen Chip, der seine Gemini-Modelle erheblich effizienter machen soll. Diese Entwicklung unterstreicht den anhaltenden Wettbewerb und die Investitionen in fortschrittliche KI-Hardware."
+      "headline": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
+      "summary": "Tesla startet in Orlando und Tampa Testprojekte für seine Robotaxi-Dienste, allerdings vorsichtiger als von CEO Elon Musk zuvor angekündigt. Diese Entwicklung wird mit Spannung vor der Veröffentlichung der Q2-Ergebnisse erwartet."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Colossal Biosciences plant Kapitalerhöhung mit $20-30 Mrd. Bewertung",
-      "summary": "Das De-Extinktions-Startup Colossal Biosciences soll Berichten zufolge eine neue Finanzierungsrunde anstreben, die seine Bewertung auf 20 bis 30 Milliarden Dollar verdoppeln oder verdreifachen könnte. Dies zeigt das enorme Investoreninteresse an disruptiven Biotechnologien und gewagten Visionen."
+      "headline": "Der Boom der Startups in London kann nicht über die Misere der britischen Wirtschaft hinwegtäuschen",
+      "summary": "London erlebt einen starken Boom bei Tech- und KI-Startups und weist die höchste Dichte solcher Unternehmen in Europa auf. Dieser Erfolg steht jedoch im Kontrast zur stagnierenden traditionellen Industrie im Rest Großbritanniens."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Natural sichert sich $30 Mio. für revolutionäre KI-Agenten-Zahlungen",
-      "summary": "Das einjährige Startup Natural hat 30 Millionen Dollar eingesammelt, um Zahlungssysteme für autonome KI-Agenten neu zu erfinden und damit Stripe herauszufordern. Ziel ist es, die Finanzarchitektur für KI-basierte Transaktionen grundlegend zu modernisieren und effizienter zu gestalten."
+      "headline": "Google releases three new Gemini models — but no 3.5 Pro",
+      "summary": "Google hat die neuen Gemini-Modelle 3.6 Flash, 3.5 Flash-Lite und Flash Cyber veröffentlicht, was die Fortschritte in der KI-Entwicklung unterstreicht. Das Ausbleiben des erwarteten Gemini 3.5 Pro wirft jedoch Fragen zur langfristigen KI-Strategie des Unternehmens und deren Einfluss auf das Tech-Ökosystem auf."
     }
   ],
   "learning": {
-    "topic": "Derivate verstehen: Das Ernte-Vergleichs-Modell",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem Basiswert, wie etwa Rohstoffen, Aktien oder Zinsen, ableitet und die den Handel zukünftiger Preise ermöglichen.",
-    "details": "Stell dir vor, ein Bauer, der Weizen ernten will, befürchtet einen Preisverfall, während ein Bäcker steigende Preise fürchtet. Sie können einen Derivatvertrag, wie ein Termingeschäft (Forward), abschließen: Der Bauer verkauft dem Bäcker heute Weizen zum Preis X, Lieferung in drei Monaten. Beide Parteien sichern sich so gegen Preisrisiken ab und spekulieren auf zukünftige Preisbewegungen. Optionen hingegen sind flexibler, da sie nur das Recht, aber nicht die Pflicht zum Kauf oder Verkauf des Basiswerts zu einem festen Preis beinhalten.",
-    "takeaway": "Derivate dienen primär der Absicherung von Risiken (Hedging) oder der Spekulation auf zukünftige Preisentwicklungen. Ihr Wert ist stets eng an die Entwicklung eines zugrunde liegenden Vermögenswertes gebunden."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens vor einer neuen Investitionsrunde, während die Post-Money-Bewertung den Wert nach Erhalt des neuen Kapitals beschreibt.",
+    "details": "Stell dir vor, du hast ein Startup, dessen Wert vor einer Finanzierungsrunde auf 10 Millionen Euro geschätzt wird (Pre-Money). Wenn ein Investor 2 Millionen Euro in dein Unternehmen investiert, steigt der Gesamtwert deines Startups auf 12 Millionen Euro (Post-Money). Der Investor erhält dann einen Anteil am Unternehmen, der auf Basis der Post-Money-Bewertung berechnet wird. Dieses Konzept ist entscheidend, um zu verstehen, wie sich Kapitalerhöhungen auf die Eigentumsanteile der bestehenden Aktionäre und der neuen Investoren auswirken. Es zeigt genau, wie viel ein Unternehmen durch frisches Kapital an Wert gewinnt und wie sich die Anteile verschieben.",
+    "takeaway": "Die Post-Money-Bewertung ist immer die Summe aus Pre-Money-Bewertung und dem neuen Investitionsbetrag und bildet die Grundlage für die Berechnung der Anteile neuer Investoren. Sie ist zentral für die Verhandlung von Beteiligungsquoten und der Bewertung von Startups nach einer Finanzierungsrunde."
   }
 }
