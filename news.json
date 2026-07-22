@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Seeblockade: Huthi-Miliz zwingt offenbar Schiffe zur Umkehr",
-      "summary": "Die Huthi-Miliz setzt ihre Drohung einer Seeblockade gegen Saudi-Arabien um und zwingt Schiffe zur Umkehr. Dies könnte die globalen Handelsrouten im Jemen beeinflussen und Spannungen in der Region erhöhen."
+      "headline": "Trump droht Iran bei Angriffen auf Schiffe mit Vergeltung",
+      "summary": "US-Präsident Trump verschärft den Ton gegenüber Teheran und droht mit der Zerstörung ziviler Infrastruktur bei weiteren Angriffen auf Schiffe in der Straße von Hormus. Diese Eskalation im Persischen Golf erhöht die geopolitischen Spannungen und könnte die globalen Ölmärkte beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: USA kündigen neue Zölle für Kanada in Höhe von zusätzlichen 50 Prozent an",
-      "summary": "Die USA haben zusätzliche Zölle von 50 Prozent auf Produkte aus Kanada angekündigt, was den Handelsstreit zwischen beiden Ländern erheblich verschärft. Diese Maßnahme könnte globale Lieferketten beeinflussen und zu weiteren Handelsturbulenzen führen."
+      "headline": "Trump kündigt Generikazölle von 200 Prozent an. Warum das vor allem für Sandoz bedrohlich ist",
+      "summary": "Präsident Trump plant drastische Zölle von 200 Prozent auf Generika, was insbesondere für den Basler Konzern Sandoz, der den Großteil seiner Medikamente in Europa produziert, bedrohlich ist. Diese protektionistischen Maßnahmen könnten die Medikamentenpreise in den USA beeinflussen und den internationalen Pharmamarkt stark verändern."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX hält sich auf hohem Niveau",
-      "summary": "Der DAX konnte sich mit leichtem Rückenwind aus New York stabilisieren und hält sich weiterhin auf hohem Niveau nahe der 25.000-Punkte-Marke. Der Markt verzeichnete heute sogar eine positive Überraschung, die auf anhaltende Stärke hindeutet."
+      "headline": "Wichtige Konzerne wollen 800 Milliarden Euro in Deutschland investieren. Sie loben die Merz-Regierung – fordern aber noch mehr",
+      "summary": "Führende Konzerne planen massive Investitionen von 800 Milliarden Euro in Deutschland, zeigen sich optimistisch über politische Reformen, fordern aber weitere Anstrengungen zur Stärkung des Standorts. Dies deutet auf eine positive Einschätzung der deutschen Wirtschaftsperspektiven hin, verbunden mit Erwartungen an die Politik."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Wichtige Konzerne wollen 800 Milliarden Euro in Deutschland investieren. Sie loben die Merz-Regierung – fordern aber noch mehr",
-      "summary": "Große Konzerne planen Investitionen von 800 Milliarden Euro in Deutschland und signalisieren Vertrauen in die Reformpläne der Regierung. Sie fordern jedoch zusätzliche Maßnahmen und eine höhere Arbeitsproduktivität, um den Standort weiter zu stärken."
+      "headline": "«Wir dürfen als Finanzplatz nicht davon ausgehen, dass unser Spitzenplatz gesichert ist», sagt der Chef der Privatbank EFG",
+      "summary": "Giorgio Pradelli, CEO von EFG, warnt trotz Geschäftserfolgen vor Selbstzufriedenheit des Schweizer Finanzplatzes. Er betont die Notwendigkeit des Marktzugangs zur EU, um die globale Wettbewerbsfähigkeit langfristig zu sichern."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Data centers expected to use 4x more electricity by 2035",
-      "summary": "Neue Rechenzentren, die bis 2033 gebaut werden, könnten voraussichtlich so viel Strom verbrauchen wie Indien heute. Dies deutet auf einen massiven Anstieg des globalen Energiebedarfs durch die Digitalisierung hin."
+      "headline": "OpenAI’s AI spending spree has ballooned to $750B",
+      "summary": "OpenAI plant, bis 2030 astronomische 750 Milliarden Dollar in die KI-Infrastruktur zu investieren, eine Summe, die das Bruttoinlandsprodukt ganzer Länder übersteigt. Diese enorme Investition unterstreicht den massiven Ressourcenbedarf für die Entwicklung und den Betrieb von fortschrittlicher Künstlicher Intelligenz."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
-      "summary": "Tesla startet in Orlando und Tampa Testprojekte für seine Robotaxi-Dienste, allerdings vorsichtiger als von CEO Elon Musk zuvor angekündigt. Diese Entwicklung wird mit Spannung vor der Veröffentlichung der Q2-Ergebnisse erwartet."
+      "headline": "EU will \"Chatkontrollen\" teilweise wieder ermöglichen",
+      "summary": "Nach jahrelangem Streit wurde in der EU eine vorübergehende Lösung für \"Chatkontrollen\" gefunden, um Kindesmissbrauch aufzudecken, wobei verschlüsselte Nachrichten ausgenommen bleiben. Die Entscheidung spiegelt den Balanceakt zwischen Sicherheit und Datenschutz wider und wird weitreichende Diskussionen hervorrufen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Der Boom der Startups in London kann nicht über die Misere der britischen Wirtschaft hinwegtäuschen",
-      "summary": "London erlebt einen starken Boom bei Tech- und KI-Startups und weist die höchste Dichte solcher Unternehmen in Europa auf. Dieser Erfolg steht jedoch im Kontrast zur stagnierenden traditionellen Industrie im Rest Großbritanniens."
+      "headline": "Cascade raises $3.5M to help construction firms find and win projects",
+      "summary": "Cascade hat in einer Seed-Runde 3,5 Millionen US-Dollar von Investoren wie a16z Speedrun erhalten, um eine Plattform zur Projektakquise für Bauunternehmen zu entwickeln. Das Startup zielt darauf ab, die Effizienz in der Bauindustrie durch bessere Projektfindung und -gewinnung zu steigern."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Google releases three new Gemini models — but no 3.5 Pro",
-      "summary": "Google hat die neuen Gemini-Modelle 3.6 Flash, 3.5 Flash-Lite und Flash Cyber veröffentlicht, was die Fortschritte in der KI-Entwicklung unterstreicht. Das Ausbleiben des erwarteten Gemini 3.5 Pro wirft jedoch Fragen zur langfristigen KI-Strategie des Unternehmens und deren Einfluss auf das Tech-Ökosystem auf."
+      "headline": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "summary": "Das deutsche Startup Passionfroot, das einen Marktplatz für B2B-Creator und Marken betreibt, hat in einer Series-A-Runde 15 Millionen US-Dollar eingesammelt. Mit der Finanzierung unter Führung von Insight Partners soll die Expansion in den US-Markt vorangetrieben werden."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens vor einer neuen Investitionsrunde, während die Post-Money-Bewertung den Wert nach Erhalt des neuen Kapitals beschreibt.",
-    "details": "Stell dir vor, du hast ein Startup, dessen Wert vor einer Finanzierungsrunde auf 10 Millionen Euro geschätzt wird (Pre-Money). Wenn ein Investor 2 Millionen Euro in dein Unternehmen investiert, steigt der Gesamtwert deines Startups auf 12 Millionen Euro (Post-Money). Der Investor erhält dann einen Anteil am Unternehmen, der auf Basis der Post-Money-Bewertung berechnet wird. Dieses Konzept ist entscheidend, um zu verstehen, wie sich Kapitalerhöhungen auf die Eigentumsanteile der bestehenden Aktionäre und der neuen Investoren auswirken. Es zeigt genau, wie viel ein Unternehmen durch frisches Kapital an Wert gewinnt und wie sich die Anteile verschieben.",
-    "takeaway": "Die Post-Money-Bewertung ist immer die Summe aus Pre-Money-Bewertung und dem neuen Investitionsbetrag und bildet die Grundlage für die Berechnung der Anteile neuer Investoren. Sie ist zentral für die Verhandlung von Beteiligungsquoten und der Bewertung von Startups nach einer Finanzierungsrunde."
+    "topic": "Optionen vs. Optionsscheine",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Beide sind Hebelprodukte und ähneln sich, doch unterscheiden sie sich grundlegend in ihrer Standardisierung, Handelbarkeit und dem Emittentenrisiko. Optionen sind standardisierte, börsengehandelte Verträge, Optionsscheine sind von Banken begebene Wertpapiere.",
+    "details": "Optionen sind Derivate, die Anlegern das Recht, aber nicht die Pflicht geben, einen Basiswert (z.B. eine Aktie) zu einem festgelegten Preis bis zu einem bestimmten Datum zu kaufen oder zu verkaufen. Sie werden an Terminbörsen gehandelt und sind standardisiert, was für hohe Liquidität sorgt und das Emittentenrisiko ausschließt. Optionsscheine hingegen sind Schuldverschreibungen, die von Banken (Emittenten) begeben werden und dem Anleger ein ähnliches Recht einräumen, jedoch oft an nicht-standardisierten Bedingungen geknüpft sind. Ihr Wert hängt auch von der Bonität des Emittenten ab, was ein zusätzliches Risiko darstellt.",
+    "takeaway": "Der Hauptunterschied liegt im Emittentenrisiko (Optionsscheine haben es, Optionen nicht) und in der Standardisierung. Optionen sind primär für Hedging oder Spekulation gedacht und werden von professionellen Händlern genutzt, während Optionsscheine oft von Privatanlegern zur Hebelung kleinerer Beträge eingesetzt werden."
   }
 }
