@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Treffen der Außenminister: Rubio und Lawrow kommen in Manila zusammen",
-      "summary": "Die Außenminister der USA und Russlands trafen sich zu ihren ersten Gesprächen auf dieser Ebene seit Langem. Gleichzeitig verhängte die EU neue Russland-Sanktionen."
+      "headline": "Trump: Saudis sollen für Atomdeal auf Israel zugehen",
+      "summary": "Präsident Trump knüpft das Atomabkommen der USA mit Saudi-Arabien nachträglich an eine Annäherung Riads an Israel. Es ist jedoch völlig unklar, ob die Saudis dieser Bedingung zustimmen werden."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Neue Angriffe und gegenseitige Drohungen - Konflikt im Nahen Osten geht weiter",
-      "summary": "Das US-Militär hat erneut Ziele im Iran attackiert, was die zwölfte Angriffswelle in Folge darstellt. US-Präsident Trump verschärft seine Drohungen, während der Iran mit Gegenschlägen reagiert."
+      "headline": "EU verhängt weiteres Sanktionspaket gegen Russland",
+      "summary": "Die EU-Kommission hat das 21. Sanktionspaket gegen Russland beschlossen, das insbesondere den Finanzsektor stärker treffen soll. Die Verhandlungen waren zuvor von Zähigkeit und Extrawünschen vieler Länder geprägt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EZB-Präsidentin Lagarde: Bleibt sie oder geht sie?",
-      "summary": "Spekulationen um einen möglichen vorzeitigen Abgang von EZB-Präsidentin Lagarde irritieren vor einer weiteren Zinsentscheidung. Die Notenbank hat angesichts der zu hohen Inflation weiterhin entscheidende Aufgaben zu bewältigen."
+      "headline": "EZB-Präsidentin Lagarde schliesst vorzeitiges Amtszeitende nicht aus",
+      "summary": "EZB-Präsidentin Lagarde äußerte sich zu Gerüchten über ihren vorzeitigen Abschied, schloss diesen jedoch nicht aus, falls die Inflation unter Kontrolle gebracht werden kann. Zuvor hatte die EZB die Leitzinsen unverändert gelassen, aber einen Zinsschritt im September offengehalten."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Alphabet verdient mit Youtube und Suchresultaten so viel wie noch nie – und doch reicht das nicht, um die enormen Investitionen in KI zu finanzieren",
-      "summary": "Trotz Rekordeinnahmen durch YouTube und Suchergebnisse weist Google erstmals seit 2004 einen Quartal mit negativem Cashflow auf. Der Konzern kündigt an, die Ausgaben für Rechenzentren um weitere 15 Milliarden Dollar zu erhöhen."
+      "headline": "Nestlé lagert Mineralwassergeschäft aus und kooperiert mit Private Equity",
+      "summary": "Nestlé gründet ein Joint Venture mit dem amerikanischen Finanzinvestor Platinum Equity für sein Wassergeschäft. Analysten bewerten diese Abspaltung positiv, obwohl die Aktien des Konzerns Verluste verzeichnen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Bundesregierung spricht nach KI-Hackerangriff von \"Paradigmenwechsel\"",
-      "summary": "Ein eigenständiger Hackerangriff durch ein KI-Modell hat die Bundesregierung alarmiert und als Paradigmenwechsel eingestuft. Das Digitalministerium warnt vor einer massiv veränderten Bedrohungslage im Cyberbereich durch Künstliche Intelligenz."
+      "headline": "Alphabet: Rekordeinnahmen reichen nicht für KI-Investitionen",
+      "summary": "Alphabet verzeichnete erstmals seit seinem Börsengang ein Quartal mit negativem Cashflow, trotz Rekordeinnahmen mit YouTube und Suchresultaten. Der Google-Konzern kündigt an, die Ausgaben für Rechenzentren für KI um weitere 15 Milliarden Dollar zu erhöhen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Science Corporation’s vision-restoring chip wins EU approval",
-      "summary": "Science Corporation hat die EU-Zulassung für ihren revolutionären sehkraftwiederherstellenden Chip erhalten. CEO Max Hodak betont, dass der Markt Unternehmen benötigt, die einen Jahresumsatz von 100 Millionen Dollar erzielen."
+      "headline": "Google's Gemini nähert sich Milliarde-Nutzer-Marke",
+      "summary": "Googles KI-Modell Gemini hat im Februar bereits über 750 Millionen monatliche Nutzer erreicht und steuert auf den Meilenstein von einer Milliarde Nutzer zu. Dies unterstreicht die rasante Verbreitung und Akzeptanz von KI-Technologien."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "summary": "Travis Kalanicks Robotik-Unternehmen Atoms hat eine beeindruckende Finanzierungsrunde von 1,7 Milliarden Dollar unter Führung von a16z abgeschlossen. Auch Uber investiert in das Unternehmen, das industrielle KI zur Modernisierung der Welt einsetzen will."
+      "headline": "Runway startet AI-Modell-Router als Infrastruktur für generative Medien",
+      "summary": "Runway transformiert sich von einem reinen AI-Modell-Unternehmen zur Infrastrukturschicht für generative Medien. Mit dem Launch des Runway Media Routers und einer Entwicklerplattform bietet das Startup API-Zugriff auf eine wachsende Anzahl von Drittanbieter-Modellen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
-      "summary": "Matt Murphy von Menlo Ventures erklärt das explosionsartige Wachstum von Anthropic, das eine Umsatzrate von 47 Milliarden Dollar erreichte. Dieses Wachstum hat er in 25 Jahren als Investor noch nie erlebt."
+      "headline": "AI-Chip-Startup Etched erreicht 10,3 Mrd. US-Dollar Bewertung",
+      "summary": "Das von drei Harvard-Abbrechern gegründete AI-Chip-Startup Etched hat eine Bewertung von 10,3 Milliarden US-Dollar erreicht. Das Unternehmen entwickelt neue Chips und Speicherkonponenten, die die Inferenz bei jedem AI-Modell ohne GPUs beschleunigen sollen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer neuen Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* der Kapitalzufuhr darstellt. Sie sind entscheidend, um den Anteil neuer Investoren und die Verwässerung bestehender Eigentümer zu bestimmen.",
-    "details": "Stell dir vor, ein Startup ist wie ein Kuchen. Die Pre-Money-Bewertung sagt dir, wie viel der Kuchen wert ist, bevor du eine neue Zutat (frisches Kapital) hinzufügst. Wenn Investoren dann Geld einbringen, erhöht sich der Gesamtwert des Kuchens – das ist die Post-Money-Bewertung. Der Unterschied zwischen Pre- und Post-Money ist exakt das investierte Kapital. Die Post-Money-Bewertung ist wichtig, um zu berechnen, welchen prozentualen Anteil die neuen Investoren für ihr Geld erhalten. Ein Investor würde beispielsweise X Millionen für einen Y%-Anteil am Unternehmen nach der Investition zahlen.",
-    "takeaway": "Die Post-Money-Bewertung ist das Endergebnis einer Finanzierungsrunde und die Basis für die Berechnung der Eigentumsanteile. Vergiss nicht: Post-Money = Pre-Money + Investiertes Kapital."
+    "topic": "ETF-Namenszusätze entschlüsseln",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "ETF-Namen enthalten wichtige Abkürzungen, die Aufschluss über die Anlagestrategie, Ertragsverwendung und rechtliche Struktur eines Fonds geben.",
+    "details": "`UCITS` (Undertakings for Collective Investment in Transferable Securities) signalisiert die Einhaltung EU-weiter Anlegerschutzrichtlinien. `Acc` (Accumulating) bedeutet, Erträge werden automatisch reinvestiert, während `Dist` (Distributing) sie ausschüttet. `Swap` oder `Synthetisch` beschreibt eine Indexabbildung über Tauschgeschäfte, während `Physisch` oder `Replikation` den direkten Kauf der Indexwerte bedeutet. `Core` deutet oft auf kostengünstige Basis-ETFs hin, und `IMI` (FTSE Global All Cap Index) steht für eine sehr breite, globale Marktabdeckung von Small bis Large Caps.",
+    "takeaway": "Das Verständnis dieser Namenszusätze ist unerlässlich, um den passenden ETF für die eigene Anlagestrategie auszuwählen, Kosten zu kalkulieren und steuerliche Auswirkungen (Acc/Dist) korrekt zu bewerten."
   }
 }
