@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump droht Iran bei Angriffen auf Schiffe mit Vergeltung",
-      "summary": "US-Präsident Trump verschärft den Ton gegenüber Teheran und droht mit der Zerstörung ziviler Infrastruktur bei weiteren Angriffen auf Schiffe in der Straße von Hormus. Diese Eskalation im Persischen Golf erhöht die geopolitischen Spannungen und könnte die globalen Ölmärkte beeinflussen."
+      "headline": "Treffen der Außenminister: Rubio und Lawrow kommen in Manila zusammen",
+      "summary": "Die Außenminister der USA und Russlands trafen sich zu ihren ersten Gesprächen auf dieser Ebene seit Langem. Gleichzeitig verhängte die EU neue Russland-Sanktionen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump kündigt Generikazölle von 200 Prozent an. Warum das vor allem für Sandoz bedrohlich ist",
-      "summary": "Präsident Trump plant drastische Zölle von 200 Prozent auf Generika, was insbesondere für den Basler Konzern Sandoz, der den Großteil seiner Medikamente in Europa produziert, bedrohlich ist. Diese protektionistischen Maßnahmen könnten die Medikamentenpreise in den USA beeinflussen und den internationalen Pharmamarkt stark verändern."
+      "headline": "Neue Angriffe und gegenseitige Drohungen - Konflikt im Nahen Osten geht weiter",
+      "summary": "Das US-Militär hat erneut Ziele im Iran attackiert, was die zwölfte Angriffswelle in Folge darstellt. US-Präsident Trump verschärft seine Drohungen, während der Iran mit Gegenschlägen reagiert."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Wichtige Konzerne wollen 800 Milliarden Euro in Deutschland investieren. Sie loben die Merz-Regierung – fordern aber noch mehr",
-      "summary": "Führende Konzerne planen massive Investitionen von 800 Milliarden Euro in Deutschland, zeigen sich optimistisch über politische Reformen, fordern aber weitere Anstrengungen zur Stärkung des Standorts. Dies deutet auf eine positive Einschätzung der deutschen Wirtschaftsperspektiven hin, verbunden mit Erwartungen an die Politik."
+      "headline": "EZB-Präsidentin Lagarde: Bleibt sie oder geht sie?",
+      "summary": "Spekulationen um einen möglichen vorzeitigen Abgang von EZB-Präsidentin Lagarde irritieren vor einer weiteren Zinsentscheidung. Die Notenbank hat angesichts der zu hohen Inflation weiterhin entscheidende Aufgaben zu bewältigen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "«Wir dürfen als Finanzplatz nicht davon ausgehen, dass unser Spitzenplatz gesichert ist», sagt der Chef der Privatbank EFG",
-      "summary": "Giorgio Pradelli, CEO von EFG, warnt trotz Geschäftserfolgen vor Selbstzufriedenheit des Schweizer Finanzplatzes. Er betont die Notwendigkeit des Marktzugangs zur EU, um die globale Wettbewerbsfähigkeit langfristig zu sichern."
+      "headline": "Alphabet verdient mit Youtube und Suchresultaten so viel wie noch nie – und doch reicht das nicht, um die enormen Investitionen in KI zu finanzieren",
+      "summary": "Trotz Rekordeinnahmen durch YouTube und Suchergebnisse weist Google erstmals seit 2004 einen Quartal mit negativem Cashflow auf. Der Konzern kündigt an, die Ausgaben für Rechenzentren um weitere 15 Milliarden Dollar zu erhöhen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI’s AI spending spree has ballooned to $750B",
-      "summary": "OpenAI plant, bis 2030 astronomische 750 Milliarden Dollar in die KI-Infrastruktur zu investieren, eine Summe, die das Bruttoinlandsprodukt ganzer Länder übersteigt. Diese enorme Investition unterstreicht den massiven Ressourcenbedarf für die Entwicklung und den Betrieb von fortschrittlicher Künstlicher Intelligenz."
+      "headline": "Bundesregierung spricht nach KI-Hackerangriff von \"Paradigmenwechsel\"",
+      "summary": "Ein eigenständiger Hackerangriff durch ein KI-Modell hat die Bundesregierung alarmiert und als Paradigmenwechsel eingestuft. Das Digitalministerium warnt vor einer massiv veränderten Bedrohungslage im Cyberbereich durch Künstliche Intelligenz."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "EU will \"Chatkontrollen\" teilweise wieder ermöglichen",
-      "summary": "Nach jahrelangem Streit wurde in der EU eine vorübergehende Lösung für \"Chatkontrollen\" gefunden, um Kindesmissbrauch aufzudecken, wobei verschlüsselte Nachrichten ausgenommen bleiben. Die Entscheidung spiegelt den Balanceakt zwischen Sicherheit und Datenschutz wider und wird weitreichende Diskussionen hervorrufen."
+      "headline": "Science Corporation’s vision-restoring chip wins EU approval",
+      "summary": "Science Corporation hat die EU-Zulassung für ihren revolutionären sehkraftwiederherstellenden Chip erhalten. CEO Max Hodak betont, dass der Markt Unternehmen benötigt, die einen Jahresumsatz von 100 Millionen Dollar erzielen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Cascade raises $3.5M to help construction firms find and win projects",
-      "summary": "Cascade hat in einer Seed-Runde 3,5 Millionen US-Dollar von Investoren wie a16z Speedrun erhalten, um eine Plattform zur Projektakquise für Bauunternehmen zu entwickeln. Das Startup zielt darauf ab, die Effizienz in der Bauindustrie durch bessere Projektfindung und -gewinnung zu steigern."
+      "headline": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "summary": "Travis Kalanicks Robotik-Unternehmen Atoms hat eine beeindruckende Finanzierungsrunde von 1,7 Milliarden Dollar unter Führung von a16z abgeschlossen. Auch Uber investiert in das Unternehmen, das industrielle KI zur Modernisierung der Welt einsetzen will."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "summary": "Das deutsche Startup Passionfroot, das einen Marktplatz für B2B-Creator und Marken betreibt, hat in einer Series-A-Runde 15 Millionen US-Dollar eingesammelt. Mit der Finanzierung unter Führung von Insight Partners soll die Expansion in den US-Markt vorangetrieben werden."
+      "headline": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+      "summary": "Matt Murphy von Menlo Ventures erklärt das explosionsartige Wachstum von Anthropic, das eine Umsatzrate von 47 Milliarden Dollar erreichte. Dieses Wachstum hat er in 25 Jahren als Investor noch nie erlebt."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Beide sind Hebelprodukte und ähneln sich, doch unterscheiden sie sich grundlegend in ihrer Standardisierung, Handelbarkeit und dem Emittentenrisiko. Optionen sind standardisierte, börsengehandelte Verträge, Optionsscheine sind von Banken begebene Wertpapiere.",
-    "details": "Optionen sind Derivate, die Anlegern das Recht, aber nicht die Pflicht geben, einen Basiswert (z.B. eine Aktie) zu einem festgelegten Preis bis zu einem bestimmten Datum zu kaufen oder zu verkaufen. Sie werden an Terminbörsen gehandelt und sind standardisiert, was für hohe Liquidität sorgt und das Emittentenrisiko ausschließt. Optionsscheine hingegen sind Schuldverschreibungen, die von Banken (Emittenten) begeben werden und dem Anleger ein ähnliches Recht einräumen, jedoch oft an nicht-standardisierten Bedingungen geknüpft sind. Ihr Wert hängt auch von der Bonität des Emittenten ab, was ein zusätzliches Risiko darstellt.",
-    "takeaway": "Der Hauptunterschied liegt im Emittentenrisiko (Optionsscheine haben es, Optionen nicht) und in der Standardisierung. Optionen sind primär für Hedging oder Spekulation gedacht und werden von professionellen Händlern genutzt, während Optionsscheine oft von Privatanlegern zur Hebelung kleinerer Beträge eingesetzt werden."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer neuen Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* der Kapitalzufuhr darstellt. Sie sind entscheidend, um den Anteil neuer Investoren und die Verwässerung bestehender Eigentümer zu bestimmen.",
+    "details": "Stell dir vor, ein Startup ist wie ein Kuchen. Die Pre-Money-Bewertung sagt dir, wie viel der Kuchen wert ist, bevor du eine neue Zutat (frisches Kapital) hinzufügst. Wenn Investoren dann Geld einbringen, erhöht sich der Gesamtwert des Kuchens – das ist die Post-Money-Bewertung. Der Unterschied zwischen Pre- und Post-Money ist exakt das investierte Kapital. Die Post-Money-Bewertung ist wichtig, um zu berechnen, welchen prozentualen Anteil die neuen Investoren für ihr Geld erhalten. Ein Investor würde beispielsweise X Millionen für einen Y%-Anteil am Unternehmen nach der Investition zahlen.",
+    "takeaway": "Die Post-Money-Bewertung ist das Endergebnis einer Finanzierungsrunde und die Basis für die Berechnung der Eigentumsanteile. Vergiss nicht: Post-Money = Pre-Money + Investiertes Kapital."
   }
 }
