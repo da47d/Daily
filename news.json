@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Regierung verhängt neue Zölle gegen 60 Handelspartner",
-      "summary": "Die US-Regierung hat überraschend neue Einfuhrabgaben für 60 Handelspartner angekündigt. Diese Zölle dienen als Strafen wegen angeblich unzureichender Maßnahmen gegen Zwangsarbeit."
+      "headline": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
+      "summary": "Russland griff offenbar gezielt eine Veranstaltung der ukrainischen Drohnenbranche nahe Kiew an. Dabei sollen mindestens zehn Menschen getötet und fast 100 verletzt worden sein."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA setzen Angriffe auf Iran fort",
-      "summary": "Seit fast zwei Wochen fliegen die USA nächtliche Angriffe auf den Iran. Die US-Armee hat nach eigenen Angaben militärische Ziele ins Visier genommen, während Kuwait iranischen Beschuss meldete."
+      "headline": "Trump verhängt neue US-Zölle gegen sechzig Handelspartner",
+      "summary": "Die USA verhängen neue Zölle gegen sechzig Handelspartner, wobei die Abgaben für Schweizer Exporte auf 12,5% steigen, während EU-Firmen mit 10% davonkommen. Diese Maßnahme, initiiert von Trump, stößt auf laute Kritik der Wirtschaftsverbände."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "VW senkt Umsatzausblick nach Gewinneinbruch",
-      "summary": "Volkswagen hat im zweiten Quartal deutlich weniger verdient als im Vorjahr und rechnet für das Gesamtjahr mit niedrigeren Erlösen. Das schwache China-Geschäft belastet den Autobauer erheblich."
+      "headline": "Russische Zentralbank senkt Leitzins erneut",
+      "summary": "Russlands Zentralbank hat den Leitzins erneut auf 14 Prozent gesenkt, um die Wirtschaft zu stützen. Diese Maßnahme erhöht jedoch gleichzeitig die Inflationsgefahr."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EZB-Präsidentin Lagarde erwägt vorzeitigen Abgang",
-      "summary": "EZB-Präsidentin Lagarde schliesst nicht aus, ihre Amtszeit vorzeitig zu beenden, sollte die Inflation unter Kontrolle sein. Die EZB hielt die Leitzinsen unverändert, liess aber die Tür für einen Zinsschritt im September offen."
+      "headline": "Lagarde schließt vorzeitiges Amtsende nicht aus",
+      "summary": "EZB-Präsidentin Lagarde schließt eine vorzeitige Beendigung ihrer Amtszeit nicht aus, sollte die Inflation unter Kontrolle sein. Die EZB ließ die Leitzinsen unverändert, signalisierte aber einen möglichen Zinsschritt im September."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "EU verhängt hohe Busse gegen Google im Handelsstreit",
-      "summary": "Die EU-Kommission hat Google eine Busse von 890 Millionen Euro auferlegt, weil das Unternehmen Konkurrenten benachteiligte. Dieser Zeitpunkt ist brisant, da wichtige Entscheide im Zollkonflikt mit den USA anstehen."
+      "headline": "Tesla-Absatz steigt, Aktien stürzen ab",
+      "summary": "Tesla verzeichnete gestiegene Absätze in Europa und China, doch die Aktien stürzten an der Börse ab. An den Märkten wird derweil über eine Fusion von Tesla und SpaceX spekuliert."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "AMD fordert Nvidia mit neuem AI-Rack-System heraus",
-      "summary": "AMD tritt mit seinem neuen Helios AI-Rack-Skalensystem gegen den Chip-Rivalen Nvidia an. Das System soll noch in diesem Jahr an Kunden ausgeliefert werden und stärkt den Wettbewerb im KI-Bereich."
+      "headline": "Zehntausende wegen Waldbränden in Frankreich evakuiert",
+      "summary": "Wegen ausgedehnter Waldbrände an der französischen Atlantikküste müssen Zehntausende Menschen evakuiert werden. Eines der Feuer hat inzwischen die Größe von Paris erreicht, und Schiffe werden zur Evakuierung eingesetzt."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Corgi, ein KI-Versicherungs-Startup, sammelt erneut Kapital",
-      "summary": "Das Versicherungs-Startup Corgi hat Berichten zufolge weitere Finanzmittel bei einer Bewertung von 4 Milliarden US-Dollar aufgenommen. Dies ist die dritte Runde innerhalb von acht Wochen, getrieben vom KI-Finanzierungsrausch."
+      "headline": "Anduril strebt Finanzierung bei $100 Mrd. Bewertung an",
+      "summary": "Das Unternehmen Anduril soll eine neue Finanzierungsrunde anstreben, die seine Bewertung auf rund 100 Milliarden Dollar steigern könnte. Dies wäre mehr als das Dreifache des Vorjahreswerts."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "AegisAI erhält 36 Millionen Dollar für Anti-Phishing-KI",
-      "summary": "AegisAI, gegründet von ehemaligen Google-Sicherheitsexperten, sichert sich 36 Millionen US-Dollar zur Bekämpfung von KI-gesteuertem Spear Phishing. Das Unternehmen entwickelt KI-Agenten, die Nachrichten schnell analysieren und Anomalien erkennen."
+      "headline": "Sam Altmans World sammelt $52.5 Mio. über Krypto-Verkauf",
+      "summary": "Sam Altmans Biometrie-Startup World hat 52,5 Millionen Dollar durch einen Krypto-Verkauf eingesammelt. Das Projekt zielt darauf ab, menschliche Augen zu scannen und in einzigartige digitale Identifikatoren umzuwandeln."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups vor einer Finanzierungsrunde; die Post-Money-Bewertung ist der Wert danach, inklusive des frischen Kapitals.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird die Unternehmensbewertung vor der Investition als Pre-Money-Bewertung festgelegt. Nach der Kapitalzufuhr erhöht sich der Gesamtwert des Unternehmens um den Investitionsbetrag, was dann die Post-Money-Bewertung ergibt. Diese Unterscheidung ist entscheidend für die Berechnung des Anteils, den ein Investor für seine Investition erhält. Angenommen, ein Startup hat eine Pre-Money-Bewertung von 10 Millionen Euro und erhält eine Investition von 2 Millionen Euro. Die Post-Money-Bewertung beträgt dann 12 Millionen Euro, und der Investor erhält 2/12 oder 16,67% des Unternehmens.",
-    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist essenziell, um zu wissen, welchen Anteil Gründer und Investoren nach einer Finanzierungsrunde am Unternehmen halten, und beeinflusst die zukünftige Kapitalstruktur."
+    "topic": "ETF-Namenszusätze: Was bedeuten Core, IMI, Acc vs. Dist, UCITS und Swap/Physisch?",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "ETF-Namenszusätze entschlüsseln wichtige Merkmale eines Exchange Traded Funds, von der Kostenstruktur über die Abbildungsart bis zur Thesaurierung. Ihr Verständnis ist essenziell für die Auswahl passender Indexfonds.",
+    "details": "Ein 'Core'-ETF signalisiert oft einen kostengünstigen Fonds für breite Indizes, während 'IMI' (Investable Market Index) auch Small-Caps umfasst. 'Acc' (Accumulating) reinvestiert Erträge automatisch, wohingegen 'Dist' (Distributing) sie ausschüttet. 'UCITS' ist ein EU-Regulierungsstandard für Anlegerschutz. 'Swap/Synthetisch' bedeutet, der Index wird über Tauschgeschäfte abgebildet, im Gegensatz zu 'Physisch', wo die echten Wertpapiere gehalten werden, entweder durch 'Full Replication' oder 'Sampling'. Diese Zusätze beeinflussen Steuern, Rendite und Risiko und sind somit entscheidend für die Investmententscheidung.",
+    "takeaway": "Das Verständnis dieser Kürzel hilft dir, ETFs gezielt nach Kosten, Marktabdeckung, Steueroptimierung und Risikoprofil auszuwählen. Ein UCITS-Label steht für Anlegerschutz in der EU."
   }
 }
