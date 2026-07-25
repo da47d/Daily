@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump droht EU wegen Google-Strafe mit neuen Zöllen",
-      "summary": "US-Präsident Trump kritisiert die Milliardenstrafe der EU gegen Google scharf und droht Europa mit einem \"sehr hohen Preis\" in Form neuer Zölle. Er wirft der EU-Kommission \"Raub\" vor und bezeichnet die USA nicht als \"Sparschwein\" Europas."
+      "headline": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
+      "summary": "Russland und die Ukraine greifen sich weiterhin gegenseitig an, was zu Opfern auf beiden Seiten führt und Kiew weitere Angriffe auf russische Ölanlagen meldet. Dieser Konflikt bleibt ein signifikanter geopolitischer Faktor mit Einfluss auf die globalen Märkte."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump verhängt neue Zölle gegen sechzig Handelspartner wegen Zwangsarbeit",
-      "summary": "US-Präsident Trump führt neue Basiszölle von 12,5 Prozent für Schweizer Exporteure und 10 Prozent für EU-Firmen ein. Er begründet die Maßnahme mit unzureichenden Anstrengungen gegen Zwangsarbeit und deutet weitere Erhöhungen an."
+      "headline": "Weil sie alle zu wenig gegen Zwangsarbeit täten: Trump verhängt neue Zölle gegen sechzig Handelspartner",
+      "summary": "Donald Trump hat neue Basiszölle von 12,5% für Schweizer und 10% für EU-Exporteure in die USA angekündigt, um Zwangsarbeit zu bekämpfen. Diese Maßnahme schafft weitere Handelsspannungen mit Dutzenden Partnern und könnte bald noch verschärft werden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Paramount setzt Warner-Übernahme nach Klagen aus",
-      "summary": "Der geplante milliardenschwere Kauf des Medienkonzerns Warner Brothers durch Paramount verzögert sich, nachdem zwölf US-Bundesstaaten und Drehbuchautoren den Deal vor Gericht stoppen wollen. Sie befürchten Wettbewerbsnachteile und negative Folgen für die Medienvielfalt."
+      "headline": "KURZMELDUNGEN - Wirtschaft: Paramount setzt Übernahme von Warner Brothers vorerst aus +++ Der deutsche Batteriehersteller Varta meldet Insolvenz an",
+      "summary": "Paramount hat seine geplante Übernahme von Warner Brothers vorerst gestoppt, während der deutsche Batteriehersteller Varta Insolvenz anmelden musste. Diese Entwicklungen zeigen Unsicherheiten im Mediensektor und Herausforderungen in der deutschen Industrie auf."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Deutscher Batteriehersteller Varta meldet Insolvenz an",
-      "summary": "Der namhafte deutsche Batteriehersteller Varta hat offiziell Insolvenz angemeldet. Dies ist eine harte wirtschaftliche Realität, die ein Unternehmen in erheblichen finanziellen Schwierigkeiten signalisiert."
+      "headline": "Gewinn um einen Drittel eingebrochen: Die Krise bei VW spitzt sich zu",
+      "summary": "Volkswagen meldet einen Gewinneinbruch von einem Drittel, was die Krise des Konzerns verschärft und einen großen Umbau erfordert. Die Situation wird durch Probleme der Tochter Porsche zusätzlich kompliziert."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX startet Starlink V3, erleidet aber erneuten Booster-Fehler",
-      "summary": "SpaceX hat erfolgreich neue V3 Starlink-Satelliten ins All gebracht, musste jedoch bei diesem zweiten Starship V3-Flug einen weiteren Booster-Fehler verzeichnen. Offenbar gab es Probleme beim Wiederzünden der Raketentriebwerke."
+      "headline": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
+      "summary": "Massive Waldbrände wüten in Frankreich und Spanien, wobei in Madrid die Lage als 'nicht zu löschen' eingeschätzt wird. Zehntausende Menschen mussten evakuiert werden, während die Einsatzkräfte trotz Verstärkung und günstigerer Wetterbedingungen machtlos sind."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Anthropic bringt KI-Modell Opus 5 auf den Markt",
-      "summary": "Anthropic hat sein neues KI-Modell Opus 5 veröffentlicht, das voraussichtlich sowohl günstiger als auch weniger restriktiv als sein Vorgänger Fable sein wird. Dieser Launch markiert einen weiteren wichtigen Schritt im Wettbewerb der führenden KI-Entwickler."
+      "headline": "'Kakerlaken'-Proteste: Indiens Bildungsminister tritt zurück",
+      "summary": "Nach wochenlangen Demonstrationen der 'Kakerlaken'-Bewegung gegen Skandale bei Hochschulprüfungen in Indien ist der Bildungsminister zurückgetreten. Dies zeigt die Wirkung der Proteste und den Druck auf die Regierung."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Neues AI-Labor Prentis von Reid Hoffman und Mark Pincus strebt 100-Mio.-Dollar-Finanzierung an",
-      "summary": "Das neue AI-Labor Prentis, mitbegründet von prominenten Investoren Reid Hoffman und Mark Pincus, befindet sich in Gesprächen zur Aufnahme einer 100-Millionen-Dollar-Finanzierungsrunde. Das Unternehmen setzt darauf, dass die Automatisierung von Routine-Computeraufgaben bald den größten KI-Anwendungsfall darstellen wird."
+      "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "summary": "Ein neues AI-Labor namens Prentis, gegründet von Reid Hoffman und Mark Pincus, verhandelt derzeit über eine Finanzierungsrunde von 100 Millionen US-Dollar. Das Labor setzt darauf, dass die Automatisierung von Routineaufgaben im Computerbereich zum größten Anwendungsfall von KI wird."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anduril verhandelt über Finanzierung bei 100 Mrd. Dollar Bewertung",
-      "summary": "Das Technologieunternehmen Anduril soll Berichten zufolge eine neue Finanzierungsrunde verhandeln, die seine Bewertung auf rund 100 Milliarden Dollar anheben könnte. Dies wäre eine Verdreifachung des Vorjahreswerts und unterstreicht das enorme Wachstum in der Venture-Capital-Branche."
+      "headline": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "summary": "Cognition hat Poke akquiriert, um dessen konversationellen Stil und Interaktionsmodell in seinen Coding-Agenten Devin zu integrieren. Diese Übernahme unterstreicht die wachsende Bedeutung der KI-Persönlichkeit als entscheidenden Wettbewerbsvorteil."
     }
   ],
   "learning": {
-    "topic": "Der Ablauf eines Short Squeeze",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist eine plötzliche, starke Kurssteigerung einer Aktie, die primär durch die erzwungene Rückdeckung von Leerverkäufen ausgelöst wird.",
-    "details": "Wenn viele Anleger eine Aktie leerverkaufen, leihen sie sich diese, verkaufen sie und hoffen, sie später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Steigt der Kurs unerwartet stark an, geraten diese Leerverkäufer unter Druck: Um größere Verluste zu vermeiden oder Nachschussforderungen (Margin Calls) zu erfüllen, müssen sie die Aktie zurückkaufen – was den Kurs weiter in die Höhe treibt und eine Kettenreaktion auslösen kann. Dieser Mechanismus verstärkt sich selbst.",
-    "takeaway": "Ein Short Squeeze zeigt die Macht des Marktes, Leerverkäufer in eine Falle zu locken und kann zu extremen, kurzfristigen Kursbewegungen führen. Für Anleger ist es ein Beispiel dafür, wie Psychologie und erzwungene Käufe die Fundamentaldaten einer Aktie übertrumpfen können."
+    "topic": "Die Logik von Pre-Money vs. Post-Money Bewertungen bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese beiden Begriffe beschreiben, wie der Wert eines Startups im Rahmen einer Finanzierungsrunde vor und nach der Kapitalzufuhr berechnet wird. Die 'Post-Money'-Bewertung ist dabei entscheidend für die Anteilsverteilung nach der Investition.",
+    "details": "Die Pre-Money-Bewertung ist der Wert, den ein Startup *vor* dem Erhalt neuer Investitionen hat. Addiert man zu diesem Wert das frische Kapital der Investoren, erhält man die Post-Money-Bewertung. Diese Post-Money-Bewertung repräsentiert den Gesamtwert des Unternehmens *nach* der Finanzierung und bildet die Basis, um zu bestimmen, welchen prozentualen Anteil die neuen Investoren für ihr Kapital erhalten. Ein Investor, der beispielsweise 2 Millionen Euro für 20% eines Unternehmens investiert, impliziert eine Post-Money-Bewertung von 10 Millionen Euro, und somit eine Pre-Money-Bewertung von 8 Millionen Euro.",
+    "takeaway": "Das Verständnis dieser Begriffe ist essenziell, um die Verhandlungspositionen von Gründern und Investoren zu durchschauen und die Auswirkungen von Finanzierungsrunden auf die Anteilsverteilung korrekt zu bewerten. Sie sind grundlegend für die Erstellung einer Cap-Table (Kapitalisierungstabelle)."
   }
 }
