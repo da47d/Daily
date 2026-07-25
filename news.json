@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
-      "summary": "Russland griff offenbar gezielt eine Veranstaltung der ukrainischen Drohnenbranche nahe Kiew an. Dabei sollen mindestens zehn Menschen getötet und fast 100 verletzt worden sein."
+      "headline": "Trump droht EU wegen Google-Strafe mit neuen Zöllen",
+      "summary": "US-Präsident Trump kritisiert die Milliardenstrafe der EU gegen Google scharf und droht Europa mit einem \"sehr hohen Preis\" in Form neuer Zölle. Er wirft der EU-Kommission \"Raub\" vor und bezeichnet die USA nicht als \"Sparschwein\" Europas."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump verhängt neue US-Zölle gegen sechzig Handelspartner",
-      "summary": "Die USA verhängen neue Zölle gegen sechzig Handelspartner, wobei die Abgaben für Schweizer Exporte auf 12,5% steigen, während EU-Firmen mit 10% davonkommen. Diese Maßnahme, initiiert von Trump, stößt auf laute Kritik der Wirtschaftsverbände."
+      "headline": "Trump verhängt neue Zölle gegen sechzig Handelspartner wegen Zwangsarbeit",
+      "summary": "US-Präsident Trump führt neue Basiszölle von 12,5 Prozent für Schweizer Exporteure und 10 Prozent für EU-Firmen ein. Er begründet die Maßnahme mit unzureichenden Anstrengungen gegen Zwangsarbeit und deutet weitere Erhöhungen an."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Russische Zentralbank senkt Leitzins erneut",
-      "summary": "Russlands Zentralbank hat den Leitzins erneut auf 14 Prozent gesenkt, um die Wirtschaft zu stützen. Diese Maßnahme erhöht jedoch gleichzeitig die Inflationsgefahr."
+      "headline": "Paramount setzt Warner-Übernahme nach Klagen aus",
+      "summary": "Der geplante milliardenschwere Kauf des Medienkonzerns Warner Brothers durch Paramount verzögert sich, nachdem zwölf US-Bundesstaaten und Drehbuchautoren den Deal vor Gericht stoppen wollen. Sie befürchten Wettbewerbsnachteile und negative Folgen für die Medienvielfalt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Lagarde schließt vorzeitiges Amtsende nicht aus",
-      "summary": "EZB-Präsidentin Lagarde schließt eine vorzeitige Beendigung ihrer Amtszeit nicht aus, sollte die Inflation unter Kontrolle sein. Die EZB ließ die Leitzinsen unverändert, signalisierte aber einen möglichen Zinsschritt im September."
+      "headline": "Deutscher Batteriehersteller Varta meldet Insolvenz an",
+      "summary": "Der namhafte deutsche Batteriehersteller Varta hat offiziell Insolvenz angemeldet. Dies ist eine harte wirtschaftliche Realität, die ein Unternehmen in erheblichen finanziellen Schwierigkeiten signalisiert."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Tesla-Absatz steigt, Aktien stürzen ab",
-      "summary": "Tesla verzeichnete gestiegene Absätze in Europa und China, doch die Aktien stürzten an der Börse ab. An den Märkten wird derweil über eine Fusion von Tesla und SpaceX spekuliert."
+      "headline": "SpaceX startet Starlink V3, erleidet aber erneuten Booster-Fehler",
+      "summary": "SpaceX hat erfolgreich neue V3 Starlink-Satelliten ins All gebracht, musste jedoch bei diesem zweiten Starship V3-Flug einen weiteren Booster-Fehler verzeichnen. Offenbar gab es Probleme beim Wiederzünden der Raketentriebwerke."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Zehntausende wegen Waldbränden in Frankreich evakuiert",
-      "summary": "Wegen ausgedehnter Waldbrände an der französischen Atlantikküste müssen Zehntausende Menschen evakuiert werden. Eines der Feuer hat inzwischen die Größe von Paris erreicht, und Schiffe werden zur Evakuierung eingesetzt."
+      "headline": "Anthropic bringt KI-Modell Opus 5 auf den Markt",
+      "summary": "Anthropic hat sein neues KI-Modell Opus 5 veröffentlicht, das voraussichtlich sowohl günstiger als auch weniger restriktiv als sein Vorgänger Fable sein wird. Dieser Launch markiert einen weiteren wichtigen Schritt im Wettbewerb der führenden KI-Entwickler."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anduril strebt Finanzierung bei $100 Mrd. Bewertung an",
-      "summary": "Das Unternehmen Anduril soll eine neue Finanzierungsrunde anstreben, die seine Bewertung auf rund 100 Milliarden Dollar steigern könnte. Dies wäre mehr als das Dreifache des Vorjahreswerts."
+      "headline": "Neues AI-Labor Prentis von Reid Hoffman und Mark Pincus strebt 100-Mio.-Dollar-Finanzierung an",
+      "summary": "Das neue AI-Labor Prentis, mitbegründet von prominenten Investoren Reid Hoffman und Mark Pincus, befindet sich in Gesprächen zur Aufnahme einer 100-Millionen-Dollar-Finanzierungsrunde. Das Unternehmen setzt darauf, dass die Automatisierung von Routine-Computeraufgaben bald den größten KI-Anwendungsfall darstellen wird."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sam Altmans World sammelt $52.5 Mio. über Krypto-Verkauf",
-      "summary": "Sam Altmans Biometrie-Startup World hat 52,5 Millionen Dollar durch einen Krypto-Verkauf eingesammelt. Das Projekt zielt darauf ab, menschliche Augen zu scannen und in einzigartige digitale Identifikatoren umzuwandeln."
+      "headline": "Anduril verhandelt über Finanzierung bei 100 Mrd. Dollar Bewertung",
+      "summary": "Das Technologieunternehmen Anduril soll Berichten zufolge eine neue Finanzierungsrunde verhandeln, die seine Bewertung auf rund 100 Milliarden Dollar anheben könnte. Dies wäre eine Verdreifachung des Vorjahreswerts und unterstreicht das enorme Wachstum in der Venture-Capital-Branche."
     }
   ],
   "learning": {
-    "topic": "ETF-Namenszusätze: Was bedeuten Core, IMI, Acc vs. Dist, UCITS und Swap/Physisch?",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "ETF-Namenszusätze entschlüsseln wichtige Merkmale eines Exchange Traded Funds, von der Kostenstruktur über die Abbildungsart bis zur Thesaurierung. Ihr Verständnis ist essenziell für die Auswahl passender Indexfonds.",
-    "details": "Ein 'Core'-ETF signalisiert oft einen kostengünstigen Fonds für breite Indizes, während 'IMI' (Investable Market Index) auch Small-Caps umfasst. 'Acc' (Accumulating) reinvestiert Erträge automatisch, wohingegen 'Dist' (Distributing) sie ausschüttet. 'UCITS' ist ein EU-Regulierungsstandard für Anlegerschutz. 'Swap/Synthetisch' bedeutet, der Index wird über Tauschgeschäfte abgebildet, im Gegensatz zu 'Physisch', wo die echten Wertpapiere gehalten werden, entweder durch 'Full Replication' oder 'Sampling'. Diese Zusätze beeinflussen Steuern, Rendite und Risiko und sind somit entscheidend für die Investmententscheidung.",
-    "takeaway": "Das Verständnis dieser Kürzel hilft dir, ETFs gezielt nach Kosten, Marktabdeckung, Steueroptimierung und Risikoprofil auszuwählen. Ein UCITS-Label steht für Anlegerschutz in der EU."
+    "topic": "Der Ablauf eines Short Squeeze",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist eine plötzliche, starke Kurssteigerung einer Aktie, die primär durch die erzwungene Rückdeckung von Leerverkäufen ausgelöst wird.",
+    "details": "Wenn viele Anleger eine Aktie leerverkaufen, leihen sie sich diese, verkaufen sie und hoffen, sie später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Steigt der Kurs unerwartet stark an, geraten diese Leerverkäufer unter Druck: Um größere Verluste zu vermeiden oder Nachschussforderungen (Margin Calls) zu erfüllen, müssen sie die Aktie zurückkaufen – was den Kurs weiter in die Höhe treibt und eine Kettenreaktion auslösen kann. Dieser Mechanismus verstärkt sich selbst.",
+    "takeaway": "Ein Short Squeeze zeigt die Macht des Marktes, Leerverkäufer in eine Falle zu locken und kann zu extremen, kurzfristigen Kursbewegungen führen. Für Anleger ist es ein Beispiel dafür, wie Psychologie und erzwungene Käufe die Fundamentaldaten einer Aktie übertrumpfen können."
   }
 }
