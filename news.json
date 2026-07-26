@@ -2,55 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Wegen Google-Busse: Donald Trump kündigt Untersuchung und vermutlich neue Zölle gegen die EU an",
-      "summary": "US-Präsident Trump sieht die jüngsten Milliardenbussen gegen Tech-Unternehmen als einen Raubzug Brüssels am amerikanischen Steuerzahler. Er kündigt daher Untersuchungen und potenziell neue Zölle gegen die EU an, da die USA nicht das 'Sparschwein' für Europa seien."
+      "headline": "USA kündigen neue Zölle für Kanada an",
+      "summary": "Die USA haben neue Zölle von zusätzlich 50 Prozent auf kanadische Importe angekündigt, trotz eines früheren Supreme-Court-Urteils, das Trumps Zölle für unrechtmäßig erklärte. Dieser Schritt verursacht weiterhin globale Turbulenzen im Handelsstreit."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit: USA kündigen neue Zölle für Kanada in Höhe von zusätzlichen 50 Prozent an",
-      "summary": "Trotz früherer Urteile des Supreme Court, die Trumps Zölle für unrechtmässig erklärten, verursacht der amerikanische Präsident weiterhin weltweit Turbulenzen. Die USA kündigen nun zusätzliche Zölle in Höhe von 50 Prozent für Kanada an, was den Handelsstreit weiter anheizt."
+      "headline": "Trump droht EU mit neuen Zöllen wegen Google-Busse",
+      "summary": "US-Präsident Trump reagiert auf die jüngsten EU-Bussen gegen Tech-Konzerne mit der Ankündigung von Untersuchungen und potenziellen neuen Zöllen gegen die EU. Er bezeichnete die Bussen als 'Raubzug' gegen amerikanische Steuerzahler."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Wenn Rekordinvestitionen in KI an der Börse Angst auslösen, kann die Blase jederzeit platzen",
-      "summary": "Die jüngsten Google-Quartalszahlen zeigen frappierende Parallelen zwischen den heutigen KI-Anbietern und den Telekomfirmen um die Jahrtausendwende. Rekordinvestitionen in Künstliche Intelligenz an der Börse lösen zunehmend Ängste vor einer Blasenbildung aus."
+      "headline": "Unicredit gewinnt Schlacht um Commerzbank",
+      "summary": "Unicredit-Chef Andrea Orcel hat die Schlacht um die Commerzbank gewonnen, was eine bedeutende Konsolidierung im europäischen Bankensektor darstellt. Die Übernahme markiert einen strategischen Erfolg für Unicredit auf dem deutschen Finanzplatz."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "KURZMELDUNGEN - Wirtschaft: Paramount setzt Übernahme von Warner Brothers vorerst aus +++ Der deutsche Batteriehersteller Varta meldet Insolvenz an",
-      "summary": "Paramount hat die geplante Übernahme von Warner Brothers vorerst auf Eis gelegt, was auf Unsicherheiten im Mediensektor hindeutet. Gleichzeitig musste der deutsche Batteriehersteller Varta Insolvenz anmelden, was die angespannte Lage in der Industrie unterstreicht."
+      "headline": "Paramount stoppt Warner Bros. Übernahme; Varta meldet Insolvenz",
+      "summary": "Paramount hat die Übernahme von Warner Brothers vorerst ausgesetzt, während der deutsche Batteriehersteller Varta Insolvenz angemeldet hat. Diese Meldungen spiegeln aktuelle Turbulenzen im Mediensektor und in der Industrie wider."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - eine Tote und Verletzte",
-      "summary": "Der Berliner Christopher Street Day wurde abgebrochen, nachdem ein Fahrzeug in eine Menschenmenge fuhr. Dabei starb ein Mensch, und mehrere weitere wurden verletzt, wobei die Polizei den Fahrer der islamistischen Szene zuordnet."
+      "headline": "Hugging Face CEO fordert Transparenz nach OpenAI-Hack",
+      "summary": "Der CEO von Hugging Face fordert 'radikale Transparenz' nach einem als 'beispiellos' bezeichneten OpenAI-Hack, dem ersten autonomen Agenten-Cyberangriff. Dieses Ereignis unterstreicht die Notwendigkeit einer umfassenden Reaktion auf neue Cyberbedrohungen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
-      "summary": "Über 200.000 Menschen wurden wegen der massiven Waldbrände im Südwesten Frankreichs evakuiert. Trotz günstigerer Wetterbedingungen sind die Feuer weiterhin ausser Kontrolle, und die Einsatzkräfte werden durch zusätzliche Soldaten verstärkt."
+      "headline": "SpaceX Starlink-Start mit Booster-Fehler",
+      "summary": "SpaceX hat neue V3 Starlink Satelliten gestartet, erlitt jedoch einen weiteren Booster-Fehler beim Versuch, die Triebwerke neu zu zünden. Dies zeigt die fortlaufenden Herausforderungen bei der Entwicklung wiederverwendbarer Raketensysteme."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-      "summary": "Elon Musks Tunnelbau-Startup The Boring Company befindet sich Berichten zufolge in Gesprächen über eine neue grosse Finanzierungsrunde. Diese Runde könnte die Bewertung des Unternehmens auf beeindruckende 20 Milliarden US-Dollar steigern."
+      "headline": "Elon Musks Boring Company strebt 20 Mrd. USD Bewertung an",
+      "summary": "Elon Musks Tunnelbau-Startup Boring Company plant Berichten zufolge eine neue Finanzierungsrunde mit einer Bewertung von 20 Milliarden US-Dollar. Dies unterstreicht das hohe Investoreninteresse an ambitionierten Tech-Infrastrukturprojekten."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "summary": "Das neue KI-Labor Prentis, mitgegründet von Reid Hoffman und Mark Pincus, verhandelt über eine Finanzierungsrunde von 100 Millionen US-Dollar. Das Labor setzt darauf, dass die Automatisierung routinemässiger Computeraufgaben bald der grösste Anwendungsfall für KI sein wird."
+      "headline": "Londoner Gründerhaus definiert Work-Life-Balance neu",
+      "summary": "Ein Gründerhaus in London definiert die Regeln für Work-Life-Balance neu und setzt darauf, Burnout durch innovative Arbeitsmodelle zu überwinden. Dieser Ansatz zeigt einen Wandel in der Gründerkultur und im Umgang mit Herausforderungen in Startups."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang: SaaS, B2B, ARR, Burn Rate, Churn – was steckt dahinter?",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Dieser Überblick entschlüsselt gängige Abkürzungen und Begriffe im Startup- und Tech-Umfeld, die für die Bewertung von Geschäftsmodellen und die Kommunikation mit Investoren unerlässlich sind.",
-    "details": "SaaS (Software-as-a-Service) beschreibt ein Abo-basiertes Softwaremodell, während B2B (Business-to-Business) bedeutet, dass ein Unternehmen Produkte oder Dienstleistungen an andere Unternehmen verkauft. ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements und zeigt die Planbarkeit der Einnahmen. Die Burn Rate beziffert, wie schnell ein Startup seine Barreserven verbraucht, während Churn die Rate der Kundenabwanderung oder des Umsatzverlusts über einen bestimmten Zeitraum darstellt. Diese Kennzahlen sind zentrale Indikatoren für die Skalierbarkeit, Rentabilität und das Risiko eines Startups."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money-Bewertung ist der Unternehmenswert vor einer Finanzierungsrunde, Post-Money-Bewertung ist der Wert danach, also inklusive des neu investierten Kapitals. Diese Unterscheidung ist entscheidend, um den Anteil zu verstehen, den Investoren für ihr Kapital erhalten.",
+    "details": "Wenn ein Startup Kapital von Investoren aufnimmt, müssen Gründer und Investoren den Unternehmenswert bestimmen. Die Pre-Money-Bewertung ist der Wert, den das Startup hat, *bevor* frisches Geld fließt. Fließen beispielsweise 5 Millionen Euro in ein Startup mit einer Pre-Money-Bewertung von 20 Millionen Euro, dann ist der Gesamtwert *nach* der Investition (Post-Money-Bewertung) 25 Millionen Euro (20 Mio. Pre-Money + 5 Mio. Investment). Anhand der Post-Money-Bewertung und des Investmentbetrags berechnet sich der prozentuale Anteil, den die Investoren am Unternehmen erwerben.",
+    "takeaway": "Investoren verwenden die Post-Money-Bewertung, um ihren prozentualen Eigentumsanteil zu bestimmen, während Gründer die Pre-Money-Bewertung oft als Basis für Verhandlungen über ihre bestehenden Anteile sehen. Ein klares Verständnis beider Begriffe ist fundamental für jeden Deal in der Startup-Finanzierung."
   }
 }
