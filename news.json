@@ -2,56 +2,55 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Viele Opfer bei gegenseitigen Angriffen zwischen Russland und der Ukraine",
-      "summary": "Russland und die Ukraine greifen sich weiterhin gegenseitig an, was zu Opfern auf beiden Seiten führt und Kiew weitere Angriffe auf russische Ölanlagen meldet. Dieser Konflikt bleibt ein signifikanter geopolitischer Faktor mit Einfluss auf die globalen Märkte."
+      "headline": "Wegen Google-Busse: Donald Trump kündigt Untersuchung und vermutlich neue Zölle gegen die EU an",
+      "summary": "US-Präsident Trump sieht die jüngsten Milliardenbussen gegen Tech-Unternehmen als einen Raubzug Brüssels am amerikanischen Steuerzahler. Er kündigt daher Untersuchungen und potenziell neue Zölle gegen die EU an, da die USA nicht das 'Sparschwein' für Europa seien."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Weil sie alle zu wenig gegen Zwangsarbeit täten: Trump verhängt neue Zölle gegen sechzig Handelspartner",
-      "summary": "Donald Trump hat neue Basiszölle von 12,5% für Schweizer und 10% für EU-Exporteure in die USA angekündigt, um Zwangsarbeit zu bekämpfen. Diese Maßnahme schafft weitere Handelsspannungen mit Dutzenden Partnern und könnte bald noch verschärft werden."
+      "headline": "Handelsstreit: USA kündigen neue Zölle für Kanada in Höhe von zusätzlichen 50 Prozent an",
+      "summary": "Trotz früherer Urteile des Supreme Court, die Trumps Zölle für unrechtmässig erklärten, verursacht der amerikanische Präsident weiterhin weltweit Turbulenzen. Die USA kündigen nun zusätzliche Zölle in Höhe von 50 Prozent für Kanada an, was den Handelsstreit weiter anheizt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "KURZMELDUNGEN - Wirtschaft: Paramount setzt Übernahme von Warner Brothers vorerst aus +++ Der deutsche Batteriehersteller Varta meldet Insolvenz an",
-      "summary": "Paramount hat seine geplante Übernahme von Warner Brothers vorerst gestoppt, während der deutsche Batteriehersteller Varta Insolvenz anmelden musste. Diese Entwicklungen zeigen Unsicherheiten im Mediensektor und Herausforderungen in der deutschen Industrie auf."
+      "headline": "Wenn Rekordinvestitionen in KI an der Börse Angst auslösen, kann die Blase jederzeit platzen",
+      "summary": "Die jüngsten Google-Quartalszahlen zeigen frappierende Parallelen zwischen den heutigen KI-Anbietern und den Telekomfirmen um die Jahrtausendwende. Rekordinvestitionen in Künstliche Intelligenz an der Börse lösen zunehmend Ängste vor einer Blasenbildung aus."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Gewinn um einen Drittel eingebrochen: Die Krise bei VW spitzt sich zu",
-      "summary": "Volkswagen meldet einen Gewinneinbruch von einem Drittel, was die Krise des Konzerns verschärft und einen großen Umbau erfordert. Die Situation wird durch Probleme der Tochter Porsche zusätzlich kompliziert."
+      "headline": "KURZMELDUNGEN - Wirtschaft: Paramount setzt Übernahme von Warner Brothers vorerst aus +++ Der deutsche Batteriehersteller Varta meldet Insolvenz an",
+      "summary": "Paramount hat die geplante Übernahme von Warner Brothers vorerst auf Eis gelegt, was auf Unsicherheiten im Mediensektor hindeutet. Gleichzeitig musste der deutsche Batteriehersteller Varta Insolvenz anmelden, was die angespannte Lage in der Industrie unterstreicht."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
-      "summary": "Massive Waldbrände wüten in Frankreich und Spanien, wobei in Madrid die Lage als 'nicht zu löschen' eingeschätzt wird. Zehntausende Menschen mussten evakuiert werden, während die Einsatzkräfte trotz Verstärkung und günstigerer Wetterbedingungen machtlos sind."
+      "headline": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - eine Tote und Verletzte",
+      "summary": "Der Berliner Christopher Street Day wurde abgebrochen, nachdem ein Fahrzeug in eine Menschenmenge fuhr. Dabei starb ein Mensch, und mehrere weitere wurden verletzt, wobei die Polizei den Fahrer der islamistischen Szene zuordnet."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "'Kakerlaken'-Proteste: Indiens Bildungsminister tritt zurück",
-      "summary": "Nach wochenlangen Demonstrationen der 'Kakerlaken'-Bewegung gegen Skandale bei Hochschulprüfungen in Indien ist der Bildungsminister zurückgetreten. Dies zeigt die Wirkung der Proteste und den Druck auf die Regierung."
+      "headline": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
+      "summary": "Über 200.000 Menschen wurden wegen der massiven Waldbrände im Südwesten Frankreichs evakuiert. Trotz günstigerer Wetterbedingungen sind die Feuer weiterhin ausser Kontrolle, und die Einsatzkräfte werden durch zusätzliche Soldaten verstärkt."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "summary": "Ein neues AI-Labor namens Prentis, gegründet von Reid Hoffman und Mark Pincus, verhandelt derzeit über eine Finanzierungsrunde von 100 Millionen US-Dollar. Das Labor setzt darauf, dass die Automatisierung von Routineaufgaben im Computerbereich zum größten Anwendungsfall von KI wird."
+      "headline": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+      "summary": "Elon Musks Tunnelbau-Startup The Boring Company befindet sich Berichten zufolge in Gesprächen über eine neue grosse Finanzierungsrunde. Diese Runde könnte die Bewertung des Unternehmens auf beeindruckende 20 Milliarden US-Dollar steigern."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "Cognition hat Poke akquiriert, um dessen konversationellen Stil und Interaktionsmodell in seinen Coding-Agenten Devin zu integrieren. Diese Übernahme unterstreicht die wachsende Bedeutung der KI-Persönlichkeit als entscheidenden Wettbewerbsvorteil."
+      "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "summary": "Das neue KI-Labor Prentis, mitgegründet von Reid Hoffman und Mark Pincus, verhandelt über eine Finanzierungsrunde von 100 Millionen US-Dollar. Das Labor setzt darauf, dass die Automatisierung routinemässiger Computeraufgaben bald der grösste Anwendungsfall für KI sein wird."
     }
   ],
   "learning": {
-    "topic": "Die Logik von Pre-Money vs. Post-Money Bewertungen bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese beiden Begriffe beschreiben, wie der Wert eines Startups im Rahmen einer Finanzierungsrunde vor und nach der Kapitalzufuhr berechnet wird. Die 'Post-Money'-Bewertung ist dabei entscheidend für die Anteilsverteilung nach der Investition.",
-    "details": "Die Pre-Money-Bewertung ist der Wert, den ein Startup *vor* dem Erhalt neuer Investitionen hat. Addiert man zu diesem Wert das frische Kapital der Investoren, erhält man die Post-Money-Bewertung. Diese Post-Money-Bewertung repräsentiert den Gesamtwert des Unternehmens *nach* der Finanzierung und bildet die Basis, um zu bestimmen, welchen prozentualen Anteil die neuen Investoren für ihr Kapital erhalten. Ein Investor, der beispielsweise 2 Millionen Euro für 20% eines Unternehmens investiert, impliziert eine Post-Money-Bewertung von 10 Millionen Euro, und somit eine Pre-Money-Bewertung von 8 Millionen Euro.",
-    "takeaway": "Das Verständnis dieser Begriffe ist essenziell, um die Verhandlungspositionen von Gründern und Investoren zu durchschauen und die Auswirkungen von Finanzierungsrunden auf die Anteilsverteilung korrekt zu bewerten. Sie sind grundlegend für die Erstellung einer Cap-Table (Kapitalisierungstabelle)."
+    "topic": "Startup-Slang: SaaS, B2B, ARR, Burn Rate, Churn – was steckt dahinter?",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Dieser Überblick entschlüsselt gängige Abkürzungen und Begriffe im Startup- und Tech-Umfeld, die für die Bewertung von Geschäftsmodellen und die Kommunikation mit Investoren unerlässlich sind.",
+    "details": "SaaS (Software-as-a-Service) beschreibt ein Abo-basiertes Softwaremodell, während B2B (Business-to-Business) bedeutet, dass ein Unternehmen Produkte oder Dienstleistungen an andere Unternehmen verkauft. ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements und zeigt die Planbarkeit der Einnahmen. Die Burn Rate beziffert, wie schnell ein Startup seine Barreserven verbraucht, während Churn die Rate der Kundenabwanderung oder des Umsatzverlusts über einen bestimmten Zeitraum darstellt. Diese Kennzahlen sind zentrale Indikatoren für die Skalierbarkeit, Rentabilität und das Risiko eines Startups."
   }
 }
