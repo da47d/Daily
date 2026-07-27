@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA kündigen neue Zölle für Kanada an",
-      "summary": "Die USA haben neue Zölle von zusätzlich 50 Prozent auf kanadische Importe angekündigt, trotz eines früheren Supreme-Court-Urteils, das Trumps Zölle für unrechtmäßig erklärte. Dieser Schritt verursacht weiterhin globale Turbulenzen im Handelsstreit."
+      "headline": "Zwei Firmen klagen gegen Trumps jüngste Zölle",
+      "summary": "Zwei US-Firmen klagen gegen Trumps neue Importabgaben, da sie argumentieren, diese würden die Verfassung aushebeln. Das Weisse Haus ist diesmal jedoch besser für den erwarteten, langwierigen Rechtsstreit gerüstet."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump droht EU mit neuen Zöllen wegen Google-Busse",
-      "summary": "US-Präsident Trump reagiert auf die jüngsten EU-Bussen gegen Tech-Konzerne mit der Ankündigung von Untersuchungen und potenziellen neuen Zöllen gegen die EU. Er bezeichnete die Bussen als 'Raubzug' gegen amerikanische Steuerzahler."
+      "headline": "Schweizer Uhrenindustrie lobbyiert in den USA für Trumps Gnade",
+      "summary": "Breitling-Chef Georges Kern lobbyiert in den USA, um die Schweizer Uhrenindustrie vor Zöllen zu schützen. Da Amerika keine nennenswerte eigene Uhrenindustrie hat, hoffen die Hersteller auf Trumps Gnade und Ausnahmeregelungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Unicredit gewinnt Schlacht um Commerzbank",
-      "summary": "Unicredit-Chef Andrea Orcel hat die Schlacht um die Commerzbank gewonnen, was eine bedeutende Konsolidierung im europäischen Bankensektor darstellt. Die Übernahme markiert einen strategischen Erfolg für Unicredit auf dem deutschen Finanzplatz."
+      "headline": "Trotz Unsicherheit: Deutsche Wirtschaft weniger pessimistisch",
+      "summary": "Die Stimmung unter deutschen Unternehmen hat sich weiter verbessert, denn das wichtige Ifo-Geschäftsklima stieg über alle Branchen hinweg. Dies geschieht trotz der anhaltend unsicheren Lage im Nahen Osten."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Paramount stoppt Warner Bros. Übernahme; Varta meldet Insolvenz",
-      "summary": "Paramount hat die Übernahme von Warner Brothers vorerst ausgesetzt, während der deutsche Batteriehersteller Varta Insolvenz angemeldet hat. Diese Meldungen spiegeln aktuelle Turbulenzen im Mediensektor und in der Industrie wider."
+      "headline": "Sinkender Ölpreis macht Anleger mutig, doch Marktbeobachter warnen",
+      "summary": "Der fallende Ölpreis lässt Inflationssorgen schwinden und ermutigt Anleger am Aktienmarkt zuzugreifen. Marktbeobachter warnen jedoch vor zu viel Euphorie, auch angesichts der Hoffnung auf eine Waffenruhe im Nahen Osten."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Hugging Face CEO fordert Transparenz nach OpenAI-Hack",
-      "summary": "Der CEO von Hugging Face fordert 'radikale Transparenz' nach einem als 'beispiellos' bezeichneten OpenAI-Hack, dem ersten autonomen Agenten-Cyberangriff. Dieses Ereignis unterstreicht die Notwendigkeit einer umfassenden Reaktion auf neue Cyberbedrohungen."
+      "headline": "China im KI-Fieber: Startup Moonshot AI plant Börsengang",
+      "summary": "Der Launch des KI-Modells Kimi K3 versetzte die Tech-Welt in Aufregung und löste ein regelrechtes Fieber aus. Das dahinterstehende chinesische Startup Moonshot AI will noch in diesem Jahr an die Börse."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX Starlink-Start mit Booster-Fehler",
-      "summary": "SpaceX hat neue V3 Starlink Satelliten gestartet, erlitt jedoch einen weiteren Booster-Fehler beim Versuch, die Triebwerke neu zu zünden. Dies zeigt die fortlaufenden Herausforderungen bei der Entwicklung wiederverwendbarer Raketensysteme."
+      "headline": "Rekordinvestitionen in KI schüren Angst vor Blasenbildung an der Börse",
+      "summary": "Die Google-Quartalszahlen provozieren ein Déjà-vu: Die massiven Rekordinvestitionen in KI erinnern frappierend an die Telekomblase um die Jahrtausendwende und lösen Ängste vor einem Platzen der Blase aus."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Elon Musks Boring Company strebt 20 Mrd. USD Bewertung an",
-      "summary": "Elon Musks Tunnelbau-Startup Boring Company plant Berichten zufolge eine neue Finanzierungsrunde mit einer Bewertung von 20 Milliarden US-Dollar. Dies unterstreicht das hohe Investoreninteresse an ambitionierten Tech-Infrastrukturprojekten."
+      "headline": "Longevity-Startup von Ex-EPFL-Präsident strebt Milliardenbewertung an",
+      "summary": "Der ehemalige EPFL-Präsident Patrick Aebischer will mit seinem Longevity-Startup und Nahrungsergänzungsmitteln eine Milliardenbewertung erreichen. Ein Deal mit L'Oréal und seine Forschungserfahrung sollen den Weg ebnen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Londoner Gründerhaus definiert Work-Life-Balance neu",
-      "summary": "Ein Gründerhaus in London definiert die Regeln für Work-Life-Balance neu und setzt darauf, Burnout durch innovative Arbeitsmodelle zu überwinden. Dieser Ansatz zeigt einen Wandel in der Gründerkultur und im Umgang mit Herausforderungen in Startups."
+      "headline": "Elon Musks Boring Company strebt Finanzierungsrunde mit 20 Mrd. USD an",
+      "summary": "Elon Musks Tunnelbau-Startup Boring Company befindet sich Berichten zufolge in Gesprächen für eine bedeutende neue Finanzierungsrunde. Diese könnte das Unternehmen mit einer beeindruckenden Bewertung von 20 Milliarden US-Dollar versehen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money-Bewertung ist der Unternehmenswert vor einer Finanzierungsrunde, Post-Money-Bewertung ist der Wert danach, also inklusive des neu investierten Kapitals. Diese Unterscheidung ist entscheidend, um den Anteil zu verstehen, den Investoren für ihr Kapital erhalten.",
-    "details": "Wenn ein Startup Kapital von Investoren aufnimmt, müssen Gründer und Investoren den Unternehmenswert bestimmen. Die Pre-Money-Bewertung ist der Wert, den das Startup hat, *bevor* frisches Geld fließt. Fließen beispielsweise 5 Millionen Euro in ein Startup mit einer Pre-Money-Bewertung von 20 Millionen Euro, dann ist der Gesamtwert *nach* der Investition (Post-Money-Bewertung) 25 Millionen Euro (20 Mio. Pre-Money + 5 Mio. Investment). Anhand der Post-Money-Bewertung und des Investmentbetrags berechnet sich der prozentuale Anteil, den die Investoren am Unternehmen erwerben.",
-    "takeaway": "Investoren verwenden die Post-Money-Bewertung, um ihren prozentualen Eigentumsanteil zu bestimmen, während Gründer die Pre-Money-Bewertung oft als Basis für Verhandlungen über ihre bestehenden Anteile sehen. Ein klares Verständnis beider Begriffe ist fundamental für jeden Deal in der Startup-Finanzierung."
+    "topic": "M&A-Unterschiede: Strategic Buyer vs. Financial Buyer",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Ein 'Strategic Buyer' erwirbt Unternehmen für Synergien und Marktanteile, während ein 'Financial Buyer' primär auf finanzielle Rendite durch operative Verbesserungen und den späteren Wiederverkauf abzielt.",
+    "details": "Bei Fusionen und Übernahmen (M&A) lassen sich die Käufer in zwei Haupttypen unterteilen: Ein Strategic Buyer ist meist ein Wettbewerber oder ein Unternehmen aus der gleichen Branche, dessen vorrangiges Ziel ist, das Zielunternehmen in seine bestehenden Operationen zu integrieren, um Synergien zu heben, den Marktanteil zu erhöhen oder neue Technologien zu akquirieren. Ein Financial Buyer, typischerweise ein Private-Equity-Fonds, konzentriert sich hingegen auf die finanzielle Performance; er kauft das Unternehmen, optimiert dessen Betriebsabläufe und verkauft es nach einigen Jahren mit Gewinn, oft unter Einsatz von hohem Fremdkapital (Leverage), um die Eigenkapitalrendite zu steigern.",
+    "takeaway": "Strategic Buyer sind oft bereit, einen höheren Kaufpreis für potenzielle Synergien zu zahlen, während Financial Buyer ihren Fokus auf operative Exzellenz und die Hebelwirkung des Kapitals legen, um maximale finanzielle Rendite zu erzielen."
   }
 }
