@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Zwei Firmen klagen gegen Trumps jüngste Zölle",
-      "summary": "Zwei US-Firmen klagen gegen Trumps neue Importabgaben, da sie argumentieren, diese würden die Verfassung aushebeln. Das Weisse Haus ist diesmal jedoch besser für den erwarteten, langwierigen Rechtsstreit gerüstet."
+      "headline": "Zwei Firmen klagen umgehend gegen Trumps jüngste Zölle",
+      "summary": "Zwei Unternehmen klagen gegen Trumps jüngste US-Zölle, da diese die verfassungsrechtliche Steuerbefugnis des Kongresses umgehen könnten. Das Weiße Haus zeigt sich jedoch diesmal besser auf rechtliche Anfechtungen vorbereitet."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Schweizer Uhrenindustrie lobbyiert in den USA für Trumps Gnade",
-      "summary": "Breitling-Chef Georges Kern lobbyiert in den USA, um die Schweizer Uhrenindustrie vor Zöllen zu schützen. Da Amerika keine nennenswerte eigene Uhrenindustrie hat, hoffen die Hersteller auf Trumps Gnade und Ausnahmeregelungen."
+      "headline": "Finanzierungskrise der WHO kostet vielen HIV-infizierten das Leben",
+      "summary": "Die weltweite Aids-Bekämpfung steht vor enormen Herausforderungen durch den Wegfall wichtiger US-Gelder für die WHO. Experten befürchten fatale Folgen für HIV-Infizierte, sehen aber auch Chancen in der Neuordnung."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Trotz Unsicherheit: Deutsche Wirtschaft weniger pessimistisch",
-      "summary": "Die Stimmung unter deutschen Unternehmen hat sich weiter verbessert, denn das wichtige Ifo-Geschäftsklima stieg über alle Branchen hinweg. Dies geschieht trotz der anhaltend unsicheren Lage im Nahen Osten."
+      "headline": "Rekordinvestitionen in KI lösen an der Börse Angst aus",
+      "summary": "Die enormen Investitionen in KI und Googles jüngste Quartalszahlen erinnern an die Telekom-Blase um die Jahrtausendwende. Experten warnen, dass eine KI-Blase angesichts der Marktsorgen jederzeit platzen könnte."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Sinkender Ölpreis macht Anleger mutig, doch Marktbeobachter warnen",
-      "summary": "Der fallende Ölpreis lässt Inflationssorgen schwinden und ermutigt Anleger am Aktienmarkt zuzugreifen. Marktbeobachter warnen jedoch vor zu viel Euphorie, auch angesichts der Hoffnung auf eine Waffenruhe im Nahen Osten."
+      "headline": "Super-El-Niño bedroht die Weltwirtschaft",
+      "summary": "Das Klimaphänomen Super-El-Niño droht 2026 die Weltwirtschaft massiv zu belasten, mit potenziell höheren Lebensmittelpreisen und Logistikproblemen. Dies könnte eine weitere Herausforderung nach dem Energieschock durch geopolitische Konflikte darstellen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "China im KI-Fieber: Startup Moonshot AI plant Börsengang",
-      "summary": "Der Launch des KI-Modells Kimi K3 versetzte die Tech-Welt in Aufregung und löste ein regelrechtes Fieber aus. Das dahinterstehende chinesische Startup Moonshot AI will noch in diesem Jahr an die Börse."
+      "headline": "Mega-Börsengang des chinesischen Chipriesen CXMT",
+      "summary": "Der chinesische Chipriese CXMT feierte mit einem spektakulären Börsengang den zweitgrößten IPO Chinas, wobei der Aktienwert um 472 Prozent explodierte. Das Unternehmen monetarisiert damit den enormen Nachfrageboom nach Speicherchips."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Rekordinvestitionen in KI schüren Angst vor Blasenbildung an der Börse",
-      "summary": "Die Google-Quartalszahlen provozieren ein Déjà-vu: Die massiven Rekordinvestitionen in KI erinnern frappierend an die Telekomblase um die Jahrtausendwende und lösen Ängste vor einem Platzen der Blase aus."
+      "headline": "China im KI-Fieber: Startup Moonshot AI plant Börsengang",
+      "summary": "Das chinesische Startup Moonshot AI hat mit seinem KI-Modell Kimi K3 die Tech-Welt in Aufregung versetzt und plant noch in diesem Jahr einen Börsengang. Dies unterstreicht das globale 'KI-Fieber' und die Dynamik im Tech-Sektor."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Longevity-Startup von Ex-EPFL-Präsident strebt Milliardenbewertung an",
-      "summary": "Der ehemalige EPFL-Präsident Patrick Aebischer will mit seinem Longevity-Startup und Nahrungsergänzungsmitteln eine Milliardenbewertung erreichen. Ein Deal mit L'Oréal und seine Forschungserfahrung sollen den Weg ebnen."
+      "headline": "Antares sammelt 470 Mio. $ für Kernreaktoren ein",
+      "summary": "Antares hat 470 Millionen Dollar eingesammelt, um kleine modulare Kernreaktoren für US-Luftwaffenstützpunkte zu entwickeln. Das Unternehmen zielt auf die dezentrale Stromversorgung militärischer Einrichtungen ab."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Elon Musks Boring Company strebt Finanzierungsrunde mit 20 Mrd. USD an",
-      "summary": "Elon Musks Tunnelbau-Startup Boring Company befindet sich Berichten zufolge in Gesprächen für eine bedeutende neue Finanzierungsrunde. Diese könnte das Unternehmen mit einer beeindruckenden Bewertung von 20 Milliarden US-Dollar versehen."
+      "headline": "Enigma erhält 71 Mio. $ Seed-Finanzierung für Robotersteuerung",
+      "summary": "Enigma sicherte sich eine massive Seed-Runde von 71 Millionen Dollar, angeführt von Index Ventures und Ribbit Capital. Ziel ist es, die Robotersteuerung so intuitiv wie eine Lautstärkeregelung zu gestalten."
     }
   ],
   "learning": {
-    "topic": "M&A-Unterschiede: Strategic Buyer vs. Financial Buyer",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Ein 'Strategic Buyer' erwirbt Unternehmen für Synergien und Marktanteile, während ein 'Financial Buyer' primär auf finanzielle Rendite durch operative Verbesserungen und den späteren Wiederverkauf abzielt.",
-    "details": "Bei Fusionen und Übernahmen (M&A) lassen sich die Käufer in zwei Haupttypen unterteilen: Ein Strategic Buyer ist meist ein Wettbewerber oder ein Unternehmen aus der gleichen Branche, dessen vorrangiges Ziel ist, das Zielunternehmen in seine bestehenden Operationen zu integrieren, um Synergien zu heben, den Marktanteil zu erhöhen oder neue Technologien zu akquirieren. Ein Financial Buyer, typischerweise ein Private-Equity-Fonds, konzentriert sich hingegen auf die finanzielle Performance; er kauft das Unternehmen, optimiert dessen Betriebsabläufe und verkauft es nach einigen Jahren mit Gewinn, oft unter Einsatz von hohem Fremdkapital (Leverage), um die Eigenkapitalrendite zu steigern.",
-    "takeaway": "Strategic Buyer sind oft bereit, einen höheren Kaufpreis für potenzielle Synergien zu zahlen, während Financial Buyer ihren Fokus auf operative Exzellenz und die Hebelwirkung des Kapitals legen, um maximale finanzielle Rendite zu erzielen."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money Bewertung ist der Unternehmenswert vor einer Investition, während die Post-Money Bewertung den Wert nach der Kapitalzufuhr und Ausgabe neuer Anteile darstellt.",
+    "details": "Wenn ein Venture-Capital-Investor Kapital in ein Startup investiert, wird zuerst eine Pre-Money Bewertung festgelegt, die den Wert des Unternehmens vor dem frischen Geld beziffert. Die Höhe der Investition wird dann zur Pre-Money Bewertung addiert, um die Post-Money Bewertung zu erhalten. Diese Gesamtbewertung repräsentiert den Unternehmenswert direkt nach der Finanzierungsrunde und bestimmt den prozentualen Anteil, den der Investor für sein Kapital erhält.",
+    "takeaway": "Die Post-Money Bewertung ist entscheidend, um den Verwässerungseffekt für bestehende Aktionäre zu verstehen und den tatsächlichen Wertzuwachs des Unternehmens nach einer Finanzierungsrunde zu bemessen."
   }
 }
