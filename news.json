@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Selenskyj bei Trump: Eine kaum für möglich gehaltene Annäherung",
-      "summary": "Der ukrainische Präsident Selenskyj wird von US-Präsident Trump im Weißen Haus empfangen, was eine deutliche Annäherung im Verhältnis der beiden Länder signalisiert. Diese Entwicklung könnte die geopolitische Landschaft und damit indirekt auch die Stimmung an den globalen Märkten beeinflussen."
+      "headline": "USA starten angekündigte Überprüfung ihrer Truppenpräsenz in Europa",
+      "summary": "Die USA beginnen mit der Überprüfung ihrer Truppenpräsenz in Europa, wie US-Verteidigungsminister Hegseth im Juni ankündigte. Ziel ist es, dass Europa künftig selbst die Hauptverantwortung für seine Sicherheit übernimmt."
     },
     {
       "tag": "POLITIK & GLOBAL",
       "headline": "Zwei Firmen klagen umgehend gegen Trumps jüngste Zölle – aber das Weisse Haus ist diesmal besser gerüstet",
-      "summary": "Zwei Unternehmen klagen gegen Trumps neue Importzölle und argumentieren, die Regierung missachte damit verfassungsrechtliche Kompetenzen des Kongresses. Die anhaltende Auseinandersetzung um Handelszölle bleibt ein relevanter Faktor für die globale Wirtschaftsstimmung."
+      "summary": "Zwei Firmen klagen gegen Trumps neue Importabgaben, da sie die Verfassung als verletzt ansehen, welche dem Kongress das Recht zur Zollerhebung zuschreibt. Das Weisse Haus scheint jedoch auf diese gerichtlichen Auseinandersetzungen besser vorbereitet zu sein als zuvor."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX-Rekord bleibt in Reichweite",
-      "summary": "Sinkende Rohstoffpreise sorgen für eine freundliche Stimmung am Aktienmarkt, wodurch der DAX sein Rekordhoch weiter ansteuern könnte. Die Zahlen von Mercedes-Benz stehen im Fokus der Anleger, während Porsche 5000 Stellen abbaut und Mercedes mit Kostendisziplin dem schwachen Chinageschäft trotzt."
+      "headline": "Schock folgt auf Schock: Jetzt bedroht ein Super-El-Niño die Weltwirtschaft",
+      "summary": "Ein außergewöhnlich starkes El-Niño-Phänomen, das 2026 erwartet wird, könnte nach dem Iran-Krieg zu noch höheren Lebensmittelpreisen und Logistikproblemen führen. Dies stellt eine zusätzliche ernsthafte Bedrohung für die globale Wirtschaft dar."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Schock folgt auf Schock: Jetzt bedroht ein Super-El-Niño die Weltwirtschaft",
-      "summary": "Ein besonders starkes El-Niño-Phänomen für 2026 prognostiziert, könnte nach dem Iran-Krieg zu noch höheren Lebensmittelpreisen und Logistikproblemen führen. Dies stellt eine erhebliche makroökonomische Bedrohung dar, die über die Energiepreise hinausgeht."
+      "headline": "Zirkuläre Deals verunsichern die Investoren: Während die KI-Konzerne immer grössere Geschäfte ankündigen, brechen ihre Aktienkurse ein",
+      "summary": "Die Schulden in der KI-Branche wachsen rasant, da Anbieter wie Nvidia ihren Käufern Kredite für immense Investitionen gewähren. Diese 'zirkulären Deals' verunsichern Investoren und führen trotz großer Ankündigungen zu fallenden Aktienkursen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Mehrere Tech-Unternehmen haben eine KI-Sicherheitsallianz gegründet",
-      "summary": "Wichtige Tech-Unternehmen, darunter Nvidia und Microsoft, haben eine KI-Sicherheitsallianz ins Leben gerufen. Dies geschieht kurz nach einer Testpanne bei OpenAI und unterstreicht die wachsende Bedeutung von KI-Sicherheit."
+      "headline": "China im KI- und Kimi-K3-Fieber: Das Startup Moonshot AI will noch in diesem Jahr an die Börse",
+      "summary": "Das chinesische Startup Moonshot AI, dessen KI-Modell Kimi K3 internationale Tech-Aufmerksamkeit erregt, plant noch dieses Jahr einen Börsengang. Das Unternehmen aus Peking wird damit seine Rolle als wichtiger Akteur in der globalen KI-Landschaft festigen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "summary": "Microsoft hat sein erstes KI-Sicherheitsmodell sowie ein neues, agentisches Cybersicherheitssystem vorgestellt. Diese Neuentwicklungen stärken das KI-Cybersicherheitsangebot des Unternehmens erheblich und adressieren aktuelle Sicherheitsherausforderungen."
+      "headline": "Elon Musk’s X Money app is rolling out in the US",
+      "summary": "Elon Musks 'X Money'-App startet in den USA und bietet Nutzern eine X Visa Debitkarte sowie sofortige, gebührenfreie Peer-to-Peer-Überweisungen innerhalb der App. Die Karte kann zudem sofort zu Apple Pay hinzugefügt werden."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-      "summary": "Das Fusion-Power-Startup Thea Energy hat einen Bundeszuschuss von 20 Millionen Dollar erhalten. Damit will es die Produktion seiner Hochtemperatur-Supraleitermagnete skalieren."
+      "headline": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "summary": "Recursive Superintelligence, ein auf selbstverbessernde KI-Systeme spezialisiertes Startup, hat einen Compute-Deal über 410 Millionen Dollar mit Amazon abgeschlossen. Der Großteil des Budgets fließt direkt in Rechenleistung, um die Produktentwicklung zu automatisieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Antares raises $470M to build nuclear reactors for the US military",
-      "summary": "Antares hat 470 Millionen Dollar eingesammelt, um kleine modulare Reaktoren für US-Luftwaffenstützpunkte zu bauen. Dies zeigt ein großes Investitionsinteresse in innovative Energielösungen für den Verteidigungssektor."
+      "headline": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "summary": "Das Startup Fish Audio hat 52 Millionen Dollar in einer Seed-Runde erhalten, um KI-Sprachmodelle für Kreative und Unternehmen zu entwickeln. Seit dem Start im letzten Jahr nutzen bereits über 8 Millionen Menschen die Modelle, was zu einem jährlichen Umsatz von 21 Millionen Dollar führt."
     }
   ],
   "learning": {
-    "topic": "Derivate verstehen: Optionen am Beispiel eines Erntevertrags",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem zugrunde liegenden Basiswert abgeleitet wird, wie etwa Rohstoffe, Aktien oder Währungen. Sie ermöglichen es, Risiken abzusichern oder auf Preisentwicklungen zu spekulieren, ohne den Basiswert direkt zu besitzen.",
-    "details": "Stell dir vor, ein Bauer möchte seinen Weizen vor dem Erntezeitpunkt zu einem festen Preis verkaufen, um Planungssicherheit zu haben. Ein Bäcker hingegen möchte sicherstellen, dass er genug Weizen zu einem maximalen Preis bekommt. Hier kommt ein Derivat ins Spiel, zum Beispiel eine Option. Der Bauer (oder ein Händler) bietet dem Bäcker das Recht, zu einem bestimmten Zeitpunkt eine bestimmte Menge Weizen zu einem festgelegten Preis zu kaufen. Dafür zahlt der Bäcker dem Bauern eine kleine Gebühr (die Optionsprämie). Wenn der Weizenpreis bei der Ernte steigt, freut sich der Bäcker, da er zum günstigeren, vereinbarten Preis kaufen kann. Fällt der Preis, lässt er die Option verfallen und kauft günstiger auf dem Markt ein, während der Bauer immerhin die Prämie behält. So sichern sich beide Seiten ab, ohne den Weizen sofort liefern oder abnehmen zu müssen.",
-    "takeaway": "Derivate sind wie 'Wenn-dann'-Verträge, die es dir erlauben, Chancen zu nutzen oder Risiken abzufedern, indem du Rechte an einem Basiswert kaufst oder verkaufst, ohne ihn sofort besitzen zu müssen. Sie sind essenziell für Risikomanagement und Spekulation in der Finanzwelt."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* der Investition darstellt.",
+    "details": "Wenn ein Startup Kapital von Investoren erhält, wird es bewertet. Die 'Pre-Money'-Bewertung ist quasi der Wert des Startups, bevor das neue Geld eingeht. Die Investitionssumme wird dann zu dieser Pre-Money-Bewertung addiert, um die 'Post-Money'-Bewertung zu erhalten. Das ist wichtig, weil die neuen Anteile (Equity) für die Investoren basierend auf der Post-Money-Bewertung berechnet werden, wodurch die Anteile der Gründer und bestehenden Investoren verwässert werden. Ein Investor, der 1 Million Euro in ein Startup mit einer Pre-Money-Bewertung von 9 Millionen Euro investiert, zahlt für 10% des Unternehmens (1M / 10M Post-Money).",
+    "takeaway": "Die Pre-Money-Bewertung ist entscheidend für die prozentuale Beteiligung der Investoren und die Verwässerung der bestehenden Aktionäre; die Post-Money-Bewertung reflektiert den Unternehmenswert direkt nach der Kapitalzufuhr."
   }
 }
