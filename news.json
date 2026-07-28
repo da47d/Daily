@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Zwei Firmen klagen umgehend gegen Trumps jüngste Zölle",
-      "summary": "Zwei Unternehmen klagen gegen Trumps jüngste US-Zölle, da diese die verfassungsrechtliche Steuerbefugnis des Kongresses umgehen könnten. Das Weiße Haus zeigt sich jedoch diesmal besser auf rechtliche Anfechtungen vorbereitet."
+      "headline": "Selenskyj bei Trump: Eine kaum für möglich gehaltene Annäherung",
+      "summary": "Der ukrainische Präsident Selenskyj wird von US-Präsident Trump im Weißen Haus empfangen, was eine deutliche Annäherung im Verhältnis der beiden Länder signalisiert. Diese Entwicklung könnte die geopolitische Landschaft und damit indirekt auch die Stimmung an den globalen Märkten beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Finanzierungskrise der WHO kostet vielen HIV-infizierten das Leben",
-      "summary": "Die weltweite Aids-Bekämpfung steht vor enormen Herausforderungen durch den Wegfall wichtiger US-Gelder für die WHO. Experten befürchten fatale Folgen für HIV-Infizierte, sehen aber auch Chancen in der Neuordnung."
+      "headline": "Zwei Firmen klagen umgehend gegen Trumps jüngste Zölle – aber das Weisse Haus ist diesmal besser gerüstet",
+      "summary": "Zwei Unternehmen klagen gegen Trumps neue Importzölle und argumentieren, die Regierung missachte damit verfassungsrechtliche Kompetenzen des Kongresses. Die anhaltende Auseinandersetzung um Handelszölle bleibt ein relevanter Faktor für die globale Wirtschaftsstimmung."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Rekordinvestitionen in KI lösen an der Börse Angst aus",
-      "summary": "Die enormen Investitionen in KI und Googles jüngste Quartalszahlen erinnern an die Telekom-Blase um die Jahrtausendwende. Experten warnen, dass eine KI-Blase angesichts der Marktsorgen jederzeit platzen könnte."
+      "headline": "Marktbericht: DAX-Rekord bleibt in Reichweite",
+      "summary": "Sinkende Rohstoffpreise sorgen für eine freundliche Stimmung am Aktienmarkt, wodurch der DAX sein Rekordhoch weiter ansteuern könnte. Die Zahlen von Mercedes-Benz stehen im Fokus der Anleger, während Porsche 5000 Stellen abbaut und Mercedes mit Kostendisziplin dem schwachen Chinageschäft trotzt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Super-El-Niño bedroht die Weltwirtschaft",
-      "summary": "Das Klimaphänomen Super-El-Niño droht 2026 die Weltwirtschaft massiv zu belasten, mit potenziell höheren Lebensmittelpreisen und Logistikproblemen. Dies könnte eine weitere Herausforderung nach dem Energieschock durch geopolitische Konflikte darstellen."
+      "headline": "Schock folgt auf Schock: Jetzt bedroht ein Super-El-Niño die Weltwirtschaft",
+      "summary": "Ein besonders starkes El-Niño-Phänomen für 2026 prognostiziert, könnte nach dem Iran-Krieg zu noch höheren Lebensmittelpreisen und Logistikproblemen führen. Dies stellt eine erhebliche makroökonomische Bedrohung dar, die über die Energiepreise hinausgeht."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Mega-Börsengang des chinesischen Chipriesen CXMT",
-      "summary": "Der chinesische Chipriese CXMT feierte mit einem spektakulären Börsengang den zweitgrößten IPO Chinas, wobei der Aktienwert um 472 Prozent explodierte. Das Unternehmen monetarisiert damit den enormen Nachfrageboom nach Speicherchips."
+      "headline": "Mehrere Tech-Unternehmen haben eine KI-Sicherheitsallianz gegründet",
+      "summary": "Wichtige Tech-Unternehmen, darunter Nvidia und Microsoft, haben eine KI-Sicherheitsallianz ins Leben gerufen. Dies geschieht kurz nach einer Testpanne bei OpenAI und unterstreicht die wachsende Bedeutung von KI-Sicherheit."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "China im KI-Fieber: Startup Moonshot AI plant Börsengang",
-      "summary": "Das chinesische Startup Moonshot AI hat mit seinem KI-Modell Kimi K3 die Tech-Welt in Aufregung versetzt und plant noch in diesem Jahr einen Börsengang. Dies unterstreicht das globale 'KI-Fieber' und die Dynamik im Tech-Sektor."
+      "headline": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "summary": "Microsoft hat sein erstes KI-Sicherheitsmodell sowie ein neues, agentisches Cybersicherheitssystem vorgestellt. Diese Neuentwicklungen stärken das KI-Cybersicherheitsangebot des Unternehmens erheblich und adressieren aktuelle Sicherheitsherausforderungen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Antares sammelt 470 Mio. $ für Kernreaktoren ein",
-      "summary": "Antares hat 470 Millionen Dollar eingesammelt, um kleine modulare Kernreaktoren für US-Luftwaffenstützpunkte zu entwickeln. Das Unternehmen zielt auf die dezentrale Stromversorgung militärischer Einrichtungen ab."
+      "headline": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+      "summary": "Das Fusion-Power-Startup Thea Energy hat einen Bundeszuschuss von 20 Millionen Dollar erhalten. Damit will es die Produktion seiner Hochtemperatur-Supraleitermagnete skalieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Enigma erhält 71 Mio. $ Seed-Finanzierung für Robotersteuerung",
-      "summary": "Enigma sicherte sich eine massive Seed-Runde von 71 Millionen Dollar, angeführt von Index Ventures und Ribbit Capital. Ziel ist es, die Robotersteuerung so intuitiv wie eine Lautstärkeregelung zu gestalten."
+      "headline": "Antares raises $470M to build nuclear reactors for the US military",
+      "summary": "Antares hat 470 Millionen Dollar eingesammelt, um kleine modulare Reaktoren für US-Luftwaffenstützpunkte zu bauen. Dies zeigt ein großes Investitionsinteresse in innovative Energielösungen für den Verteidigungssektor."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money Bewertung ist der Unternehmenswert vor einer Investition, während die Post-Money Bewertung den Wert nach der Kapitalzufuhr und Ausgabe neuer Anteile darstellt.",
-    "details": "Wenn ein Venture-Capital-Investor Kapital in ein Startup investiert, wird zuerst eine Pre-Money Bewertung festgelegt, die den Wert des Unternehmens vor dem frischen Geld beziffert. Die Höhe der Investition wird dann zur Pre-Money Bewertung addiert, um die Post-Money Bewertung zu erhalten. Diese Gesamtbewertung repräsentiert den Unternehmenswert direkt nach der Finanzierungsrunde und bestimmt den prozentualen Anteil, den der Investor für sein Kapital erhält.",
-    "takeaway": "Die Post-Money Bewertung ist entscheidend, um den Verwässerungseffekt für bestehende Aktionäre zu verstehen und den tatsächlichen Wertzuwachs des Unternehmens nach einer Finanzierungsrunde zu bemessen."
+    "topic": "Derivate verstehen: Optionen am Beispiel eines Erntevertrags",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem zugrunde liegenden Basiswert abgeleitet wird, wie etwa Rohstoffe, Aktien oder Währungen. Sie ermöglichen es, Risiken abzusichern oder auf Preisentwicklungen zu spekulieren, ohne den Basiswert direkt zu besitzen.",
+    "details": "Stell dir vor, ein Bauer möchte seinen Weizen vor dem Erntezeitpunkt zu einem festen Preis verkaufen, um Planungssicherheit zu haben. Ein Bäcker hingegen möchte sicherstellen, dass er genug Weizen zu einem maximalen Preis bekommt. Hier kommt ein Derivat ins Spiel, zum Beispiel eine Option. Der Bauer (oder ein Händler) bietet dem Bäcker das Recht, zu einem bestimmten Zeitpunkt eine bestimmte Menge Weizen zu einem festgelegten Preis zu kaufen. Dafür zahlt der Bäcker dem Bauern eine kleine Gebühr (die Optionsprämie). Wenn der Weizenpreis bei der Ernte steigt, freut sich der Bäcker, da er zum günstigeren, vereinbarten Preis kaufen kann. Fällt der Preis, lässt er die Option verfallen und kauft günstiger auf dem Markt ein, während der Bauer immerhin die Prämie behält. So sichern sich beide Seiten ab, ohne den Weizen sofort liefern oder abnehmen zu müssen.",
+    "takeaway": "Derivate sind wie 'Wenn-dann'-Verträge, die es dir erlauben, Chancen zu nutzen oder Risiken abzufedern, indem du Rechte an einem Basiswert kaufst oder verkaufst, ohne ihn sofort besitzen zu müssen. Sie sind essenziell für Risikomanagement und Spekulation in der Finanzwelt."
   }
 }
