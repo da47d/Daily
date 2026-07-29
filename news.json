@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA starten angekündigte Überprüfung ihrer Truppenpräsenz in Europa",
-      "summary": "Die USA beginnen mit der Überprüfung ihrer Truppenpräsenz in Europa, wie US-Verteidigungsminister Hegseth im Juni ankündigte. Ziel ist es, dass Europa künftig selbst die Hauptverantwortung für seine Sicherheit übernimmt."
+      "headline": "Trumps illegale Zölle: Schweizer Firmen erhalten Millionen erstattet",
+      "summary": "US-Gerichte haben angeordnet, zu Unrecht erhobene Zölle der Trump-Regierung zurückzuzahlen. Davon profitieren nun auch Schweizer Firmen, die zeitweise Zollsätze von bis zu 39 Prozent entrichten mussten."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Zwei Firmen klagen umgehend gegen Trumps jüngste Zölle – aber das Weisse Haus ist diesmal besser gerüstet",
-      "summary": "Zwei Firmen klagen gegen Trumps neue Importabgaben, da sie die Verfassung als verletzt ansehen, welche dem Kongress das Recht zur Zollerhebung zuschreibt. Das Weisse Haus scheint jedoch auf diese gerichtlichen Auseinandersetzungen besser vorbereitet zu sein als zuvor."
+      "headline": "Neue Angriffe dürften DAX belasten",
+      "summary": "Neue Angriffe im Iran-Krieg werden voraussichtlich den deutschen Aktienmarkt zum Start in den Tag belasten. Die geopolitische Eskalation im Nahen Osten sorgt für Unsicherheit an den globalen Börsen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Schock folgt auf Schock: Jetzt bedroht ein Super-El-Niño die Weltwirtschaft",
-      "summary": "Ein außergewöhnlich starkes El-Niño-Phänomen, das 2026 erwartet wird, könnte nach dem Iran-Krieg zu noch höheren Lebensmittelpreisen und Logistikproblemen führen. Dies stellt eine zusätzliche ernsthafte Bedrohung für die globale Wirtschaft dar."
+      "headline": "Fed-Zinsentscheid: Wiederholt die Notenbank den Fehler von 2021?",
+      "summary": "Experten warnen vor gestiegenen Inflationsrisiken, doch die US-Notenbank Fed hat bisher nicht gehandelt. Es bleibt abzuwarten, ob sie rechtzeitig interveniert oder frühere Fehler wiederholt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Zirkuläre Deals verunsichern die Investoren: Während die KI-Konzerne immer grössere Geschäfte ankündigen, brechen ihre Aktienkurse ein",
-      "summary": "Die Schulden in der KI-Branche wachsen rasant, da Anbieter wie Nvidia ihren Käufern Kredite für immense Investitionen gewähren. Diese 'zirkulären Deals' verunsichern Investoren und führen trotz großer Ankündigungen zu fallenden Aktienkursen."
+      "headline": "INTERVIEW - «Die 13. AHV-Rente ist eine indirekte Zuwanderungsabgabe», sagt der Ökonom Reiner Eichenberger",
+      "summary": "Ein Ökonom kritisiert die 13. AHV-Rente als indirekte Zuwanderungsabgabe und warnt vor falschen Anreizen des fixen Rentenalters. Er erwartet zudem einen weiteren Ausbau der Schweizer Altersvorsorge."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "China im KI- und Kimi-K3-Fieber: Das Startup Moonshot AI will noch in diesem Jahr an die Börse",
-      "summary": "Das chinesische Startup Moonshot AI, dessen KI-Modell Kimi K3 internationale Tech-Aufmerksamkeit erregt, plant noch dieses Jahr einen Börsengang. Das Unternehmen aus Peking wird damit seine Rolle als wichtiger Akteur in der globalen KI-Landschaft festigen."
+      "headline": "Rekordflug von Melbourne nach Toulouse - 24 Stunden in der Luft",
+      "summary": "Qantas hat mit einem speziellen Airbus einen Rekordflug über drei Kontinente und zwei Ozeane absolviert, bei dem die Crew zwei Sonnenaufgänge erlebte. Solche extrem langen Nonstop-Flüge sollen bald auch Passagieren angeboten werden."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Elon Musk’s X Money app is rolling out in the US",
-      "summary": "Elon Musks 'X Money'-App startet in den USA und bietet Nutzern eine X Visa Debitkarte sowie sofortige, gebührenfreie Peer-to-Peer-Überweisungen innerhalb der App. Die Karte kann zudem sofort zu Apple Pay hinzugefügt werden."
+      "headline": "Waldbrände in Südeuropa - warum Löschen allein nicht mehr reicht",
+      "summary": "Extreme Hitze und Trockenheit befeuern weiterhin Waldbrände in Südeuropa, wobei Forschende vor häufigeren Ereignissen durch den Klimawandel warnen. Es werden dringend neue Strategien über das reine Löschen hinaus benötigt, um Risiken zu minimieren."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Recursive Superintelligence signs $410M compute deal with Amazon",
-      "summary": "Recursive Superintelligence, ein auf selbstverbessernde KI-Systeme spezialisiertes Startup, hat einen Compute-Deal über 410 Millionen Dollar mit Amazon abgeschlossen. Der Großteil des Budgets fließt direkt in Rechenleistung, um die Produktentwicklung zu automatisieren."
+      "headline": "99 Millionen Dollar Verlust, und auch die EU macht Probleme: Das chinesische Fashion-Wunder Shein entzaubert sich selbst",
+      "summary": "Der Onlinehändler Shein kämpft mit einem hohen Verlust und regulatorischen Hürden in der EU, während er zum dritten Mal einen Börsengang anstrebt. Nach geopolitischen Konflikten rücken nun die eigenen Geschäftszahlen in den Fokus und säen Zweifel."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "summary": "Das Startup Fish Audio hat 52 Millionen Dollar in einer Seed-Runde erhalten, um KI-Sprachmodelle für Kreative und Unternehmen zu entwickeln. Seit dem Start im letzten Jahr nutzen bereits über 8 Millionen Menschen die Modelle, was zu einem jährlichen Umsatz von 21 Millionen Dollar führt."
+      "headline": "Zirkuläre Deals verunsichern die Investoren: Während die KI-Konzerne immer grössere Geschäfte ankündigen, brechen ihre Aktienkurse ein",
+      "summary": "Die rapide wachsenden Schulden in der KI-Branche beunruhigen Investoren, da grosse Anbieter wie Nvidia ihren Käufern Kredite gewähren. Diese 'zirkulären Deals' ermöglichen immense Investitionen, führen aber zu sinkenden Aktienkursen und Unsicherheit."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* der Investition darstellt.",
-    "details": "Wenn ein Startup Kapital von Investoren erhält, wird es bewertet. Die 'Pre-Money'-Bewertung ist quasi der Wert des Startups, bevor das neue Geld eingeht. Die Investitionssumme wird dann zu dieser Pre-Money-Bewertung addiert, um die 'Post-Money'-Bewertung zu erhalten. Das ist wichtig, weil die neuen Anteile (Equity) für die Investoren basierend auf der Post-Money-Bewertung berechnet werden, wodurch die Anteile der Gründer und bestehenden Investoren verwässert werden. Ein Investor, der 1 Million Euro in ein Startup mit einer Pre-Money-Bewertung von 9 Millionen Euro investiert, zahlt für 10% des Unternehmens (1M / 10M Post-Money).",
-    "takeaway": "Die Pre-Money-Bewertung ist entscheidend für die prozentuale Beteiligung der Investoren und die Verwässerung der bestehenden Aktionäre; die Post-Money-Bewertung reflektiert den Unternehmenswert direkt nach der Kapitalzufuhr."
+    "topic": "Das Black-Swan-Konzept: Die unvorhersehbare Katastrophe",
+    "category": "Historische Finanzereignisse & Krisen",
+    "concept": "Ein 'Schwarzer Schwan' ist ein extrem seltenes, unvorhersehbares Ereignis mit massiven Auswirkungen, dessen Erklärung erst im Nachhinein plausibel erscheint. Es stellt die Grenzen unserer Fähigkeit zur Vorhersage und Risikobewertung dar.",
+    "details": "Das Konzept, popularisiert von Nassim Nicholas Taleb, beschreibt Ereignisse, die jenseits der normalen Erwartungen liegen. Sie haben drei Kernmerkmale: Sie sind extrem selten und überraschend, ziehen drastische Konsequenzen nach sich, und werden im Rückblick oft rationalisiert, als wären sie vorhersehbar gewesen. Finanzkrisen, Terroranschläge oder technologische Durchbrüche können Schwarze Schwäne sein. Ihre Logik zeigt, dass herkömmliche Risikomodelle, die auf historischen Daten basieren, unzureichend sind, um solche Extremszenarien abzubilden.",
+    "takeaway": "Konzentriere dich nicht nur auf bekannte Risiken. Sei flexibel und bereite dich auf das Unvorhersehbare vor, indem du Robustheit und Redundanz in Strategien und Systemen schaffst."
   }
 }
