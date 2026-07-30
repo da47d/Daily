@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trumps illegale Zölle: Schweizer Firmen erhalten Millionen erstattet",
-      "summary": "US-Gerichte haben angeordnet, zu Unrecht erhobene Zölle der Trump-Regierung zurückzuzahlen. Davon profitieren nun auch Schweizer Firmen, die zeitweise Zollsätze von bis zu 39 Prozent entrichten mussten."
+      "headline": "USA melden nach mehrtägiger Pause neue Angriffe auf Iran",
+      "summary": "Nach einer kurzen Pause attackierte das US-Militär erneut Ziele im Iran, wobei das Regime Tote meldet und seinerseits Raketen auf Jordanien feuerte. Dies deutet auf eine weitere Eskalation der Spannungen im Nahen Osten hin."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Neue Angriffe dürften DAX belasten",
-      "summary": "Neue Angriffe im Iran-Krieg werden voraussichtlich den deutschen Aktienmarkt zum Start in den Tag belasten. Die geopolitische Eskalation im Nahen Osten sorgt für Unsicherheit an den globalen Börsen."
+      "headline": "Russland greift Ukraine landesweit mit Raketen an",
+      "summary": "Russland hat erneut zahlreiche ukrainische Städte, einschließlich Kiew, mit Raketen angegriffen und dabei landesweit mehrere Tote verursacht. Präsident Selenskyj hatte zuvor vor einem 'massiven' russischen Angriff gewarnt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Fed-Zinsentscheid: Wiederholt die Notenbank den Fehler von 2021?",
-      "summary": "Experten warnen vor gestiegenen Inflationsrisiken, doch die US-Notenbank Fed hat bisher nicht gehandelt. Es bleibt abzuwarten, ob sie rechtzeitig interveniert oder frühere Fehler wiederholt."
+      "headline": "Das Fed schiebt die erste Zinserhöhung unter Kevin Warsh weiter hinaus",
+      "summary": "Trotz steigender Benzinpreise im Kontext des Iran-Kriegs belässt die US-Notenbank den Leitzins unverändert. Die Finanzmärkte interpretieren dies als ein Signal für eine weniger aggressive Inflationsbekämpfung durch das Fed."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "INTERVIEW - «Die 13. AHV-Rente ist eine indirekte Zuwanderungsabgabe», sagt der Ökonom Reiner Eichenberger",
-      "summary": "Ein Ökonom kritisiert die 13. AHV-Rente als indirekte Zuwanderungsabgabe und warnt vor falschen Anreizen des fixen Rentenalters. Er erwartet zudem einen weiteren Ausbau der Schweizer Altersvorsorge."
+      "headline": "Die deutsche Autokrise verschärft sich. Nun baut auch BMW Tausende Stellen ab",
+      "summary": "Angesichts der anhaltenden Branchenschwäche meldet BMW einen Gewinneinbruch und kündigt ein umfangreiches Sparprogramm inklusive Stellenabbau an. Dies unterstreicht die tiefe Krise der deutschen Automobilindustrie."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Rekordflug von Melbourne nach Toulouse - 24 Stunden in der Luft",
-      "summary": "Qantas hat mit einem speziellen Airbus einen Rekordflug über drei Kontinente und zwei Ozeane absolviert, bei dem die Crew zwei Sonnenaufgänge erlebte. Solche extrem langen Nonstop-Flüge sollen bald auch Passagieren angeboten werden."
+      "headline": "Mehr Tote nach Erdbeben in Japan, Hoffnung auf Überlebende schwindet",
+      "summary": "Nach dem schweren Erdbeben in Südwestjapan steigt die Zahl der Todesopfer auf mindestens 28, während die Hoffnung auf weitere Überlebende schwindet. Zahlreiche Menschen gelten noch als vermisst, was die Katastrophe zu einer nationalen Tragödie macht."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Waldbrände in Südeuropa - warum Löschen allein nicht mehr reicht",
-      "summary": "Extreme Hitze und Trockenheit befeuern weiterhin Waldbrände in Südeuropa, wobei Forschende vor häufigeren Ereignissen durch den Klimawandel warnen. Es werden dringend neue Strategien über das reine Löschen hinaus benötigt, um Risiken zu minimieren."
+      "headline": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "summary": "Meta-CEO Mark Zuckerberg prognostiziert, dass innerhalb von fünf Jahren Milliarden Menschen persönliche KI-Agenten nutzen werden. Während Meta massiv in KI investiert, muss Zuckerberg Investoren vom zukünftigen Erfolg dieser Strategie überzeugen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "99 Millionen Dollar Verlust, und auch die EU macht Probleme: Das chinesische Fashion-Wunder Shein entzaubert sich selbst",
-      "summary": "Der Onlinehändler Shein kämpft mit einem hohen Verlust und regulatorischen Hürden in der EU, während er zum dritten Mal einen Börsengang anstrebt. Nach geopolitischen Konflikten rücken nun die eigenen Geschäftszahlen in den Fokus und säen Zweifel."
+      "headline": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "summary": "Microsoft verbuchte einen Gewinn von 3,2 Milliarden Dollar aus seiner Investition in Anthropic, während die Ergebnisse aus dem Engagement bei OpenAI gemischt ausfielen. Dies unterstreicht die volatile Natur von Investments in führende KI-Labs."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Zirkuläre Deals verunsichern die Investoren: Während die KI-Konzerne immer grössere Geschäfte ankündigen, brechen ihre Aktienkurse ein",
-      "summary": "Die rapide wachsenden Schulden in der KI-Branche beunruhigen Investoren, da grosse Anbieter wie Nvidia ihren Käufern Kredite gewähren. Diese 'zirkulären Deals' ermöglichen immense Investitionen, führen aber zu sinkenden Aktienkursen und Unsicherheit."
+      "headline": "99 Millionen Dollar Verlust, und auch die EU macht Probleme: Das chinesische Fashion-Wunder Shein entzaubert sich selbst",
+      "summary": "Der Onlinehändler Shein kämpft mit einem Verlust von 99 Millionen Dollar und regulatorischen Problemen in der EU auf seinem Weg zum Börsengang in Hongkong. Dies wirft Zweifel an der Bewertung des einstigen 'Fashion-Wunders' auf."
     }
   ],
   "learning": {
-    "topic": "Das Black-Swan-Konzept: Die unvorhersehbare Katastrophe",
-    "category": "Historische Finanzereignisse & Krisen",
-    "concept": "Ein 'Schwarzer Schwan' ist ein extrem seltenes, unvorhersehbares Ereignis mit massiven Auswirkungen, dessen Erklärung erst im Nachhinein plausibel erscheint. Es stellt die Grenzen unserer Fähigkeit zur Vorhersage und Risikobewertung dar.",
-    "details": "Das Konzept, popularisiert von Nassim Nicholas Taleb, beschreibt Ereignisse, die jenseits der normalen Erwartungen liegen. Sie haben drei Kernmerkmale: Sie sind extrem selten und überraschend, ziehen drastische Konsequenzen nach sich, und werden im Rückblick oft rationalisiert, als wären sie vorhersehbar gewesen. Finanzkrisen, Terroranschläge oder technologische Durchbrüche können Schwarze Schwäne sein. Ihre Logik zeigt, dass herkömmliche Risikomodelle, die auf historischen Daten basieren, unzureichend sind, um solche Extremszenarien abzubilden.",
-    "takeaway": "Konzentriere dich nicht nur auf bekannte Risiken. Sei flexibel und bereite dich auf das Unvorhersehbare vor, indem du Robustheit und Redundanz in Strategien und Systemen schaffst."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Schlüssel zur Startup-Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens *vor* einer neuen Finanzierungsrunde, während die Post-Money-Bewertung der Wert *nach* der Investition ist. Sie sind entscheidend für die Berechnung des Anteils, den ein Investor erhält.",
+    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird der Unternehmenswert vor dieser Investition als Pre-Money-Bewertung festgelegt. Die Post-Money-Bewertung ergibt sich dann aus der Summe der Pre-Money-Bewertung und des neu investierten Kapitals. Die Anzahl der ausgegebenen neuen Anteile für den Investor und deren Preis pro Anteil basieren auf der Pre-Money-Bewertung. Dies beeinflusst direkt den Prozentsatz des Unternehmens, den die Gründer und bestehenden Aktionäre nach der Finanzierungsrunde noch besitzen.",
+    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist essenziell, um zu wissen, wie sich eine Finanzierungsrunde auf die Eigentumsverhältnisse und die Kapitalisierungstabelle (Cap Table) eines Startups auswirkt. Investoren nutzen diese Kennzahlen, um ihre Beteiligung und potenzielle Rendite zu bestimmen."
   }
 }
