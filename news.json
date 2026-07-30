@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA melden nach mehrtägiger Pause neue Angriffe auf Iran",
-      "summary": "Nach einer kurzen Pause attackierte das US-Militär erneut Ziele im Iran, wobei das Regime Tote meldet und seinerseits Raketen auf Jordanien feuerte. Dies deutet auf eine weitere Eskalation der Spannungen im Nahen Osten hin."
+      "headline": "Rakete in Polens Luftraum alarmiert NATO",
+      "summary": "Ein Raketeneinschlag in Polen führte zu NATO-Unterstützungszusagen und Kampfjet-Aufstiegen, was die geopolitische Lage in Europa weiter anspannt. Generalsekretär Rutte bezeichnete den Vorfall als rücksichtslosen Akt Russlands."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russland greift Ukraine landesweit mit Raketen an",
-      "summary": "Russland hat erneut zahlreiche ukrainische Städte, einschließlich Kiew, mit Raketen angegriffen und dabei landesweit mehrere Tote verursacht. Präsident Selenskyj hatte zuvor vor einem 'massiven' russischen Angriff gewarnt."
+      "headline": "Verhindert Israel humanitäre Hilfe im Gazastreifen?",
+      "summary": "Hilfsorganisationen beklagen, dass Israel essenzielle Güter für Gaza an der Grenze zurückhält, mit der Begründung militärischer Missbrauchsgefahr durch die Hamas. Diese Blockade verschärft die humanitäre Krise und sorgt international für Debatten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Das Fed schiebt die erste Zinserhöhung unter Kevin Warsh weiter hinaus",
-      "summary": "Trotz steigender Benzinpreise im Kontext des Iran-Kriegs belässt die US-Notenbank den Leitzins unverändert. Die Finanzmärkte interpretieren dies als ein Signal für eine weniger aggressive Inflationsbekämpfung durch das Fed."
+      "headline": "Inflation im Juli auf voraussichtlich 2,8 Prozent gestiegen",
+      "summary": "Die Inflation in Deutschland ist im Juli vorläufigen Zahlen zufolge sprunghaft gestiegen, hauptsächlich bedingt durch das Auslaufen des Tankrabatts und die Folgen des Iran-Kriegs. Ökonomen beobachten diese Entwicklung mit Sorge."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die deutsche Autokrise verschärft sich. Nun baut auch BMW Tausende Stellen ab",
-      "summary": "Angesichts der anhaltenden Branchenschwäche meldet BMW einen Gewinneinbruch und kündigt ein umfangreiches Sparprogramm inklusive Stellenabbau an. Dies unterstreicht die tiefe Krise der deutschen Automobilindustrie."
+      "headline": "Das Fed schiebt die erste Zinserhöhung unter Kevin Warsh weiter hinaus",
+      "summary": "Trotz spürbar steigender Benzinpreise in den USA belässt die amerikanische Notenbank den Leitzins unverändert. Die Finanzmärkte interpretieren dies als Signal, dass das Fed weniger konsequent gegen die Teuerung vorgehen wird, als erwartet."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Mehr Tote nach Erdbeben in Japan, Hoffnung auf Überlebende schwindet",
-      "summary": "Nach dem schweren Erdbeben in Südwestjapan steigt die Zahl der Todesopfer auf mindestens 28, während die Hoffnung auf weitere Überlebende schwindet. Zahlreiche Menschen gelten noch als vermisst, was die Katastrophe zu einer nationalen Tragödie macht."
+      "headline": "Tesla made its 10 millionth EV",
+      "summary": "Tesla hat seinen zehmillionsten Elektrofahrzeug produziert, ein wichtiger Meilenstein für das Unternehmen und die E-Mobilitätsbranche. Dieser Erfolg bringt Elon Musk der Erreichung seiner ehrgeizigen Produktziele für sein $1 Billionen-Vergütungspaket näher."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "summary": "Meta-CEO Mark Zuckerberg prognostiziert, dass innerhalb von fünf Jahren Milliarden Menschen persönliche KI-Agenten nutzen werden. Während Meta massiv in KI investiert, muss Zuckerberg Investoren vom zukünftigen Erfolg dieser Strategie überzeugen."
+      "headline": "Die grossen Tech-Konzerne investieren weiter Milliarden in KI. Doch an der Börse zählt nicht mehr nur Wachstum",
+      "summary": "Große Tech-Konzerne pumpen weiterhin Milliarden in Künstliche Intelligenz, doch die Börse verlangt zunehmend konkrete Ergebnisse und Profitabilität. Während Microsoft von seiner KI-Strategie profitiert, zahlt Meta für hohe Investitionen einen hohen Preis."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "summary": "Microsoft verbuchte einen Gewinn von 3,2 Milliarden Dollar aus seiner Investition in Anthropic, während die Ergebnisse aus dem Engagement bei OpenAI gemischt ausfielen. Dies unterstreicht die volatile Natur von Investments in führende KI-Labs."
+      "headline": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+      "summary": "Das Startup Simile, spezialisiert auf synthetische Nutzer, hat in nur fünf Monaten eine weitere Finanzierungsrunde von 200 Millionen Dollar abgeschlossen und wird nun mit 2 Milliarden Dollar bewertet. Dies unterstreicht das enorme Interesse und die schnelle Bewertung im KI-Unicorn-Club."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "99 Millionen Dollar Verlust, und auch die EU macht Probleme: Das chinesische Fashion-Wunder Shein entzaubert sich selbst",
-      "summary": "Der Onlinehändler Shein kämpft mit einem Verlust von 99 Millionen Dollar und regulatorischen Problemen in der EU auf seinem Weg zum Börsengang in Hongkong. Dies wirft Zweifel an der Bewertung des einstigen 'Fashion-Wunders' auf."
+      "headline": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+      "summary": "Commonwealth Fusion Systems, ein vielversprechendes Startup im Bereich der Fusionsenergie, hat weitere 1 Milliarde Dollar an Kapital aufgenommen. Diese massive Finanzierung ermöglicht es dem Unternehmen, den Bau seines ersten kommerziellen Fusionskraftwerks voranzutreiben."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Schlüssel zur Startup-Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens *vor* einer neuen Finanzierungsrunde, während die Post-Money-Bewertung der Wert *nach* der Investition ist. Sie sind entscheidend für die Berechnung des Anteils, den ein Investor erhält.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird der Unternehmenswert vor dieser Investition als Pre-Money-Bewertung festgelegt. Die Post-Money-Bewertung ergibt sich dann aus der Summe der Pre-Money-Bewertung und des neu investierten Kapitals. Die Anzahl der ausgegebenen neuen Anteile für den Investor und deren Preis pro Anteil basieren auf der Pre-Money-Bewertung. Dies beeinflusst direkt den Prozentsatz des Unternehmens, den die Gründer und bestehenden Aktionäre nach der Finanzierungsrunde noch besitzen.",
-    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist essenziell, um zu wissen, wie sich eine Finanzierungsrunde auf die Eigentumsverhältnisse und die Kapitalisierungstabelle (Cap Table) eines Startups auswirkt. Investoren nutzen diese Kennzahlen, um ihre Beteiligung und potenzielle Rendite zu bestimmen."
+    "topic": "Startup-Slang entschlüsselt: SaaS, B2B, ARR, Burn Rate, Churn",
+    "category": "Finanz-Dechiffrierung: Abkürzungen und Produktbezeichnungen zerlegen",
+    "concept": "Dieser Guide erklärt essentielle Begriffe aus der Startup- und VC-Welt, die oft in Finanzierungsrunden und Geschäftsmodellen auftauchen. Das Verständnis dieser Abkürzungen ist entscheidend, um die Dynamik und Bewertungen von Tech-Unternehmen zu erfassen.",
+    "details": "SaaS (Software as a Service) beschreibt ein Abonnement-basiertes Softwaremodell, bei dem Nutzer über das Internet auf Anwendungen zugreifen. B2B (Business-to-Business) bedeutet, dass ein Unternehmen Produkte oder Dienstleistungen an andere Unternehmen verkauft, im Gegensatz zu B2C (Business-to-Consumer). ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements, eine Schlüsselmetrik für SaaS-Firmen. Die Burn Rate ist die Geschwindigkeit, mit der ein Startup sein Kapital aufbraucht, typischerweise pro Monat. Churn beschreibt die Rate, mit der Kunden Abonnements kündigen oder das Unternehmen verlassen, ein wichtiger Indikator für Kundenbindung und Produktwert.",
+    "takeaway": "Beherrsche diese Begriffe, um schnell zu verstehen, wie Startups Geld verdienen, wie stabil ihre Einnahmen sind und wie effizient sie arbeiten. Sie sind Basiswissen für Analysen und Gespräche in der Startup- und VC-Branche."
   }
 }
