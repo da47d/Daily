@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump-Plan für Gaza: Skepsis in Israel und bei Palästinensern",
-      "summary": "US-Präsident Trump bezeichnet sein Abkommen zur Entwaffnung der Hamas als \"historisch\", doch die Details bleiben vage. Dies führt zu großer Skepsis in Israel und fehlendem Vertrauen bei den Palästinensern."
+      "headline": "Mindestens neun Tote bei russischem Angriff auf Kiew",
+      "summary": "Russland hat seine Luftangriffe auf die Ukraine verstärkt, wobei die Hauptstadt Kiew erneut Ziel war. Dabei wurden nach Behördenangaben mindestens neun Menschen getötet."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Von Shell bis Glencore: Die Gewinner des Iran-Krieges stehen bereits fest",
-      "summary": "Der Iran-Krieg treibt Öl- und Dieselpreise massiv in die Höhe und schafft volatile Märkte, die Handelsgeschäfte zu einer Goldgrube machen. Konzerne wie Shell und Glencore profitieren erheblich von dieser globalen Versorgungskrise."
+      "headline": "Kommentar: Marokko setzt Migration als Druckmittel ein",
+      "summary": "Die EU wird aufgefordert, sich weniger erpressbar zu machen, da Marokko die Migration als politisches Druckmittel nutzt. Die Ereignisse in Ceuta entfachen eine neue Debatte über Grenzschutz und europäische Reisefreiheit."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Das Fed schiebt die erste Zinserhöhung unter Kevin Warsh weiter hinaus",
-      "summary": "Trotz spürbar verteuerter Benzinpreise in den USA belässt die amerikanische Notenbank den Leitzins unverändert. Die Finanzmärkte deuten dies als ein weniger entschlossenes Vorgehen gegen die Teuerung als erwartet."
+      "headline": "Fed verschiebt Zinserhöhung wegen Iran-Krieg",
+      "summary": "Trotz steigender Benzinpreise durch den Iran-Krieg belässt die US-Notenbank Fed den Leitzins unverändert. Dies deutet darauf hin, dass das Fed weniger konsequent gegen die Teuerung vorgehen könnte als erwartet."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die SNB verzeichnet im ersten Halbjahr einen Buchgewinn von 25,2 Milliarden Franken",
-      "summary": "Die Schweizerische Nationalbank (SNB) erzielte vor allem durch deutliche Kursgewinne auf ihrem Aktienbestand einen hohen Buchgewinn. Eine neue Vereinbarung soll nun regeln, wie viel davon am Jahresende an Bund und Kantone ausgeschüttet wird."
+      "headline": "Samsung erwartet mehrjährigen Speicherchip-Engpass bis 2028",
+      "summary": "Samsung prognostiziert, dass der Engpass bei Speicherchips sich bis 2027 verschärfen und bis 2028 anhalten wird. Die starke Nachfrage nach KI-Rechenzentren treibt die Komponentenkosten und somit die Gerätepreise in die Höhe."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Manipulative Bilder und Videos: Ab August müssen Deepfakes in der EU gekennzeichnet werden",
-      "summary": "Angesichts der Zunahme täuschend echter, künstlich erzeugter Inhalte im Internet geht die EU nun vor. Ab August müssen Deepfakes explizit gekennzeichnet werden, um Manipulationen entgegenzuwirken."
+      "headline": "FIFA gibt umstrittene Investorenpläne für WM auf",
+      "summary": "Nach heftiger Kritik hat FIFA-Chef Infantino seine Pläne, Anteile an der Fußball-WM an Investoren zu verkaufen, aufgegeben. Das Vorhaben stieß selbst innerhalb des Weltverbandes auf Empörung."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "GEMA vs. Suno: KI-Firma darf Melodien nicht ungefragt nutzen",
-      "summary": "Das Landgericht München hat entschieden, dass die unlizenzierte Nutzung von Musikstücken durch KI-Anwendungen gegen deutsches Urheberrecht verstößt. Dieses Urteil wird als wegweisend für die Regulierung von KI im Musikbereich gesehen."
+      "headline": "Google stoppt KI-Erdkartenfunktion wegen Misinformation",
+      "summary": "Google hat eine neue KI-Funktion für Google Earth einen Tag nach dem Start wieder eingestellt. Kritik kam auf, dass das Tool zur Verbreitung von Fehlinformationen durch gefälschte KI-Bilder missbraucht werden könnte."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "summary": "Das Startup Smallest.ai hat 13 Millionen Dollar eingesammelt, um eine ultraschnelle Sprach-KI zu entwickeln, die menschlich klingt. Ihr Ziel ist es, KI-Telefonate so zu gestalten, dass sie den Turing-Test bestehen."
+      "headline": "Index Ventures sammelt 2 Milliarden Dollar für neue Fonds",
+      "summary": "Index Ventures hat nach dem erfolgreichen Wiz-Payout 2 Milliarden Dollar über drei neue Fonds eingesammelt. Damit erhöht sich das verfügbare Investitionskapital des VC-Unternehmens auf insgesamt 3,5 Milliarden Dollar."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-      "summary": "Der erfahrene Gründer Ryan Williams hat mit seinem KI-Startup Ellis AI erfolgreich 10 Millionen Dollar in einer Seed-Runde finanziert. Das Unternehmen entwickelt KI-Lösungen speziell für Private-Credit-Manager."
+      "headline": "Mehr Betrug bei VC-gestützten Startups – neue Forschungsergebnisse",
+      "summary": "Neue Studien zeigen, dass es bei VC-finanzierten Startups vermehrt zu Betrugsfällen kommt. Forscher des Imperial College und der Emlyon Business School untersuchen die Rolle von Investoren und Gründern dabei."
     }
   ],
   "learning": {
-    "topic": "ETF-Namenszusätze: Was bedeuten Acc, Dist und UCITS?",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Kürzel im Namen eines ETFs geben Aufschluss darüber, wie Erträge behandelt werden und unter welcher Regulierung der Fonds steht, was entscheidend für Anleger ist.",
-    "details": "Der Zusatz 'Acc' (Accumulating) bedeutet, dass alle Erträge (Zinsen, Dividenden) automatisch im Fonds reinvestiert werden. Anleger profitieren vom Zinseszinseffekt und erhalten keine direkten Ausschüttungen. 'Dist' (Distributing) hingegen kennzeichnet ETFs, die ihre Erträge regelmäßig an die Anleger ausschütten, was für jene attraktiv ist, die einen laufenden Cashflow wünschen. 'UCITS' (Undertakings for Collective Investment in Transferable Securities) steht für eine EU-Richtlinie, die strenge Standards für Investmentfonds festlegt, die in Europa angeboten werden dürfen. UCITS-Fonds gelten als hoch reguliert und sicher, was ihre Marktfähigkeit und das Vertrauen der Anleger innerhalb der EU stärkt.",
-    "takeaway": "Ein ETF-Name liefert wertvolle Informationen: 'Acc' und 'Dist' zeigen, ob Erträge reinvestiert oder ausgezahlt werden, während 'UCITS' die Einhaltung europäischer Sicherheitsstandards garantiert. Diese Kürzel sind unerlässlich, um die Funktionsweise und das Risikoprofil eines Fonds zu verstehen."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Was sie für Startups und Investoren bedeuten",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* dem Erhalt neuer Investitionen darstellt.",
+    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird dieses Geld dem Unternehmenswert zugeschlagen. Die Pre-Money-Bewertung ist die Grundlage für die Kaufpreisfindung der Anteile, die der Investor erwirbt. Die Post-Money-Bewertung ergibt sich aus der Summe der Pre-Money-Bewertung und dem neuen Investment. Sie ist entscheidend, um den prozentualen Anteil zu berechnen, den der Investor für sein Geld erhält, und wie stark die Anteile der Bestandsgesellschafter durch das frische Kapital verwässert werden. Vereinfacht gesagt: Pre-Money + Investment = Post-Money.",
+    "takeaway": "Das Verständnis dieser Bewertungen ist fundamental für die Verhandlung von Beteiligungen und um die Verteilung der Eigentumsanteile in einem Startup nach einer Finanzierungsrunde zu verstehen."
   }
 }
