@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Mindestens neun Tote bei russischem Angriff auf Kiew",
-      "summary": "Russland hat seine Luftangriffe auf die Ukraine verstärkt, wobei die Hauptstadt Kiew erneut Ziel war. Dabei wurden nach Behördenangaben mindestens neun Menschen getötet."
+      "headline": "Mindestens zehn Tote bei russischem Angriff auf Kiew",
+      "summary": "Russland hat seine Luftangriffe auf die Ukraine verstärkt, wobei die Hauptstadt Kiew erneut Ziel war. Nach Behördenangaben kamen dabei mindestens zehn Menschen ums Leben."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kommentar: Marokko setzt Migration als Druckmittel ein",
-      "summary": "Die EU wird aufgefordert, sich weniger erpressbar zu machen, da Marokko die Migration als politisches Druckmittel nutzt. Die Ereignisse in Ceuta entfachen eine neue Debatte über Grenzschutz und europäische Reisefreiheit."
+      "headline": "Trump und Iran: Neue Angriffswelle - oder doch nur eine Drohung?",
+      "summary": "US-Präsident Trump droht dem Iran erneut mit einer Angriffswelle, die diesmal größer ausfallen könnte als bisherige. Der Iran signalisiert bereits Pläne für einen Gegenschlag."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Fed verschiebt Zinserhöhung wegen Iran-Krieg",
-      "summary": "Trotz steigender Benzinpreise durch den Iran-Krieg belässt die US-Notenbank Fed den Leitzins unverändert. Dies deutet darauf hin, dass das Fed weniger konsequent gegen die Teuerung vorgehen könnte als erwartet."
+      "headline": "Das Fed schiebt die erste Zinserhöhung unter Kevin Warsh weiter hinaus",
+      "summary": "Trotz steigender Benzinpreise infolge des Iran-Krieges hält die US-Notenbank Fed den Leitzins unverändert. Dies deutet für die Finanzmärkte darauf hin, dass die Fed weniger aggressiv gegen die Teuerung vorgehen wird als versprochen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Samsung erwartet mehrjährigen Speicherchip-Engpass bis 2028",
-      "summary": "Samsung prognostiziert, dass der Engpass bei Speicherchips sich bis 2027 verschärfen und bis 2028 anhalten wird. Die starke Nachfrage nach KI-Rechenzentren treibt die Komponentenkosten und somit die Gerätepreise in die Höhe."
+      "headline": "SNB verzeichnet im ersten Halbjahr einen Buchgewinn von 25,2 Milliarden Franken",
+      "summary": "Die Schweizerische Nationalbank (SNB) erzielte im ersten Halbjahr einen erheblichen Buchgewinn von 25,2 Milliarden Franken, primär durch Kursgewinne auf ihrem Aktienbestand. Über die Ausschüttung an Bund und Kantone muss eine neue Vereinbarung getroffen werden."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "FIFA gibt umstrittene Investorenpläne für WM auf",
-      "summary": "Nach heftiger Kritik hat FIFA-Chef Infantino seine Pläne, Anteile an der Fußball-WM an Investoren zu verkaufen, aufgegeben. Das Vorhaben stieß selbst innerhalb des Weltverbandes auf Empörung."
+      "headline": "Deepfakes müssen in der EU ab August gekennzeichnet werden",
+      "summary": "Die EU geht gegen die zunehmende Verbreitung täuschend echter, künstlich erzeugter Inhalte vor. Ab August müssen Deepfakes im Internet klar als solche gekennzeichnet werden."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Google stoppt KI-Erdkartenfunktion wegen Misinformation",
-      "summary": "Google hat eine neue KI-Funktion für Google Earth einen Tag nach dem Start wieder eingestellt. Kritik kam auf, dass das Tool zur Verbreitung von Fehlinformationen durch gefälschte KI-Bilder missbraucht werden könnte."
+      "headline": "Tech-Konzerne investieren Milliarden in KI, doch an der Börse zählt mehr als Wachstum",
+      "summary": "Große Tech-Konzerne investieren weiterhin massiv in Künstliche Intelligenz, doch der Fokus an der Börse verschiebt sich vom reinen Wachstum zu konkreten Resultaten. Während Microsoft von seiner KI-Strategie profitiert, zahlt Meta für hohe Investitionen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Index Ventures sammelt 2 Milliarden Dollar für neue Fonds",
-      "summary": "Index Ventures hat nach dem erfolgreichen Wiz-Payout 2 Milliarden Dollar über drei neue Fonds eingesammelt. Damit erhöht sich das verfügbare Investitionskapital des VC-Unternehmens auf insgesamt 3,5 Milliarden Dollar."
+      "headline": "Index Ventures sammelt nach Wiz-Payout 2 Milliarden US-Dollar über drei Fonds ein",
+      "summary": "Index Ventures hat neue Mittel in Höhe von 2 Milliarden US-Dollar über drei Fonds eingesammelt, womit sich das verfügbare Anlagekapital auf 3,5 Milliarden US-Dollar erhöht. Dies folgt auf einen kürzlichen Payout aus dem Startup Wiz."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Mehr Betrug bei VC-gestützten Startups – neue Forschungsergebnisse",
-      "summary": "Neue Studien zeigen, dass es bei VC-finanzierten Startups vermehrt zu Betrugsfällen kommt. Forscher des Imperial College und der Emlyon Business School untersuchen die Rolle von Investoren und Gründern dabei."
+      "headline": "VC-finanzierte Startups neigen häufiger zu Betrug, Forscher untersuchen Gründe",
+      "summary": "Neue Forschungsergebnisse zeigen, dass von Venture Capital finanzierte Startups häufiger Betrug begehen. Die Studien beleuchten die Rolle von Investoren und die Mechanismen, wie Betrug in der Startup-Szene begangen wird."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Was sie für Startups und Investoren bedeuten",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* dem Erhalt neuer Investitionen darstellt.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird dieses Geld dem Unternehmenswert zugeschlagen. Die Pre-Money-Bewertung ist die Grundlage für die Kaufpreisfindung der Anteile, die der Investor erwirbt. Die Post-Money-Bewertung ergibt sich aus der Summe der Pre-Money-Bewertung und dem neuen Investment. Sie ist entscheidend, um den prozentualen Anteil zu berechnen, den der Investor für sein Geld erhält, und wie stark die Anteile der Bestandsgesellschafter durch das frische Kapital verwässert werden. Vereinfacht gesagt: Pre-Money + Investment = Post-Money.",
-    "takeaway": "Das Verständnis dieser Bewertungen ist fundamental für die Verhandlung von Beteiligungen und um die Verteilung der Eigentumsanteile in einem Startup nach einer Finanzierungsrunde zu verstehen."
+    "topic": "Optionen vs. Optionsscheine: Der feine Unterschied",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Optionen und Optionsscheine ermöglichen es, das Recht zum Kauf oder Verkauf eines Basiswerts zu einem festgelegten Preis zu erwerben, unterscheiden sich aber grundlegend in ihrer Emission und Standardisierung.",
+    "details": "Eine Option ist ein standardisiertes Finanzinstrument, das an einer Börse gehandelt wird und oft direkt zwischen zwei Parteien (Käufer und Verkäufer) vereinbart wird. Der Verkäufer (Stillhalter) geht dabei eine Verpflichtung ein. Optionsscheine hingegen sind Wertpapiere, die von Banken oder Finanzinstituten emittiert werden und meist nicht standardisiert sind, also unterschiedliche Bedingungen haben können. Optionsscheine sind typischerweise ein reiner Hebel auf den Basiswert, während Optionen auch zur Absicherung oder als Bausteine für komplexere Strategien dienen. Der Emittent eines Optionsscheins verdient am Spread und kann die Konditionen anpassen.",
+    "takeaway": "Optionen sind Börsenprodukte mit klar definierten Regeln und Stillhaltern, die eine Verpflichtung eingehen. Optionsscheine sind bankeigene Produkte, die Anlegern den Zugang zu Hebeleffekten ermöglichen, aber mit spezifischen Emittentenrisiken und variablen Konditionen verbunden sind."
   }
 }
