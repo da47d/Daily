@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Jordanien im Iran-Krieg zwischen den Fronten",
-      "summary": "Jordanien geriet in den Iran-Konflikt, was den wichtigen Tourismussektor schädigt und den Frust über die USA als Partner steigert. Das Land wurde zunehmend zum Angriffsziel in der angespannten regionalen Lage."
+      "headline": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
+      "summary": "In Odessa sind Sommerleichtigkeit und Kriegsgefahr eng miteinander verknüpft, da trotz Badebetrieb jederzeit russische Angriffe drohen. Menschen ignorieren oft den Luftalarm, was teils schlimme Folgen hat und die ständige Bedrohung unterstreicht."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump sagt Angriffe auf Iran vorerst ab",
-      "summary": "Massive US-Militärschläge gegen Iran wurden Berichten zufolge kurz vor der Ausführung abgebrochen. Grund dafür sollen diplomatische Fortschritte sein, die eine Eskalation vorerst abwenden."
+      "headline": "Philippinische Aktivisten trotzen Chinas Machtanspruch",
+      "summary": "Pekings Küstenwache demonstriert im Südchinesischen Meer massiv ihren Machtanspruch, was besonders Philippiner zu spüren bekommen, die sich zu den umstrittenen Spratly-Inseln begeben. Dies führt zu wachsenden Spannungen in der Region und internationaler Aufmerksamkeit."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "SNB mit Buchgewinn von 25,2 Milliarden Franken",
-      "summary": "Die Schweizerische Nationalbank (SNB) erzielte im ersten Halbjahr einen deutlichen Buchgewinn von 25,2 Milliarden Franken. Dieser resultierte hauptsächlich aus Kursgewinnen bei ihren Aktienbeständen."
+      "headline": "Rhein verzeichnet historisch niedrige Wasserstände",
+      "summary": "Die Pegelstände des Rheins und anderer deutscher Flüsse erreichen aufgrund anhaltender Trockenheit historische Tiefstwerte, was erhebliche Probleme für die Binnenschifffahrt und somit die Lieferketten verursacht. Nordrhein-Westfalen fordert angesichts dessen einen nationalen Krisenstab, um die Folgen abzumildern."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Nach KI-Hype: Comeback von Bitcoin und Gold erwartet",
-      "summary": "Nach dem jüngsten KI-Hype an der Börse bereiten sich Anleger auf ein mögliches Ende des Bärenmarktes bei Kryptowährungen und ein Comeback von Gold vor. Dies deutet auf eine Verlagerung von Wachstumstiteln zu Wertspeichern hin."
+      "headline": "Die SNB verzeichnet im ersten Halbjahr einen Buchgewinn von 25,2 Milliarden Franken",
+      "summary": "Die Schweizerische Nationalbank (SNB) hat im ersten Halbjahr primär durch deutliche Kursgewinne ihrer Aktienbestände einen beträchtlichen Buchgewinn erzielt. Eine neue Vereinbarung muss regeln, wie viel des Jahresgewinns schließlich an Bund und Kantone ausgeschüttet werden soll."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "EU wappnet sich gegen KI-Gefahren mit neuer Richtlinie",
-      "summary": "Eine neue EU-Richtlinie tritt in Kraft, um Künstliche Intelligenz zu regulieren und Gefahren wie selbstständig agierende KIs oder manipulierte Medien entgegenzuwirken. Unternehmen müssen sich nun an strenge Regeln halten, besonders bei generierten Bildern und Videos."
+      "headline": "Manipulative Bilder und Videos: Ab August müssen Deepfakes in der EU gekennzeichnet werden",
+      "summary": "Angesichts der zunehmenden Verbreitung täuschend echter, künstlich erzeugter Inhalte im Internet führt die EU ab August eine Kennzeichnungspflicht für Deepfakes ein. Dies soll der Desinformation entgegenwirken und Nutzern helfen, manipulierte Medien zu erkennen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Uber baut autonomes Fahrzeugimperium auf",
-      "summary": "Uber investiert massiv in den Ausbau seines autonomen Fahrzeugimperiums und hat dazu in den letzten zwei Jahren Partnerschaften mit rund 30 Unternehmen geschlossen. Dies unterstreicht die strategische Bedeutung der Technologie für den Fahrdienstleister."
+      "headline": "Könnten Smart Glasses in Deutschland verboten werden?",
+      "summary": "Aufnahmen, die heimlich mit Smart Glasses gefilmt wurden, landen immer häufiger im Netz und machen juristische Gegenwehr oft unmöglich. Experten halten daher ein Verbot dieser Brillen in Deutschland für eine mögliche Konsequenz."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Rivian-Spinoff Also liefert erste E-Bikes aus",
-      "summary": "Der Rivian-Spinoff Also beginnt nach Monaten der Verzögerung mit der Auslieferung seiner E-Bikes und plant, sich als 'Fahrzeug'-Unternehmen zu etablieren. Langfristig sollen auch vierrädrige Pedal-Assist-Lastenfahrzeuge für Amazon produziert werden."
+      "headline": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "summary": "Berichten zufolge wird Balaji Srinivasans 'Network School', eine \"Frontier Community für Techno-Optimisten\", von Malaysia geschlossen. Dies wirft Fragen über die Zukunft und die Herausforderungen solcher innovativen Bildungsmodelle auf."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Silicon Valley: Die Kehrseite des jungen Gründer-Hypes",
-      "summary": "Während das Silicon Valley junge Gründer feiert, zeigen sich nun auch Schattenseiten dieser Kultur. KI-Tools demokratisieren zwar den Unternehmensaufbau und verkürzen Erfolgszeiten, doch der anfängliche Hype kann sich schnell ins Gegenteil verkehren."
+      "headline": "Sam Altman is still making the case for parenting via ChatGPT",
+      "summary": "OpenAI-CEO Sam Altman wirbt weiterhin für ChatGPT als nützliches Tool für Eltern und teilte begeistert einen \"coolen Anwendungsfall\". Dies unterstreicht das Potenzial von KI, auch in alltäglichen Bereichen wie der Kindererziehung, Unterstützung zu bieten."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money-Bewertung ist der Wert eines Startups VOR einer Finanzierungsrunde, Post-Money-Bewertung ist der Wert NACH der Investition.",
-    "details": "Wenn ein Investor Kapital in ein Startup steckt, muss dessen Wert vor und nach der Investition klar definiert sein. Die Pre-Money-Bewertung ist der Konsens über den Unternehmenswert, bevor das neue Geld eingeht. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese Post-Money-Bewertung bildet die Basis für die Berechnung des neuen Anteils, den der Investor für sein Geld erhält, und bestimmt gleichzeitig die Verwässerung der Anteile der bestehenden Gesellschafter und Gründer.",
-    "takeaway": "Das Verständnis von Pre- und Post-Money ist entscheidend, um zu beurteilen, wie viel Eigenkapital Gründer und Frühinvestoren nach einer Finanzierungsrunde noch besitzen. Es beeinflusst direkt die Verhandlungsmacht und die zukünftige Wertentwicklung der Anteile."
+    "topic": "Die Arbeitsweise von Hedgefonds: Jäger des Alphabets",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Hedgefonds sind Investmentfonds, die mit flexiblen Anlagestrategien und oft hohem Risiko überdurchschnittliche Renditen (Alpha) erzielen wollen, unabhängig von der allgemeinen Marktentwicklung.",
+    "details": "Im Gegensatz zu traditionellen Fonds, die oft an Benchmarks gebunden sind, nutzen Hedgefonds eine breite Palette von Strategien wie Leerverkäufe, Derivate und Hebelwirkungen (Leverage). Ihr Ziel ist es, \"Alpha\" zu generieren, also eine Rendite, die über die des Gesamtmarktes hinausgeht, indem sie Ineffizienzen ausnutzen. Dies kann durch Wetten auf fallende (Short-Selling) und steigende Kurse gleichzeitig geschehen oder durch komplexe Arbitrage-Strategien. Sie sind meist nur für institutionelle Anleger und vermögende Privatpersonen zugänglich, da sie weniger reguliert sind und höhere Risiken bergen.",
+    "takeaway": "Hedgefonds sind keine herkömmlichen Investmentfonds; sie suchen aktiv nach Marktanomalien und versuchen, mit aggressiven Strategien und höherem Risiko ('Alpha') eine Outperformance zu erzielen, oft unabhängig von der Marktlage."
   }
 }
