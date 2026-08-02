@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Mindestens zehn Tote bei russischem Angriff auf Kiew",
-      "summary": "Russland hat seine Luftangriffe auf die Ukraine verstärkt, wobei die Hauptstadt Kiew erneut Ziel war. Nach Behördenangaben kamen dabei mindestens zehn Menschen ums Leben."
+      "headline": "Jordanien im Iran-Krieg zwischen den Fronten",
+      "summary": "Jordanien geriet in den Iran-Konflikt, was den wichtigen Tourismussektor schädigt und den Frust über die USA als Partner steigert. Das Land wurde zunehmend zum Angriffsziel in der angespannten regionalen Lage."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump und Iran: Neue Angriffswelle - oder doch nur eine Drohung?",
-      "summary": "US-Präsident Trump droht dem Iran erneut mit einer Angriffswelle, die diesmal größer ausfallen könnte als bisherige. Der Iran signalisiert bereits Pläne für einen Gegenschlag."
+      "headline": "Trump sagt Angriffe auf Iran vorerst ab",
+      "summary": "Massive US-Militärschläge gegen Iran wurden Berichten zufolge kurz vor der Ausführung abgebrochen. Grund dafür sollen diplomatische Fortschritte sein, die eine Eskalation vorerst abwenden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Das Fed schiebt die erste Zinserhöhung unter Kevin Warsh weiter hinaus",
-      "summary": "Trotz steigender Benzinpreise infolge des Iran-Krieges hält die US-Notenbank Fed den Leitzins unverändert. Dies deutet für die Finanzmärkte darauf hin, dass die Fed weniger aggressiv gegen die Teuerung vorgehen wird als versprochen."
+      "headline": "SNB mit Buchgewinn von 25,2 Milliarden Franken",
+      "summary": "Die Schweizerische Nationalbank (SNB) erzielte im ersten Halbjahr einen deutlichen Buchgewinn von 25,2 Milliarden Franken. Dieser resultierte hauptsächlich aus Kursgewinnen bei ihren Aktienbeständen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "SNB verzeichnet im ersten Halbjahr einen Buchgewinn von 25,2 Milliarden Franken",
-      "summary": "Die Schweizerische Nationalbank (SNB) erzielte im ersten Halbjahr einen erheblichen Buchgewinn von 25,2 Milliarden Franken, primär durch Kursgewinne auf ihrem Aktienbestand. Über die Ausschüttung an Bund und Kantone muss eine neue Vereinbarung getroffen werden."
+      "headline": "Nach KI-Hype: Comeback von Bitcoin und Gold erwartet",
+      "summary": "Nach dem jüngsten KI-Hype an der Börse bereiten sich Anleger auf ein mögliches Ende des Bärenmarktes bei Kryptowährungen und ein Comeback von Gold vor. Dies deutet auf eine Verlagerung von Wachstumstiteln zu Wertspeichern hin."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Deepfakes müssen in der EU ab August gekennzeichnet werden",
-      "summary": "Die EU geht gegen die zunehmende Verbreitung täuschend echter, künstlich erzeugter Inhalte vor. Ab August müssen Deepfakes im Internet klar als solche gekennzeichnet werden."
+      "headline": "EU wappnet sich gegen KI-Gefahren mit neuer Richtlinie",
+      "summary": "Eine neue EU-Richtlinie tritt in Kraft, um Künstliche Intelligenz zu regulieren und Gefahren wie selbstständig agierende KIs oder manipulierte Medien entgegenzuwirken. Unternehmen müssen sich nun an strenge Regeln halten, besonders bei generierten Bildern und Videos."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Tech-Konzerne investieren Milliarden in KI, doch an der Börse zählt mehr als Wachstum",
-      "summary": "Große Tech-Konzerne investieren weiterhin massiv in Künstliche Intelligenz, doch der Fokus an der Börse verschiebt sich vom reinen Wachstum zu konkreten Resultaten. Während Microsoft von seiner KI-Strategie profitiert, zahlt Meta für hohe Investitionen."
+      "headline": "Uber baut autonomes Fahrzeugimperium auf",
+      "summary": "Uber investiert massiv in den Ausbau seines autonomen Fahrzeugimperiums und hat dazu in den letzten zwei Jahren Partnerschaften mit rund 30 Unternehmen geschlossen. Dies unterstreicht die strategische Bedeutung der Technologie für den Fahrdienstleister."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Index Ventures sammelt nach Wiz-Payout 2 Milliarden US-Dollar über drei Fonds ein",
-      "summary": "Index Ventures hat neue Mittel in Höhe von 2 Milliarden US-Dollar über drei Fonds eingesammelt, womit sich das verfügbare Anlagekapital auf 3,5 Milliarden US-Dollar erhöht. Dies folgt auf einen kürzlichen Payout aus dem Startup Wiz."
+      "headline": "Rivian-Spinoff Also liefert erste E-Bikes aus",
+      "summary": "Der Rivian-Spinoff Also beginnt nach Monaten der Verzögerung mit der Auslieferung seiner E-Bikes und plant, sich als 'Fahrzeug'-Unternehmen zu etablieren. Langfristig sollen auch vierrädrige Pedal-Assist-Lastenfahrzeuge für Amazon produziert werden."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "VC-finanzierte Startups neigen häufiger zu Betrug, Forscher untersuchen Gründe",
-      "summary": "Neue Forschungsergebnisse zeigen, dass von Venture Capital finanzierte Startups häufiger Betrug begehen. Die Studien beleuchten die Rolle von Investoren und die Mechanismen, wie Betrug in der Startup-Szene begangen wird."
+      "headline": "Silicon Valley: Die Kehrseite des jungen Gründer-Hypes",
+      "summary": "Während das Silicon Valley junge Gründer feiert, zeigen sich nun auch Schattenseiten dieser Kultur. KI-Tools demokratisieren zwar den Unternehmensaufbau und verkürzen Erfolgszeiten, doch der anfängliche Hype kann sich schnell ins Gegenteil verkehren."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine: Der feine Unterschied",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Optionen und Optionsscheine ermöglichen es, das Recht zum Kauf oder Verkauf eines Basiswerts zu einem festgelegten Preis zu erwerben, unterscheiden sich aber grundlegend in ihrer Emission und Standardisierung.",
-    "details": "Eine Option ist ein standardisiertes Finanzinstrument, das an einer Börse gehandelt wird und oft direkt zwischen zwei Parteien (Käufer und Verkäufer) vereinbart wird. Der Verkäufer (Stillhalter) geht dabei eine Verpflichtung ein. Optionsscheine hingegen sind Wertpapiere, die von Banken oder Finanzinstituten emittiert werden und meist nicht standardisiert sind, also unterschiedliche Bedingungen haben können. Optionsscheine sind typischerweise ein reiner Hebel auf den Basiswert, während Optionen auch zur Absicherung oder als Bausteine für komplexere Strategien dienen. Der Emittent eines Optionsscheins verdient am Spread und kann die Konditionen anpassen.",
-    "takeaway": "Optionen sind Börsenprodukte mit klar definierten Regeln und Stillhaltern, die eine Verpflichtung eingehen. Optionsscheine sind bankeigene Produkte, die Anlegern den Zugang zu Hebeleffekten ermöglichen, aber mit spezifischen Emittentenrisiken und variablen Konditionen verbunden sind."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money-Bewertung ist der Wert eines Startups VOR einer Finanzierungsrunde, Post-Money-Bewertung ist der Wert NACH der Investition.",
+    "details": "Wenn ein Investor Kapital in ein Startup steckt, muss dessen Wert vor und nach der Investition klar definiert sein. Die Pre-Money-Bewertung ist der Konsens über den Unternehmenswert, bevor das neue Geld eingeht. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese Post-Money-Bewertung bildet die Basis für die Berechnung des neuen Anteils, den der Investor für sein Geld erhält, und bestimmt gleichzeitig die Verwässerung der Anteile der bestehenden Gesellschafter und Gründer.",
+    "takeaway": "Das Verständnis von Pre- und Post-Money ist entscheidend, um zu beurteilen, wie viel Eigenkapital Gründer und Frühinvestoren nach einer Finanzierungsrunde noch besitzen. Es beeinflusst direkt die Verhandlungsmacht und die zukünftige Wertentwicklung der Anteile."
   }
 }
