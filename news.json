@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
-      "summary": "In Odessa sind Sommerleichtigkeit und Kriegsgefahr eng miteinander verknüpft, da trotz Badebetrieb jederzeit russische Angriffe drohen. Menschen ignorieren oft den Luftalarm, was teils schlimme Folgen hat und die ständige Bedrohung unterstreicht."
+      "headline": "Selenskyj hofft auf Kriegsende bis Herbst",
+      "summary": "Der ukrainische Präsident Selenskyj strebt durch verschiedene Maßnahmen ein Kriegsende bis zum Herbst an, bereitet das Land aber gleichzeitig auf einen weiteren Kriegswinter vor. Diese Bemühungen sollen Russland unter Druck setzen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Philippinische Aktivisten trotzen Chinas Machtanspruch",
-      "summary": "Pekings Küstenwache demonstriert im Südchinesischen Meer massiv ihren Machtanspruch, was besonders Philippiner zu spüren bekommen, die sich zu den umstrittenen Spratly-Inseln begeben. Dies führt zu wachsenden Spannungen in der Region und internationaler Aufmerksamkeit."
+      "headline": "Neue Angriffe im Gazastreifen: Hoffnung weicht Resignation",
+      "summary": "Trotz angekündigter Entwaffnung der Hamas durch US-Präsident Trump setzen Israels Angriffe auf den Gazastreifen fort, wobei am Wochenende 17 Menschen getötet wurden. Die Situation führt zu wachsender Resignation in der Region."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Rhein verzeichnet historisch niedrige Wasserstände",
-      "summary": "Die Pegelstände des Rheins und anderer deutscher Flüsse erreichen aufgrund anhaltender Trockenheit historische Tiefstwerte, was erhebliche Probleme für die Binnenschifffahrt und somit die Lieferketten verursacht. Nordrhein-Westfalen fordert angesichts dessen einen nationalen Krisenstab, um die Folgen abzumildern."
+      "headline": "Marktbericht: DAX auf Rekordfahrt",
+      "summary": "Der DAX startete mit einem neuen historischen Hoch in den August, getragen von neuen Friedenshoffnungen, einer Tech-Rally und erfreulichen Unternehmenszahlen. Dies signalisiert eine positive Marktstimmung."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die SNB verzeichnet im ersten Halbjahr einen Buchgewinn von 25,2 Milliarden Franken",
-      "summary": "Die Schweizerische Nationalbank (SNB) hat im ersten Halbjahr primär durch deutliche Kursgewinne ihrer Aktienbestände einen beträchtlichen Buchgewinn erzielt. Eine neue Vereinbarung muss regeln, wie viel des Jahresgewinns schließlich an Bund und Kantone ausgeschüttet werden soll."
+      "headline": "Erstmals seit 15 Jahren: Japan und die USA intervenieren gemeinsam am Devisenmarkt",
+      "summary": "Japan und die USA haben erstmals seit 15 Jahren gemeinsam am Devisenmarkt interveniert, um den Yen-Kurs zu stabilisieren und weitere Schritte angedroht. Diese unerwartete Aktion drückt auf die globalen Aktienkurse."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Manipulative Bilder und Videos: Ab August müssen Deepfakes in der EU gekennzeichnet werden",
-      "summary": "Angesichts der zunehmenden Verbreitung täuschend echter, künstlich erzeugter Inhalte im Internet führt die EU ab August eine Kennzeichnungspflicht für Deepfakes ein. Dies soll der Desinformation entgegenwirken und Nutzern helfen, manipulierte Medien zu erkennen."
+      "headline": "WhatsApp behebt Problem mit gesperrten Konten",
+      "summary": "Meta arbeitet daran, den Zugang zu WhatsApp-Konten wiederherzustellen, die irrtümlicherweise als 'unter Prüfung' markiert und gesperrt wurden. Viele Nutzer waren unerwartet von der Messaging-App ausgeschlossen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Könnten Smart Glasses in Deutschland verboten werden?",
-      "summary": "Aufnahmen, die heimlich mit Smart Glasses gefilmt wurden, landen immer häufiger im Netz und machen juristische Gegenwehr oft unmöglich. Experten halten daher ein Verbot dieser Brillen in Deutschland für eine mögliche Konsequenz."
+      "headline": "ChatGPT wird zum bevorzugten KI-Tool des US-Kongresses",
+      "summary": "Im US-Kapitol dominiert OpenAI's ChatGPT die Nutzung kostenpflichtiger KI-Anwendungen, wobei Kongressbüros den Chatbot für Memos, Gesetzeszusammenfassungen und Bürgerkommunikation einsetzen. Dies zeigt eine rasche Integration von KI in politische Arbeitsprozesse."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-      "summary": "Berichten zufolge wird Balaji Srinivasans 'Network School', eine \"Frontier Community für Techno-Optimisten\", von Malaysia geschlossen. Dies wirft Fragen über die Zukunft und die Herausforderungen solcher innovativen Bildungsmodelle auf."
+      "headline": "Sequoia führt 1-Milliarde-Dollar-Runde für Nuklear-Startup Valar Atomics an",
+      "summary": "Das Nuklear-Startup Valar Atomics hat eine Finanzierungsrunde von 1 Milliarde Dollar unter der Führung von Sequoia bei einer Bewertung von 6 Milliarden Dollar abgeschlossen. Dies folgt auf einen Entwicklungsvertrag mit Nvidia im Juni."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sam Altman is still making the case for parenting via ChatGPT",
-      "summary": "OpenAI-CEO Sam Altman wirbt weiterhin für ChatGPT als nützliches Tool für Eltern und teilte begeistert einen \"coolen Anwendungsfall\". Dies unterstreicht das Potenzial von KI, auch in alltäglichen Bereichen wie der Kindererziehung, Unterstützung zu bieten."
+      "headline": "Base Power sammelt weitere 1 Milliarde Dollar für Hausbatterien",
+      "summary": "Base Power hat 1 Milliarde Dollar eingesammelt, um die Produktion seiner Heimbatterien zu beschleunigen und damit die Netzstabilität zu verbessern. Das Startup setzt auf dezentrale Speicherlösungen zur Energiewende."
     }
   ],
   "learning": {
-    "topic": "Die Arbeitsweise von Hedgefonds: Jäger des Alphabets",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Hedgefonds sind Investmentfonds, die mit flexiblen Anlagestrategien und oft hohem Risiko überdurchschnittliche Renditen (Alpha) erzielen wollen, unabhängig von der allgemeinen Marktentwicklung.",
-    "details": "Im Gegensatz zu traditionellen Fonds, die oft an Benchmarks gebunden sind, nutzen Hedgefonds eine breite Palette von Strategien wie Leerverkäufe, Derivate und Hebelwirkungen (Leverage). Ihr Ziel ist es, \"Alpha\" zu generieren, also eine Rendite, die über die des Gesamtmarktes hinausgeht, indem sie Ineffizienzen ausnutzen. Dies kann durch Wetten auf fallende (Short-Selling) und steigende Kurse gleichzeitig geschehen oder durch komplexe Arbitrage-Strategien. Sie sind meist nur für institutionelle Anleger und vermögende Privatpersonen zugänglich, da sie weniger reguliert sind und höhere Risiken bergen.",
-    "takeaway": "Hedgefonds sind keine herkömmlichen Investmentfonds; sie suchen aktiv nach Marktanomalien und versuchen, mit aggressiven Strategien und höherem Risiko ('Alpha') eine Outperformance zu erzielen, oft unabhängig von der Marktlage."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Die zwei Gesichter der Startup-Valuation",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money und Post-Money sind zwei zentrale Kennzahlen im Venture Capital, die den Wert eines Startups vor und nach einer neuen Investition definieren. Sie sind entscheidend für das Verständnis von Beteiligungen und Verwässerung.",
+    "details": "Die 'Pre-Money-Bewertung' (Pre-Money Valuation) beziffert den Wert eines Unternehmens, *bevor* frisches Kapital durch eine neue Finanzierungsrunde aufgenommen wird. Sie ist der Ausgangspunkt für die Verhandlungen. Addiert man zu dieser Pre-Money-Bewertung das investierte Kapital der neuen Runde, erhält man die 'Post-Money-Bewertung' (Post-Money Valuation). Diese stellt den Unternehmenswert *nach* der Investition dar und ist die Basis, um zu berechnen, welchen prozentualen Anteil die neuen Investoren für ihr Kapital erhalten und wie sich die Anteile bestehender Eigentümer verwässern. Die Post-Money-Bewertung einer Runde wird typischerweise zur Pre-Money-Bewertung der nächsten Runde.",
+    "takeaway": "Für Gründer ist es essenziell, Pre- und Post-Money zu verstehen, um die eigene Verwässerung zu managen. Für Investoren legen diese Zahlen den Grundstein für die Bestimmung ihres Eigentumsanteils und der potenziellen Rendite."
   }
 }
