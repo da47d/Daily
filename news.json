@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Diplomatische Bemühungen: Naht eine Lösung für die Straße von Hormus?",
-      "summary": "US-Vertreter sehen Fortschritte bei den Bemühungen um eine Einigung mit Iran, was eine baldige Öffnung der Straße von Hormus in Aussicht stellt. Diese Entwicklungen, parallel zu Gesprächen zwischen Israel und dem Libanon, könnten die globale Marktstimmung positiv beeinflussen."
+      "headline": "Kiew wieder unter russischem Raketenbeschuss",
+      "summary": "Bei einer erneuten russischen Angriffswelle auf Kiew wurden mindestens 17 Menschen getötet, da die Ukraine ballistische Raketen kaum abwehren kann. Logistikzentren geraten dabei zunehmend ins Visier der Angreifer."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Erstmals seit 15 Jahren: Japan und die USA intervenieren gemeinsam am Devisenmarkt und treiben den Yen-Kurs in die Höhe",
-      "summary": "Japan und die USA intervenieren erstmals seit 15 Jahren gemeinsam am Devisenmarkt, um den Yen-Kurs zu stützen und weiteren Interventionen zu drohen. Diese G7-Koordination zur Währungsstabilisierung drückt vorerst auf die Aktienkurse."
+      "headline": "Handelsstreit: Demokratische US-Gliedstaaten klagen gegen Trumps neue Zölle",
+      "summary": "Mehrere US-Bundesstaaten klagen gegen Trumps jüngste Zölle, die der Supreme Court bereits als unrechtmäßig erklärt hatte. Diese umstrittenen Maßnahmen sorgen weiterhin weltweit für wirtschaftliche Turbulenzen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Anleger hieven DAX wieder auf ein Allzeithoch",
-      "summary": "Anleger hieven den DAX auf ein neues Allzeithoch, angetrieben von einer Reihe positiver Unternehmensbilanzen und Hoffnungen auf Frieden im Nahen Osten. Friedenshoffnungen spielen eine zentrale Rolle bei der aktuellen positiven Marktentwicklung."
+      "headline": "Marktbericht: DAX bleibt auf Rekordkurs",
+      "summary": "Der DAX setzt seinen Höhenflug im Sog der Wall Street fort, wobei sich neue Rekorde abzeichnen. Besonders Tech-Aktien waren in New York gefragt, während im DAX die Berichtssaison der Unternehmen weiterläuft."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Warum das Niedrigwasser das Wirtschaftswachstum bremst",
-      "summary": "Niedrige Pegelstände deutscher Flüsse wie des Rheins haben massive Folgen für die Wirtschaft, da sie die Binnenschifffahrt einschränken. Das Forschungsinstitut IW warnt, dass dies das ohnehin kleine Wirtschaftswachstum zunichtemachen könnte."
+      "headline": "Schwache Konjunktur: Mittelstand steckt in der Kreditklemme",
+      "summary": "Mittelständische Betriebe kämpfen zunehmend mit der Kreditvergabe durch Banken, die aufgrund der schlechten Wirtschaftslage vorsichtiger agieren. Dies erschwert den Firmen dringend benötigte Investitionen zusätzlich."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Waymo opens up robotaxi service in Dallas to everyone",
-      "summary": "Waymo hat seinen Robotaxi-Dienst in Dallas für alle zugänglich gemacht und damit einen weiteren Schritt zur Skalierung seiner selbstfahrenden Technologie getan. Das Unternehmen plant die Expansion in den USA, Großbritannien und Europa, was einen wichtigen Meilenstein für autonome Fahrdienste darstellt."
+      "headline": "Nvidia zeigt schnelle Fortschritte in offener KI-Industrieallianz",
+      "summary": "Eine Woche nach ihrer Gründung hat die von Nvidia angeführte Open Secure AI Alliance, mit über 120 Mitgliedern, bereits erste Vorschläge zur Abwehr von KI-Agenten vorgelegt. Dies zeigt die hohe Geschwindigkeit und Entschlossenheit der Tech-Giganten im Bereich der KI-Sicherheit."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Spotify expands AI remix and covers project with Merlin partnership",
-      "summary": "Spotify erweitert sein KI-Remix- und Cover-Projekt durch eine Partnerschaft mit Merlin, einem Zusammenschluss von über 30.000 unabhängigen Labels und Distributoren. Dieses bezahlte Tool ermöglicht Fans KI-generierte Musik-Kreationen, während Künstler opt-in geben, Credit erhalten und kompensiert werden."
+      "headline": "Hacker erbeuten Bitcoins aus vermeintlich sicheren Wallets – Millionenverluste",
+      "summary": "Nutzer von Kryptowährungen verloren innert weniger Tage Millionenbeträge an Bitcoins, die aus angeblich sicheren Wallets gestohlen wurden. Laut Experten war ein simpler Programmierfehler die Ursache für diesen schwerwiegenden Sicherheitsvorfall."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
-      "summary": "Hacker erbeuteten über 130 Millionen Dollar durch die Ausnutzung einer Sicherheitslücke in der Hardware-Wallet Coldcard, indem sie Kryptowährungen von den Opfern abzogen. Dieser Vorfall unterstreicht die anhaltenden Sicherheitsrisiken im Bereich der Kryptowährungen und Blockchain-Technologien."
+      "headline": "Anthropic unterzeichnet 10 Milliarden Dollar Deal mit AI-Cloud-Startup Volta",
+      "summary": "Anthropic setzt seine Serie von Cloud-Partnerschaften fort und schließt Berichten zufolge einen 10 Milliarden Dollar schweren Deal mit dem AI-Cloud-Startup Volta ab. Dies unterstreicht die massiven Investitionen und die rasante Entwicklung im Bereich der Künstlichen Intelligenz."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "TV Time co-founder launches Bingers to revive the beloved TV-tracking app",
-      "summary": "Der Mitbegründer von TV Time, einer beliebten TV-Tracking-App, startet Bingers, um die sozialen Funktionen seiner Vorgänger-App wiederzubeleben. Bingers ermöglicht Nutzern das Importieren ihrer Sehgewohnheiten und bietet verbesserte Funktionen für die Verfolgung von Filmen und Serien."
+      "headline": "Lucid plant Turnaround mit 1,4 Mrd. Dollar Einsparungen und Robotaxis",
+      "summary": "Der neue CEO von Lucid Motors skizziert einen Sanierungsplan, der auf 1,4 Milliarden Dollar Kosteneinsparungen und die Entwicklung von Robotaxis setzt. Weitere Kernpunkte sind der erfolgreiche Launch eines Midsize-EV und der Abschluss einer Fabrik in Saudi-Arabien."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money ist der Wert eines Startups vor einer Finanzierungsrunde, Post-Money der Wert danach, inklusive des frischen Kapitals. Diese Unterscheidung ist entscheidend, um den Anteil neuer Investoren und die Verwässerung bestehender Anteile zu verstehen.",
-    "details": "Angenommen, ein Startup ist 10 Millionen Euro wert (Pre-Money) und nimmt 2 Millionen Euro frisches Kapital auf. Dann beträgt die Post-Money-Bewertung 12 Millionen Euro. Die neuen Investoren erhalten für ihre 2 Millionen Euro entsprechend 2/12, also etwa 16,67% der Anteile. Für Gründer und bestehende Aktionäre bedeutet dies eine Verwässerung, da ihr prozentualer Anteil an einem nun größeren Kuchen sinkt, auch wenn der absolute Wert ihrer Anteile gestiegen ist.",
-    "takeaway": "Investoren verhandeln meist über die Pre-Money-Bewertung, da sie den 'nackten' Wert des Unternehmens vor ihrer Investition widerspiegelt. Die Post-Money-Bewertung zeigt den Gesamtwert nach der Finanzierung und ist wichtig für die Berechnung der genauen Beteiligungsquoten."
+    "topic": "Startup-Slang entschlüsselt: SaaS, B2B, ARR, Burn Rate & Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Im Startup- und Tech-Umfeld gibt es spezifische Abkürzungen und Begriffe, die das Geschäftsmodell, die Kundenbeziehungen und die finanzielle Gesundheit beschreiben. Das Verständnis dieser Begriffe ist essenziell für die Analyse von Jungunternehmen.",
+    "details": "SaaS (Software as a Service) beschreibt ein abonnementbasiertes Softwaremodell, das wiederkehrende Einnahmen generiert. B2B (Business-to-Business) kennzeichnet Geschäftsbeziehungen zwischen Unternehmen. ARR (Annual Recurring Revenue) ist der jährliche wiederkehrende Umsatz aus Abonnements, ein Schlüsselindikator für Skalierbarkeit. Die Burn Rate misst, wie schnell ein Startup seine liquiden Mittel vor der Profitabilität verbraucht, oft monatlich angegeben. Die Churn Rate ist die Abwanderungsrate von Kunden oder Einnahmen, die das Wachstum eines SaaS-Unternehmens stark beeinträchtigen kann.",
+    "takeaway": "Diese Begriffe sind das A und O, um im Startup- und VC-Umfeld schnell die Geschäftslogik, das Wachstumspotenzial und die Risiken eines Unternehmens zu erfassen. Sie bilden die Grundlage für jede fundierte Bewertung und Investitionsentscheidung in diesem Sektor."
   }
 }
