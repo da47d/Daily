@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kiew wieder unter russischem Raketenbeschuss",
-      "summary": "Bei einer erneuten russischen Angriffswelle auf Kiew wurden mindestens 17 Menschen getötet, da die Ukraine ballistische Raketen kaum abwehren kann. Logistikzentren geraten dabei zunehmend ins Visier der Angreifer."
+      "headline": "Iran und Oman einigen sich auf neue Route durch Straße von Hormus",
+      "summary": "Iran und Oman haben sich auf eine neue Route durch die strategisch wichtige Straße von Hormus geeinigt. Diese Vereinbarung könnte Iran deutlich mehr Kontrolle über die Wasserstraße geben, ohne Beteiligung der USA."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit: Demokratische US-Gliedstaaten klagen gegen Trumps neue Zölle",
-      "summary": "Mehrere US-Bundesstaaten klagen gegen Trumps jüngste Zölle, die der Supreme Court bereits als unrechtmäßig erklärt hatte. Diese umstrittenen Maßnahmen sorgen weiterhin weltweit für wirtschaftliche Turbulenzen."
+      "headline": "Manöver: Taiwan übt Abwehr eines potenziellen Angriff Chinas",
+      "summary": "Taiwan führt ein großangelegtes Militärmanöver durch, um sich auf einen möglichen Angriff Chinas vorzubereiten. Im Rahmen der Übung wird auch das mobile Internet gedrosselt, um das Land auf schwere Krisen einzustellen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX bleibt auf Rekordkurs",
-      "summary": "Der DAX setzt seinen Höhenflug im Sog der Wall Street fort, wobei sich neue Rekorde abzeichnen. Besonders Tech-Aktien waren in New York gefragt, während im DAX die Berichtssaison der Unternehmen weiterläuft."
+      "headline": "Was sind die Folgen des niedrigen Wasserstands? «Für die Versorgungsknappheit ist der Rheinpegel schlimmer als die Strasse von Hormuz»",
+      "summary": "Der Rheinpegel ist auf ein Rekordtief gefallen, was Deutschlands Wirtschaft Rohstoffe entzieht und Preise steigen lässt. Experten sehen die Auswirkungen auf die Versorgungsknappheit als gravierender an als die Lage in der Straße von Hormus."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Schwache Konjunktur: Mittelstand steckt in der Kreditklemme",
-      "summary": "Mittelständische Betriebe kämpfen zunehmend mit der Kreditvergabe durch Banken, die aufgrund der schlechten Wirtschaftslage vorsichtiger agieren. Dies erschwert den Firmen dringend benötigte Investitionen zusätzlich."
+      "headline": "Einmal abhängig von China, immer abhängig von China? Das Beispiel Wolfram zeigt, wie gefährdet Europas Rohstoffversorgung ist",
+      "summary": "Europas Rohstoffversorgung ist durch die starke Abhängigkeit von China, wie am Beispiel Wolfram deutlich wird, gefährdet. Trotz eines EU-Gesetzes zur Unabhängigkeit fehlt die Kooperation mit der Industrie, die vor gravierenden Engpässen warnt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia zeigt schnelle Fortschritte in offener KI-Industrieallianz",
-      "summary": "Eine Woche nach ihrer Gründung hat die von Nvidia angeführte Open Secure AI Alliance, mit über 120 Mitgliedern, bereits erste Vorschläge zur Abwehr von KI-Agenten vorgelegt. Dies zeigt die hohe Geschwindigkeit und Entschlossenheit der Tech-Giganten im Bereich der KI-Sicherheit."
+      "headline": "Behörden: \"Sehr ernster Sicherheitsvorfall\" am Flughafen Leipzig/Halle",
+      "summary": "Am Flughafen Leipzig/Halle wurde eine mit Sprengstoff beladene Drohne entdeckt, deren Zünder inzwischen entfernt wurde. Sachsens Innenminister bezeichnet den Vorfall als \"sehr ernst\", während der Bundesinnenminister zur Lagebesprechung anreist."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Hacker erbeuten Bitcoins aus vermeintlich sicheren Wallets – Millionenverluste",
-      "summary": "Nutzer von Kryptowährungen verloren innert weniger Tage Millionenbeträge an Bitcoins, die aus angeblich sicheren Wallets gestohlen wurden. Laut Experten war ein simpler Programmierfehler die Ursache für diesen schwerwiegenden Sicherheitsvorfall."
+      "headline": "«Was der Firma passiert ist, war ein dummer Fehler»: Hacker schaffen es, Bitcoins aus vermeintlich sicheren Wallets zu erbeuten",
+      "summary": "Nutzer haben innerhalb weniger Tage Kryptowährungen im Millionenwert aus vermeintlich sicheren Wallets verloren. Ein Cybersecurity-Experte führt dies auf einen simplen Programmierfehler zurück, der von Hackern ausgenutzt wurde."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic unterzeichnet 10 Milliarden Dollar Deal mit AI-Cloud-Startup Volta",
-      "summary": "Anthropic setzt seine Serie von Cloud-Partnerschaften fort und schließt Berichten zufolge einen 10 Milliarden Dollar schweren Deal mit dem AI-Cloud-Startup Volta ab. Dies unterstreicht die massiven Investitionen und die rasante Entwicklung im Bereich der Künstlichen Intelligenz."
+      "headline": "Anthropic is hiring an AI chip design team",
+      "summary": "Das führende KI-Startup Anthropic plant den Aufbau eines Teams zur Entwicklung eigener KI-Chips. Ziel ist es, Hardware und Modelle gemeinsam zu optimieren, um die Effizienz und Geschwindigkeit der Technologie zu steigern."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Lucid plant Turnaround mit 1,4 Mrd. Dollar Einsparungen und Robotaxis",
-      "summary": "Der neue CEO von Lucid Motors skizziert einen Sanierungsplan, der auf 1,4 Milliarden Dollar Kosteneinsparungen und die Entwicklung von Robotaxis setzt. Weitere Kernpunkte sind der erfolgreiche Launch eines Midsize-EV und der Abschluss einer Fabrik in Saudi-Arabien."
+      "headline": "Hark previews its browser use agent for completing tasks",
+      "summary": "Hark hat eine Vorschau auf seinen neuen Browser-Agenten präsentiert, der komplexe Aufgaben selbstständig erledigen soll. Das Unternehmen behauptet, seine Lösung sei schneller und kostengünstiger als bestehende Konkurrenzprodukte."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang entschlüsselt: SaaS, B2B, ARR, Burn Rate & Churn",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Im Startup- und Tech-Umfeld gibt es spezifische Abkürzungen und Begriffe, die das Geschäftsmodell, die Kundenbeziehungen und die finanzielle Gesundheit beschreiben. Das Verständnis dieser Begriffe ist essenziell für die Analyse von Jungunternehmen.",
-    "details": "SaaS (Software as a Service) beschreibt ein abonnementbasiertes Softwaremodell, das wiederkehrende Einnahmen generiert. B2B (Business-to-Business) kennzeichnet Geschäftsbeziehungen zwischen Unternehmen. ARR (Annual Recurring Revenue) ist der jährliche wiederkehrende Umsatz aus Abonnements, ein Schlüsselindikator für Skalierbarkeit. Die Burn Rate misst, wie schnell ein Startup seine liquiden Mittel vor der Profitabilität verbraucht, oft monatlich angegeben. Die Churn Rate ist die Abwanderungsrate von Kunden oder Einnahmen, die das Wachstum eines SaaS-Unternehmens stark beeinträchtigen kann.",
-    "takeaway": "Diese Begriffe sind das A und O, um im Startup- und VC-Umfeld schnell die Geschäftslogik, das Wachstumspotenzial und die Risiken eines Unternehmens zu erfassen. Sie bilden die Grundlage für jede fundierte Bewertung und Investitionsentscheidung in diesem Sektor."
+    "topic": "Der \"Short Squeeze\": Wenn Bären gejagt werden",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein plötzlicher, starker Kursanstieg einer Aktie, der Leerverkäufer (sogenannte \"Bären\") dazu zwingt, ihre Positionen mit Verlust zu schließen.",
+    "details": "Leerverkäufer leihen sich Aktien aus, verkaufen diese in der Erwartung fallender Kurse und wollen sie später günstiger zurückkaufen, um sie dem Verleiher zurückzugeben. Wenn der Kurs jedoch unerwartet stark steigt, geraten diese Leerverkäufer unter Druck, da ihre potenziellen Verluste unbegrenzt sein können. Um weitere Verluste zu vermeiden und Margin Calls zu erfüllen, müssen sie die Aktien, die sie leerverkauft haben, zurückkaufen (\"covern\"). Dieser erzwungene Rückkauf erhöht die Nachfrage nach der Aktie zusätzlich und treibt den Preis weiter in die Höhe, was eine Kaskade von Rückkäufen auslösen kann – den Short Squeeze.",
+    "takeaway": "Ein Short Squeeze zeigt, wie die Angst vor unbegrenzten Verlusten bei Leerverkäufern zu einem extrem schnellen und starken Kursanstieg führen kann. Er verdeutlicht die Risiken des Leerverkaufs und die Dynamik von Marktpsychologie und technischem Handlungsdruck."
   }
 }
