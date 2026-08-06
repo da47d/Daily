@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran und Oman einigen sich auf neue Route durch Straße von Hormus",
-      "summary": "Iran und Oman haben sich auf eine neue Route durch die strategisch wichtige Straße von Hormus geeinigt. Diese Vereinbarung könnte Iran deutlich mehr Kontrolle über die Wasserstraße geben, ohne Beteiligung der USA."
+      "headline": "Rufe nach einer Bundespräsidentin werden lauter",
+      "summary": "Union und SPD diskutieren über die Nachfolge von Bundespräsident Steinmeier im Herbst. Die SPD favorisiert erstmals eine Frau, während die CDU noch unentschieden ist und auch einen männlichen Kandidaten in Betracht zieht."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Manöver: Taiwan übt Abwehr eines potenziellen Angriff Chinas",
-      "summary": "Taiwan führt ein großangelegtes Militärmanöver durch, um sich auf einen möglichen Angriff Chinas vorzubereiten. Im Rahmen der Übung wird auch das mobile Internet gedrosselt, um das Land auf schwere Krisen einzustellen."
+      "headline": "Handelsstreit: Trump-Regierung will Zölle von 15 Prozent auf Produkte aus Polysilizium erheben",
+      "summary": "Die Trump-Regierung plant, trotz einer früheren Gerichtsentscheidung, neue Zölle von 15 Prozent auf Polysilizium-Produkte zu erheben. Dies könnte globale Handelsbeziehungen und Märkte weiter destabilisieren."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
       "headline": "Was sind die Folgen des niedrigen Wasserstands? «Für die Versorgungsknappheit ist der Rheinpegel schlimmer als die Strasse von Hormuz»",
-      "summary": "Der Rheinpegel ist auf ein Rekordtief gefallen, was Deutschlands Wirtschaft Rohstoffe entzieht und Preise steigen lässt. Experten sehen die Auswirkungen auf die Versorgungsknappheit als gravierender an als die Lage in der Straße von Hormus."
+      "summary": "Der Rheinpegel ist auf ein Rekordtief gefallen, was Deutschlands Wirtschaft durch fehlende Rohstoffe und steigende Preise stark beeinträchtigt. Experten warnen, dass dies schwerwiegendere Folgen für die Versorgungsknappheit haben könnte als globale Handelsrouten-Störungen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Einmal abhängig von China, immer abhängig von China? Das Beispiel Wolfram zeigt, wie gefährdet Europas Rohstoffversorgung ist",
-      "summary": "Europas Rohstoffversorgung ist durch die starke Abhängigkeit von China, wie am Beispiel Wolfram deutlich wird, gefährdet. Trotz eines EU-Gesetzes zur Unabhängigkeit fehlt die Kooperation mit der Industrie, die vor gravierenden Engpässen warnt."
+      "headline": "Halbjahresbilanz: Commerzbank macht Gewinnsprung",
+      "summary": "Die Commerzbank hat im ersten Halbjahr ein Rekordergebnis erzielt und blickt zuversichtlich auf den Übernahmeversuch der UniCredit. Neue Gespräche zu diesem Thema stehen bevor."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Behörden: \"Sehr ernster Sicherheitsvorfall\" am Flughafen Leipzig/Halle",
-      "summary": "Am Flughafen Leipzig/Halle wurde eine mit Sprengstoff beladene Drohne entdeckt, deren Zünder inzwischen entfernt wurde. Sachsens Innenminister bezeichnet den Vorfall als \"sehr ernst\", während der Bundesinnenminister zur Lagebesprechung anreist."
+      "headline": "INTERVIEW - Der Nobelpreisträger Oliver Hart will das Finanzwesen demokratisieren und sagt: «Aktionäre sollen die Macht erhalten, das Management zu disziplinieren»",
+      "summary": "Nobelpreisträger Oliver Hart fordert eine Demokratisierung des Finanzwesens und will Aktionären mehr Macht zur Disziplinierung des Managements geben. Seine Ideen könnten die Grundregeln des Kapitalismus verändern."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "«Was der Firma passiert ist, war ein dummer Fehler»: Hacker schaffen es, Bitcoins aus vermeintlich sicheren Wallets zu erbeuten",
-      "summary": "Nutzer haben innerhalb weniger Tage Kryptowährungen im Millionenwert aus vermeintlich sicheren Wallets verloren. Ein Cybersecurity-Experte führt dies auf einen simplen Programmierfehler zurück, der von Hackern ausgenutzt wurde."
+      "headline": "Elon Musks SpaceX hat seinen Umsatz fast verdoppelt – doch die Anleger reagieren enttäuscht auf die ersten Quartalszahlen",
+      "summary": "Elon Musks SpaceX verdoppelte seinen Umsatz, doch Anleger reagierten enttäuscht auf die ersten Quartalszahlen nach dem Börsengang. Hohe Investitionen in neue KI-Rechenleistung sorgten dabei für Aufsehen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic is hiring an AI chip design team",
-      "summary": "Das führende KI-Startup Anthropic plant den Aufbau eines Teams zur Entwicklung eigener KI-Chips. Ziel ist es, Hardware und Modelle gemeinsam zu optimieren, um die Effizienz und Geschwindigkeit der Technologie zu steigern."
+      "headline": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "summary": "Moove hat 250 Millionen US-Dollar eingesammelt, um sein Geschäft im Flottenmanagement autonomer Fahrzeuge auszubauen. Das Unternehmen plant, künftig nicht nur Waymo-Robotaxis zu managen, sondern auch selbst zu besitzen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Hark previews its browser use agent for completing tasks",
-      "summary": "Hark hat eine Vorschau auf seinen neuen Browser-Agenten präsentiert, der komplexe Aufgaben selbstständig erledigen soll. Das Unternehmen behauptet, seine Lösung sei schneller und kostengünstiger als bestehende Konkurrenzprodukte."
+      "headline": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "summary": "Jeff Dean und weitere führende KI-Forscher verlassen Google, um ein eigenes Startup zu gründen. Ihr Ziel ist es, den Prozess der wissenschaftlichen Entdeckung mithilfe von KI voranzutreiben."
     }
   ],
   "learning": {
-    "topic": "Der \"Short Squeeze\": Wenn Bären gejagt werden",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein plötzlicher, starker Kursanstieg einer Aktie, der Leerverkäufer (sogenannte \"Bären\") dazu zwingt, ihre Positionen mit Verlust zu schließen.",
-    "details": "Leerverkäufer leihen sich Aktien aus, verkaufen diese in der Erwartung fallender Kurse und wollen sie später günstiger zurückkaufen, um sie dem Verleiher zurückzugeben. Wenn der Kurs jedoch unerwartet stark steigt, geraten diese Leerverkäufer unter Druck, da ihre potenziellen Verluste unbegrenzt sein können. Um weitere Verluste zu vermeiden und Margin Calls zu erfüllen, müssen sie die Aktien, die sie leerverkauft haben, zurückkaufen (\"covern\"). Dieser erzwungene Rückkauf erhöht die Nachfrage nach der Aktie zusätzlich und treibt den Preis weiter in die Höhe, was eine Kaskade von Rückkäufen auslösen kann – den Short Squeeze.",
-    "takeaway": "Ein Short Squeeze zeigt, wie die Angst vor unbegrenzten Verlusten bei Leerverkäufern zu einem extrem schnellen und starken Kursanstieg führen kann. Er verdeutlicht die Risiken des Leerverkaufs und die Dynamik von Marktpsychologie und technischem Handlungsdruck."
+    "topic": "Vesting für Gründer: Langfristige Bindung an das Startup",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Vesting ist eine vertragliche Vereinbarung, die sicherstellt, dass Gründer oder Mitarbeiter ihre Anteile an einem Unternehmen erst über einen bestimmten Zeitraum hinweg vollständig erwerben. Es dient als Mechanismus zur Bindung und Leistungsanreiz.",
+    "details": "Typischerweise wird Vesting über 3-5 Jahre mit einem 'Cliff' von einem Jahr vereinbart. Das bedeutet, dass die ersten Anteile erst nach dem ersten Jahr der Beschäftigung (Cliff) erworben werden und danach monatlich oder quartalsweise sukzessive 'vesten'. Verlässt ein Gründer das Unternehmen vor dem Cliff, verliert er alle nicht-gevesteten Anteile; danach nur noch die verbleibenden unveröffentlichten Anteile. Dies schützt Investoren und das Unternehmen davor, dass Gründer frühzeitig mit einem Großteil ihrer Anteile aussteigen, ohne langfristig beizutragen.",
+    "takeaway": "Vesting ist entscheidend für Investoren, um das Engagement von Gründern langfristig zu sichern und das Risiko bei einem frühen Ausstieg zu minimieren. Es ist ein Standardinstrument in der Startup-Welt, um Interessengleichheit zu schaffen."
   }
 }
