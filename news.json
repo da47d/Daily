@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Rufe nach einer Bundespräsidentin werden lauter",
-      "summary": "Union und SPD diskutieren über die Nachfolge von Bundespräsident Steinmeier im Herbst. Die SPD favorisiert erstmals eine Frau, während die CDU noch unentschieden ist und auch einen männlichen Kandidaten in Betracht zieht."
+      "headline": "Handelsstreit: Trump-Regierung will Zölle von 15 Prozent auf Produkte aus Polysilizium erheben",
+      "summary": "Trotz eines Supreme Court-Urteils, das Trumps frühere Zölle für unrechtmäßig erklärte, will die Trump-Regierung erneut Zölle von 15 Prozent auf Produkte aus Polysilizium erheben. Diese Maßnahme verursacht weiterhin globale Turbulenzen im Handelsstreit."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit: Trump-Regierung will Zölle von 15 Prozent auf Produkte aus Polysilizium erheben",
-      "summary": "Die Trump-Regierung plant, trotz einer früheren Gerichtsentscheidung, neue Zölle von 15 Prozent auf Polysilizium-Produkte zu erheben. Dies könnte globale Handelsbeziehungen und Märkte weiter destabilisieren."
+      "headline": "Kolumbiens neuer Präsident: Zurück zur harten Linie gegen Banden",
+      "summary": "Kolumbiens neuer Präsident de la Espriella tritt sein Amt an und kündigt eine rigorose Bekämpfung von Drogenhandel und Kokaanbau an. Diese harte Linie weckt bei vielen Kolumbianern düstere Erinnerungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Was sind die Folgen des niedrigen Wasserstands? «Für die Versorgungsknappheit ist der Rheinpegel schlimmer als die Strasse von Hormuz»",
-      "summary": "Der Rheinpegel ist auf ein Rekordtief gefallen, was Deutschlands Wirtschaft durch fehlende Rohstoffe und steigende Preise stark beeinträchtigt. Experten warnen, dass dies schwerwiegendere Folgen für die Versorgungsknappheit haben könnte als globale Handelsrouten-Störungen."
+      "headline": "Marktbericht: Anleger vor US-Jobdaten zurückhaltend",
+      "summary": "Anleger zeigen sich vor der Veröffentlichung wichtiger US-Arbeitsmarktdaten zurückhaltend, was zu schwachen Vorgaben aus den USA und Japan führt. Auch der DAX wird voraussichtlich nur geringe Fortschritte machen, da Investoren Risiken meiden."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Halbjahresbilanz: Commerzbank macht Gewinnsprung",
-      "summary": "Die Commerzbank hat im ersten Halbjahr ein Rekordergebnis erzielt und blickt zuversichtlich auf den Übernahmeversuch der UniCredit. Neue Gespräche zu diesem Thema stehen bevor."
+      "headline": "Rekordjagd an den Börsen: Der Boom bei den Aktien ist nicht zu bremsen und hat sich jüngst noch beschleunigt",
+      "summary": "Die Aktienmärkte erleben eine unaufhaltsame Rekordjagd, angetrieben durch starkes Gewinnwachstum, und der Boom hat sich jüngst noch beschleunigt. Banken wie die UBS erwarten weitere Kursgewinne, wobei der Aufschwung zunehmend auch europäische Aktien erfasst."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "INTERVIEW - Der Nobelpreisträger Oliver Hart will das Finanzwesen demokratisieren und sagt: «Aktionäre sollen die Macht erhalten, das Management zu disziplinieren»",
-      "summary": "Nobelpreisträger Oliver Hart fordert eine Demokratisierung des Finanzwesens und will Aktionären mehr Macht zur Disziplinierung des Managements geben. Seine Ideen könnten die Grundregeln des Kapitalismus verändern."
+      "headline": "ChatGPT bringt unbegrenzte Text-Chats für kostenlose Nutzer",
+      "summary": "OpenAI ermöglicht jetzt kostenlosen ChatGPT-Nutzern unbegrenzte Text-Chats und führt einen neuen 'Think Button' für komplexe Anfragen ein. Diese Erweiterung verbessert die Zugänglichkeit und Funktionalität des KI-Tools erheblich."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Elon Musks SpaceX hat seinen Umsatz fast verdoppelt – doch die Anleger reagieren enttäuscht auf die ersten Quartalszahlen",
-      "summary": "Elon Musks SpaceX verdoppelte seinen Umsatz, doch Anleger reagierten enttäuscht auf die ersten Quartalszahlen nach dem Börsengang. Hohe Investitionen in neue KI-Rechenleistung sorgten dabei für Aufsehen."
+      "headline": "Google warnt: Hacker rufen Mitarbeiter von Finanzfirmen an, um Daten zu stehlen und zu erpressen",
+      "summary": "Google-Sicherheitsforscher warnen vor Hackergruppen, die Mitarbeiter von US-Finanzunternehmen anrufen, um sensible Daten zu stehlen und Opfer zu erpressen. Dies stellt eine ernsthafte Bedrohung für die Sicherheit im Finanzsektor dar."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Moove raises $250M to become the backbone of the robotaxi industry",
-      "summary": "Moove hat 250 Millionen US-Dollar eingesammelt, um sein Geschäft im Flottenmanagement autonomer Fahrzeuge auszubauen. Das Unternehmen plant, künftig nicht nur Waymo-Robotaxis zu managen, sondern auch selbst zu besitzen."
+      "headline": "Defense-Tech-Unternehmen Hadrian sammelt 1,37 Mrd. Dollar bei 8 Mrd. Dollar Bewertung ein",
+      "summary": "Das Verteidigungstechnologie-Unternehmen Hadrian hat 1,37 Milliarden Dollar bei einer Bewertung von 8 Milliarden Dollar aufgenommen. Hadrian baut automatisierte Fabriken zur Massenproduktion von Teilen für Verteidigungsfahrzeuge wie U-Boote."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "summary": "Jeff Dean und weitere führende KI-Forscher verlassen Google, um ein eigenes Startup zu gründen. Ihr Ziel ist es, den Prozess der wissenschaftlichen Entdeckung mithilfe von KI voranzutreiben."
+      "headline": "Naïve sichert sich 28,5 Mio. Dollar für die Automatisierung von Unternehmensprozessen",
+      "summary": "Das Startup Naïve hat 28,5 Millionen Dollar aufgebracht, um die grundlegende Arbeit beim Aufbau und Betrieb von Unternehmen zu automatisieren. Ihr Infrastrukturansatz zielt darauf ab, einen Großteil dieser Prozesse zu vereinfachen."
     }
   ],
   "learning": {
-    "topic": "Vesting für Gründer: Langfristige Bindung an das Startup",
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Anteilsverteilung",
     "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting ist eine vertragliche Vereinbarung, die sicherstellt, dass Gründer oder Mitarbeiter ihre Anteile an einem Unternehmen erst über einen bestimmten Zeitraum hinweg vollständig erwerben. Es dient als Mechanismus zur Bindung und Leistungsanreiz.",
-    "details": "Typischerweise wird Vesting über 3-5 Jahre mit einem 'Cliff' von einem Jahr vereinbart. Das bedeutet, dass die ersten Anteile erst nach dem ersten Jahr der Beschäftigung (Cliff) erworben werden und danach monatlich oder quartalsweise sukzessive 'vesten'. Verlässt ein Gründer das Unternehmen vor dem Cliff, verliert er alle nicht-gevesteten Anteile; danach nur noch die verbleibenden unveröffentlichten Anteile. Dies schützt Investoren und das Unternehmen davor, dass Gründer frühzeitig mit einem Großteil ihrer Anteile aussteigen, ohne langfristig beizutragen.",
-    "takeaway": "Vesting ist entscheidend für Investoren, um das Engagement von Gründern langfristig zu sichern und das Risiko bei einem frühen Ausstieg zu minimieren. Es ist ein Standardinstrument in der Startup-Welt, um Interessengleichheit zu schaffen."
+    "concept": "Diese Begriffe definieren, wie ein Unternehmen vor und nach einer Finanzierungsrunde bewertet wird und sind entscheidend für die Berechnung der Anteile neuer Investoren. Pre-Money ist der Wert vor der Investition, Post-Money der Wert danach.",
+    "details": "Die Pre-Money-Bewertung ist der Wert eines Startups vor dem Eingang einer neuen Investition. Sie spiegelt wider, wie viel das Unternehmen zu diesem Zeitpunkt wert ist, basierend auf Faktoren wie Wachstumspotenzial, Technologie und Team. Wenn ein Investor beispielsweise 5 Millionen Euro in ein Startup mit einer Pre-Money-Bewertung von 20 Millionen Euro investiert, beträgt die Post-Money-Bewertung 25 Millionen Euro (Pre-Money plus Investment). Diese Post-Money-Bewertung wird dann verwendet, um den prozentualen Anteil zu berechnen, den der Investor für sein Kapital erhält. Versteht man diesen Mechanismus, ist klar, wie sich die Eigentümerstruktur nach jeder Finanzierungsrunde verändert und der Dilution-Effekt der Altgesellschafter entsteht.",
+    "takeaway": "Die Unterscheidung zwischen Pre-Money und Post-Money ist fundamental, um den Wertzuwachs und die Anteilsverteilung nach einer Finanzierungsrunde korrekt zu verstehen und zu verhandeln. Es ist der Schlüssel zur Transparenz in der Cap Table Entwicklung."
   }
 }
