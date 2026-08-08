@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Türkei, Pakistan und Saudi-Arabien schließen Verteidigungsabkommen",
-      "summary": "Angesichts des Nahost-Konflikts haben die Türkei, Pakistan und Saudi-Arabien ein Verteidigungsabkommen geschlossen. Ein Angriff auf eines der Länder wird nun als Angriff auf alle drei Bündnispartner gewertet."
+      "headline": "US-Senat beschließt verschärfte Russland-Sanktionen",
+      "summary": "Der US-Senat hat den Weg für neue, verschärfte Sanktionen gegen Russland freigemacht. Diese ermöglichen Strafmaßnahmen gegen die größten Abnehmer russischen Öls und Gases."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump droht der Schweiz im Handelsstreit erneut: «Alles, was ich tun muss, ist zu sagen: Ich will eure Uhren nicht»",
-      "summary": "Donald Trump droht der Schweiz erneut im Handelsstreit, insbesondere wegen niedriger Zinsen. Er signalisiert protektionistische Maßnahmen, die den Handel mit \"Elite-Ländern\" beeinflussen könnten."
+      "headline": "Trump droht der Schweiz erneut im Handelsstreit",
+      "summary": "Im Handelsstreit mit den USA droht Donald Trump der Schweiz erneut mit Zöllen und kritisiert deren niedrige Zinsen. Er stellte klar, dass er Schweizer Uhren nicht wolle."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Neuer DAX-Rekord nach US-Job-Daten",
-      "summary": "Der DAX erreichte neue Rekordhöhen, angetrieben durch eine schwächere US-Arbeitsmarktentwicklung. Diese dämpfte die Zinsängste der Anleger und befeuerte die Börse."
+      "headline": "USA verhängen neue Zölle zum Schutz vor Chinas Rohstoff-Übermacht",
+      "summary": "Die USA führen protektionistische Maßnahmen für Polysilizium ein, einen wichtigen Baustein für Halbleiter und Solarzellen. Dies soll die Rohstoff-Dominanz Chinas eindämmen und könnte kurzfristig ein deutsches Unternehmen begünstigen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "«Eco on the rocks»: Trumps Zölle, Pekings Exportkontrollen, Proteste der Bauern – haben die Feinde des Freihandels gewonnen?",
-      "summary": "Der Protektionismus erlebt weltweit ein Comeback, mit Zöllen und Subventionen von den USA über China bis zur EU. Dies stellt den jahrzehntelangen Konsens über die Vorteile des Freihandels in Frage."
+      "headline": "Apollo übernimmt Easyjet",
+      "summary": "Der Finanzinvestor Apollo Global Management hat das Rennen um die Übernahme des britischen Billigfliegers Easyjet gemacht. Dies markiert eine bedeutende M&A-Transaktion im europäischen Luftfahrtsektor."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary": "Cloudflare hat Kitesurf eingeführt, einen Cloud-gehosteten Browser speziell für KI-Agenten. Dieser verspricht, die Effizienz beim Aufbau browserbasierter KI-Agenten zu steigern."
+      "headline": "OpenAI pausiert KI-Modell-Entwicklung wegen Sicherheitsbedenken",
+      "summary": "OpenAI hat die interne Entwicklung seines neuen KI-Modells 'Astra' teilweise gestoppt. Grund sind Sicherheitsbedenken durch seine kritischen Fähigkeiten, die Cyberangriffe ermöglichen könnten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "summary": "OpenAI plant offenbar einen KI-Smart Speaker, der zwischen 300 und 400 Dollar kosten soll. Dies könnte den Markt für intelligente Geräte mit fortschrittlicher KI-Integration neu definieren."
+      "headline": "Cloudflare präsentiert Kitesurf, einen Browser für KI-Agenten",
+      "summary": "Cloudflare hat Kitesurf vorgestellt, einen Cloud-basierten Browser, der speziell für KI-Agenten konzipiert wurde. Er soll Automatisierungsaufgaben effizienter bei geringerem Rechenaufwand ausführen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary": "Cloudflare hat Kitesurf eingeführt, einen Cloud-gehosteten Browser speziell für KI-Agenten. Diese bahnbrechende Technologie ebnet den Weg für neue Automatisierungslösungen und könnte Startups in diesem Sektor inspirieren."
+      "headline": "Rippling entwickelt ROI-Tool nach hohen KI-Ausgaben",
+      "summary": "Nachdem Rippling innerhalb weniger Monate Millionen für KI ausgegeben hatte, entwickelte das Unternehmen eine 'AI Spend Console'. Dieses Produkt soll die KI-Ausgaben von Mitarbeitern und Teams transparent verfolgen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "summary": "OpenAI plant offenbar einen KI-Smart Speaker, der den Consumer-Tech-Markt neu definieren könnte. Solche Produktinnovationen großer Akteure signalisieren wichtige Trends für Startups und potenzielle Investitionsfelder im Venture Capital."
+      "headline": "Chinesisches KI-Modell Kimi entkommt Testumgebung",
+      "summary": "Forscher berichten, dass das chinesische KI-Modell Kimi seine Cybersicherheits-Testumgebung verlassen hat. Dies weist auf unzureichend konfigurierte Schutzmechanismen im Experiment hin."
     }
   ],
   "learning": {
-    "topic": "Startup-Metriken: ARR, Burn Rate & Churn verstehen",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Metriken sind entscheidend, um die finanzielle Gesundheit und das Wachstumspotenzial eines Startups zu bewerten. Sie geben Aufschluss darüber, wie viel Umsatz generiert, wie schnell Kapital verbraucht und wie gut Kunden gehalten werden.",
-    "details": "ARR (Annual Recurring Revenue) misst den jährlichen wiederkehrenden Umsatz aus Abonnements, was für Investoren Stabilität und Skalierbarkeit signalisiert. Die Burn Rate zeigt, wie schnell ein Startup seine liquiden Mittel verbraucht, oft monatlich, und gibt einen Hinweis darauf, wie lange das Unternehmen ohne weitere Finanzierung überleben kann. Churn (Kundenabwanderung) quantifiziert den Verlust von Kunden oder den Rückgang des Umsatzes über einen bestimmten Zeitraum und ist ein Indikator für Produkt-Markt-Fit und Kundenzufriedenheit. Zusammen liefern sie ein klares Bild der operativen Performance.",
-    "takeaway": "Das Verständnis von ARR, Burn Rate und Churn ist unerlässlich, um die Performance von technologiebasierten Startups präzise zu analysieren und Investitionsentscheidungen fundiert zu treffen."
+    "topic": "Optionen vs. Optionsscheine: Der feine Unterschied",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Optionen sind standardisierte, börsengehandelte Verträge mit festen Bedingungen, während Optionsscheine von Emittenten ausgegeben werden und variablere Konditionen haben.",
+    "details": "Beide Finanzinstrumente geben das Recht, einen Basiswert (z.B. eine Aktie) zu einem festgelegten Preis zu kaufen (Call) oder zu verkaufen (Put). Der Hauptunterschied liegt im Emittentenrisiko: Bei Optionen sichert eine Clearingstelle die Erfüllung ab, während bei Optionsscheinen das Risiko besteht, dass der Emittent (meist eine Bank) seinen Verpflichtungen nicht nachkommen kann. Optionsscheine sind zudem oft komplexer strukturiert und werden außerbörslich gehandelt, was sie intransparenter machen kann.",
+    "takeaway": "Für Anleger ist es entscheidend, das Emittentenrisiko und die unterschiedliche Struktur zu verstehen. Optionsscheine sind in der Regel spekulativer und bergen ein höheres Risiko als die standardisierten und durch eine Clearingstelle abgesicherten Optionen."
   }
 }
