@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Orban-Kritiker Baka soll Ungarns neuer Präsident werden",
-      "summary": "Ungarn nominiert mit Baka einen prominenten Kritiker der abgewählten Orban-Regierung zum neuen Staatspräsidenten. Diese Entscheidung deutet auf eine mögliche politische Richtungsänderung des Landes hin."
+      "headline": "Netanjahu stellt sich erneut gegen Trumps Gaza-Plan",
+      "summary": "Israels Regierungschef Netanjahu weist entscheidende Punkte des von US-Präsident Trump als Durchbruch verkündeten Gaza-Friedensplans zurück. Dies stellt die Realisierbarkeit des Plans infrage und könnte die geopolitische Lage im Nahen Osten weiter komplizieren."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine und Serbien wollen stärker kooperieren - trotz Belgrads Kreml-Nähe",
-      "summary": "Trotz enger Beziehungen Serbiens zu Russland besuchte der ukrainische Präsident Selenskyj Belgrad für Gespräche über verstärkte Kooperation. Ein Freihandelsabkommen und Russlands Angriffskrieg standen dabei im Fokus."
+      "headline": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
+      "summary": "Russische Angriffe auf die Hafenstadt Odessa und andere Gebiete offenbaren erneut die Schwäche der ukrainischen Flugabwehr. Nach gegenseitigen Attacken werden auf beiden Seiten Tote gemeldet, was die Eskalation des Konflikts unterstreicht."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Was das Bankensterben für Kunden und Mittelstand heißt",
-      "summary": "Das Schliessen von Hausbanken führt zu längeren Wegen für Kunden und kann Investitionen für den Mittelstand erschweren. Größere Banken könnten jedoch neue Perspektiven und effizientere Lösungen bieten."
+      "headline": "Ständeräte wollen der UBS entgegenkommen. Dazu setzen sie auf umstrittene Anleihen",
+      "summary": "Die Wirtschaftskommission der kleinen Kammer berät über einen Vorschlag, der dem Bundesrat entgegenkommen und umstrittene Anleihen einbeziehen könnte. Dies betrifft die Regulierung und Stabilität einer der größten Schweizer Banken, der UBS."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Ständeräte wollen der UBS entgegenkommen. Dazu setzen sie auf umstrittene Anleihen",
-      "summary": "Die Schweizer Ständeräte planen, der UBS entgegenzukommen, indem sie auf umstrittene Anleihen setzen. Die Wirtschaftskommission berät über eine Abschwächung des Bundesratsvorschlags, was weitreichende Implikationen für den Finanzplatz haben könnte."
+      "headline": "Autoexperte Dudenhöffer: «Die deutschen Hersteller haben eine Zukunft. Aber sie liegt nicht in Deutschland»",
+      "summary": "Angesichts schrumpfender Absätze und wachsender chinesischer Konkurrenz verlagern deutsche Autohersteller wie VW und BMW ihre Produktion zunehmend ins Ausland. Dies wirft Fragen nach der Zukunftsfähigkeit des Automobilstandorts Deutschland auf und deutet auf strukturelle Veränderungen hin."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
       "headline": "Aschenbrenner-Kollaps: Die nächsten Opfer des KI-Hypes sind wir",
-      "summary": "Der spektakuläre Misserfolg des einst gefeierten KI-Wunderkinds Leopold Aschenbrenner sendet ein klares Warnsignal an den Markt. Die Börse scheint die potenziellen Risiken der aktuellen KI-Revolution zu ignorieren."
+      "summary": "Das Scheitern des einst gefeierten KI-Wunderkinds Leopold Aschenbrenner gilt als Warnsignal für die Risiken der KI-Revolution. Es zeigt, dass die Börse blind für die potenziellen Fallstricke des aktuellen Hypes sein könnte."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "summary": "Amazon plant in Texas ein Rechenzentrum mit einem eigenen Kraftwerk, das Berichten zufolge zur größten Quelle der Klimaverschmutzung in den USA werden könnte. Dieses Vorhaben löst erhebliche Debatten über Umweltverantwortung großer Tech-Konzerne aus."
+      "headline": "Chauffeur Google geht an den Start: Robotaxi-Firma Waymo gründet eine Schweizer Niederlassung",
+      "summary": "Das Google-Schwesterunternehmen Waymo hat sich im Schweizer Handelsregister eingetragen, was auf einen baldigen Start im autonomen Taxigeschäft hindeutet. Auf den Schweizer Strassen könnte sich somit ein Duell mit Uber um die Vorherrschaft abzeichnen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
       "headline": "OpenAI acquires presentation startup NextSlide",
-      "summary": "OpenAI hat das Präsentations-Startup NextSlide übernommen, dessen Teammitglieder nun an ChatGPT arbeiten. Diese Akquisition stärkt OpenAIs Fähigkeiten im Bereich KI-gestützter Produktivitätstools."
+      "summary": "OpenAI hat das Präsentations-Startup NextSlide übernommen, dessen Teammitglieder nun an ChatGPT arbeiten. Diese Akquisition unterstreicht OpenAIs Bestreben, seine KI-Anwendungen durch gezielte Zukäufe weiter auszubauen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI hat die Entwicklung seines Astra-Modells aufgrund von Sicherheitsbedenken verlangsamt, da es eine 'kritische Cybersicherheitsschwelle' erreicht hat. Das Modell zeigte die Fähigkeit, eigenständig Cyberangriffe gegen geschützte Systeme durchzuführen."
+      "headline": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+      "summary": "Ein Sicherheitsforscher hat einen Algorithmus entwickelt, der computergenerierte Muster erzeugt, um Menschen, Gesichter und Fahrzeuge vor Überwachungskameras zu verbergen. Diese bahnbrechende Technologie könnte neue Möglichkeiten im Bereich Datenschutz und Sicherheit eröffnen und ist potenziell interessant für Tech-Startups."
     }
   ],
   "learning": {
-    "topic": "M&A-Unterschiede: Strategic vs. Financial Buyer",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Verstehen Sie, wie verschiedene Käufertypen im M&A-Prozess unterschiedliche Ziele verfolgen und welche Auswirkungen das auf die Bewertung eines Unternehmens hat.",
-    "details": "Ein Strategic Buyer ist typischerweise ein Unternehmen aus der gleichen oder einer verwandten Branche, das durch den Kauf Synergien wie Marktanteile, Zugang zu Technologien oder Kosteneinsparungen anstrebt. Ein Financial Buyer, oft eine Private-Equity-Firma, kauft ein Unternehmen primär mit dem Ziel, dessen Wert durch operative Verbesserungen zu steigern und es dann nach einigen Jahren gewinnbringend zu verkaufen, ohne direkte operative Integration in ein bestehendes Geschäft.",
-    "takeaway": "Strategic Buyer sind oft bereit, höhere Preise zu zahlen, da sie Synergiewerte einkalkulieren, während Financial Buyer sich auf klare operative Hebel und eine rentable Exit-Strategie konzentrieren, um ihre Renditeziele zu erreichen."
+    "topic": "Vesting für Gründer: Langfristige Bindung & faire Anteilsverteilung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Vesting ist ein Mechanismus, der die Übertragung von Anteilen an Gründer oder Mitarbeiter an die Dauer ihrer Betriebszugehörigkeit knüpft. Es stellt sicher, dass Anteile \"verdient\" werden und nicht sofort in vollem Umfang ausgezahlt sind.",
+    "details": "Typischerweise sieht ein Vesting-Zeitraum vier Jahre vor, oft mit einem \"Cliff\" von einem Jahr. Das bedeutet, dass die ersten Anteile erst nach einem Jahr der Tätigkeit übertragen werden; scheidet man vorher aus, erhält man nichts. Danach werden die Anteile monatlich oder quartalsweise über den restlichen Zeitraum freigeschaltet. Vesting schützt Investoren und die verbleibenden Gründer, falls ein Mitgründer frühzeitig das Unternehmen verlässt, indem es die Möglichkeit bietet, die nicht gevesteten Anteile zurückzukaufen. Es fördert die langfristige Motivation und verhindert, dass ausscheidende Personen einen Großteil der Firmenanteile ohne weiteren Beitrag halten.",
+    "takeaway": "Vesting ist essenziell für die Fairness und Stabilität eines Startups, da es die Interessen von Gründern und Investoren über einen längeren Zeitraum miteinander verbindet. In Verhandlungen ist es entscheidend, die eigenen Vesting-Konditionen genau zu verstehen und zu verhandeln."
   }
 }
