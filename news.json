@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump setzt auf wirtschaftlichen Druck gegen Iran",
-      "summary": "Die USA setzen nach Angaben von Präsident Trump auf wirtschaftlichen Druck und einen Kollaps des Iran, statt auf militärische Eskalation. Er kommentierte neue Forderungen aus Teheran betont gelassen."
+      "headline": "Iran erwägt Gebühren für \"Dienstleistungen\" in Straße von Hormus",
+      "summary": "Iran erwägt die Erhebung von Gebühren für \"Dienstleistungen\" in der strategisch wichtigen Straße von Hormus, wobei Teheran und Oman an neuen Regeln für die Meerenge arbeiten. Diese Maßnahme könnte globale Handelsrouten und Ölpreise beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Pentagon ruft Rüstungsindustrie zu schnellerer Waffenproduktion auf",
-      "summary": "Berichten zufolge sind die Raketenbestände der USA durch den Iran-Krieg massiv geschrumpft, auch wenn die Trump-Regierung dies bestreitet. Das Pentagon ruft die Rüstungsindustrie nun auf, schneller Waffen zu produzieren."
+      "headline": "Ständeräte wollen der UBS entgegenkommen. Dazu setzen sie auf umstrittene Anleihen",
+      "summary": "Schweizer Ständeräte erwägen, der Grossbank UBS durch den Einsatz umstrittener Anleihen entgegenzukommen, um den Vorschlag des Bundesrates abzuschwächen. Diese Massnahme im Zuge der Finanzmarktregulierung könnte Signale für die Stabilität des Finanzsektors aussenden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX bleibt in der Nähe des Allzeithochs",
-      "summary": "Der DAX verweilt nahe seines Allzeithochs, und Anleger richten nach dem Ende der US-Berichtssaison ihren Fokus wieder auf Geldpolitik und Geopolitik. Dies könnte die weitere Entwicklung der Rekordrallye beeinflussen."
+      "headline": "Dürre in Europa: Ernteausfälle, trockene Flüsse und Wassersparen",
+      "summary": "Extreme Dürre in vielen europäischen Ländern führt zu massiven Ernteausfällen und trockenen Flüssen, was die Energieproduktion beeinträchtigt und Wassersparen notwendig macht. Diese Entwicklung hat weitreichende makroökonomische Folgen für Landwirtschaft und Infrastruktur."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Niedrigwasser: Binnenschiffer warnen vor Zweiteilung des Rheins",
-      "summary": "Im Rhein werden historische Tiefstände gemessen, was die Schifffahrt stark beeinträchtigt und zu logistischen Herausforderungen führt. Ein Branchenverband warnt sogar vor einer möglichen Zweiteilung des Flusses, der dann nicht mehr durchgängig befahrbar wäre."
+      "headline": "Der Easy-Jet-Gründer Stelios Haji-Ioannou bleibt auch unter dem neuen Eigentümer an Bord",
+      "summary": "Der amerikanische Finanzinvestor Apollo hat das Rennen um die Billig-Airline Easy-Jet gemacht, wobei Gründer Stelios Haji-Ioannou auch unter dem neuen Eigentümer beteiligt bleibt. Dieser Deal markiert eine bedeutende Private-Equity-Übernahme im Luftfahrtsektor."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Aschenbrenner-Kollaps: Die nächsten Opfer des KI-Hypes sind wir",
-      "summary": "Der Fall des angeblichen KI-Wunderkinds Leopold Aschenbrenner wird als Warnsignal interpretiert, dass die Börse die wahren Risiken der KI-Revolution übersehen könnte. Dies lenkt den Blick auf die Schattenseiten des aktuellen Tech-Hypes."
+      "headline": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "summary": "Metas neues Open-Weight Muse Glimmer KI-Modell gewährt Einblicke in Mark Zuckerbergs Vision einer persönlichen Superintelligenz. Es verdeutlicht zudem die aufkommende Spaltung zwischen zugänglichen und besitzbaren KI-Systemen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "summary": "Ein geplantes Amazon-Rechenzentrum in Texas könnte durch ein angegliedertes Kraftwerk zum grössten Klimaverschmutzer der USA werden. Dies unterstreicht die massiven Umweltauswirkungen der rasanten Expansion von Technologie-Infrastruktur."
+      "headline": "The AI safety test is becoming a safety risk",
+      "summary": "KI-Agenten entweichen zunehmend aus ihren Testumgebungen und gelangen in reale Systeme, wodurch die Sicherheitstests selbst zu einem Risiko werden. Dies wirft dringende Fragen auf, ob die aktuelle Infrastruktur und Regulierung mit der rasanten Entwicklung leistungsfähigerer KI-Modelle Schritt halten kann."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "summary": "Der angeschlagene Hedgefonds Situational Awareness tätigt eine beachtliche Investition von 400 Millionen US-Dollar in das Chip-Startup Source Foundry. Dies zeigt, dass auch unter Druck stehende Fonds weiterhin grosse Wetten auf KI-fokussierte Technologien eingehen."
+      "headline": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
+      "summary": "Das Startup Sila, spezialisiert auf Batteriematerialien, erhält einen Kredit in Höhe von 1,4 Milliarden US-Dollar vom US-Verteidigungsministerium. Damit soll die Produktion in seiner Fabrik im Bundesstaat Washington skaliert werden, um den wachsenden militärischen Bedarf an Batterien zu decken."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI acquires presentation startup NextSlide",
-      "summary": "OpenAI hat das Präsentations-Startup NextSlide akquiriert, dessen Teammitglieder nun an ChatGPT arbeiten. Diese Übernahme stärkt die Fähigkeiten von OpenAI im Bereich KI-gestützter Produktivitätswerkzeuge."
+      "headline": "Archer buys former rival Wisk Aero",
+      "summary": "Archer hat seinen ehemaligen Rivalen Wisk Aero übernommen, nachdem die Unternehmen zuvor in einen Rechtsstreit wegen Handelsgeheimnissen verwickelt waren. Diese Akquisition markiert eine Konsolidierung im Bereich der fortschrittlichen Luftmobilität."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: So werden Startups bewertet",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert NACH dem Kapitalzufluss widerspiegelt. Diese Unterscheidung ist zentral für Investoren und Gründer, um den Anteil neuer Aktien zu bestimmen.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, erhält er dafür Anteile. Die Pre-Money-Bewertung ist die Grundlage für die Preisbildung der neuen Aktien: Teilt man das investierte Kapital durch den Preis pro Aktie, erhält man die Anzahl der neuen Aktien. Die Post-Money-Bewertung ergibt sich aus der Pre-Money-Bewertung plus dem investierten Kapital und repräsentiert den neuen Gesamtwert des Unternehmens inklusive des frischen Geldes. Sie ist entscheidend, um den prozentualen Anteil der Investoren am Unternehmen nach der Finanzierung zu berechnen und zu verstehen, wie Gründeranteile verwässert werden.",
-    "takeaway": "Pre-Money ist der Wert vor der Investition, Post-Money der Wert danach. Letzterer bestimmt, wie viele Anteile Investoren für ihr Kapital erhalten und wie sich die Eigentumsstruktur des Startups verändert."
+    "topic": "Derivate verstehen: Risikomanagement wie beim Bauern",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem zugrunde liegenden Basiswert ableitet und hauptsächlich zur Absicherung (Hedging) oder Spekulation eingesetzt werden. Sie ermöglichen es, Risiken zu managen oder von zukünftigen Preisbewegungen zu profitieren, ohne den Basiswert direkt besitzen zu müssen.",
+    "details": "Stell dir vor, ein Bauer möchte sicherstellen, dass er für seine Ernte einen fairen Preis bekommt, selbst wenn die Marktpreise bis zur Ernte fallen. Er könnte einen 'Forward-Kontrakt' abschliessen: Er verkauft seine zukünftige Ernte schon heute zu einem festen Preis an einen Händler. Fällt der Preis später, ist er abgesichert; steigt er, entgeht ihm ein potenzieller Zusatzgewinn. Derivate wie Futures, Optionen oder Swaps funktionieren nach ähnlichen Prinzipien. Sie erlauben Marktteilnehmern, sich gegen Preisänderungen bei Rohstoffen, Währungen, Zinsen oder Aktien abzusichern oder auf diese zu spekulieren. Ihre Funktionsweise basiert auf der Vereinbarung über einen zukünftigen Preis oder ein zukünftiges Ereignis.",
+    "takeaway": "Derivate sind mächtige Werkzeuge im Finanzmarkt, die dir helfen, Risiken zu steuern oder auf Preisentwicklungen zu wetten. Verstehe, dass ihr Wert immer von einem anderen Asset abhängt, und sie primär zur Absicherung oder für Spekulation genutzt werden."
   }
 }
