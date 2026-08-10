@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Netanjahu stellt sich erneut gegen Trumps Gaza-Plan",
-      "summary": "Israels Regierungschef Netanjahu weist entscheidende Punkte des von US-Präsident Trump als Durchbruch verkündeten Gaza-Friedensplans zurück. Dies stellt die Realisierbarkeit des Plans infrage und könnte die geopolitische Lage im Nahen Osten weiter komplizieren."
+      "headline": "Trump setzt auf wirtschaftlichen Druck gegen Iran",
+      "summary": "Die USA setzen nach Angaben von Präsident Trump auf wirtschaftlichen Druck und einen Kollaps des Iran, statt auf militärische Eskalation. Er kommentierte neue Forderungen aus Teheran betont gelassen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
-      "summary": "Russische Angriffe auf die Hafenstadt Odessa und andere Gebiete offenbaren erneut die Schwäche der ukrainischen Flugabwehr. Nach gegenseitigen Attacken werden auf beiden Seiten Tote gemeldet, was die Eskalation des Konflikts unterstreicht."
+      "headline": "Pentagon ruft Rüstungsindustrie zu schnellerer Waffenproduktion auf",
+      "summary": "Berichten zufolge sind die Raketenbestände der USA durch den Iran-Krieg massiv geschrumpft, auch wenn die Trump-Regierung dies bestreitet. Das Pentagon ruft die Rüstungsindustrie nun auf, schneller Waffen zu produzieren."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Ständeräte wollen der UBS entgegenkommen. Dazu setzen sie auf umstrittene Anleihen",
-      "summary": "Die Wirtschaftskommission der kleinen Kammer berät über einen Vorschlag, der dem Bundesrat entgegenkommen und umstrittene Anleihen einbeziehen könnte. Dies betrifft die Regulierung und Stabilität einer der größten Schweizer Banken, der UBS."
+      "headline": "Marktbericht: DAX bleibt in der Nähe des Allzeithochs",
+      "summary": "Der DAX verweilt nahe seines Allzeithochs, und Anleger richten nach dem Ende der US-Berichtssaison ihren Fokus wieder auf Geldpolitik und Geopolitik. Dies könnte die weitere Entwicklung der Rekordrallye beeinflussen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Autoexperte Dudenhöffer: «Die deutschen Hersteller haben eine Zukunft. Aber sie liegt nicht in Deutschland»",
-      "summary": "Angesichts schrumpfender Absätze und wachsender chinesischer Konkurrenz verlagern deutsche Autohersteller wie VW und BMW ihre Produktion zunehmend ins Ausland. Dies wirft Fragen nach der Zukunftsfähigkeit des Automobilstandorts Deutschland auf und deutet auf strukturelle Veränderungen hin."
+      "headline": "Niedrigwasser: Binnenschiffer warnen vor Zweiteilung des Rheins",
+      "summary": "Im Rhein werden historische Tiefstände gemessen, was die Schifffahrt stark beeinträchtigt und zu logistischen Herausforderungen führt. Ein Branchenverband warnt sogar vor einer möglichen Zweiteilung des Flusses, der dann nicht mehr durchgängig befahrbar wäre."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
       "headline": "Aschenbrenner-Kollaps: Die nächsten Opfer des KI-Hypes sind wir",
-      "summary": "Das Scheitern des einst gefeierten KI-Wunderkinds Leopold Aschenbrenner gilt als Warnsignal für die Risiken der KI-Revolution. Es zeigt, dass die Börse blind für die potenziellen Fallstricke des aktuellen Hypes sein könnte."
+      "summary": "Der Fall des angeblichen KI-Wunderkinds Leopold Aschenbrenner wird als Warnsignal interpretiert, dass die Börse die wahren Risiken der KI-Revolution übersehen könnte. Dies lenkt den Blick auf die Schattenseiten des aktuellen Tech-Hypes."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Chauffeur Google geht an den Start: Robotaxi-Firma Waymo gründet eine Schweizer Niederlassung",
-      "summary": "Das Google-Schwesterunternehmen Waymo hat sich im Schweizer Handelsregister eingetragen, was auf einen baldigen Start im autonomen Taxigeschäft hindeutet. Auf den Schweizer Strassen könnte sich somit ein Duell mit Uber um die Vorherrschaft abzeichnen."
+      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "summary": "Ein geplantes Amazon-Rechenzentrum in Texas könnte durch ein angegliedertes Kraftwerk zum grössten Klimaverschmutzer der USA werden. Dies unterstreicht die massiven Umweltauswirkungen der rasanten Expansion von Technologie-Infrastruktur."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI acquires presentation startup NextSlide",
-      "summary": "OpenAI hat das Präsentations-Startup NextSlide übernommen, dessen Teammitglieder nun an ChatGPT arbeiten. Diese Akquisition unterstreicht OpenAIs Bestreben, seine KI-Anwendungen durch gezielte Zukäufe weiter auszubauen."
+      "headline": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary": "Der angeschlagene Hedgefonds Situational Awareness tätigt eine beachtliche Investition von 400 Millionen US-Dollar in das Chip-Startup Source Foundry. Dies zeigt, dass auch unter Druck stehende Fonds weiterhin grosse Wetten auf KI-fokussierte Technologien eingehen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
-      "summary": "Ein Sicherheitsforscher hat einen Algorithmus entwickelt, der computergenerierte Muster erzeugt, um Menschen, Gesichter und Fahrzeuge vor Überwachungskameras zu verbergen. Diese bahnbrechende Technologie könnte neue Möglichkeiten im Bereich Datenschutz und Sicherheit eröffnen und ist potenziell interessant für Tech-Startups."
+      "headline": "OpenAI acquires presentation startup NextSlide",
+      "summary": "OpenAI hat das Präsentations-Startup NextSlide akquiriert, dessen Teammitglieder nun an ChatGPT arbeiten. Diese Übernahme stärkt die Fähigkeiten von OpenAI im Bereich KI-gestützter Produktivitätswerkzeuge."
     }
   ],
   "learning": {
-    "topic": "Vesting für Gründer: Langfristige Bindung & faire Anteilsverteilung",
+    "topic": "Pre-Money vs. Post-Money Bewertung: So werden Startups bewertet",
     "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting ist ein Mechanismus, der die Übertragung von Anteilen an Gründer oder Mitarbeiter an die Dauer ihrer Betriebszugehörigkeit knüpft. Es stellt sicher, dass Anteile \"verdient\" werden und nicht sofort in vollem Umfang ausgezahlt sind.",
-    "details": "Typischerweise sieht ein Vesting-Zeitraum vier Jahre vor, oft mit einem \"Cliff\" von einem Jahr. Das bedeutet, dass die ersten Anteile erst nach einem Jahr der Tätigkeit übertragen werden; scheidet man vorher aus, erhält man nichts. Danach werden die Anteile monatlich oder quartalsweise über den restlichen Zeitraum freigeschaltet. Vesting schützt Investoren und die verbleibenden Gründer, falls ein Mitgründer frühzeitig das Unternehmen verlässt, indem es die Möglichkeit bietet, die nicht gevesteten Anteile zurückzukaufen. Es fördert die langfristige Motivation und verhindert, dass ausscheidende Personen einen Großteil der Firmenanteile ohne weiteren Beitrag halten.",
-    "takeaway": "Vesting ist essenziell für die Fairness und Stabilität eines Startups, da es die Interessen von Gründern und Investoren über einen längeren Zeitraum miteinander verbindet. In Verhandlungen ist es entscheidend, die eigenen Vesting-Konditionen genau zu verstehen und zu verhandeln."
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert NACH dem Kapitalzufluss widerspiegelt. Diese Unterscheidung ist zentral für Investoren und Gründer, um den Anteil neuer Aktien zu bestimmen.",
+    "details": "Wenn ein Investor Kapital in ein Startup einbringt, erhält er dafür Anteile. Die Pre-Money-Bewertung ist die Grundlage für die Preisbildung der neuen Aktien: Teilt man das investierte Kapital durch den Preis pro Aktie, erhält man die Anzahl der neuen Aktien. Die Post-Money-Bewertung ergibt sich aus der Pre-Money-Bewertung plus dem investierten Kapital und repräsentiert den neuen Gesamtwert des Unternehmens inklusive des frischen Geldes. Sie ist entscheidend, um den prozentualen Anteil der Investoren am Unternehmen nach der Finanzierung zu berechnen und zu verstehen, wie Gründeranteile verwässert werden.",
+    "takeaway": "Pre-Money ist der Wert vor der Investition, Post-Money der Wert danach. Letzterer bestimmt, wie viele Anteile Investoren für ihr Kapital erhalten und wie sich die Eigentumsstruktur des Startups verändert."
   }
 }
