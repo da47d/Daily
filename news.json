@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "DAX erreicht Rekordhöhen durch Iran-Hoffnungen",
-      "summary": "Hoffnungen auf eine Verständigung im Iran-Konflikt beflügelten den deutschen Aktienmarkt, wodurch der DAX ein neues Rekordhoch erreichte. Geopolitische Entwicklungen zeigen einmal mehr ihren direkten Einfluss auf globale Märkte."
+      "headline": "Gericht blockiert Trumps Briefwahl-Pläne landesweit",
+      "summary": "Eine US-Richterin hat landesweit Trumps Pläne für striktere Briefwahlregeln blockiert. Dies hat direkte Auswirkungen auf die anstehenden Abstimmungen zur Neubesetzung vieler Sitze im US-Parlament."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Deutschland sucht weltweit nach 'Patriot'-Nachschub für Ukraine",
-      "summary": "Trotz zugesagter Luftverteidigungshilfe für die Ukraine sind die entscheidenden 'Patriot'-Abfangraketen in Deutschland knapp. Die Bundesregierung bemüht sich weltweit um Nachschub, bislang jedoch mit begrenztem Erfolg."
+      "headline": "US-Militär beschießt Tanker im Golf von Oman",
+      "summary": "Das US-Militär hat einen Tanker im Golf von Oman beschossen, der eine amerikanische Blockade iranischer Häfen durchbrechen wollte. Die USA blockieren Schiffe, die iranische Häfen ansteuern oder verlassen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
-      "summary": "Als Reaktion auf niedrige Pegelstände und deren Einfluss auf Transport und Spritpreise lockern weitere Bundesländer, darunter Hessen, Hamburg und Schleswig-Holstein, das Lkw-Sonntagsfahrverbot. Dies adressiert Engpässe in der Lieferkette und wirtschaftliche Auswirkungen des Niedrigwassers."
+      "headline": "DAX verharrt vor US-Inflationsdaten nahe Rekordhoch",
+      "summary": "Der DAX zeigt sich kaum verändert, da Anleger gespannt auf die aktuellen Inflationsdaten aus den USA warten. Diese Daten sind entscheidend für die Erwartungen an zukünftige Zinsentscheidungen und die Marktstimmung."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "UBS-Kapitalfrage: Ständeräte ringen um 'Krisenanleihen'",
-      "summary": "Die Grossbank UBS wartet auf einen Kompromiss in ihrer Eigenkapitalfrage, doch die Rolle von AT1-Anleihen – sogenannten 'Krisenanleihen' – bereitet der Wirtschaftskommission des Ständerats weiterhin Kopfzerbrechen. Diese Debatte ist entscheidend für die Regulierung und Stabilität großer Finanzinstitute."
+      "headline": "UBS-Kapitalfrage: Ständeräte zögern bei «Krisenanleihen»",
+      "summary": "Die Grossbank UBS hofft auf einen Kompromiss bei der Eigenkapitalfrage, doch die Rolle von AT1-Anleihen ist im Ständerat umstritten. Diese sogenannten 'Krisenanleihen' geben den Wirtschaftskommissionen derzeit Kopfzerbrechen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Humanoide Roboter: Ansturm auf Unitree-Aktien treibt Zukunftsmarkt an",
-      "summary": "Der Wettlauf im Zukunftsmarkt humanoider Roboter heizt sich auf, wobei die Aktien des chinesischen Entwicklers Unitree auf gewaltige Nachfrage stoßen. Dies unterstreicht das enorme Interesse an der nächsten Welle der Technologierevolution."
+      "headline": "Anthropic führt unsichtbare Wasserzeichen für KI-Texte ein",
+      "summary": "Anthropic implementiert unsichtbare Wasserzeichen für Texte seines Chatbots Claude, um neuen EU-Vorgaben zu entsprechen. Künftig müssen KI-generierte Inhalte maschinenlesbar markiert werden."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Ätna-Ausbruch auf Sizilien legt Reiseverkehr lahm",
-      "summary": "Mitten in der Hauptreisezeit sorgt Europas aktivster Vulkan, der Ätna, für massive Störungen auf Sizilien, wodurch Tausende von Urlaubern festsitzen. Flüge in Catania sind stark eingeschränkt, was viele Touristen zu unfreiwilligen Verlängerungen zwingt."
+      "headline": "OpenAI bringt ChatGPT Desktop-App für Linux",
+      "summary": "OpenAI erweitert die Verfügbarkeit seiner ChatGPT Desktop-Anwendung und bietet sie nun auch für Linux-Betriebssysteme an. Dies ermöglicht Nutzern eine integrierte Nutzung des Chatbots auf ihren Desktops."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Scaleup Europe lanciert $5.7 Mrd. Fonds mit erster ICEYE-Investition",
-      "summary": "Der öffentliche-private Fonds Scaleup Europe, mit einem Zielvolumen von 5,7 Milliarden Dollar, hat seine erste Investition getätigt und unterstützt damit das finnische Satellitenunternehmen ICEYE. Dies markiert den Start eines neuen Schwergewichts im europäischen VC-Ökosystem."
+      "headline": "Yulu sichert $93 Millionen für E-Bike-Flotte in Indien",
+      "summary": "Das indische Unternehmen Yulu hat 93 Millionen Dollar eingesammelt, angetrieben vom Boom im Quick-Commerce-Sektor. Yulu plant, seine E-Bike-Flotte in den nächsten zwei Jahren auf 200.000 Fahrzeuge auszubauen und neue Logistikanwendungen zu erschließen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "River AI sichert sich $1.1 Mrd. in früher Finanzierungsrunde",
-      "summary": "River AI, ein erst zwei Monate altes Startup des xAI-Mitbegründers Igor Babuschkin, hat in einer von General Catalyst geführten Runde beeindruckende 1,1 Milliarden Dollar eingesammelt. Diese Mega-Finanzierung unterstreicht das enorme Vertrauen in seine Vision von persönlichen KI-Agenten."
+      "headline": "General Catalyst führt $1,1 Mrd. Finanzierung für River AI an",
+      "summary": "River AI, ein erst zwei Monate altes Startup des xAI-Mitgründers Igor Babuschkin, hat eine beeindruckende Finanzierungsrunde von 1,1 Milliarden Dollar unter Führung von General Catalyst erhalten. Das Unternehmen verfolgt eine faszinierende Vision für persönliche KI-Agenten."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Wert eines Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach der Investition widerspiegelt.",
-    "details": "Die Pre-Money-Bewertung (Pre-Money Valuation) beziffert den Unternehmenswert, bevor frisches Kapital von Investoren in das Startup fließt. Sobald die Investition getätigt ist, addiert sich das investierte Geld zur Pre-Money-Bewertung, um die Post-Money-Bewertung (Post-Money Valuation) zu ergeben. Diese Post-Money-Bewertung ist entscheidend, um den neuen prozentualen Anteil der Investoren am Unternehmen und die damit einhergehende Verwässerung der Anteile bestehender Aktionäre (wie Gründer) zu berechnen. Wenn ein Investor beispielsweise 1 Million Euro in ein Startup mit einer Pre-Money-Bewertung von 9 Millionen Euro investiert, beträgt die Post-Money-Bewertung 10 Millionen Euro, und der Investor erhält 10% der Anteile (1 Mio. / 10 Mio.).",
-    "takeaway": "Die Pre-Money-Bewertung ist der wichtigste Verhandlungspunkt für Gründer und Investoren bei jeder Finanzierungsrunde. Eine höhere Pre-Money-Bewertung bedeutet für die Gründer weniger Anteilsverwässerung und für die Investoren eine geringere Beteiligung für denselben Kapitalbetrag."
+    "topic": "Die Arbeitsweise von Hedgefonds",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Hedgefonds sind spezialisierte Investmentfonds für erfahrene Anleger, die durch flexible Strategien und den Einsatz von Leverage sowohl in steigenden als auch fallenden Märkten Rendite erzielen wollen. Ihr Ziel ist es, absolute Renditen zu erwirtschaften, unabhängig von der allgemeinen Marktentwicklung.",
+    "details": "Im Gegensatz zu traditionellen Fonds, die oft nur in bestimmte Anlageklassen investieren und Long-Positionen halten, nutzen Hedgefonds eine breite Palette an Instrumenten wie Leerverkäufe, Optionen, Futures und Derivate. Sie können stark gehebelt agieren, um Gewinne zu maximieren, was aber auch das Verlustrisiko erhöht. Ihre Strategien reichen von 'Long/Short Equity' über 'Global Macro' bis hin zu 'Event-Driven' und sind oft sehr komplex, um Marktanomalien auszunutzen. Zugang ist meist vermögenden Anlegern vorbehalten, oft mit hohen Mindesteinlagen und erfolgsabhängigen Gebühren (z.B. '2 und 20').",
+    "takeaway": "Hedgefonds sind für ihre aggressiven und diversifizierten Anlagestrategien bekannt, die darauf abzielen, in allen Marktlagen Renditen zu erzielen, bergen jedoch aufgrund des hohen Leverage und der Komplexität auch erhebliche Risiken."
   }
 }
