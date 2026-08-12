@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Gericht blockiert Trumps Briefwahl-Pläne landesweit",
-      "summary": "Eine US-Richterin hat landesweit Trumps Pläne für striktere Briefwahlregeln blockiert. Dies hat direkte Auswirkungen auf die anstehenden Abstimmungen zur Neubesetzung vieler Sitze im US-Parlament."
+      "headline": "Kriegsgefangene aus Afrika in der Ukraine: Russlands vergessene Kämpfer",
+      "summary": "Russland setzt im Ukraine-Krieg ausländische Kämpfer ein, die oft mit falschen Versprechungen gelockt werden. Geraten diese in Gefangenschaft, zeigt Russland keinerlei Interesse an ihrer Rückführung, was ihre Lage prekär macht."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Militär beschießt Tanker im Golf von Oman",
-      "summary": "Das US-Militär hat einen Tanker im Golf von Oman beschossen, der eine amerikanische Blockade iranischer Häfen durchbrechen wollte. Die USA blockieren Schiffe, die iranische Häfen ansteuern oder verlassen."
+      "headline": "Tote bei gegenseitigen Angriffen in der Ukraine und in Russland",
+      "summary": "Erneute Angriffe forderten in der Ukraine und Russland je zwei Menschenleben. Die Ukraine traf einen russischen Marinestützpunkt am Schwarzen Meer, während russische Attacken auch auf Saporischschja zielten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX verharrt vor US-Inflationsdaten nahe Rekordhoch",
-      "summary": "Der DAX zeigt sich kaum verändert, da Anleger gespannt auf die aktuellen Inflationsdaten aus den USA warten. Diese Daten sind entscheidend für die Erwartungen an zukünftige Zinsentscheidungen und die Marktstimmung."
+      "headline": "Mit der fallenden Inflation erhält das Fed ein weiteres Argument gegen die Erhöhung des Leitzinses",
+      "summary": "Die US-Jahresinflation liegt bei 3,4 Prozent, was der Fed ein Argument gegen eine weitere Leitzinserhöhung liefert. Dennoch bleibt innerhalb der Notenbank der Druck für eine Zinsanhebung hoch."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "UBS-Kapitalfrage: Ständeräte zögern bei «Krisenanleihen»",
-      "summary": "Die Grossbank UBS hofft auf einen Kompromiss bei der Eigenkapitalfrage, doch die Rolle von AT1-Anleihen ist im Ständerat umstritten. Diese sogenannten 'Krisenanleihen' geben den Wirtschaftskommissionen derzeit Kopfzerbrechen."
+      "headline": "500 Milliarden Dollar für KI-Infrastruktur: So funktioniert die neue Zusammenarbeit zwischen Nvidia und der Wall Street",
+      "summary": "Nvidia-Chef Jensen Huang plant eine 500 Milliarden Dollar schwere KI-Infrastruktur und sucht dafür Kapital bei Finanzhäusern wie Goldman Sachs. Angesichts der Risiken einer potenziellen KI-Blase sind die beteiligten Summen immens."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Anthropic führt unsichtbare Wasserzeichen für KI-Texte ein",
-      "summary": "Anthropic implementiert unsichtbare Wasserzeichen für Texte seines Chatbots Claude, um neuen EU-Vorgaben zu entsprechen. Künftig müssen KI-generierte Inhalte maschinenlesbar markiert werden."
+      "headline": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "summary": "Drei führende KI-Experten debattierten über die Sicherheit von KI, Regulierungsfragen und den freien Zugang zu Open-Source-Technologien. Dabei wurde auch der Wettbewerb zwischen den USA und China im KI-Bereich beleuchtet."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI bringt ChatGPT Desktop-App für Linux",
-      "summary": "OpenAI erweitert die Verfügbarkeit seiner ChatGPT Desktop-Anwendung und bietet sie nun auch für Linux-Betriebssysteme an. Dies ermöglicht Nutzern eine integrierte Nutzung des Chatbots auf ihren Desktops."
+      "headline": "Tesla wants to build a $10B solar factory in Texas",
+      "summary": "Tesla plant den Bau einer gigantischen Solaranlage im Wert von zehn Milliarden Dollar in Texas. Das Unternehmen ersucht den Bundesstaat jedoch um finanzielle Beteiligung, um die hohen Kosten zu decken."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Yulu sichert $93 Millionen für E-Bike-Flotte in Indien",
-      "summary": "Das indische Unternehmen Yulu hat 93 Millionen Dollar eingesammelt, angetrieben vom Boom im Quick-Commerce-Sektor. Yulu plant, seine E-Bike-Flotte in den nächsten zwei Jahren auf 200.000 Fahrzeuge auszubauen und neue Logistikanwendungen zu erschließen."
+      "headline": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "summary": "Thrive Holdings hat in einer Finanzierungsrunde 2 Milliarden Dollar bei einer Bewertung von 12 Milliarden Dollar eingesammelt. Das Unternehmen will mit dem Kapital künstliche Intelligenz für Unternehmenskunden zugänglich machen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "General Catalyst führt $1,1 Mrd. Finanzierung für River AI an",
-      "summary": "River AI, ein erst zwei Monate altes Startup des xAI-Mitgründers Igor Babuschkin, hat eine beeindruckende Finanzierungsrunde von 1,1 Milliarden Dollar unter Führung von General Catalyst erhalten. Das Unternehmen verfolgt eine faszinierende Vision für persönliche KI-Agenten."
+      "headline": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+      "summary": "Form Energy sicherte sich 750 Millionen Dollar, um die Produktion seiner 100-Stunden-Batterien für das Stromnetz auszubauen. Das Unternehmen zählt bereits Google und Crusoe zu seinen Kunden."
     }
   ],
   "learning": {
-    "topic": "Die Arbeitsweise von Hedgefonds",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Hedgefonds sind spezialisierte Investmentfonds für erfahrene Anleger, die durch flexible Strategien und den Einsatz von Leverage sowohl in steigenden als auch fallenden Märkten Rendite erzielen wollen. Ihr Ziel ist es, absolute Renditen zu erwirtschaften, unabhängig von der allgemeinen Marktentwicklung.",
-    "details": "Im Gegensatz zu traditionellen Fonds, die oft nur in bestimmte Anlageklassen investieren und Long-Positionen halten, nutzen Hedgefonds eine breite Palette an Instrumenten wie Leerverkäufe, Optionen, Futures und Derivate. Sie können stark gehebelt agieren, um Gewinne zu maximieren, was aber auch das Verlustrisiko erhöht. Ihre Strategien reichen von 'Long/Short Equity' über 'Global Macro' bis hin zu 'Event-Driven' und sind oft sehr komplex, um Marktanomalien auszunutzen. Zugang ist meist vermögenden Anlegern vorbehalten, oft mit hohen Mindesteinlagen und erfolgsabhängigen Gebühren (z.B. '2 und 20').",
-    "takeaway": "Hedgefonds sind für ihre aggressiven und diversifizierten Anlagestrategien bekannt, die darauf abzielen, in allen Marktlagen Renditen zu erzielen, bergen jedoch aufgrund des hohen Leverage und der Komplexität auch erhebliche Risiken."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money Bewertung ist der Unternehmenswert vor einer neuen Finanzierungsrunde, während die Post-Money Bewertung den Wert nach Erhalt des neuen Kapitals darstellt.",
+    "details": "Wenn ein Investor Kapital in ein Startup steckt, wird ein bestimmter Prozentsatz der Unternehmensanteile dafür verkauft. Die Pre-Money Bewertung hilft, diesen Anteil zu bestimmen: Sie ist der Wert, den Gründer und Bestandsinvestoren für ihre Anteile vor der Runde beanspruchen. Die Post-Money Bewertung ist dann die Pre-Money Bewertung plus das neu investierte Kapital. Sie repräsentiert den Gesamtwert des Unternehmens inklusive des frischen Geldes und bildet die Basis für die Berechnung des neuen Anteilsbesitzes aller Parteien.",
+    "takeaway": "Die Pre-Money Bewertung ist entscheidend für die Verhandlung des Kaufpreises der Anteile, während die Post-Money Bewertung den gesamten Unternehmenswert nach der Finanzierung widerspiegelt und die neue Kapitalstruktur definiert."
   }
 }
