@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kriegsgefangene aus Afrika in der Ukraine: Russlands vergessene Kämpfer",
-      "summary": "Russland setzt im Ukraine-Krieg ausländische Kämpfer ein, die oft mit falschen Versprechungen gelockt werden. Geraten diese in Gefangenschaft, zeigt Russland keinerlei Interesse an ihrer Rückführung, was ihre Lage prekär macht."
+      "headline": "Kritik aus Japan: Putin besucht umstrittene Kurilen-Insel",
+      "summary": "Russlands Präsident Putin besucht die von Japan beanspruchten Kurilen-Inseln und löst damit scharfen Protest in Tokio aus. Die Inselkette ist seit dem Ende des Zweiten Weltkriegs Gegenstand eines Territorialstreits zwischen beiden Ländern."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Tote bei gegenseitigen Angriffen in der Ukraine und in Russland",
-      "summary": "Erneute Angriffe forderten in der Ukraine und Russland je zwei Menschenleben. Die Ukraine traf einen russischen Marinestützpunkt am Schwarzen Meer, während russische Attacken auch auf Saporischschja zielten."
+      "headline": "Sambia vor der Wahl: Kupfer, Reformen und hohe Preise",
+      "summary": "Sambia wählt einen neuen Präsidenten und ein Parlament in einem rohstoffreichen Land, das als relativ stabil gilt. Obwohl Staatschef Hichilema Favorit ist, hoffen viele auf einen Wechsel, beeinflusst von hohen Preisen und Reformbedarf."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Mit der fallenden Inflation erhält das Fed ein weiteres Argument gegen die Erhöhung des Leitzinses",
-      "summary": "Die US-Jahresinflation liegt bei 3,4 Prozent, was der Fed ein Argument gegen eine weitere Leitzinserhöhung liefert. Dennoch bleibt innerhalb der Notenbank der Druck für eine Zinsanhebung hoch."
+      "headline": "Marktbericht: Anleger trauen sich zurück in den Markt",
+      "summary": "Der DAX nähert sich wieder seinem Rekordstand, angetrieben von zuversichtlichen US-Inflationsdaten und positiven Vorgaben aus Asien. Dies signalisiert eine verbesserte Stimmung unter Anlegern am globalen Markt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "500 Milliarden Dollar für KI-Infrastruktur: So funktioniert die neue Zusammenarbeit zwischen Nvidia und der Wall Street",
-      "summary": "Nvidia-Chef Jensen Huang plant eine 500 Milliarden Dollar schwere KI-Infrastruktur und sucht dafür Kapital bei Finanzhäusern wie Goldman Sachs. Angesichts der Risiken einer potenziellen KI-Blase sind die beteiligten Summen immens."
+      "headline": "Mit fallender Inflation erhält das Fed ein weiteres Argument gegen die Erhöhung des Leitzinses",
+      "summary": "Die US-Jahresinflation liegt bei 3,4 Prozent, was der Fed ein Argument gegen weitere Leitzinserhöhungen liefert. Trotzdem bleibt der Druck innerhalb der amerikanischen Notenbank für eine weitere Anhebung hoch."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "Drei führende KI-Experten debattierten über die Sicherheit von KI, Regulierungsfragen und den freien Zugang zu Open-Source-Technologien. Dabei wurde auch der Wettbewerb zwischen den USA und China im KI-Bereich beleuchtet."
+      "headline": "500 Milliarden Dollar für KI-Infrastruktur: So funktioniert die neue Zusammenarbeit zwischen Nvidia und der Wall Street",
+      "summary": "Nvidia-Chef Jensen Huang strebt eine 500 Milliarden Dollar schwere Kooperation mit Finanzhäusern wie Goldman Sachs an, um den KI-Ausbau zu finanzieren. Angesichts der potenziellen KI-Blase sind die Risiken für externe Investoren erheblich."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Tesla wants to build a $10B solar factory in Texas",
-      "summary": "Tesla plant den Bau einer gigantischen Solaranlage im Wert von zehn Milliarden Dollar in Texas. Das Unternehmen ersucht den Bundesstaat jedoch um finanzielle Beteiligung, um die hohen Kosten zu decken."
+      "headline": "Amazon will auf Twitch-Streamer-Inhalte trainieren, es sei denn, diese lehnen ab",
+      "summary": "Amazon plant, die Inhalte von Twitch-Streamern standardmäßig für KI-Trainings zu verwenden, sofern die Nutzer nicht aktiv widersprechen. Diese Opt-out-Strategie löst in der Community Kritik aus, da kaum jemand freiwillig zustimmen würde."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "Thrive Holdings hat in einer Finanzierungsrunde 2 Milliarden Dollar bei einer Bewertung von 12 Milliarden Dollar eingesammelt. Das Unternehmen will mit dem Kapital künstliche Intelligenz für Unternehmenskunden zugänglich machen."
+      "headline": "AI-Coding-Startup Cognition angeblich in Gesprächen für Finanzierung zu 40 Mrd. $ Bewertung",
+      "summary": "Das KI-Coding-Startup Cognition soll nur wenige Monate nach einer 1 Milliarde Dollar-Runde bei 26 Milliarden Dollar Bewertung eine weitere Mega-Finanzierung zu 40 Milliarden Dollar anstreben. Dies unterstreicht den enormen Wertzuwachs und das Interesse an führenden KI-Unternehmen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-      "summary": "Form Energy sicherte sich 750 Millionen Dollar, um die Produktion seiner 100-Stunden-Batterien für das Stromnetz auszubauen. Das Unternehmen zählt bereits Google und Crusoe zu seinen Kunden."
+      "headline": "OpenAI-gestütztes Thrive Holdings sammelt 2 Mrd. $ zur Einführung von KI in Unternehmen",
+      "summary": "Thrive Holdings, unterstützt von OpenAI, hat in einer neuen Finanzierungsrunde 2 Milliarden Dollar bei einer Bewertung von 12 Milliarden Dollar eingesammelt. Ziel ist es, künstliche Intelligenz verstärkt in die Unternehmensorganisationen zu bringen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money Bewertung ist der Unternehmenswert vor einer neuen Finanzierungsrunde, während die Post-Money Bewertung den Wert nach Erhalt des neuen Kapitals darstellt.",
-    "details": "Wenn ein Investor Kapital in ein Startup steckt, wird ein bestimmter Prozentsatz der Unternehmensanteile dafür verkauft. Die Pre-Money Bewertung hilft, diesen Anteil zu bestimmen: Sie ist der Wert, den Gründer und Bestandsinvestoren für ihre Anteile vor der Runde beanspruchen. Die Post-Money Bewertung ist dann die Pre-Money Bewertung plus das neu investierte Kapital. Sie repräsentiert den Gesamtwert des Unternehmens inklusive des frischen Geldes und bildet die Basis für die Berechnung des neuen Anteilsbesitzes aller Parteien.",
-    "takeaway": "Die Pre-Money Bewertung ist entscheidend für die Verhandlung des Kaufpreises der Anteile, während die Post-Money Bewertung den gesamten Unternehmenswert nach der Finanzierung widerspiegelt und die neue Kapitalstruktur definiert."
+    "topic": "Startup-Slang verstehen: Schlüsselbegriffe im Tech- und VC-Umfeld",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Dieser Überblick erklärt zentrale Begriffe und Abkürzungen aus der Startup- und Venture Capital-Welt, die essenziell für das Verständnis ihrer Geschäftsmodelle und finanziellen Kennzahlen sind.",
+    "details": "SaaS (Software as a Service) beschreibt ein Geschäftsmodell, bei dem Software als abonnementbasierter Dienst über das Internet bereitgestellt wird, im Gegensatz zum Lizenzkauf. B2B (Business-to-Business) kennzeichnet Unternehmen, die Produkte oder Dienstleistungen an andere Unternehmen verkaufen. ARR (Annual Recurring Revenue) ist der jährliche wiederkehrende Umsatz aus Abonnements und Serviceverträgen, ein kritischer Wert für die Bewertung von SaaS-Firmen. Die Burn Rate gibt an, wie schnell ein Startup seine liquiden Mittel verbraucht, bevor es Rentabilität erreicht. Die Churn Rate misst die Abwanderung von Kunden oder Abonnements über einen bestimmten Zeitraum, was direkten Einfluss auf das Wachstum und die Stabilität hat.",
+    "takeaway": "Das Verstehen dieser Begriffe ist entscheidend, um die Dynamik, Performance und potenzielle Bewertung von Startups und technologiegetriebenen Unternehmen zu analysieren und in Finanzdiskussionen kompetent mitreden zu können."
   }
 }
