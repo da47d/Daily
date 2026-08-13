@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kritik aus Japan: Putin besucht umstrittene Kurilen-Insel",
-      "summary": "Russlands Präsident Putin besucht die von Japan beanspruchten Kurilen-Inseln und löst damit scharfen Protest in Tokio aus. Die Inselkette ist seit dem Ende des Zweiten Weltkriegs Gegenstand eines Territorialstreits zwischen beiden Ländern."
+      "headline": "Raketenstartbasis: Deutschland sucht seinen Weg ins All",
+      "summary": "Die Bundesregierung prüft den Aufbau einer eigenen Startbasis für Trägerraketen der Bundeswehr. Dies soll die unabhängige Beförderung militärischer Satelliten ins All ermöglichen und hat langfristige geopolitische Implikationen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Sambia vor der Wahl: Kupfer, Reformen und hohe Preise",
-      "summary": "Sambia wählt einen neuen Präsidenten und ein Parlament in einem rohstoffreichen Land, das als relativ stabil gilt. Obwohl Staatschef Hichilema Favorit ist, hoffen viele auf einen Wechsel, beeinflusst von hohen Preisen und Reformbedarf."
+      "headline": "In a first, US will allow some private firms to carry out cyberattacks",
+      "summary": "Die USA erlauben privaten Firmen erstmals, offensive Cyberoperationen durchzuführen. Diese Abkehr von jahrzehntelanger Politik könnte weitreichende internationale Auswirkungen auf die Cybersicherheit haben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Anleger trauen sich zurück in den Markt",
-      "summary": "Der DAX nähert sich wieder seinem Rekordstand, angetrieben von zuversichtlichen US-Inflationsdaten und positiven Vorgaben aus Asien. Dies signalisiert eine verbesserte Stimmung unter Anlegern am globalen Markt."
+      "headline": "Mit der fallenden Inflation erhält das Fed ein weiteres Argument gegen die Erhöhung des Leitzinses",
+      "summary": "Die US-Jahresinflation liegt bei 3,4 Prozent, was den Druck auf die Fed zur Zinserhöhung mindert. Trotzdem bleibt innerhalb der Notenbank der Ruf nach einer Anhebung groß."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Mit fallender Inflation erhält das Fed ein weiteres Argument gegen die Erhöhung des Leitzinses",
-      "summary": "Die US-Jahresinflation liegt bei 3,4 Prozent, was der Fed ein Argument gegen weitere Leitzinserhöhungen liefert. Trotzdem bleibt der Druck innerhalb der amerikanischen Notenbank für eine weitere Anhebung hoch."
+      "headline": "Die Inflation in Deutschland ist zurück – und könnte bald ordentlich zulegen",
+      "summary": "Im Juli zogen die Energiepreise deutlich an, wodurch die Inflation in Deutschland zurückkehrt. Dies wird durch den Nahost-Krieg und die Trockenheit zusätzlich verstärkt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "500 Milliarden Dollar für KI-Infrastruktur: So funktioniert die neue Zusammenarbeit zwischen Nvidia und der Wall Street",
-      "summary": "Nvidia-Chef Jensen Huang strebt eine 500 Milliarden Dollar schwere Kooperation mit Finanzhäusern wie Goldman Sachs an, um den KI-Ausbau zu finanzieren. Angesichts der potenziellen KI-Blase sind die Risiken für externe Investoren erheblich."
+      "headline": "Keine Angst vor dem Robotaxi: Waymo-Autos seien viel sicherer unterwegs als menschliche Fahrer, sagt ein Experte",
+      "summary": "Laut einem Risikoforscher verursachen Waymo-Robotaxis 90 Prozent weniger Unfälle als menschliche Fahrer. Die Schwesterfirma von Google kommt nun in die Schweiz und verspricht sicherere autonome Fahrten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Amazon will auf Twitch-Streamer-Inhalte trainieren, es sei denn, diese lehnen ab",
-      "summary": "Amazon plant, die Inhalte von Twitch-Streamern standardmäßig für KI-Trainings zu verwenden, sofern die Nutzer nicht aktiv widersprechen. Diese Opt-out-Strategie löst in der Community Kritik aus, da kaum jemand freiwillig zustimmen würde."
+      "headline": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+      "summary": "X veröffentlicht den Quellcode seines 'For You'-Feeds und führt neue Transparenz-Tools ein. Nutzer können so nachvollziehen, wie das Ranking-System ihre Beiträge beeinflusst."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI-Coding-Startup Cognition angeblich in Gesprächen für Finanzierung zu 40 Mrd. $ Bewertung",
-      "summary": "Das KI-Coding-Startup Cognition soll nur wenige Monate nach einer 1 Milliarde Dollar-Runde bei 26 Milliarden Dollar Bewertung eine weitere Mega-Finanzierung zu 40 Milliarden Dollar anstreben. Dies unterstreicht den enormen Wertzuwachs und das Interesse an führenden KI-Unternehmen."
+      "headline": "500 Milliarden Dollar für KI-Infrastruktur: So funktioniert die neue Zusammenarbeit zwischen Nvidia und der Wall Street",
+      "summary": "Nvidia plant, 500 Milliarden Dollar für den KI-Ausbau über Finanzhäuser wie Goldman Sachs zu sammeln. Diese Kooperation soll die Finanzierung für massive KI-Infrastrukturprojekte sichern, birgt aber hohe Risiken einer KI-Blase."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI-gestütztes Thrive Holdings sammelt 2 Mrd. $ zur Einführung von KI in Unternehmen",
-      "summary": "Thrive Holdings, unterstützt von OpenAI, hat in einer neuen Finanzierungsrunde 2 Milliarden Dollar bei einer Bewertung von 12 Milliarden Dollar eingesammelt. Ziel ist es, künstliche Intelligenz verstärkt in die Unternehmensorganisationen zu bringen."
+      "headline": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "OpenAI hat Dali Rajic als neuen Chief Revenue Officer eingestellt. Diese Personalie ist Teil einer fortgesetzten Umstrukturierung an der Spitze des führenden KI-Unternehmens."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang verstehen: Schlüsselbegriffe im Tech- und VC-Umfeld",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Dieser Überblick erklärt zentrale Begriffe und Abkürzungen aus der Startup- und Venture Capital-Welt, die essenziell für das Verständnis ihrer Geschäftsmodelle und finanziellen Kennzahlen sind.",
-    "details": "SaaS (Software as a Service) beschreibt ein Geschäftsmodell, bei dem Software als abonnementbasierter Dienst über das Internet bereitgestellt wird, im Gegensatz zum Lizenzkauf. B2B (Business-to-Business) kennzeichnet Unternehmen, die Produkte oder Dienstleistungen an andere Unternehmen verkaufen. ARR (Annual Recurring Revenue) ist der jährliche wiederkehrende Umsatz aus Abonnements und Serviceverträgen, ein kritischer Wert für die Bewertung von SaaS-Firmen. Die Burn Rate gibt an, wie schnell ein Startup seine liquiden Mittel verbraucht, bevor es Rentabilität erreicht. Die Churn Rate misst die Abwanderung von Kunden oder Abonnements über einen bestimmten Zeitraum, was direkten Einfluss auf das Wachstum und die Stabilität hat.",
-    "takeaway": "Das Verstehen dieser Begriffe ist entscheidend, um die Dynamik, Performance und potenzielle Bewertung von Startups und technologiegetriebenen Unternehmen zu analysieren und in Finanzdiskussionen kompetent mitreden zu können."
+    "topic": "Die Dynamik eines Short Squeeze: Wenn Leerverkäufer in Bedrängnis geraten",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein plötzlicher, starker Kursanstieg einer Aktie, der Leerverkäufer zwingt, ihre Positionen durch Rückkäufe zu schließen, was den Kurs weiter in die Höhe treibt. Er entsteht, wenn eine Aktie, die stark leerverkauft wurde, unerwartet positive Nachrichten erhält oder die Nachfrage steigt.",
+    "details": "Im Kern beginnt ein Short Squeeze, wenn viele Investoren ('Leerverkäufer') darauf wetten, dass der Kurs einer Aktie fallen wird, indem sie diese leihen und verkaufen, um sie später zu einem niedrigeren Preis zurückzukaufen. Sollte der Kurs stattdessen steigen, müssen Leerverkäufer, um Verluste zu begrenzen, die geliehenen Aktien am Markt zurückkaufen. Dieser erzwungene Rückkauf erhöht die Nachfrage und treibt den Kurs noch weiter in die Höhe, was einen selbstverstärkenden Effekt erzeugt und andere Leerverkäufer ebenfalls zum Handeln zwingt. Dieses Phänomen kann zu extremen Kursschwankungen führen.",
+    "takeaway": "Ein Short Squeeze zeigt, wie die Angst vor Verlusten bei Leerverkäufern eine explosive Rallye auslösen kann. Für Anleger ist es ein Beispiel für die Risiken des Leerverkaufs und die potenziell heftigen Marktmechanismen bei extremen Positionierungen."
   }
 }
