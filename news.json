@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Raketenstartbasis: Deutschland sucht seinen Weg ins All",
-      "summary": "Die Bundesregierung prüft den Aufbau einer eigenen Startbasis für Trägerraketen der Bundeswehr. Dies soll die unabhängige Beförderung militärischer Satelliten ins All ermöglichen und hat langfristige geopolitische Implikationen."
+      "headline": "USA verschärfen Handelsstreit mit China durch hohe Drohnenzölle",
+      "summary": "Die USA verhängen Zölle von bis zu 100 Prozent auf chinesische Drohnen, um die Abhängigkeit zu reduzieren und die eigene Produktion zu stärken. Diese Maßnahme dürfte den anhaltenden Handelskonflikt mit Peking weiter anheizen und globale Lieferketten beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "In a first, US will allow some private firms to carry out cyberattacks",
-      "summary": "Die USA erlauben privaten Firmen erstmals, offensive Cyberoperationen durchzuführen. Diese Abkehr von jahrzehntelanger Politik könnte weitreichende internationale Auswirkungen auf die Cybersicherheit haben."
+      "headline": "US-Vizepräsident Vance nennt bezahlbare Energie als primäres Kriegsziel im Iran",
+      "summary": "Während US-Präsident Trump Irans Atomprogramm als Grund für Angriffe anführte, betonte Vizepräsident Vance nun die Sicherstellung niedriger Öl- und Gaspreise für amerikanische Konsumenten als Hauptmotivation. Dies markiert eine klare Verschiebung der kommunizierten Kriegsziele und deren wirtschaftliche Begründung."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Mit der fallenden Inflation erhält das Fed ein weiteres Argument gegen die Erhöhung des Leitzinses",
-      "summary": "Die US-Jahresinflation liegt bei 3,4 Prozent, was den Druck auf die Fed zur Zinserhöhung mindert. Trotzdem bleibt innerhalb der Notenbank der Ruf nach einer Anhebung groß."
+      "headline": "Fallende Inflation stärkt Argumente gegen weitere Fed-Zinserhöhungen",
+      "summary": "Die Jahresinflation in den USA liegt bei 3,4 Prozent, was den Druck innerhalb der Notenbank für weitere Zinserhöhungen mindert. Trotz positiver Entwicklungen bei den Benzinpreisen bleibt die Debatte um die zukünftige Geldpolitik intensiv."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Inflation in Deutschland ist zurück – und könnte bald ordentlich zulegen",
-      "summary": "Im Juli zogen die Energiepreise deutlich an, wodurch die Inflation in Deutschland zurückkehrt. Dies wird durch den Nahost-Krieg und die Trockenheit zusätzlich verstärkt."
+      "headline": "Energiepreise treiben Inflation in Deutschland wieder an",
+      "summary": "Im Juli verzeichnete Deutschland einen deutlichen Anstieg der Inflation, primär durch höhere Energiepreise. Experten befürchten eine weitere Zunahme, beeinflusst durch den Krieg im Nahen Osten und die anhaltende Trockenheit."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Keine Angst vor dem Robotaxi: Waymo-Autos seien viel sicherer unterwegs als menschliche Fahrer, sagt ein Experte",
-      "summary": "Laut einem Risikoforscher verursachen Waymo-Robotaxis 90 Prozent weniger Unfälle als menschliche Fahrer. Die Schwesterfirma von Google kommt nun in die Schweiz und verspricht sicherere autonome Fahrten."
+      "headline": "Nvidia kooperiert mit Wall Street für 500 Mrd. Dollar KI-Infrastruktur",
+      "summary": "Jensen Huang von Nvidia sucht massive Investitionen für den Ausbau der KI-Infrastruktur und gewinnt dafür Finanzhäuser wie Goldman Sachs und Blackrock. Angesichts der potenziellen KI-Blase sind die damit verbundenen Risiken jedoch erheblich."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-      "summary": "X veröffentlicht den Quellcode seines 'For You'-Feeds und führt neue Transparenz-Tools ein. Nutzer können so nachvollziehen, wie das Ranking-System ihre Beiträge beeinflusst."
+      "headline": "OpenAI enthüllt \"Ultrafast\"-Modus für GPT-5.6 Sol mit 14-facher Geschwindigkeit",
+      "summary": "OpenAI präsentiert eine stark beschleunigte Version seines neuesten und leistungsfähigsten Modells, GPT-5.6 Sol, im Rahmen eines \"Ultrafast\"-Vorschau-Modus. Ziel ist es, Unternehmenskunden durch signifikante Effizienzsteigerungen anzuziehen und neue Anwendungen zu ermöglichen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "500 Milliarden Dollar für KI-Infrastruktur: So funktioniert die neue Zusammenarbeit zwischen Nvidia und der Wall Street",
-      "summary": "Nvidia plant, 500 Milliarden Dollar für den KI-Ausbau über Finanzhäuser wie Goldman Sachs zu sammeln. Diese Kooperation soll die Finanzierung für massive KI-Infrastrukturprojekte sichern, birgt aber hohe Risiken einer KI-Blase."
+      "headline": "Databricks schließt gigantische Finanzierungsrunde mit 190 Mrd. Dollar Bewertung ab",
+      "summary": "Databricks sammelte 5 Milliarden US-Dollar in einer Finanzierungsrunde ein, die das Unternehmen mit 190 Milliarden US-Dollar bewertet, weit über den ursprünglich angestrebten 1 Milliarde Dollar. Dieses enorme Interesse spiegelt den hohen Kapitalbedarf und das immense Vertrauen in den KI-Sektor wider."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "OpenAI hat Dali Rajic als neuen Chief Revenue Officer eingestellt. Diese Personalie ist Teil einer fortgesetzten Umstrukturierung an der Spitze des führenden KI-Unternehmens."
+      "headline": "Writer bringt neues KI-Modell zur Kostensenkung bei Token-Nutzung heraus",
+      "summary": "Das Unternehmen Writer hat ein neues KI-Modell sowie ein verbessertes System eingeführt, das auf Z.ai's GLM-5.2 basiert. Dieses soll einsatzbereite Funktionen zu deutlich reduzierten Kosten für die Token-Nutzung ermöglichen und damit die Skalierung von KI-Anwendungen effizienter gestalten."
     }
   ],
   "learning": {
-    "topic": "Die Dynamik eines Short Squeeze: Wenn Leerverkäufer in Bedrängnis geraten",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein plötzlicher, starker Kursanstieg einer Aktie, der Leerverkäufer zwingt, ihre Positionen durch Rückkäufe zu schließen, was den Kurs weiter in die Höhe treibt. Er entsteht, wenn eine Aktie, die stark leerverkauft wurde, unerwartet positive Nachrichten erhält oder die Nachfrage steigt.",
-    "details": "Im Kern beginnt ein Short Squeeze, wenn viele Investoren ('Leerverkäufer') darauf wetten, dass der Kurs einer Aktie fallen wird, indem sie diese leihen und verkaufen, um sie später zu einem niedrigeren Preis zurückzukaufen. Sollte der Kurs stattdessen steigen, müssen Leerverkäufer, um Verluste zu begrenzen, die geliehenen Aktien am Markt zurückkaufen. Dieser erzwungene Rückkauf erhöht die Nachfrage und treibt den Kurs noch weiter in die Höhe, was einen selbstverstärkenden Effekt erzeugt und andere Leerverkäufer ebenfalls zum Handeln zwingt. Dieses Phänomen kann zu extremen Kursschwankungen führen.",
-    "takeaway": "Ein Short Squeeze zeigt, wie die Angst vor Verlusten bei Leerverkäufern eine explosive Rallye auslösen kann. Für Anleger ist es ein Beispiel für die Risiken des Leerverkaufs und die potenziell heftigen Marktmechanismen bei extremen Positionierungen."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Schlüssel zum VC-Deal",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* der Kapitalinvestition, während die Post-Money-Bewertung den Wert *nach* der Investition inklusive des neuen Kapitals darstellt. Diese Unterscheidung ist fundamental für die Berechnung des Investorenanteils und die zukünftige Cap-Table.",
+    "details": "Wenn ein Investor Kapital in ein Startup einbringt, kauft er dafür Anteile. Die Pre-Money-Bewertung ist die Grundlage, auf der diese Anteile berechnet werden, noch bevor das frische Geld im Unternehmen ist. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Beispiel: Ein Startup ist vor einer Finanzierungsrunde 10 Millionen Euro wert (Pre-Money) und erhält 2 Millionen Euro von einem Investor. Die Post-Money-Bewertung beträgt dann 12 Millionen Euro. Der Investor besitzt danach 2/12 oder 16,67% des Unternehmens, während die bestehenden Anteilseigner entsprechend verwässert werden. Diese Unterscheidung ist entscheidend, um den prozentualen Anteil der Investoren und die Verwässerung der Gründer und früherer Investoren exakt zu bestimmen.",
+    "takeaway": "Das Verständnis von Pre- und Post-Money ist unerlässlich, um Finanzierungsrunden korrekt zu analysieren und zu verhandeln, da es direkt den Besitzanteil und die Verwässerung aller Stakeholder bestimmt. Für Gründer bedeutet ein hoher Pre-Money-Wert, dass sie für die gleiche Investition weniger Anteile abgeben müssen."
   }
 }
