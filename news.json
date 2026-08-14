@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA verschärfen Handelsstreit mit China durch hohe Drohnenzölle",
-      "summary": "Die USA verhängen Zölle von bis zu 100 Prozent auf chinesische Drohnen, um die Abhängigkeit zu reduzieren und die eigene Produktion zu stärken. Diese Maßnahme dürfte den anhaltenden Handelskonflikt mit Peking weiter anheizen und globale Lieferketten beeinflussen."
+      "headline": "Niederlage für Macron: Social-Media-Verbot gekippt",
+      "summary": "Frankreichs Verfassungsrat hat das von der Nationalversammlung und dem Senat beschlossene Verbot sozialer Medien für Minderjährige gekippt. Dies stellt einen deutlichen Rückschlag für Präsident Macron und seine Regierung dar."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Vizepräsident Vance nennt bezahlbare Energie als primäres Kriegsziel im Iran",
-      "summary": "Während US-Präsident Trump Irans Atomprogramm als Grund für Angriffe anführte, betonte Vizepräsident Vance nun die Sicherstellung niedriger Öl- und Gaspreise für amerikanische Konsumenten als Hauptmotivation. Dies markiert eine klare Verschiebung der kommunizierten Kriegsziele und deren wirtschaftliche Begründung."
+      "headline": "Handelsstreit: USA verhängen hohe Zölle auf Drohnen - China im Fokus",
+      "summary": "Die USA haben erneut hohe Zölle auf chinesische Drohnen verhängt, was die Spannungen im globalen Handelsstreit weiter verschärft. Trotz früherer Urteile gegen solche Zölle verursacht die amerikanische Regierung damit weiterhin weltweit Turbulenzen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Fallende Inflation stärkt Argumente gegen weitere Fed-Zinserhöhungen",
-      "summary": "Die Jahresinflation in den USA liegt bei 3,4 Prozent, was den Druck innerhalb der Notenbank für weitere Zinserhöhungen mindert. Trotz positiver Entwicklungen bei den Benzinpreisen bleibt die Debatte um die zukünftige Geldpolitik intensiv."
+      "headline": "Marktbericht: DAX-Gewinne reichen nicht für Rekord",
+      "summary": "Der DAX verfehlte trotz starker Firmenbilanzen und nachlassender Sorgen um steigende US-Zinsen einen neuen Rekord vor dem Wochenende. Anleger zeigten sich dennoch zufrieden mit den Gewinnen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Energiepreise treiben Inflation in Deutschland wieder an",
-      "summary": "Im Juli verzeichnete Deutschland einen deutlichen Anstieg der Inflation, primär durch höhere Energiepreise. Experten befürchten eine weitere Zunahme, beeinflusst durch den Krieg im Nahen Osten und die anhaltende Trockenheit."
+      "headline": "Mit der fallenden Inflation erhält das Fed ein weiteres Argument gegen die Erhöhung des Leitzinses",
+      "summary": "Die US-Inflation liegt bei 3,4 Prozent und könnte der Fed ein Argument liefern, weitere Zinserhöhungen zu pausieren. Trotzdem bleibt innerhalb der amerikanischen Notenbank der Druck für eine Straffung weiterhin groß."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia kooperiert mit Wall Street für 500 Mrd. Dollar KI-Infrastruktur",
-      "summary": "Jensen Huang von Nvidia sucht massive Investitionen für den Ausbau der KI-Infrastruktur und gewinnt dafür Finanzhäuser wie Goldman Sachs und Blackrock. Angesichts der potenziellen KI-Blase sind die damit verbundenen Risiken jedoch erheblich."
+      "headline": "Keine Angst vor dem Robotaxi: Waymo-Autos seien viel sicherer unterwegs als menschliche Fahrer, sagt ein Experte",
+      "summary": "Waymo, die Schwesterfirma von Google, expandiert in die Schweiz mit ihren selbstfahrenden Taxis, die laut einem Risikoforscher 90 Prozent weniger Unfälle verursachen als menschliche Fahrer. Dennoch sieht der Experte andere Herausforderungen für die Technologie."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI enthüllt \"Ultrafast\"-Modus für GPT-5.6 Sol mit 14-facher Geschwindigkeit",
-      "summary": "OpenAI präsentiert eine stark beschleunigte Version seines neuesten und leistungsfähigsten Modells, GPT-5.6 Sol, im Rahmen eines \"Ultrafast\"-Vorschau-Modus. Ziel ist es, Unternehmenskunden durch signifikante Effizienzsteigerungen anzuziehen und neue Anwendungen zu ermöglichen."
+      "headline": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+      "summary": "Apple beantragt bei einem Bundesrichter, bis zu 15% Provision für Käufe über externe Links in iOS-Apps zu verlangen. Dies könnte das Geschäftsmodell des App Stores grundlegend verändern und hat weitreichende Auswirkungen auf Entwickler."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Databricks schließt gigantische Finanzierungsrunde mit 190 Mrd. Dollar Bewertung ab",
-      "summary": "Databricks sammelte 5 Milliarden US-Dollar in einer Finanzierungsrunde ein, die das Unternehmen mit 190 Milliarden US-Dollar bewertet, weit über den ursprünglich angestrebten 1 Milliarde Dollar. Dieses enorme Interesse spiegelt den hohen Kapitalbedarf und das immense Vertrauen in den KI-Sektor wider."
+      "headline": "Kog is going deeper to squeeze more inference out of GPUs",
+      "summary": "Das französische Startup Kog optimiert GPUs, um deutlich mehr Inferenzleistung für KI-Workflows herauszuholen, was die Effizienz in der KI-Verarbeitung verbessern könnte. Sie hinterfragen damit die gängige Annahme, dass GPUs für agentische Workflows ungeeignet seien."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Writer bringt neues KI-Modell zur Kostensenkung bei Token-Nutzung heraus",
-      "summary": "Das Unternehmen Writer hat ein neues KI-Modell sowie ein verbessertes System eingeführt, das auf Z.ai's GLM-5.2 basiert. Dieses soll einsatzbereite Funktionen zu deutlich reduzierten Kosten für die Token-Nutzung ermöglichen und damit die Skalierung von KI-Anwendungen effizienter gestalten."
+      "headline": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary": "Writer hat ein neues KI-Modell und ein verbessertes System zur Kostendämpfung von Token vorgestellt, das auf Z.ai's GLM-5.2 basiert. Das neue System soll einsatzbereite Fähigkeiten zu deutlich geringeren Preisen bieten."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Schlüssel zum VC-Deal",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* der Kapitalinvestition, während die Post-Money-Bewertung den Wert *nach* der Investition inklusive des neuen Kapitals darstellt. Diese Unterscheidung ist fundamental für die Berechnung des Investorenanteils und die zukünftige Cap-Table.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, kauft er dafür Anteile. Die Pre-Money-Bewertung ist die Grundlage, auf der diese Anteile berechnet werden, noch bevor das frische Geld im Unternehmen ist. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Beispiel: Ein Startup ist vor einer Finanzierungsrunde 10 Millionen Euro wert (Pre-Money) und erhält 2 Millionen Euro von einem Investor. Die Post-Money-Bewertung beträgt dann 12 Millionen Euro. Der Investor besitzt danach 2/12 oder 16,67% des Unternehmens, während die bestehenden Anteilseigner entsprechend verwässert werden. Diese Unterscheidung ist entscheidend, um den prozentualen Anteil der Investoren und die Verwässerung der Gründer und früherer Investoren exakt zu bestimmen.",
-    "takeaway": "Das Verständnis von Pre- und Post-Money ist unerlässlich, um Finanzierungsrunden korrekt zu analysieren und zu verhandeln, da es direkt den Besitzanteil und die Verwässerung aller Stakeholder bestimmt. Für Gründer bedeutet ein hoher Pre-Money-Wert, dass sie für die gleiche Investition weniger Anteile abgeben müssen."
+    "topic": "Derivate: Ernte absichern und Chancen nutzen",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem Basiswert wie Rohstoffen, Aktien oder Zinsen abhängt, ähnlich wie ein Vertrag über zukünftige Ernten. Sie dienen primär der Absicherung von Risiken oder der Spekulation auf zukünftige Preisentwicklungen.",
+    "details": "Stell dir vor, du bist ein Bauer und möchtest den Preis deiner Ernte absichern, bevor du sie überhaupt gesät hast. Du schließt heute einen Vertrag ab, der dir in sechs Monaten einen festen Preis für deine Ernte garantiert. Das ist im Kern ein Derivat: ein Vertrag, der seinen Wert von einem zukünftigen Ereignis oder Preis ableitet. Ob es ein Terminkontrakt (Future) ist, der dich zum Kauf/Verkauf verpflichtet, oder eine Option, die dir das Recht, aber nicht die Pflicht gibt – alle nutzen einen \"Basiswert\" (deine Ernte, eine Aktie, ein Wechselkurs). Sie erlauben es, Risiken zu managen (Hedging) oder auf Preisbewegungen zu wetten (Spekulation), ohne den Basiswert direkt besitzen zu müssen.",
+    "takeaway": "Derivate sind mächtige Tools im Finanzmarkt, um Risiken abzusichern oder Hebel auf zukünftige Preisentwicklungen zu setzen. Ihr Wert ist immer eine \"Ableitung\" eines anderen Gutes oder Messgröße, was sie flexibel, aber auch komplex und potenziell riskant macht."
   }
 }
