@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Niederlage für Macron: Social-Media-Verbot gekippt",
-      "summary": "Frankreichs Verfassungsrat hat das von der Nationalversammlung und dem Senat beschlossene Verbot sozialer Medien für Minderjährige gekippt. Dies stellt einen deutlichen Rückschlag für Präsident Macron und seine Regierung dar."
+      "headline": "Tote bei schwerem israelischem Angriff im Libanon",
+      "summary": "Israel verübte einen verheerenden Angriff im Libanon, bei dem mindestens elf Menschen getötet wurden. Dieser Schritt wird als Vergeltung für eine Attacke der Hisbollah dargestellt und könnte die regionale Instabilität weiter verschärfen."
     },
     {
       "tag": "POLITIK & GLOBAL",
       "headline": "Handelsstreit: USA verhängen hohe Zölle auf Drohnen - China im Fokus",
-      "summary": "Die USA haben erneut hohe Zölle auf chinesische Drohnen verhängt, was die Spannungen im globalen Handelsstreit weiter verschärft. Trotz früherer Urteile gegen solche Zölle verursacht die amerikanische Regierung damit weiterhin weltweit Turbulenzen."
+      "summary": "Die USA haben erneut hohe Zölle auf Drohnen verhängt, wobei China als Hauptziel der Massnahmen gilt. Dies intensiviert den globalen Handelsstreit, trotz früherer Gerichtsentscheidungen gegen Trumps Zollpolitik."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX-Gewinne reichen nicht für Rekord",
-      "summary": "Der DAX verfehlte trotz starker Firmenbilanzen und nachlassender Sorgen um steigende US-Zinsen einen neuen Rekord vor dem Wochenende. Anleger zeigten sich dennoch zufrieden mit den Gewinnen."
+      "headline": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "summary": "Berichten zufolge intensivieren sich die Verhandlungen über einen möglichen Verkauf von PayPal an Stripe und die Private-Equity-Firma Advent. Der neue CEO von PayPal versucht damit, das Unternehmen zu restrukturieren und neu auszurichten."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Mit der fallenden Inflation erhält das Fed ein weiteres Argument gegen die Erhöhung des Leitzinses",
-      "summary": "Die US-Inflation liegt bei 3,4 Prozent und könnte der Fed ein Argument liefern, weitere Zinserhöhungen zu pausieren. Trotzdem bleibt innerhalb der amerikanischen Notenbank der Druck für eine Straffung weiterhin groß."
+      "headline": "Die Schweizer Wirtschaft wächst so stark wie lange nicht mehr – trotz den Folgen des Iran-Krieges",
+      "summary": "Das Bruttoinlandprodukt (BIP) der Schweiz verzeichnete im zweiten Quartal ein starkes Wachstum von 1,5 Prozent, primär dank eines Sondereffekts in der Pharmaindustrie. Dies hellt die Wirtschaftsaussichten insgesamt auf, selbst im Kontext internationaler Konflikte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Keine Angst vor dem Robotaxi: Waymo-Autos seien viel sicherer unterwegs als menschliche Fahrer, sagt ein Experte",
-      "summary": "Waymo, die Schwesterfirma von Google, expandiert in die Schweiz mit ihren selbstfahrenden Taxis, die laut einem Risikoforscher 90 Prozent weniger Unfälle verursachen als menschliche Fahrer. Dennoch sieht der Experte andere Herausforderungen für die Technologie."
+      "headline": "Self-driving trucks are officially testing on California highways",
+      "summary": "Unternehmen wie Aurora Innovation und Kodiak AI haben Genehmigungen erhalten, selbstfahrende Lastwagen auf kalifornischen Autobahnen zu testen. Dies markiert einen bedeutenden Meilenstein in der Entwicklung autonomer Fahrzeuge und der Logistikbranche."
     },
     {
       "tag": "TOP STORIES",
       "headline": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-      "summary": "Apple beantragt bei einem Bundesrichter, bis zu 15% Provision für Käufe über externe Links in iOS-Apps zu verlangen. Dies könnte das Geschäftsmodell des App Stores grundlegend verändern und hat weitreichende Auswirkungen auf Entwickler."
+      "summary": "Apple hat einem Bundesrichter vorgeschlagen, bis zu 15% Provision auf Käufe zu erheben, die über externe Links in iOS-Apps getätigt werden. Diese neue Regelung könnte die Geschäftsmodelle von App-Entwicklern erheblich beeinflussen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Kog is going deeper to squeeze more inference out of GPUs",
-      "summary": "Das französische Startup Kog optimiert GPUs, um deutlich mehr Inferenzleistung für KI-Workflows herauszuholen, was die Effizienz in der KI-Verarbeitung verbessern könnte. Sie hinterfragen damit die gängige Annahme, dass GPUs für agentische Workflows ungeeignet seien."
+      "headline": "SpaceX officially closes its Cursor acquisition",
+      "summary": "Das KI-Coding-Startup Cursor ist nun offiziell Teil von SpaceX. Diese Akquisition unterstreicht die wachsende Bedeutung von KI-Technologien in den Unternehmungen von Elon Musk."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "summary": "Writer hat ein neues KI-Modell und ein verbessertes System zur Kostendämpfung von Token vorgestellt, das auf Z.ai's GLM-5.2 basiert. Das neue System soll einsatzbereite Fähigkeiten zu deutlich geringeren Preisen bieten."
+      "headline": "Every fusion startup that has raised over $100M",
+      "summary": "Fusions-Startups haben bisher insgesamt 7,1 Milliarden Dollar an Kapital eingesammelt, wobei der Grossteil an eine kleine Gruppe von Unternehmen floss. Dies zeigt ein hohes Investoreninteresse an dieser vielversprechenden, aber kapitalintensiven Technologie."
     }
   ],
   "learning": {
-    "topic": "Derivate: Ernte absichern und Chancen nutzen",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem Basiswert wie Rohstoffen, Aktien oder Zinsen abhängt, ähnlich wie ein Vertrag über zukünftige Ernten. Sie dienen primär der Absicherung von Risiken oder der Spekulation auf zukünftige Preisentwicklungen.",
-    "details": "Stell dir vor, du bist ein Bauer und möchtest den Preis deiner Ernte absichern, bevor du sie überhaupt gesät hast. Du schließt heute einen Vertrag ab, der dir in sechs Monaten einen festen Preis für deine Ernte garantiert. Das ist im Kern ein Derivat: ein Vertrag, der seinen Wert von einem zukünftigen Ereignis oder Preis ableitet. Ob es ein Terminkontrakt (Future) ist, der dich zum Kauf/Verkauf verpflichtet, oder eine Option, die dir das Recht, aber nicht die Pflicht gibt – alle nutzen einen \"Basiswert\" (deine Ernte, eine Aktie, ein Wechselkurs). Sie erlauben es, Risiken zu managen (Hedging) oder auf Preisbewegungen zu wetten (Spekulation), ohne den Basiswert direkt besitzen zu müssen.",
-    "takeaway": "Derivate sind mächtige Tools im Finanzmarkt, um Risiken abzusichern oder Hebel auf zukünftige Preisentwicklungen zu setzen. Ihr Wert ist immer eine \"Ableitung\" eines anderen Gutes oder Messgröße, was sie flexibel, aber auch komplex und potenziell riskant macht."
+    "topic": "Startup-Slang: ARR, Burn Rate & Churn verstehen",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese Begriffe sind essenziell, um die finanzielle Gesundheit und das Wachstumspotenzial von Startups zu bewerten. Sie geben Aufschluss darüber, wie nachhaltig ein Geschäftsmodell ist und wie schnell das Kapital verbraucht wird.",
+    "details": "ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements oder Verträgen und ein Schlüsselindikator für die Skalierbarkeit. Die Burn Rate misst, wie schnell ein Startup seine liquiden Mittel verbraucht, in der Regel pro Monat, und kann auf Wachstum oder Ineffizienz hindeuten. Die Churn Rate (Kundenabwanderungsrate) gibt an, wie viele Kunden in einem Zeitraum verloren gehen, und ist entscheidend für langfristigen Erfolg.",
+    "takeaway": "Ein solides Verständnis von ARR, Burn Rate und Churn ermöglicht es dir, die Dynamik von Startups objektiv zu beurteilen. Sie sind Indikatoren für Effizienz, Kundenbindung und Zukunftsaussichten, relevant für die Analyse von Geschäftsstrategien und Finanzierungen."
   }
 }
