@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
-      "summary": "Der Winter naht und viele Ukrainer bereiten sich auf extreme Umstände durch mögliche russische Luftangriffe vor. Ein junges Paar plant, in seine Datscha zu ziehen, um den harten Zeiten zu trotzen."
+      "headline": "USA: Alaskas Rohstoffe abbauen - aber wie?",
+      "summary": "Präsident Trump möchte Alaskas Rohstoffe großflächig abbauen, was den teuren Bau von Straßen erfordert. Das Vorhaben trifft jedoch auf starken Widerstand von Naturschützern und Indigenen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
-      "summary": "Nach dem Erdbeben in Kolumbien konzentrieren sich die Rettungsarbeiten auf die Bergung Toter, während die Hoffnung auf Überlebende schwindet. Präsident de la Espriella bat derweil Donald Trump um die Aussetzung von Zöllen, was globale Handelsbeziehungen beeinflusst."
+      "headline": "Was wir über die angeblichen iranischen Hacks auf US-Wasserversorger wissen",
+      "summary": "In den letzten Wochen wurden die Systeme mehrerer US-Wasserwerke von Hackern angegriffen. Die Angriffe werden von den USA angeblich der iranischen Regierung zugeschrieben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Trotz Kriegen und Krisen: Die Löhne in der Schweiz werden nächstes Jahr steigen",
-      "summary": "Laut einer KOF-Umfrage können Schweizer Beschäftigte 2027 mit höheren Reallöhnen rechnen, abhängig von der künftigen Inflationsentwicklung. Die Erhebung zeigt zudem, welche Branchen die stärksten Gehaltssteigerungen erwarten lassen."
+      "headline": "Höhere Zinsen: Lohnt sich Sparen auf dem Tagesgeldkonto wieder?",
+      "summary": "Nach Jahren der Nullzinsphase werben Banken wieder mit drei oder vier Prozent Zinsen aufs Tagesgeld. Kunden sollten bei solchen Lockangeboten allerdings genauer hinsehen."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "Talks to sell PayPal to Stripe and Advent are heating up",
-      "summary": "PayPal verhandelt Berichten zufolge über einen potenziellen Verkauf an Stripe und die Private-Equity-Firma Advent. Dies ist Teil der Bemühungen des neuen CEO, das Fintech-Unternehmen strategisch neu auszurichten und zu sanieren."
+      "summary": "PayPal verhandelt Berichten zufolge über einen möglichen Verkauf an Stripe und die Private-Equity-Firma Advent. Der neue CEO des Fintech-Unternehmens versucht, das Unternehmen neu auszurichten."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
-      "summary": "Speerwerfer Julian Weber hat bei der Leichtathletik-EM in Birmingham die Goldmedaille gewonnen. Der 31-Jährige setzte sich mit einer Weite von 90,40 Metern souverän durch und sicherte sich den Europameistertitel."
+      "headline": "Dieser Sommer ist selbst für Italien extrem",
+      "summary": "Der Fluss Po trocknet nahezu aus, und Italien ächzt unter extremer Hitze, was Winzern und der Bevölkerung große Herausforderungen bereitet. Selbst für ein hitzegewohntes Land ist dies eine besondere Belastung."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Liebmann schwimmt über 1.500 Meter Freistil Weltrekord und holt EM-Gold",
-      "summary": "Johannes Liebmann hat bei der Schwimm-Europameisterschaft die Goldmedaille über 1.500 Meter Freistil geholt. Der 19-Jährige stellte dabei mit rund 14 Minuten und 26 Sekunden einen beeindruckenden neuen Weltrekord auf."
+      "headline": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "summary": "Eine Frau behauptet, ihr Stiefvater habe Grok genutzt, um ein Kinderfoto in explizite Bilder zu verwandeln. Sie warnt, dass KI den Alltag in sexuellen Kindesmissbrauch verwandeln könnte."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
       "headline": "SpaceX officially closes its Cursor acquisition",
-      "summary": "Das auf KI-Codierung spezialisierte Startup Cursor ist nun offiziell ein Teil von SpaceX. Diese Akquisition stärkt die internen Tech-Kapazitäten des Raumfahrtunternehmens erheblich."
+      "summary": "Das auf KI-Codierung spezialisierte Startup Cursor ist nun offiziell ein Teil von SpaceX geworden. Die Übernahme stärkt die KI-Kompetenzen des Raumfahrtunternehmens."
     },
     {
       "tag": "STARTUPS & VC",
       "headline": "Every fusion startup that has raised over $100M",
-      "summary": "Fusions-Startups haben bislang kumuliert 7,1 Milliarden US-Dollar an Kapital eingesammelt, wobei der Großteil dieser Summe an eine Handvoll führender Unternehmen floss. Dies unterstreicht das wachsende Investoreninteresse an der Entwicklung sauberer Fusionsenergie."
+      "summary": "Fusions-Startups haben bis heute insgesamt 7,1 Milliarden Dollar an Kapital eingesammelt. Der Großteil dieser Investitionen floss jedoch in eine Handvoll größerer Unternehmen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money und Post-Money sind zentrale Begriffe in der Start-up-Finanzierung und beschreiben den Wert eines Unternehmens vor bzw. nach einer Investition.",
-    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert, bevor frisches Kapital durch Investoren zugeführt wird; sie ist die Basis für die Verhandlungen. Die Post-Money-Bewertung ist der Unternehmenswert nach der Investition und ergibt sich aus der Summe der Pre-Money-Bewertung plus dem neu investierten Kapital. Sie bestimmt direkt den prozentualen Anteil, den neue Investoren für ihr Geld erhalten und wie stark die Anteile der Bestandsgesellschafter, z.B. der Gründer, verwässert werden.",
-    "takeaway": "Das Verständnis dieser Konzepte ist entscheidend, um die Wertentwicklung eines Start-ups sowie die Verteilung der Anteile nach einer Finanzierungsrunde präzise zu analysieren und zu verhandeln."
+    "topic": "Strategic vs. Financial Buyer: Der Kern im M&A-Geschäft",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Im Mergers & Acquisitions (M&A) unterscheidet man primär zwischen zwei Arten von Käufern: strategischen und finanziellen Käufern. Ihre Motive und Wertvorstellungen unterscheiden sich grundlegend und beeinflussen den Deal-Ablauf maßgeblich.",
+    "details": "Ein 'Strategic Buyer' ist meist ein bestehendes Unternehmen, das ein anderes Unternehmen kauft, um strategische Vorteile zu erzielen. Das kann der Zugang zu neuen Märkten, Technologien, Kundenstämmen oder Synergieeffekte sein (z.B. Kostenersparnisse, Umsatzsteigerung durch Cross-Selling). Sie zahlen oft höhere Preise, da sie den 'Synergie-Wert' über den reinen Unternehmenswert hinaus berücksichtigen. Ein 'Financial Buyer', typischerweise eine Private-Equity-Gesellschaft oder ein Investmentfonds, kauft Unternehmen primär mit dem Ziel, sie innerhalb von 3-7 Jahren zu optimieren und gewinnbringend weiterzuverkaufen (Exit). Ihr Fokus liegt auf der Steigerung des Cashflows und der Profitabilität durch operative Verbesserungen oder finanzielle Restrukturierung, um eine hohe interne Rendite (IRR) zu erzielen. Sie bewerten ein Unternehmen eher auf Basis seiner standalone Cashflow-Potenziale und sind weniger an Synergien interessiert.",
+    "takeaway": "Für Verkäufer ist es entscheidend, die Art des potenziellen Käufers zu verstehen, da dies den Verkaufspreis, die Verhandlungsstrategie und die zukünftige Integration des Unternehmens stark beeinflusst. Strategische Käufer bieten oft höhere Preise, während finanzielle Käufer eine schnellere Transaktion und operative Unabhängigkeit nach dem Kauf bevorzugen könnten."
   }
 }
