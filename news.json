@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Tote bei schwerem israelischem Angriff im Libanon",
-      "summary": "Israel verübte einen verheerenden Angriff im Libanon, bei dem mindestens elf Menschen getötet wurden. Dieser Schritt wird als Vergeltung für eine Attacke der Hisbollah dargestellt und könnte die regionale Instabilität weiter verschärfen."
+      "headline": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
+      "summary": "Der Winter naht und viele Ukrainer bereiten sich auf extreme Umstände durch mögliche russische Luftangriffe vor. Ein junges Paar plant, in seine Datscha zu ziehen, um den harten Zeiten zu trotzen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit: USA verhängen hohe Zölle auf Drohnen - China im Fokus",
-      "summary": "Die USA haben erneut hohe Zölle auf Drohnen verhängt, wobei China als Hauptziel der Massnahmen gilt. Dies intensiviert den globalen Handelsstreit, trotz früherer Gerichtsentscheidungen gegen Trumps Zollpolitik."
+      "headline": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
+      "summary": "Nach dem Erdbeben in Kolumbien konzentrieren sich die Rettungsarbeiten auf die Bergung Toter, während die Hoffnung auf Überlebende schwindet. Präsident de la Espriella bat derweil Donald Trump um die Aussetzung von Zöllen, was globale Handelsbeziehungen beeinflusst."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Talks to sell PayPal to Stripe and Advent are heating up",
-      "summary": "Berichten zufolge intensivieren sich die Verhandlungen über einen möglichen Verkauf von PayPal an Stripe und die Private-Equity-Firma Advent. Der neue CEO von PayPal versucht damit, das Unternehmen zu restrukturieren und neu auszurichten."
+      "headline": "Trotz Kriegen und Krisen: Die Löhne in der Schweiz werden nächstes Jahr steigen",
+      "summary": "Laut einer KOF-Umfrage können Schweizer Beschäftigte 2027 mit höheren Reallöhnen rechnen, abhängig von der künftigen Inflationsentwicklung. Die Erhebung zeigt zudem, welche Branchen die stärksten Gehaltssteigerungen erwarten lassen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Schweizer Wirtschaft wächst so stark wie lange nicht mehr – trotz den Folgen des Iran-Krieges",
-      "summary": "Das Bruttoinlandprodukt (BIP) der Schweiz verzeichnete im zweiten Quartal ein starkes Wachstum von 1,5 Prozent, primär dank eines Sondereffekts in der Pharmaindustrie. Dies hellt die Wirtschaftsaussichten insgesamt auf, selbst im Kontext internationaler Konflikte."
+      "headline": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "summary": "PayPal verhandelt Berichten zufolge über einen potenziellen Verkauf an Stripe und die Private-Equity-Firma Advent. Dies ist Teil der Bemühungen des neuen CEO, das Fintech-Unternehmen strategisch neu auszurichten und zu sanieren."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Self-driving trucks are officially testing on California highways",
-      "summary": "Unternehmen wie Aurora Innovation und Kodiak AI haben Genehmigungen erhalten, selbstfahrende Lastwagen auf kalifornischen Autobahnen zu testen. Dies markiert einen bedeutenden Meilenstein in der Entwicklung autonomer Fahrzeuge und der Logistikbranche."
+      "headline": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
+      "summary": "Speerwerfer Julian Weber hat bei der Leichtathletik-EM in Birmingham die Goldmedaille gewonnen. Der 31-Jährige setzte sich mit einer Weite von 90,40 Metern souverän durch und sicherte sich den Europameistertitel."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-      "summary": "Apple hat einem Bundesrichter vorgeschlagen, bis zu 15% Provision auf Käufe zu erheben, die über externe Links in iOS-Apps getätigt werden. Diese neue Regelung könnte die Geschäftsmodelle von App-Entwicklern erheblich beeinflussen."
+      "headline": "Liebmann schwimmt über 1.500 Meter Freistil Weltrekord und holt EM-Gold",
+      "summary": "Johannes Liebmann hat bei der Schwimm-Europameisterschaft die Goldmedaille über 1.500 Meter Freistil geholt. Der 19-Jährige stellte dabei mit rund 14 Minuten und 26 Sekunden einen beeindruckenden neuen Weltrekord auf."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
       "headline": "SpaceX officially closes its Cursor acquisition",
-      "summary": "Das KI-Coding-Startup Cursor ist nun offiziell Teil von SpaceX. Diese Akquisition unterstreicht die wachsende Bedeutung von KI-Technologien in den Unternehmungen von Elon Musk."
+      "summary": "Das auf KI-Codierung spezialisierte Startup Cursor ist nun offiziell ein Teil von SpaceX. Diese Akquisition stärkt die internen Tech-Kapazitäten des Raumfahrtunternehmens erheblich."
     },
     {
       "tag": "STARTUPS & VC",
       "headline": "Every fusion startup that has raised over $100M",
-      "summary": "Fusions-Startups haben bisher insgesamt 7,1 Milliarden Dollar an Kapital eingesammelt, wobei der Grossteil an eine kleine Gruppe von Unternehmen floss. Dies zeigt ein hohes Investoreninteresse an dieser vielversprechenden, aber kapitalintensiven Technologie."
+      "summary": "Fusions-Startups haben bislang kumuliert 7,1 Milliarden US-Dollar an Kapital eingesammelt, wobei der Großteil dieser Summe an eine Handvoll führender Unternehmen floss. Dies unterstreicht das wachsende Investoreninteresse an der Entwicklung sauberer Fusionsenergie."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang: ARR, Burn Rate & Churn verstehen",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Begriffe sind essenziell, um die finanzielle Gesundheit und das Wachstumspotenzial von Startups zu bewerten. Sie geben Aufschluss darüber, wie nachhaltig ein Geschäftsmodell ist und wie schnell das Kapital verbraucht wird.",
-    "details": "ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements oder Verträgen und ein Schlüsselindikator für die Skalierbarkeit. Die Burn Rate misst, wie schnell ein Startup seine liquiden Mittel verbraucht, in der Regel pro Monat, und kann auf Wachstum oder Ineffizienz hindeuten. Die Churn Rate (Kundenabwanderungsrate) gibt an, wie viele Kunden in einem Zeitraum verloren gehen, und ist entscheidend für langfristigen Erfolg.",
-    "takeaway": "Ein solides Verständnis von ARR, Burn Rate und Churn ermöglicht es dir, die Dynamik von Startups objektiv zu beurteilen. Sie sind Indikatoren für Effizienz, Kundenbindung und Zukunftsaussichten, relevant für die Analyse von Geschäftsstrategien und Finanzierungen."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money und Post-Money sind zentrale Begriffe in der Start-up-Finanzierung und beschreiben den Wert eines Unternehmens vor bzw. nach einer Investition.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert, bevor frisches Kapital durch Investoren zugeführt wird; sie ist die Basis für die Verhandlungen. Die Post-Money-Bewertung ist der Unternehmenswert nach der Investition und ergibt sich aus der Summe der Pre-Money-Bewertung plus dem neu investierten Kapital. Sie bestimmt direkt den prozentualen Anteil, den neue Investoren für ihr Geld erhalten und wie stark die Anteile der Bestandsgesellschafter, z.B. der Gründer, verwässert werden.",
+    "takeaway": "Das Verständnis dieser Konzepte ist entscheidend, um die Wertentwicklung eines Start-ups sowie die Verteilung der Anteile nach einer Finanzierungsrunde präzise zu analysieren und zu verhandeln."
   }
 }
