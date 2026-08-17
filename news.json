@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Präsident Trump bremst gemeinsames Manöver mit Südkorea aus",
-      "summary": "US-Präsident Trump kündigte an, ein laufendes gemeinsames Manöver mit Südkorea \"wesentlich\" zu verringern. Er begründete dies mit Kosten, Iran und seinen Beziehungen zu Nordkorea, was die militärischen Allianzen in Frage stellt."
+      "headline": "Für Kritik am Ukraine-Krieg: Elf Jahre Haft für Oppositionellen Schlosberg",
+      "summary": "Ein russischer Oppositioneller wurde wegen Diskreditierung der Armee zu elf Jahren Straflager verurteilt, während seine Partei von den Wahlen ausgeschlossen bleibt. Dies unterstreicht die anhaltende Repression gegen Kritiker des Ukraine-Krieges in Russland."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Der Unruhestifter von Cologny: Warum das WEF trotz Millionenzahlung nicht von seinem Gründer loskommt",
-      "summary": "Klaus Schwab, Gründer des WEF, hält sich trotz Abfindung nicht an die Vereinbarung, sich nicht mehr einzumischen. Der Bund entzieht ihm nun die Rechte als Stiftungsgründer, was die Governance des globalen Forums betrifft."
+      "headline": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
+      "summary": "Der US-Sonderbeauftragte Kushner traf Israels Premier Netanjahu, um über Friedenspläne für den Gazastreifen zu sprechen. Israel lehnt bisherige Vorschläge ab, während innerhalb der Regierung Forderungen nach weiterer Gewalt laut werden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Anleger halten DAX in Reichweite des Rekords",
-      "summary": "Der DAX bleibt am Wochenstart nahe seines Rekordhochs, getragen von nachlassenden Inflationssorgen und einer starken Berichtssaison. Die Aussicht auf weitere Gewinne hält die Anleger in Kauflaune."
+      "headline": "Notenbanken auf der ganzen Welt kaufen Goldreserven zu – die SNB nicht. Das sind die Gründe",
+      "summary": "Weltweit stocken Währungsbehörden ihre Goldbestände auf, ein Trend, der oft als Absicherung in unsicheren Zeiten gilt. Die Schweizer Nationalbank weicht jedoch von dieser globalen Strategie ab und hält ihre Goldreserven seit Jahren stabil."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Talks to sell PayPal to Stripe and Advent are heating up",
-      "summary": "PayPal verhandelt angeblich über einen möglichen Verkauf an Stripe und die Private-Equity-Firma Advent. Dieser Mega-Deal könnte die Fintech-Landschaft maßgeblich umgestalten, während der neue CEO die Wende für PayPal sucht."
+      "headline": "Abgesetzt per sofort: In der Schweizer Unternehmenswelt mehren sich abrupte Chefwechsel",
+      "summary": "Geopolitische Veränderungen, Digitalisierungsdruck und Fachkräftemangel führen in Schweizer Firmen vermehrt zu plötzlichen Führungswechseln. Dies spiegelt gestiegene Anforderungen an CEOs und eine erhöhte Volatilität in Top-Management-Positionen wider."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "summary": "Eine Frau behauptet, ihr Stiefvater habe KI-Tools genutzt, um ein Kindheitsfoto in explizite Bilder umzuwandeln. Der Vorfall wirft ernste Fragen bezüglich des Missbrauchs von KI und der Schutzbedürftigkeit von Kindern auf."
+      "headline": "3D-Hirngewebemodell soll Alzheimer-Forschung verbessern",
+      "summary": "Münchner Forschende haben ein 3D-Modell aus menschlichen Hirnzellen entwickelt, um Alzheimer besser zu verstehen und neue Wirkstoffe zu testen. Dieser Durchbruch könnte die Medikamentenentwicklung gegen die neurodegenerative Krankheit erheblich beschleunigen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Self-driving trucks are officially testing on California highways",
-      "summary": "Selbstfahrende Lkw von Aurora Innovation und Kodiak AI testen offiziell auf kalifornischen Autobahnen. Dies markiert einen bedeutenden Schritt in der Entwicklung autonomer Fahrzeuge und der Zukunft des Gütertransports."
+      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "Amazon steht in der Kritik, seltene Bücher zu zerstören, um seine Large Language Models (LLMs) zu trainieren. Dies wirft ethische Fragen bezüglich des Schutzes von Kulturgütern im Kontext der KI-Entwicklung auf."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "summary": "Das Zahlungsdienstleister-Schwergewicht Stripe plant Berichten zufolge die Übernahme des KI-Gateway-Startups OpenRouter für über 7 Milliarden US-Dollar. Diese Mega-Akquisition unterstreicht das enorme Interesse am KI-Infrastrukturmarkt."
+      "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "summary": "Groq hat 350 Millionen Dollar bei einer Bewertung von 3,5 Milliarden Dollar eingesammelt, um seinen Strategiewechsel von AI-Chips hin zu einem Neocloud-Geschäftsmodell zu finanzieren. Das Unternehmen expandiert damit seine auf Nvidia-Technologie basierende Rechenzentrumsinfrastruktur."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Every fusion startup that has raised over $100M",
-      "summary": "Fusion-Startups haben bislang insgesamt 7,1 Milliarden US-Dollar an Kapital eingesammelt, wobei der Großteil an eine Handvoll Unternehmen ging. Dies zeigt ein starkes Vertrauen von Venture-Capital-Investoren in die Zukunft der Fusionsenergie."
+      "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary": "Stripe plant angeblich die Übernahme des KI-Gateway-Startups OpenRouter für über 7 Milliarden Dollar, was eine der größten Transaktionen im KI-Sektor darstellen würde. OpenRouter wurde zuvor von seinem CEO als 'Stripe für KI' beschrieben, was die strategische Bedeutung verdeutlicht."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Wie Leerverkäufer in die Zange genommen werden",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein Marktphänomen, bei dem Leerverkäufer gezwungen sind, ihre leerverkauften Aktien zurückzukaufen, was den Kurs dramatisch in die Höhe treibt. Er entsteht, wenn ein leerverkaufter Titel unerwartet stark steigt und Leerverkäufer Verluste begrenzen müssen.",
-    "details": "Wenn Investoren eine Aktie leerverkaufen, leihen sie sich diese, verkaufen sie sofort und hoffen, sie später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Steigt der Kurs jedoch unerwartet stark an, geraten Leerverkäufer unter Druck. Um weitere Verluste zu vermeiden oder Nachschussforderungen (Margin Calls) zu erfüllen, müssen sie die Aktien am Markt zurückkaufen – unabhängig vom Preis. Dieser plötzliche Kaufdruck von Leerverkäufern erhöht die Nachfrage erheblich und treibt den Aktienkurs noch weiter nach oben, was wiederum weitere Leerverkäufer zum Rückkauf zwingt und eine Aufwärtsspirale auslöst.",
-    "takeaway": "Ein Short Squeeze zeigt die Macht der kollektiven Marktbewegung und kann für Leerverkäufer ruinös sein, während er für andere Anleger enorme kurzfristige Gewinne bedeuten kann. Es ist ein klassisches Beispiel für das Risiko des Leerverkaufs."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Wert eines Startups vor und nach der Finanzierungsrunde",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert eines Startups, *bevor* frisches Kapital durch eine Finanzierungsrunde eingebracht wird. Die Post-Money-Bewertung ist der Wert *nach* der Kapitalerhöhung.",
+    "details": "Wenn ein Investor Kapital in ein Startup investiert, erhöht sich der Gesamtwert des Unternehmens. Die Pre-Money-Bewertung spiegelt wider, wie viel das Unternehmen vor der Investition wert war. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese Unterscheidung ist entscheidend für die Berechnung der Anteile, die der Investor für sein Kapital erhält, da sich sein prozentualer Anteil am Unternehmen auf die Post-Money-Bewertung bezieht und die Verwässerung der Anteile bestehender Gesellschafter direkt davon abhängt.",
+    "takeaway": "Die Post-Money-Bewertung ist immer die Pre-Money-Bewertung plus das neu investierte Kapital. Sie ist der Schlüssel, um zu verstehen, wie viele Unternehmensanteile Investoren für ihr Geld erhalten und wie sich die Eigentümerstruktur nach einer Finanzierungsrunde neu verteilt."
   }
 }
