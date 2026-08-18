@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Für Kritik am Ukraine-Krieg: Elf Jahre Haft für Oppositionellen Schlosberg",
-      "summary": "Ein russischer Oppositioneller wurde wegen Diskreditierung der Armee zu elf Jahren Straflager verurteilt, während seine Partei von den Wahlen ausgeschlossen bleibt. Dies unterstreicht die anhaltende Repression gegen Kritiker des Ukraine-Krieges in Russland."
+      "headline": "Ukraine greift Moskau mit Hunderten Drohnen an",
+      "summary": "Die Region Moskau wurde mit Hunderten Drohnen angegriffen, wobei offenbar ein Wildberries-Lager getroffen wurde. Berichte über britische Drohnen für die Ukraine sorgen zudem für massive Verstimmungen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kushner spricht mit Netanjahu über Friedensplan für Gazastreifen",
-      "summary": "Der US-Sonderbeauftragte Kushner traf Israels Premier Netanjahu, um über Friedenspläne für den Gazastreifen zu sprechen. Israel lehnt bisherige Vorschläge ab, während innerhalb der Regierung Forderungen nach weiterer Gewalt laut werden."
+      "headline": "Zwischenwahlen: Populismus droht Märkte zu beunruhigen",
+      "summary": "Die amerikanischen Zwischenwahlen im November könnten für Unruhe an den Märkten sorgen, da die Ausrichtung beider Parteien auf dem Spiel steht. Ein Sieg der Demokraten könnte Energie- und Finanzunternehmen unter Druck setzen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Notenbanken auf der ganzen Welt kaufen Goldreserven zu – die SNB nicht. Das sind die Gründe",
-      "summary": "Weltweit stocken Währungsbehörden ihre Goldbestände auf, ein Trend, der oft als Absicherung in unsicheren Zeiten gilt. Die Schweizer Nationalbank weicht jedoch von dieser globalen Strategie ab und hält ihre Goldreserven seit Jahren stabil."
+      "headline": "Ölpreise ziehen an, DAX gibt nach – Inflation rückt wieder ins Licht",
+      "summary": "Die Ölpreise steigen spürbar an, was die Inflation bald wieder zu einem zentralen Thema an den Märkten machen dürfte. Dies führt zu schwachen Vorgaben aus Asien und den USA, woraufhin der DAX nachgibt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Abgesetzt per sofort: In der Schweizer Unternehmenswelt mehren sich abrupte Chefwechsel",
-      "summary": "Geopolitische Veränderungen, Digitalisierungsdruck und Fachkräftemangel führen in Schweizer Firmen vermehrt zu plötzlichen Führungswechseln. Dies spiegelt gestiegene Anforderungen an CEOs und eine erhöhte Volatilität in Top-Management-Positionen wider."
+      "headline": "Notenbanken kaufen Gold, SNB hält sich zurück",
+      "summary": "Weltweit stocken Währungsbehörden ihre Goldbestände auf, während die Schweizer Nationalbank ihre Reserven seit Jahren konstant hält. Diese divergierende Strategie wirft Fragen nach der Angemessenheit der Goldbestände auf."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "3D-Hirngewebemodell soll Alzheimer-Forschung verbessern",
-      "summary": "Münchner Forschende haben ein 3D-Modell aus menschlichen Hirnzellen entwickelt, um Alzheimer besser zu verstehen und neue Wirkstoffe zu testen. Dieser Durchbruch könnte die Medikamentenentwicklung gegen die neurodegenerative Krankheit erheblich beschleunigen."
+      "headline": "Amazon zerstört seltene Bücher für KI-Training",
+      "summary": "Amazon, einst ein Buchhändler, zerstört Berichten zufolge seltene Bücher, um seine KI-Modelle zu trainieren. Dies ist besonders wertvoll, da diese Texte noch nicht im großen Stil online verfügbar sind."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "summary": "Amazon steht in der Kritik, seltene Bücher zu zerstören, um seine Large Language Models (LLMs) zu trainieren. Dies wirft ethische Fragen bezüglich des Schutzes von Kulturgütern im Kontext der KI-Entwicklung auf."
+      "headline": "Anthropic: KI-Startup meldet massive Umsatzexplosion",
+      "summary": "Das KI-Modell-Unternehmen Anthropic verzeichnet einen enormen Anstieg des annualisierten Umsatzes auf 65 Milliarden Dollar. Innerhalb von nur zwei Monaten konnten 18 Milliarden Dollar an jährlichen Einnahmen hinzugefügt werden."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "summary": "Groq hat 350 Millionen Dollar bei einer Bewertung von 3,5 Milliarden Dollar eingesammelt, um seinen Strategiewechsel von AI-Chips hin zu einem Neocloud-Geschäftsmodell zu finanzieren. Das Unternehmen expandiert damit seine auf Nvidia-Technologie basierende Rechenzentrumsinfrastruktur."
+      "headline": "Higgsfield holt 400 Mio. $ in Serie B, Bewertung auf 5,4 Mrd. $",
+      "summary": "Higgsfield, gegründet von einem ehemaligen Snap-Manager, hat in einer Serie-B-Runde 400 Millionen Dollar eingesammelt. Damit vervierfacht sich die Bewertung des Startups zur Erstellung von KI-Bildern und -Videos innerhalb von acht Monaten auf 5,4 Milliarden Dollar."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "summary": "Stripe plant angeblich die Übernahme des KI-Gateway-Startups OpenRouter für über 7 Milliarden Dollar, was eine der größten Transaktionen im KI-Sektor darstellen würde. OpenRouter wurde zuvor von seinem CEO als 'Stripe für KI' beschrieben, was die strategische Bedeutung verdeutlicht."
+      "headline": "Groq sammelt 350 Mio. $ für KI-Neocloud-Pivot",
+      "summary": "Der ehemalige KI-Chiphersteller Groq hat 350 Millionen Dollar bei einer Bewertung von 3,5 Milliarden Dollar erhalten. Das Unternehmen vollzieht einen Pivot hin zu einem Neocloud-Geschäftsmodell und erweitert seine Nvidia-gestützten Rechenzentrumskapazitäten."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Wert eines Startups vor und nach der Finanzierungsrunde",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert eines Startups, *bevor* frisches Kapital durch eine Finanzierungsrunde eingebracht wird. Die Post-Money-Bewertung ist der Wert *nach* der Kapitalerhöhung.",
-    "details": "Wenn ein Investor Kapital in ein Startup investiert, erhöht sich der Gesamtwert des Unternehmens. Die Pre-Money-Bewertung spiegelt wider, wie viel das Unternehmen vor der Investition wert war. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese Unterscheidung ist entscheidend für die Berechnung der Anteile, die der Investor für sein Kapital erhält, da sich sein prozentualer Anteil am Unternehmen auf die Post-Money-Bewertung bezieht und die Verwässerung der Anteile bestehender Gesellschafter direkt davon abhängt.",
-    "takeaway": "Die Post-Money-Bewertung ist immer die Pre-Money-Bewertung plus das neu investierte Kapital. Sie ist der Schlüssel, um zu verstehen, wie viele Unternehmensanteile Investoren für ihr Geld erhalten und wie sich die Eigentümerstruktur nach einer Finanzierungsrunde neu verteilt."
+    "topic": "Das Black-Swan-Konzept: Unvorhersehbare Ereignisse mit gigantischen Folgen",
+    "category": "Historische Finanzereignisse & Krisen",
+    "concept": "Ein \"Schwarzer Schwan\" ist ein metaphorischer Begriff für ein extrem seltenes, unvorhersehbares Ereignis, das enorme und weitreichende Auswirkungen hat und im Nachhinein oft erklärbar erscheint, aber nicht vorhersehbar war.",
+    "details": "Das Konzept, popularisiert von Nassim Nicholas Taleb, beschreibt drei Merkmale: Es ist unerwartet, hat extreme Auswirkungen und wird erst rückblickend rationalisiert. Solche Ereignisse sprengen die Grenzen unserer normalen Erwartungen und statistischen Modelle. Für die Finanzmärkte bedeutet dies, dass Risikomanagementstrategien, die auf historischen Daten basieren, bei Schwarzen Schwänen oft versagen, da deren Eintreten nicht aus der Vergangenheit abgeleitet werden kann. Sie zeigen die Zerbrechlichkeit von Systemen und die Illusion der Vorhersagbarkeit auf.",
+    "takeaway": "Black-Swan-Ereignisse lehren uns, die Grenzen unserer Vorhersagefähigkeiten zu akzeptieren und Resilienz in Systemen zu schaffen, statt sich blind auf Modelle zu verlassen, die Normalität annehmen."
   }
 }
