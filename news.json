@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine greift Moskau mit Hunderten Drohnen an",
-      "summary": "Die Region Moskau wurde mit Hunderten Drohnen angegriffen, wobei offenbar ein Wildberries-Lager getroffen wurde. Berichte über britische Drohnen für die Ukraine sorgen zudem für massive Verstimmungen."
+      "headline": "Deutsche Politiker entsetzt über Äußerungen von Israels Polizeiminister Ben-Gvir",
+      "summary": "Israels Polizeiminister rief zur gezielten Tötung von Palästinensern auf, was in Deutschland massive Empörung auslöst. Vizekanzler Klingbeil verurteilte die Aussagen als menschenverachtend, was die internationalen Beziehungen belastet."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Zwischenwahlen: Populismus droht Märkte zu beunruhigen",
-      "summary": "Die amerikanischen Zwischenwahlen im November könnten für Unruhe an den Märkten sorgen, da die Ausrichtung beider Parteien auf dem Spiel steht. Ein Sieg der Demokraten könnte Energie- und Finanzunternehmen unter Druck setzen."
+      "headline": "Ein Moskauer Top-Ökonom spricht von einer Niederlage Russlands gegen die Ukraine – und wird entlassen",
+      "summary": "Ein renommierter russischer Ökonom wurde nach kritischen Äußerungen über Russlands Wirtschaft und den Krieg entlassen. Er hatte nüchtern dargelegt, dass der Abnutzungskrieg nicht zu gewinnen sei, was die politische Kontrolle über die Wahrheit in Russland unterstreicht."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Ölpreise ziehen an, DAX gibt nach – Inflation rückt wieder ins Licht",
-      "summary": "Die Ölpreise steigen spürbar an, was die Inflation bald wieder zu einem zentralen Thema an den Märkten machen dürfte. Dies führt zu schwachen Vorgaben aus Asien und den USA, woraufhin der DAX nachgibt."
+      "headline": "Marktbericht: Den DAX verlassen die Kräfte",
+      "summary": "Der DAX entfernt sich weiter von seinem jüngsten Rekordhoch, da der Ölmarkt angespannt bleibt und die Renditen am Anleihemarkt steigen. Dieses Umfeld wirkt sich negativ auf Aktien aus."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Notenbanken kaufen Gold, SNB hält sich zurück",
-      "summary": "Weltweit stocken Währungsbehörden ihre Goldbestände auf, während die Schweizer Nationalbank ihre Reserven seit Jahren konstant hält. Diese divergierende Strategie wirft Fragen nach der Angemessenheit der Goldbestände auf."
+      "headline": "BVR-Prognose: Niedrigwasser bremst Konjunktur nur vorübergehend",
+      "summary": "Der Verband der Genossenschaftsbanken (BVR) hat seine Prognose angepasst und rechnet mit einem stärkeren Wirtschaftswachstum in Deutschland für dieses Jahr. Niedrigwasser wird die Konjunktur demnach nur vorübergehend bremsen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Amazon zerstört seltene Bücher für KI-Training",
-      "summary": "Amazon, einst ein Buchhändler, zerstört Berichten zufolge seltene Bücher, um seine KI-Modelle zu trainieren. Dies ist besonders wertvoll, da diese Texte noch nicht im großen Stil online verfügbar sind."
+      "headline": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+      "summary": "Apple vereinfacht die Gebührenstruktur für seinen EU App Store und ersetzt die Pro-Installation-Gebühr durch eine 5%-Provision für extern vertriebene Apps. Zudem werden die Regeln für alternative App-Marktplätze gelockert."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Anthropic: KI-Startup meldet massive Umsatzexplosion",
-      "summary": "Das KI-Modell-Unternehmen Anthropic verzeichnet einen enormen Anstieg des annualisierten Umsatzes auf 65 Milliarden Dollar. Innerhalb von nur zwei Monaten konnten 18 Milliarden Dollar an jährlichen Einnahmen hinzugefügt werden."
+      "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "summary": "OpenAI hat eine speziell für Jugendliche entwickelte Version von ChatGPT eingeführt, die altersgerechte Sicherheitsmaßnahmen und elterliche Kontrollen bietet. Diese soll Jugendliche von schädlichen Inhalten abhalten und den Missbrauch für Hausaufgaben verhindern."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Higgsfield holt 400 Mio. $ in Serie B, Bewertung auf 5,4 Mrd. $",
-      "summary": "Higgsfield, gegründet von einem ehemaligen Snap-Manager, hat in einer Serie-B-Runde 400 Millionen Dollar eingesammelt. Damit vervierfacht sich die Bewertung des Startups zur Erstellung von KI-Bildern und -Videos innerhalb von acht Monaten auf 5,4 Milliarden Dollar."
+      "headline": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+      "summary": "Reach Capital hat erfolgreich seinen fünften Fonds mit 265 Millionen US-Dollar geschlossen, der überzeichnet war. Mit diesem Kapital will der VC-Fonds in KI-Gründer investieren, die das menschliche Potenzial erweitern."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Groq sammelt 350 Mio. $ für KI-Neocloud-Pivot",
-      "summary": "Der ehemalige KI-Chiphersteller Groq hat 350 Millionen Dollar bei einer Bewertung von 3,5 Milliarden Dollar erhalten. Das Unternehmen vollzieht einen Pivot hin zu einem Neocloud-Geschäftsmodell und erweitert seine Nvidia-gestützten Rechenzentrumskapazitäten."
+      "headline": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+      "summary": "Das Batteriematerial-Startup Anthro Energy hat den Grundstein für eine Fabrik in Louisville gelegt. Dort sollen Elektrolyte, einschließlich derer für Solid-State-Batterien, hergestellt werden, was einen wichtigen Schritt in der Batterietechnologie darstellt."
     }
   ],
   "learning": {
-    "topic": "Das Black-Swan-Konzept: Unvorhersehbare Ereignisse mit gigantischen Folgen",
-    "category": "Historische Finanzereignisse & Krisen",
-    "concept": "Ein \"Schwarzer Schwan\" ist ein metaphorischer Begriff für ein extrem seltenes, unvorhersehbares Ereignis, das enorme und weitreichende Auswirkungen hat und im Nachhinein oft erklärbar erscheint, aber nicht vorhersehbar war.",
-    "details": "Das Konzept, popularisiert von Nassim Nicholas Taleb, beschreibt drei Merkmale: Es ist unerwartet, hat extreme Auswirkungen und wird erst rückblickend rationalisiert. Solche Ereignisse sprengen die Grenzen unserer normalen Erwartungen und statistischen Modelle. Für die Finanzmärkte bedeutet dies, dass Risikomanagementstrategien, die auf historischen Daten basieren, bei Schwarzen Schwänen oft versagen, da deren Eintreten nicht aus der Vergangenheit abgeleitet werden kann. Sie zeigen die Zerbrechlichkeit von Systemen und die Illusion der Vorhersagbarkeit auf.",
-    "takeaway": "Black-Swan-Ereignisse lehren uns, die Grenzen unserer Vorhersagefähigkeiten zu akzeptieren und Resilienz in Systemen zu schaffen, statt sich blind auf Modelle zu verlassen, die Normalität annehmen."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Das Herzstück jeder Startup-Finanzierungsrunde",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* Erhalt des neuen Kapitals darstellt. Sie definieren den Wert des Unternehmens und den Anteil, den neue Investoren für ihr Kapital erhalten.",
+    "details": "Wenn ein Startup Kapital von einem Venture Capitalist (VC) erhält, muss der Wert des Unternehmens vorab festgelegt werden. Die Pre-Money-Bewertung ist dieser Wert, bevor der VC sein Investment tätigt. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese Post-Money-Bewertung wiederum bildet die Basis für die Berechnung des prozentualen Anteils, den der VC am Unternehmen erwirbt. Angenommen, ein Startup hat eine Pre-Money-Bewertung von 10 Millionen Euro und erhält 2 Millionen Euro Investment; dann ist die Post-Money-Bewertung 12 Millionen Euro. Der Investor würde 2/12 = 16,67% des Unternehmens besitzen.",
+    "takeaway": "Das Verständnis von Pre- und Post-Money ist entscheidend, um zu beurteilen, wie viel Unternehmensanteil Gründer und bestehende Aktionäre durch eine Finanzierungsrunde abgeben und welchen Wert das Unternehmen tatsächlich nach einem frischen Kapital-Boost hat. Es ist ein zentrales Element bei der Verhandlung von Investitionsbedingungen."
   }
 }
