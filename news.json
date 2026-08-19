@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Deutsche Politiker entsetzt über Äußerungen von Israels Polizeiminister Ben-Gvir",
-      "summary": "Israels Polizeiminister rief zur gezielten Tötung von Palästinensern auf, was in Deutschland massive Empörung auslöst. Vizekanzler Klingbeil verurteilte die Aussagen als menschenverachtend, was die internationalen Beziehungen belastet."
+      "headline": "USA und Südkorea verkürzen Militärmanöver",
+      "summary": "Die USA und Südkorea reduzieren ihre Militärübung zur Abwehr nordkoreanischer Angriffe. Dies könnte ein Signal der Entspannung nach Trumps jüngstem Lob für Kim Jong Un sein."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ein Moskauer Top-Ökonom spricht von einer Niederlage Russlands gegen die Ukraine – und wird entlassen",
-      "summary": "Ein renommierter russischer Ökonom wurde nach kritischen Äußerungen über Russlands Wirtschaft und den Krieg entlassen. Er hatte nüchtern dargelegt, dass der Abnutzungskrieg nicht zu gewinnen sei, was die politische Kontrolle über die Wahrheit in Russland unterstreicht."
+      "headline": "Handelsstreit: Trump pausiert Zölle gegen Kanada und will dafür Öl-Pipeline",
+      "summary": "US-Präsident Trump setzt Zölle gegen Kanada aus, fordert im Gegenzug jedoch den Bau einer Öl-Pipeline. Dies zeigt weiterhin Turbulenzen und strategische Manöver in den internationalen Handelsbeziehungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Den DAX verlassen die Kräfte",
-      "summary": "Der DAX entfernt sich weiter von seinem jüngsten Rekordhoch, da der Ölmarkt angespannt bleibt und die Renditen am Anleihemarkt steigen. Dieses Umfeld wirkt sich negativ auf Aktien aus."
+      "headline": "Marktbericht: Noch hält die 26.000er-Marke im DAX",
+      "summary": "Die Sorgen der Investoren wachsen angesichts steigender US-Anleiherenditen. Dies belastet insbesondere Tech-Aktien und könnte breitere Auswirkungen auf den Aktienmarkt haben."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "BVR-Prognose: Niedrigwasser bremst Konjunktur nur vorübergehend",
-      "summary": "Der Verband der Genossenschaftsbanken (BVR) hat seine Prognose angepasst und rechnet mit einem stärkeren Wirtschaftswachstum in Deutschland für dieses Jahr. Niedrigwasser wird die Konjunktur demnach nur vorübergehend bremsen."
+      "headline": "Fehlinvestitionen auch bei Kirchenbezirken, Pensionskassen und TÜV",
+      "summary": "Neue Recherchen zeigen, dass neben Krankenkassen auch Kirchenbezirke, Pensionskassen und der TÜV Millionen durch riskante Immobilienfonds verloren haben. Dies deutet auf verbreitete Risikobereitschaft und deren Folgen bei institutionellen Anlegern hin."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "summary": "Apple vereinfacht die Gebührenstruktur für seinen EU App Store und ersetzt die Pro-Installation-Gebühr durch eine 5%-Provision für extern vertriebene Apps. Zudem werden die Regeln für alternative App-Marktplätze gelockert."
+      "headline": "Prozess in Oakland: US-Staaten werfen Meta Gefährdung junger Nutzer vor",
+      "summary": "Mehrere US-Bundesstaaten klagen Meta an, Kinder absichtlich an Facebook und Instagram gebunden zu haben, was verheerende Folgen gehabt haben soll. Die Eröffnungsplädoyers im Prozess wurden nun gehalten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "summary": "OpenAI hat eine speziell für Jugendliche entwickelte Version von ChatGPT eingeführt, die altersgerechte Sicherheitsmaßnahmen und elterliche Kontrollen bietet. Diese soll Jugendliche von schädlichen Inhalten abhalten und den Missbrauch für Hausaufgaben verhindern."
+      "headline": "Apple überarbeitet Gebühren für den EU App Store",
+      "summary": "Apple vereinfacht seine EU App Store-Gebühren und ersetzt die Pro-Installations-Gebühr durch eine 5%-Provision für Apps, die außerhalb des App Stores vertrieben werden. Dies erleichtert Entwicklern den Betrieb alternativer Marktplätze."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
-      "summary": "Reach Capital hat erfolgreich seinen fünften Fonds mit 265 Millionen US-Dollar geschlossen, der überzeichnet war. Mit diesem Kapital will der VC-Fonds in KI-Gründer investieren, die das menschliche Potenzial erweitern."
+      "headline": "Roboterbauer Unitree startet erfolgreich an der Börse",
+      "summary": "Der chinesische Roboterbauer Unitree hat ein sehr erfolgreiches Börsendebüt gefeiert, mit einem Kurssprung von über 600 Prozent. Eine Milliardenbewertung übersteigt die aktuellen Geschäftszahlen noch um ein Vielfaches."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-      "summary": "Das Batteriematerial-Startup Anthro Energy hat den Grundstein für eine Fabrik in Louisville gelegt. Dort sollen Elektrolyte, einschließlich derer für Solid-State-Batterien, hergestellt werden, was einen wichtigen Schritt in der Batterietechnologie darstellt."
+      "headline": "DOJ-Ermittlungen gegen Andreessen Horowitz über Board-Sitze verwirren VCs",
+      "summary": "Eine Untersuchung des Justizministeriums gegen Andreessen Horowitz wegen potenzieller Interessenkonflikte bei Board-Sitzen sorgt in der VC-Branche für Verwirrung. Investoren sehen gelegentliche Konflikte bei großen VC-Firmen oft als unvermeidlich an."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Das Herzstück jeder Startup-Finanzierungsrunde",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* Erhalt des neuen Kapitals darstellt. Sie definieren den Wert des Unternehmens und den Anteil, den neue Investoren für ihr Kapital erhalten.",
-    "details": "Wenn ein Startup Kapital von einem Venture Capitalist (VC) erhält, muss der Wert des Unternehmens vorab festgelegt werden. Die Pre-Money-Bewertung ist dieser Wert, bevor der VC sein Investment tätigt. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese Post-Money-Bewertung wiederum bildet die Basis für die Berechnung des prozentualen Anteils, den der VC am Unternehmen erwirbt. Angenommen, ein Startup hat eine Pre-Money-Bewertung von 10 Millionen Euro und erhält 2 Millionen Euro Investment; dann ist die Post-Money-Bewertung 12 Millionen Euro. Der Investor würde 2/12 = 16,67% des Unternehmens besitzen.",
-    "takeaway": "Das Verständnis von Pre- und Post-Money ist entscheidend, um zu beurteilen, wie viel Unternehmensanteil Gründer und bestehende Aktionäre durch eine Finanzierungsrunde abgeben und welchen Wert das Unternehmen tatsächlich nach einem frischen Kapital-Boost hat. Es ist ein zentrales Element bei der Verhandlung von Investitionsbedingungen."
+    "topic": "Ablauf eines Short Squeeze: Wenn Leerverkäufer in die Klemme geraten",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze tritt auf, wenn der Kurs einer Aktie unerwartet stark steigt und Leerverkäufer dazu zwingt, Aktien zurückzukaufen, was den Preis noch weiter in die Höhe treibt.",
+    "details": "Beim Leerverkauf werden Aktien geliehen und verkauft, in der Erwartung, sie später zu einem niedrigeren Preis zurückzukaufen. Steigt der Kurs jedoch drastisch, sehen sich Leerverkäufer mit schnell wachsenden Verlusten konfrontiert. Um diese zu begrenzen, müssen sie ihre Positionen schließen, indem sie die Aktien am Markt kaufen – unabhängig vom Preis. Dieser erzwungene Kauf generiert eine enorme Nachfrage, die den Aktienkurs noch weiter in die Höhe schießen lässt und weitere Leerverkäufer in dieselbe missliche Lage bringt.",
+    "takeaway": "Short Squeezes demonstrieren die Macht von Marktmechanismen und können zu extrem schnellen, dramatischen Kurssteigerungen führen, oft zum Leidwesen stark leerverkaufter Unternehmen. Sie sind ein eindringliches Beispiel für die Emotionen von Angst und Gier an den Finanzmärkten."
   }
 }
