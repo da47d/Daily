@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA und Südkorea verkürzen Militärmanöver",
-      "summary": "Die USA und Südkorea reduzieren ihre Militärübung zur Abwehr nordkoreanischer Angriffe. Dies könnte ein Signal der Entspannung nach Trumps jüngstem Lob für Kim Jong Un sein."
+      "headline": "Selenskyj entlässt Vize-Präsidialamtschefin nach Razzia in Kiew",
+      "summary": "Die ukrainischen Antikorruptionsbehörden gehen erneut gegen Abgeordnete und das Umfeld von Präsident Selenskyj vor, was zur Entlassung einer Vize-Präsidialamtschefin führte. Zugleich steigt der politische Druck mit Forderungen nach Wahlen, selbst während des Krieges."
     },
     {
       "tag": "POLITIK & GLOBAL",
       "headline": "Handelsstreit: Trump pausiert Zölle gegen Kanada und will dafür Öl-Pipeline",
-      "summary": "US-Präsident Trump setzt Zölle gegen Kanada aus, fordert im Gegenzug jedoch den Bau einer Öl-Pipeline. Dies zeigt weiterhin Turbulenzen und strategische Manöver in den internationalen Handelsbeziehungen."
+      "summary": "Donald Trump hat seine umstrittenen Zölle gegen Kanada vorläufig ausgesetzt, knüpft dies jedoch an die Bedingung einer Öl-Pipeline. Diese Entwicklung im Handelsstreit verursacht weiterhin globale Turbulenzen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Noch hält die 26.000er-Marke im DAX",
-      "summary": "Die Sorgen der Investoren wachsen angesichts steigender US-Anleiherenditen. Dies belastet insbesondere Tech-Aktien und könnte breitere Auswirkungen auf den Aktienmarkt haben."
+      "headline": "Kaufzurückhaltung: DAX tritt auf der Stelle",
+      "summary": "Der deutsche Leitindex DAX zeigte kaum Bewegung, da wachsende Sorgen um die Situation in Nahost und steigende Anleiherenditen die Kauflaune der Anleger dämpften. Dies führte zu einer allgemeinen Kaufzurückhaltung am Markt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Fehlinvestitionen auch bei Kirchenbezirken, Pensionskassen und TÜV",
-      "summary": "Neue Recherchen zeigen, dass neben Krankenkassen auch Kirchenbezirke, Pensionskassen und der TÜV Millionen durch riskante Immobilienfonds verloren haben. Dies deutet auf verbreitete Risikobereitschaft und deren Folgen bei institutionellen Anlegern hin."
+      "headline": "Milliardenabschreiber: Australischer Pharmakonzern CSL verrechnet sich mit Schweizer Tochter Vifor",
+      "summary": "Der australische Pharmakonzern CSL sieht sich gezwungen, rund ein Drittel der 12 Milliarden Dollar abzuschreiben, die er vor vier Jahren für die Schweizer Tochter Vifor zahlte. Diese massive Wertberichtigung ist mit einem umfangreichen Stellenabbau verbunden."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Prozess in Oakland: US-Staaten werfen Meta Gefährdung junger Nutzer vor",
-      "summary": "Mehrere US-Bundesstaaten klagen Meta an, Kinder absichtlich an Facebook und Instagram gebunden zu haben, was verheerende Folgen gehabt haben soll. Die Eröffnungsplädoyers im Prozess wurden nun gehalten."
+      "headline": "TerraPower's nuklearer Reaktor als Geheimwaffe für KI-Rechenzentren",
+      "summary": "TerraPowers Kernkraftwerk verfügt über einen strategischen Vorteil gegenüber Wettbewerbern, insbesondere bei der Energieversorgung von KI-Rechenzentren. Diese Entwicklung könnte die Infrastruktur des wachsenden KI-Sektors maßgeblich beeinflussen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Apple überarbeitet Gebühren für den EU App Store",
-      "summary": "Apple vereinfacht seine EU App Store-Gebühren und ersetzt die Pro-Installations-Gebühr durch eine 5%-Provision für Apps, die außerhalb des App Stores vertrieben werden. Dies erleichtert Entwicklern den Betrieb alternativer Marktplätze."
+      "headline": "Heim-Batterien plötzlich günstig und überall verfügbar",
+      "summary": "Heim-Batterien werden plötzlich günstiger und sind weit verbreitet, wobei Unternehmen wie Tesla und Base Power um Marktanteile kämpfen. Eine bahnbrechende Technologie hat diese rasche Entwicklung ermöglicht und treibt den Markt voran."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Roboterbauer Unitree startet erfolgreich an der Börse",
-      "summary": "Der chinesische Roboterbauer Unitree hat ein sehr erfolgreiches Börsendebüt gefeiert, mit einem Kurssprung von über 600 Prozent. Eine Milliardenbewertung übersteigt die aktuellen Geschäftszahlen noch um ein Vielfaches."
+      "headline": "Rivian-Spinout Also sammelt weitere 150 Millionen US-Dollar ein",
+      "summary": "Also, ein Spinout von Rivian, hat in einer von Prysm Capital geführten Runde weitere 150 Millionen US-Dollar erhalten. Das Kapital soll die Expansion über E-Bikes und Cargo-Quads hinaus auf autonome Lieferfahrzeuge finanzieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "DOJ-Ermittlungen gegen Andreessen Horowitz über Board-Sitze verwirren VCs",
-      "summary": "Eine Untersuchung des Justizministeriums gegen Andreessen Horowitz wegen potenzieller Interessenkonflikte bei Board-Sitzen sorgt in der VC-Branche für Verwirrung. Investoren sehen gelegentliche Konflikte bei großen VC-Firmen oft als unvermeidlich an."
+      "headline": "Sachin Bansals Fintech Navi erhält erste externe Finanzierung über 100 Millionen US-Dollar",
+      "summary": "Navi, das Fintech von Sachin Bansal, hat mit einer Investition von 100 Millionen US-Dollar von Prosus seine erste externe Kapitalzufuhr erhalten. Diese Finanzierung erfolgt im Vorfeld von Navis Plänen für einen Börsengang."
     }
   ],
   "learning": {
-    "topic": "Ablauf eines Short Squeeze: Wenn Leerverkäufer in die Klemme geraten",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze tritt auf, wenn der Kurs einer Aktie unerwartet stark steigt und Leerverkäufer dazu zwingt, Aktien zurückzukaufen, was den Preis noch weiter in die Höhe treibt.",
-    "details": "Beim Leerverkauf werden Aktien geliehen und verkauft, in der Erwartung, sie später zu einem niedrigeren Preis zurückzukaufen. Steigt der Kurs jedoch drastisch, sehen sich Leerverkäufer mit schnell wachsenden Verlusten konfrontiert. Um diese zu begrenzen, müssen sie ihre Positionen schließen, indem sie die Aktien am Markt kaufen – unabhängig vom Preis. Dieser erzwungene Kauf generiert eine enorme Nachfrage, die den Aktienkurs noch weiter in die Höhe schießen lässt und weitere Leerverkäufer in dieselbe missliche Lage bringt.",
-    "takeaway": "Short Squeezes demonstrieren die Macht von Marktmechanismen und können zu extrem schnellen, dramatischen Kurssteigerungen führen, oft zum Leidwesen stark leerverkaufter Unternehmen. Sie sind ein eindringliches Beispiel für die Emotionen von Angst und Gier an den Finanzmärkten."
+    "topic": "Pre-Money vs. Post-Money Bewertung in der Startup-Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money Bewertung ist der Wert eines Startups *vor* einer neuen Finanzierungsrunde, während die Post-Money Bewertung den Wert *nach* Erhalt der Investition und der Ausgabe neuer Anteile darstellt.",
+    "details": "Wenn ein Startup Kapital von Investoren erhält, geschieht dies in der Regel im Austausch für Unternehmensanteile. Die Pre-Money Bewertung hilft zu bestimmen, wie viele Anteile die Investoren für ihr Geld bekommen, indem sie den Wert des Unternehmens vor der Kapitalzuführung festlegt. Die Post-Money Bewertung ergibt sich aus der Summe der Pre-Money Bewertung und dem investierten Kapital. Sie repräsentiert den Gesamtwert des Unternehmens, inklusive der neuen Investition, und ist entscheidend für die Berechnung der Eigentumsanteile der neuen und alten Gesellschafter.",
+    "takeaway": "Für Gründer ist es wichtig, den Unterschied zu verstehen, da die Pre-Money Bewertung direkt beeinflusst, wie stark die bestehenden Anteile durch eine Finanzierungsrunde verwässert werden und welchen Anteil Investoren am Unternehmen erhalten."
   }
 }
