@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Selenskyj entlässt Vize-Präsidialamtschefin nach Razzia in Kiew",
-      "summary": "Die ukrainischen Antikorruptionsbehörden gehen erneut gegen Abgeordnete und das Umfeld von Präsident Selenskyj vor, was zur Entlassung einer Vize-Präsidialamtschefin führte. Zugleich steigt der politische Druck mit Forderungen nach Wahlen, selbst während des Krieges."
+      "headline": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
+      "summary": "Russland hat die ukrainische Hauptstadt Kiew erneut massiv angegriffen, wobei mindestens sechs Menschen getötet und über 30 verletzt wurden. Polen reagierte mit einer militärischen Luftoperation zum Schutz seines Luftraums."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit: Trump pausiert Zölle gegen Kanada und will dafür Öl-Pipeline",
-      "summary": "Donald Trump hat seine umstrittenen Zölle gegen Kanada vorläufig ausgesetzt, knüpft dies jedoch an die Bedingung einer Öl-Pipeline. Diese Entwicklung im Handelsstreit verursacht weiterhin globale Turbulenzen."
+      "headline": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
+      "summary": "Bei einem israelischen Luftangriff auf eine Polizeiwache in Gaza wurden nach palästinensischen Angaben neun Menschen getötet. Israels Armee erklärte, der Angriff habe einem Hamas-Kommandeur gegolten, was die Spannungen in der Region weiter erhöht."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Kaufzurückhaltung: DAX tritt auf der Stelle",
-      "summary": "Der deutsche Leitindex DAX zeigte kaum Bewegung, da wachsende Sorgen um die Situation in Nahost und steigende Anleiherenditen die Kauflaune der Anleger dämpften. Dies führte zu einer allgemeinen Kaufzurückhaltung am Markt."
+      "headline": "Marktbericht: Steigende Zinserwartungen machen Anlegern Sorgen",
+      "summary": "Steigende Zinserwartungen und Krisensignale vom Anleihemarkt sorgen für schlechte Stimmung unter Anlegern. Der DAX hält sich zwar noch über 26.000 Punkten, doch die unbegrenzt steigenden US-Staatsschulden verstärken die Sorgen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Milliardenabschreiber: Australischer Pharmakonzern CSL verrechnet sich mit Schweizer Tochter Vifor",
-      "summary": "Der australische Pharmakonzern CSL sieht sich gezwungen, rund ein Drittel der 12 Milliarden Dollar abzuschreiben, die er vor vier Jahren für die Schweizer Tochter Vifor zahlte. Diese massive Wertberichtigung ist mit einem umfangreichen Stellenabbau verbunden."
+      "headline": "Kaufzurückhaltung: DAX tritt auf der Stelle",
+      "summary": "Zunehmende Sorgen wegen der ungeklärten Lage in Nahost und steigende Anleiherenditen trüben die Kauflaune der Aktien-Anleger. Dies führt zu wenig Bewegung im deutschen Leitindex, der auf der Stelle tritt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "TerraPower's nuklearer Reaktor als Geheimwaffe für KI-Rechenzentren",
-      "summary": "TerraPowers Kernkraftwerk verfügt über einen strategischen Vorteil gegenüber Wettbewerbern, insbesondere bei der Energieversorgung von KI-Rechenzentren. Diese Entwicklung könnte die Infrastruktur des wachsenden KI-Sektors maßgeblich beeinflussen."
+      "headline": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+      "summary": "Waymo hat sein günstigeres Robotaxi der nächsten Generation, den Waymo Ojai, für alle Nutzer in drei Städten geöffnet. Dies ist ein zentraler Schritt des Unternehmens auf dem Weg zur Massenintegration und Profitabilität autonomer Fahrtechnologie."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Heim-Batterien plötzlich günstig und überall verfügbar",
-      "summary": "Heim-Batterien werden plötzlich günstiger und sind weit verbreitet, wobei Unternehmen wie Tesla und Base Power um Marktanteile kämpfen. Eine bahnbrechende Technologie hat diese rasche Entwicklung ermöglicht und treibt den Markt voran."
+      "headline": "AI was supposed to win people over by now — it hasn’t",
+      "summary": "Trotz zunehmender Präsenz wächst die Skepsis der Konsumenten gegenüber Künstlicher Intelligenz, was die breite Akzeptanz in der Bevölkerung erschwert. Silicon Valley muss feststellen, dass weitreichende Verbreitung nicht zwingend zu Begeisterung führt."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Rivian-Spinout Also sammelt weitere 150 Millionen US-Dollar ein",
-      "summary": "Also, ein Spinout von Rivian, hat in einer von Prysm Capital geführten Runde weitere 150 Millionen US-Dollar erhalten. Das Kapital soll die Expansion über E-Bikes und Cargo-Quads hinaus auf autonome Lieferfahrzeuge finanzieren."
+      "headline": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+      "summary": "Das auf KI spezialisierte Account-Startup Rillet erreichte eine Bewertung von 1 Milliarde US-Dollar nach einer Series-C-Finanzierungsrunde über 100 Millionen US-Dollar. Dies gelang, nachdem das Unternehmen seinen jährlichen wiederkehrenden Umsatz (ARR) in den letzten drei Monaten verdoppelte."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sachin Bansals Fintech Navi erhält erste externe Finanzierung über 100 Millionen US-Dollar",
-      "summary": "Navi, das Fintech von Sachin Bansal, hat mit einer Investition von 100 Millionen US-Dollar von Prosus seine erste externe Kapitalzufuhr erhalten. Diese Finanzierung erfolgt im Vorfeld von Navis Plänen für einen Börsengang."
+      "headline": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "summary": "Der Zahlungsdienstleistungsriese Stripe hat OpenRouter, ein Startup für das Routing von KI-Prompts, übernommen, jedoch nicht aus esoterischen Gründen. Die tatsächlichen Motive hinter dieser Akquisition sind viel praktischer und mächtiger."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung in der Startup-Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money Bewertung ist der Wert eines Startups *vor* einer neuen Finanzierungsrunde, während die Post-Money Bewertung den Wert *nach* Erhalt der Investition und der Ausgabe neuer Anteile darstellt.",
-    "details": "Wenn ein Startup Kapital von Investoren erhält, geschieht dies in der Regel im Austausch für Unternehmensanteile. Die Pre-Money Bewertung hilft zu bestimmen, wie viele Anteile die Investoren für ihr Geld bekommen, indem sie den Wert des Unternehmens vor der Kapitalzuführung festlegt. Die Post-Money Bewertung ergibt sich aus der Summe der Pre-Money Bewertung und dem investierten Kapital. Sie repräsentiert den Gesamtwert des Unternehmens, inklusive der neuen Investition, und ist entscheidend für die Berechnung der Eigentumsanteile der neuen und alten Gesellschafter.",
-    "takeaway": "Für Gründer ist es wichtig, den Unterschied zu verstehen, da die Pre-Money Bewertung direkt beeinflusst, wie stark die bestehenden Anteile durch eine Finanzierungsrunde verwässert werden und welchen Anteil Investoren am Unternehmen erhalten."
+    "topic": "Burn Rate und Runway: Die Lebensuhr eines Startups",
+    "category": "Finanz-Dechiffrierung: Abkürzungen und Produktbezeichnungen zerlegen",
+    "concept": "Die Burn Rate misst, wie schnell ein Startup seine liquiden Mittel verbraucht; die Runway gibt an, wie lange das verbleibende Kapital noch ausreicht.",
+    "details": "Die monatliche Burn Rate ist der Netto-Cashflow-Verbrauch, der sich aus allen Ausgaben (Gehälter, Miete, Marketing) abzüglich aller Einnahmen (Umsätze) ergibt. Eine positive Burn Rate bedeutet, dass das Unternehmen mehr Geld ausgibt als es einnimmt. Die Runway berechnet sich, indem das gesamte verbleibende Kapital durch die monatliche Burn Rate geteilt wird. Sie ist ein kritischer Indikator für Gründer und Investoren, da sie den Zeitpunkt signalisiert, wann frisches Kapital benötigt wird, um die Geschäftstätigkeit aufrechtzuerhalten.",
+    "takeaway": "Eine lange Runway ist entscheidend, um die nötige Zeit für Produktentwicklung und Kundenakquise zu haben. Gründer müssen ihre Burn Rate ständig im Blick behalten, um Überraschungen zu vermeiden und rechtzeitig Finanzierungsrunden zu planen."
   }
 }
