@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
-      "summary": "Russland hat die ukrainische Hauptstadt Kiew erneut massiv angegriffen, wobei mindestens sechs Menschen getötet und über 30 verletzt wurden. Polen reagierte mit einer militärischen Luftoperation zum Schutz seines Luftraums."
+      "headline": "Internationaler Strafgerichtshof: Vereint gegen Kriegsverbrechen und Völkermord?",
+      "summary": "Die US-Regierung hat jüngst Sanktionen gegen Mitglieder des Internationalen Strafgerichtshofs verhängt. Dies wirft Fragen nach der Rolle und den Aufgaben des Gerichts in Den Haag auf, das sich gegen Kriegsverbrechen und Völkermord einsetzt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
-      "summary": "Bei einem israelischen Luftangriff auf eine Polizeiwache in Gaza wurden nach palästinensischen Angaben neun Menschen getötet. Israels Armee erklärte, der Angriff habe einem Hamas-Kommandeur gegolten, was die Spannungen in der Region weiter erhöht."
+      "headline": "Schweiz und China schliessen Verhandlungen über Freihandelsabkommen ab",
+      "summary": "Die Schweiz und China haben ihr Freihandelsabkommen erfolgreich optimiert. Künftig sollen Schweizer Exporte zollfrei auf den chinesischen Markt gelangen, was die Handelsbeziehungen beider Länder stärkt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Steigende Zinserwartungen machen Anlegern Sorgen",
-      "summary": "Steigende Zinserwartungen und Krisensignale vom Anleihemarkt sorgen für schlechte Stimmung unter Anlegern. Der DAX hält sich zwar noch über 26.000 Punkten, doch die unbegrenzt steigenden US-Staatsschulden verstärken die Sorgen."
+      "headline": "ERKLÄRT - Amerikas Schuldenberg hat die Marke von 40 Billionen Dollar überschritten. Wie lange geht das noch gut?",
+      "summary": "Amerikas Staatsschulden haben eine Rekordmarke von über 40 Billionen Dollar erreicht, während Präsident Trump Sparmaßnahmen ablehnt. Diese Entwicklung wirft Bedenken über die langfristige finanzielle Stabilität der USA auf."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Kaufzurückhaltung: DAX tritt auf der Stelle",
-      "summary": "Zunehmende Sorgen wegen der ungeklärten Lage in Nahost und steigende Anleiherenditen trüben die Kauflaune der Aktien-Anleger. Dies führt zu wenig Bewegung im deutschen Leitindex, der auf der Stelle tritt."
+      "headline": "KURZMELDUNGEN - Wirtschaft: China bleibt Deutschlands Top-Handelspartner +++ Daimler Truck erzielt 600 Millionen Euro mit Archion-Verkauf",
+      "summary": "China behauptet weiterhin seine Position als Deutschlands wichtigster Handelspartner, was die engen wirtschaftlichen Verflechtungen unterstreicht. Indes konnte Daimler Truck 600 Millionen Euro durch den Verkauf von Archion erzielen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-      "summary": "Waymo hat sein günstigeres Robotaxi der nächsten Generation, den Waymo Ojai, für alle Nutzer in drei Städten geöffnet. Dies ist ein zentraler Schritt des Unternehmens auf dem Weg zur Massenintegration und Profitabilität autonomer Fahrtechnologie."
+      "headline": "Der Jackpot bei Krebsimpfungen ist noch nicht geknackt",
+      "summary": "Vielversprechende Studiendaten von Moderna und Merck wecken Hoffnungen bei Patienten und Investoren im Bereich der Krebsimpfungen. Trotz der positiven Entwicklungen gibt es jedoch noch erhebliche Hürden für eine breite Anwendung der Technologie."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "AI was supposed to win people over by now — it hasn’t",
-      "summary": "Trotz zunehmender Präsenz wächst die Skepsis der Konsumenten gegenüber Künstlicher Intelligenz, was die breite Akzeptanz in der Bevölkerung erschwert. Silicon Valley muss feststellen, dass weitreichende Verbreitung nicht zwingend zu Begeisterung führt."
+      "headline": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "summary": "Eine neue Studie zeigt, dass ein Drittel aller seit dem Start von ChatGPT veröffentlichten Webseiten Anzeichen von KI-Autorenschaft aufweist. Dies deutet auf den massiven Einfluss von KI-Modellen beim Erstellen und Bearbeiten von Webinhalten hin."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-      "summary": "Das auf KI spezialisierte Account-Startup Rillet erreichte eine Bewertung von 1 Milliarde US-Dollar nach einer Series-C-Finanzierungsrunde über 100 Millionen US-Dollar. Dies gelang, nachdem das Unternehmen seinen jährlichen wiederkehrenden Umsatz (ARR) in den letzten drei Monaten verdoppelte."
+      "headline": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+      "summary": "Adit Singh, ein früher Investor von Cerebras, ist Mayfield als Infrastrukturpartner beigetreten. Er wird sich auf Investitionen in Halbleiter, Cybersicherheit und physische KI konzentrieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "summary": "Der Zahlungsdienstleistungsriese Stripe hat OpenRouter, ein Startup für das Routing von KI-Prompts, übernommen, jedoch nicht aus esoterischen Gründen. Die tatsächlichen Motive hinter dieser Akquisition sind viel praktischer und mächtiger."
+      "headline": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
+      "summary": "Das Y Combinator-Alumnus-Startup Apollo Atomics arbeitet daran, die Kosten für Kernenergie zu senken, indem es einen bisher übersehenen Kernreaktorteil verkleinert. Dies verspricht, die Stromkosten unter die von Erdgas zu drücken und die Energieerzeugung zu revolutionieren."
     }
   ],
   "learning": {
-    "topic": "Burn Rate und Runway: Die Lebensuhr eines Startups",
-    "category": "Finanz-Dechiffrierung: Abkürzungen und Produktbezeichnungen zerlegen",
-    "concept": "Die Burn Rate misst, wie schnell ein Startup seine liquiden Mittel verbraucht; die Runway gibt an, wie lange das verbleibende Kapital noch ausreicht.",
-    "details": "Die monatliche Burn Rate ist der Netto-Cashflow-Verbrauch, der sich aus allen Ausgaben (Gehälter, Miete, Marketing) abzüglich aller Einnahmen (Umsätze) ergibt. Eine positive Burn Rate bedeutet, dass das Unternehmen mehr Geld ausgibt als es einnimmt. Die Runway berechnet sich, indem das gesamte verbleibende Kapital durch die monatliche Burn Rate geteilt wird. Sie ist ein kritischer Indikator für Gründer und Investoren, da sie den Zeitpunkt signalisiert, wann frisches Kapital benötigt wird, um die Geschäftstätigkeit aufrechtzuerhalten.",
-    "takeaway": "Eine lange Runway ist entscheidend, um die nötige Zeit für Produktentwicklung und Kundenakquise zu haben. Gründer müssen ihre Burn Rate ständig im Blick behalten, um Überraschungen zu vermeiden und rechtzeitig Finanzierungsrunden zu planen."
+    "topic": "Das Black-Swan-Konzept: Unvorhersehbare Marktbeben verstehen",
+    "category": "Historische Finanzereignisse & Krisen",
+    "concept": "Ein Black-Swan-Ereignis ist ein seltenes, unvorhersehbares Ereignis mit extrem hohen Auswirkungen, das im Nachhinein als offensichtlich erscheint. Es beschreibt Extremsituationen, die jenseits normaler Erwartungen liegen.",
+    "details": "Nassim Nicholas Taleb prägte den Begriff, um Ereignisse wie die Finanzkrise 2008 oder den Aufstieg des Internets zu beschreiben. Solche 'Schwarzen Schwäne' sind durch drei Merkmale gekennzeichnet: Sie sind extrem selten (Outlier), haben enorme Auswirkungen und werden erst im Rückblick rationalisiert und erklärt, obwohl sie nicht vorhersehbar waren. Für Finanzakteure bedeutet dies, dass traditionelle Risikomodelle, die auf historischen Daten basieren, oft blind für diese Extremereignisse sind und die Notwendigkeit von Robustheit und Antifragilität in Strategien unterstreichen.",
+    "takeaway": "Verstehe, dass Märkte und Wirtschaft immer unvorhergesehene Schocks erleben können. Konzentriere dich auf die Robustheit deines Portfolios, anstatt nur auf die Maximierung von Renditen unter 'normalen' Umständen."
   }
 }
