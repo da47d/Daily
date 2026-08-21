@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Internationaler Strafgerichtshof: Vereint gegen Kriegsverbrechen und Völkermord?",
-      "summary": "Die US-Regierung hat jüngst Sanktionen gegen Mitglieder des Internationalen Strafgerichtshofs verhängt. Dies wirft Fragen nach der Rolle und den Aufgaben des Gerichts in Den Haag auf, das sich gegen Kriegsverbrechen und Völkermord einsetzt."
+      "headline": "Europäer und Kanada fordern Israel auf, Siedlungspläne zurückzunehmen",
+      "summary": "Deutschland und sechs weitere Länder fordern Israel auf, die umstrittenen Siedlungspläne im besetzten Westjordanland aufzugeben. Diese würden das Gebiet faktisch weiter aufspalten und internationale Bemühungen zur Friedenssicherung untergraben."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Schweiz und China schliessen Verhandlungen über Freihandelsabkommen ab",
-      "summary": "Die Schweiz und China haben ihr Freihandelsabkommen erfolgreich optimiert. Künftig sollen Schweizer Exporte zollfrei auf den chinesischen Markt gelangen, was die Handelsbeziehungen beider Länder stärkt."
+      "headline": "Handelsstreit: Trump kündigt an, Zölle für Waren aus Kanada zu senken",
+      "summary": "Donald Trump kündigt einen möglichen 'Deal' zur Senkung der Zölle für kanadische Waren an, nachdem seine umstrittenen Zollentscheidungen weltweit für Turbulenzen sorgten. Die Verhandlungen über das Abkommen dauern an und ein endgültiges Ergebnis bleibt abzuwarten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "ERKLÄRT - Amerikas Schuldenberg hat die Marke von 40 Billionen Dollar überschritten. Wie lange geht das noch gut?",
-      "summary": "Amerikas Staatsschulden haben eine Rekordmarke von über 40 Billionen Dollar erreicht, während Präsident Trump Sparmaßnahmen ablehnt. Diese Entwicklung wirft Bedenken über die langfristige finanzielle Stabilität der USA auf."
+      "headline": "IWF-Finanzmarktchef warnt: Steigende Schuldenquoten sind sehr gefährlich",
+      "summary": "Der IWF-Finanzmarktchef Tobias Adrian warnt, dass die steigenden Schuldenquoten vieler Länder bei gleichzeitig sinkendem globalen Wachstum ein erhebliches Risiko darstellen. Dies könnte den Druck auf die Zentralbanken erhöhen, die Zinsen aus politischen Gründen zu senken."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "KURZMELDUNGEN - Wirtschaft: China bleibt Deutschlands Top-Handelspartner +++ Daimler Truck erzielt 600 Millionen Euro mit Archion-Verkauf",
-      "summary": "China behauptet weiterhin seine Position als Deutschlands wichtigster Handelspartner, was die engen wirtschaftlichen Verflechtungen unterstreicht. Indes konnte Daimler Truck 600 Millionen Euro durch den Verkauf von Archion erzielen."
+      "headline": "Amerikas Schuldenberg hat die Marke von 40 Billionen Dollar überschritten",
+      "summary": "Die US-Staatsschulden haben die Marke von 40 Billionen Dollar überschritten, eine Entwicklung, die sich auch unter Präsident Trump fortsetzte. Diese immense Schuldenlast birgt langfristige Risiken für die amerikanische und globale Finanzstabilität."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Der Jackpot bei Krebsimpfungen ist noch nicht geknackt",
-      "summary": "Vielversprechende Studiendaten von Moderna und Merck wecken Hoffnungen bei Patienten und Investoren im Bereich der Krebsimpfungen. Trotz der positiven Entwicklungen gibt es jedoch noch erhebliche Hürden für eine breite Anwendung der Technologie."
+      "headline": "ChatGPT kann jetzt SMS über Apple Messages versenden",
+      "summary": "ChatGPT erweitert seine Funktionalität durch eine neue Integration mit Apple Messages, die Nutzern erlaubt, Texte automatisch versenden zu lassen. Diese Neuerung unterstreicht die fortschreitende Einbindung von KI in den Alltag und verändert die digitale Kommunikation."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
-      "summary": "Eine neue Studie zeigt, dass ein Drittel aller seit dem Start von ChatGPT veröffentlichten Webseiten Anzeichen von KI-Autorenschaft aufweist. Dies deutet auf den massiven Einfluss von KI-Modellen beim Erstellen und Bearbeiten von Webinhalten hin."
+      "headline": "Tesla, Uber, Waymo erhalten Genehmigung für 8.000 Robotaxis in Nevada",
+      "summary": "Tesla, Uber und Waymo haben die Erlaubnis erhalten, in Nevada in den nächsten 12 Monaten bis zu 8.000 Robotaxis in Betrieb zu nehmen. Dies ist ein bedeutender Meilenstein für die Massenintegration autonomer Fahrdienste in den öffentlichen Verkehr und die Zukunft der Mobilität."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-      "summary": "Adit Singh, ein früher Investor von Cerebras, ist Mayfield als Infrastrukturpartner beigetreten. Er wird sich auf Investitionen in Halbleiter, Cybersicherheit und physische KI konzentrieren."
+      "headline": "KI-Daten-Startup Micro1 erreicht 500 Mio. $ Run Rate im AI-Trainingsboom",
+      "summary": "Das KI-Daten-Startup Micro1 verzeichnet inmitten des rasanten Wachstums der Nachfrage nach KI-Trainingsdaten eine Brutto-Run-Rate von 500 Millionen US-Dollar. Dieser Erfolg spiegelt den aktuellen Boom im Bereich der künstlichen Intelligenz und die Bedeutung von qualitativ hochwertigen Trainingsdaten wider."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
-      "summary": "Das Y Combinator-Alumnus-Startup Apollo Atomics arbeitet daran, die Kosten für Kernenergie zu senken, indem es einen bisher übersehenen Kernreaktorteil verkleinert. Dies verspricht, die Stromkosten unter die von Erdgas zu drücken und die Energieerzeugung zu revolutionieren."
+      "headline": "Ein $1B-Gründer verrät, was VCs wirklich wollen",
+      "summary": "Ein erfahrener Gründer, der über eine Milliarde US-Dollar Kapital aufgenommen hat, teilt seine Erkenntnisse darüber, was Venture Capitalists von Startups erwarten. Er betont, dass ein tiefes Verständnis der Finanzrealität und klare Metriken entscheidend für eine erfolgreiche Finanzierungsrunde sind."
     }
   ],
   "learning": {
-    "topic": "Das Black-Swan-Konzept: Unvorhersehbare Marktbeben verstehen",
-    "category": "Historische Finanzereignisse & Krisen",
-    "concept": "Ein Black-Swan-Ereignis ist ein seltenes, unvorhersehbares Ereignis mit extrem hohen Auswirkungen, das im Nachhinein als offensichtlich erscheint. Es beschreibt Extremsituationen, die jenseits normaler Erwartungen liegen.",
-    "details": "Nassim Nicholas Taleb prägte den Begriff, um Ereignisse wie die Finanzkrise 2008 oder den Aufstieg des Internets zu beschreiben. Solche 'Schwarzen Schwäne' sind durch drei Merkmale gekennzeichnet: Sie sind extrem selten (Outlier), haben enorme Auswirkungen und werden erst im Rückblick rationalisiert und erklärt, obwohl sie nicht vorhersehbar waren. Für Finanzakteure bedeutet dies, dass traditionelle Risikomodelle, die auf historischen Daten basieren, oft blind für diese Extremereignisse sind und die Notwendigkeit von Robustheit und Antifragilität in Strategien unterstreichen.",
-    "takeaway": "Verstehe, dass Märkte und Wirtschaft immer unvorhergesehene Schocks erleben können. Konzentriere dich auf die Robustheit deines Portfolios, anstatt nur auf die Maximierung von Renditen unter 'normalen' Umständen."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung eines Startups ist der Unternehmenswert vor einer neuen Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach dem Erhalt des frischen Kapitals darstellt.",
+    "details": "Wenn ein Startup frisches Kapital von Investoren erhält, wird zunächst der Wert des Unternehmens vor dieser Investition (Pre-Money-Bewertung) festgelegt. Addiert man das neu investierte Kapital zu diesem Wert, erhält man die Post-Money-Bewertung. Diese Unterscheidung ist fundamental, da sie direkt beeinflusst, welchen Anteil der Anteile die Investoren für ihr Kapital erhalten und wie sich die prozentualen Eigentumsverhältnisse aller Gesellschafter (inklusive Gründer) nach der Finanzierungsrunde verschieben. Eine präzise Kenntnis beider Bewertungen ist für Gründer und Investoren essenziell, um faire und strategisch sinnvolle Deals zu strukturieren und die zukünftige Kapitalisierung des Unternehmens zu planen.",
+    "takeaway": "Die Post-Money-Bewertung ist immer die Pre-Money-Bewertung plus das neu investierte Kapital; sie bestimmt maßgeblich, wie viel Prozent eines Unternehmens die neuen Investoren für ihr Geld erhalten und wie die Kapitalisierung nach der Finanzierungsrunde aussieht."
   }
 }
