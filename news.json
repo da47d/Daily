@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Angriffe auf ukrainisches Einkaufszentrum fordern viele Tote",
-      "summary": "Russland hat ein belebtes Einkaufszentrum in der Heimatstadt des ukrainischen Präsidenten angegriffen, wobei viele Menschen getötet und verletzt wurden. Selenskyj bezeichnete den Angriff als „hinterhältig“ und sprach von zwei Angriffswellen."
+      "headline": "Außenminister Wadephul in Ukraine, kritisiert 'wahllosen Mord' Moskaus",
+      "summary": "Deutschlands Außenminister Wadephul besuchte die Ukraine inmitten neuer russischer Angriffe und verurteilte die Moskauer Führung für 'wahllosen Mord an Zivilisten'. Er sprach dabei von Anzeichen der Schwäche im russischen Regime."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA erstatten deutschen Firmen Hunderte Millionen an Zöllen zurück",
-      "summary": "Nachdem der Supreme Court einen Teil von US-Präsident Trumps umstrittenen Zöllen gekippt hatte, erhalten deutsche Firmen fast 800 Millionen Euro zurück. Dies markiert einen erheblichen Rückschlag für die vorherige Zollpolitik der USA."
+      "headline": "Israels Siedlungsbau im Westjordanland belastet EU-Beziehungen",
+      "summary": "Israel forciert den Bau neuer Siedlungen, was einen zusammenhängenden Palästinenserstaat erschweren und auf scharfe Kritik westlicher Staaten stößt. Die EU erwägt Sanktionen, was das Verhältnis zu Israel weiter verschärft."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "IWF-Finanzmarktchef warnt vor steigender Schuldenquote und sinkendem globalem Wachstum",
-      "summary": "Der IWF-Ökonom Tobias Adrian warnt davor, dass die Schuldenquote in vielen Ländern zum Risiko wird, während die globale Wachstumsrate sinkt. Dies könnte den Druck auf Zentralbanken erhöhen, Zinsen aus politischen Gründen zu senken."
+      "headline": "IWF warnt vor gefährlichem globalen Schuldenanstieg und sinkender Wachstumsrate",
+      "summary": "Der Finanzmarktchef des IWF warnt vor einer weltweit steigenden Schuldenquote bei gleichzeitig sinkender globaler Wachstumsrate, was er als 'sehr gefährlich' bezeichnet. Dies könnte den Druck auf Zentralbanken erhöhen, Zinsen aus politischen Gründen zu senken."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "Amerikas Schuldenberg übersteigt 40 Billionen Dollar",
-      "summary": "Die US-Staatsschulden haben die Marke von 40 Billionen Dollar überschritten, da Präsident Trump Sparmaßnahmen ablehnt. Diese Entwicklung wirft grundlegende Fragen zur langfristigen Tragfähigkeit der US-Finanzen auf."
+      "summary": "Die US-Verschuldung hat die Marke von 40 Billionen Dollar überschritten, während Präsident Trump Sparmaßnahmen ablehnt. Dies wirft dringende Fragen zur langfristigen Tragfähigkeit des amerikanischen Schuldenproblems auf."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Klimaforschung: Jahrhundertsommer wird zur Norm",
-      "summary": "Klimaforschende gehen davon aus, dass ein extrem heißer und trockener Sommer wie in diesem Jahr künftig normal sein könnte. Dies zwingt zum Umdenken, wie ein zukünftiger 'Jahrhundertsommer' definiert werden muss."
+      "headline": "TikTok zahlt 400 Millionen Dollar in US-Datenschutzverfahren",
+      "summary": "US-Ermittlungen gegen TikTok wegen illegaler Datensammlung von Kindern enden mit einem Vergleich von 400 Millionen Dollar. Nach einem Besitzerwechsel im US-Geschäft wird das Verfahren abgeschlossen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Krebsimpfung rückt mit vielversprechenden Daten näher",
-      "summary": "Neue Daten von Pharmafirmen wie Moderna und Merck nähren die Hoffnung auf eine breite Anwendung von Krebsimpfstoffen. Obwohl noch Hürden bestehen, rückt das Fernziel einer Krebsimpfung zunehmend in Reichweite."
+      "headline": "Hoffnung auf Krebsimpfung durch Pharmafirmen Moderna und Merck",
+      "summary": "Vielversprechende Daten der Pharmafirmen Moderna und Merck lassen Patienten und Investoren auf eine breite Anwendung von Krebsimpfstoffen hoffen. Es bestehen jedoch weiterhin Hürden für die umfassende Verfügbarkeit dieser Technologie."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "US-Justizministerium untersucht Andreessen Horowitz wegen Board-Sitzen",
-      "summary": "Das Justizministerium untersucht, ob zwei Partner von Andreessen Horowitz, die in Aufsichtsräten konkurrierender Unternehmen sitzen, gegen ein selten genutztes Kartellgesetz verstoßen. Die Untersuchung läuft bereits seit fast einem Jahr."
+      "headline": "Japanisches Raumfahrt-Startup Letara sichert sich 16 Millionen Dollar für Expansion",
+      "summary": "Das japanische Raumfahrt-Startup Letara hat sich 16 Millionen Dollar (2,6 Milliarden Yen) gesichert, um seine Hybridraketentechnologie über Satellitenantriebe hinaus zu erweitern. Das Unternehmen zielt auf einen breiteren Markt in den Bereichen Raumfahrt, Verteidigung und Sicherheit ab."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Starcloud sammelt 250 Millionen Dollar für orbitale Rechenzentren ein",
-      "summary": "Das Startup Starcloud hat 250 Millionen Dollar für den Bau orbitaler Rechenzentren eingesammelt. Dies geschieht in einem Kontext, in dem der Zugang zum Weltraum zunehmend umkämpft ist und Startoptionen knapper werden."
+      "headline": "AI-Buchhaltungs-Startup Rillet wird in 48 Stunden zum Unicorn",
+      "summary": "Das AI-Buchhaltungs-Startup Rillet hat nach beeindruckenden Wachstumszahlen bei einer Vorstandssitzung in nur 48 Stunden 100 Millionen Dollar eingesammelt. Es erreichte damit unerwartet schnell den Unicorn-Status durch eine Finanzierungsrunde von Top-VCs wie Iconiq und Sequoia."
     }
   ],
   "learning": {
-    "topic": "Die Arbeitsweise von Hedgefonds",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Hedgefonds sind spezialisierte Investmentfonds, die eine breite Palette von Strategien nutzen, um absolute Renditen zu erzielen, unabhängig von der allgemeinen Marktentwicklung.",
-    "details": "Im Gegensatz zu traditionellen Fonds, die oft passiv oder an Indizes gebunden sind, haben Hedgefonds viel Spielraum bei der Wahl ihrer Anlagen und Anlagetechniken. Sie können beispielsweise Leerverkäufe tätigen, Derivate einsetzen, gehebelte Positionen eingehen oder auch illiquide Assets halten. Ihr Ziel ist es, Risiken abzusichern (zu \"hedgen\") und gleichzeitig aggressive Wetten auf bestimmte Marktentwicklungen abzuschließen. Die Fondmanager erhalten dabei oft eine Performance-Gebühr zusätzlich zu einer Verwaltungsgebühr, was einen starken Anreiz für hohe Renditen schafft.",
-    "takeaway": "Hedgefonds sind für ihre Flexibilität und ihr Streben nach überdurchschnittlichen, oft marktneutralen Renditen bekannt, was jedoch mit höheren Risiken und Gebühren verbunden sein kann."
+    "topic": "Die Sprache der ETFs: Was bedeuten 'Acc', 'Dist' und 'UCITS'?",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "ETF-Namen enthalten oft Abkürzungen, die Aufschluss über ihre Anlagestrategie, Ertragsverwendung und rechtliche Struktur geben. Das Verständnis dieser Kürzel ist entscheidend für fundierte Anlageentscheidungen.",
+    "details": "Acc (Accumulating) vs. Dist (Distributing) beschreiben, ob Erträge reinvestiert oder ausgeschüttet werden. UCITS steht für 'Undertakings for Collective Investment in Transferable Securities', eine EU-Richtlinie für Anlegerschutz. 'Core' kennzeichnet oft breit diversifizierte, kostengünstige Basisinvestments. 'IMI' erweitert den Index um Small Caps für breitere Marktabdeckung. 'Swap/Physisch' bezieht sich auf die Replikationsmethode, entweder durch direkten Kauf der Vermögenswerte oder über ein Tauschgeschäft mit einer Bank.",
+    "takeaway": "Die Abkürzungen im Namen eines ETFs sind keine bloßen Details, sondern wichtige Indikatoren für seine Funktionsweise, steuerliche Behandlung und Risikoprofil. Ein kurzes Verständnis hilft, den passenden ETF für die eigene Strategie zu wählen und Überraschungen zu vermeiden."
   }
 }
