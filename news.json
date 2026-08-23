@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
-      "summary": "Nach geplatzten Verhandlungen drohen Kanada und die USA in einen Zollkonflikt zu geraten, was ein Experte als \"Handelskrieg\" bezeichnet. US-Konzerne fordern neue Gespräche, während aus Kanada Kritik an Trump laut wird."
+      "headline": "Iran droht mit scharfer Reaktion auf US-\"Wirtschaftskrieg\"",
+      "summary": "Die USA drohen dem Iran mit einem \"Wirtschaftskrieg\", worauf Teheran mit harten Drohungen reagiert und jeden Beteiligten als \"Feind\" betrachtet. Die ökonomischen Probleme des Irans wachsen indes offenbar."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit: Kanadas Gegenzölle auf US-Güter kommen im September",
-      "summary": "Der amerikanische Präsident verursacht mit seinen umstrittenen Zöllen weiter weltweit Turbulenzen, obwohl der Supreme Court Trumps Zölle für unrechtmässig erklärte. Nun reagiert Kanada mit Gegenzöllen auf US-Güter ab September."
+      "headline": "Kanada trotzt Trump: Handelskrieg mit den USA droht",
+      "summary": "Nach gescheiterten Zollverhandlungen zwischen den USA und Kanada droht ein Handelskrieg, den Kanadas Premierminister als \"Angriff in einem Handelskrieg\" bezeichnet. Kanada fühlt sich durch Trumps Politik in seiner Souveränität bedroht."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Turbulenzen bei US-Staatsanleihen haben auch für Anleger in der Schweiz Konsequenzen",
-      "summary": "Anleger suchen Wege, ihr Vermögen zu schützen, falls den USA und anderen hochverschuldeten Ländern die Kontrolle über Inflation und Zinsen entgleitet. Dies könnte weitreichende Konsequenzen für globale Finanzmärkte haben."
+      "headline": "Turbulenzen bei US-Staatsanleihen betreffen Anleger weltweit",
+      "summary": "Die Kontrolle über Inflation und Zinsen in hochverschuldeten Ländern wie den USA gerät ins Wanken, was weltweit Turbulenzen bei Staatsanleihen auslöst. Anleger sind besorgt, wie sie ihr Vermögen schützen können."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der japanische Yen fällt und fällt: Die Abwertung ist ein Warnsignal in einer hochverschuldeten Welt",
-      "summary": "Japans Notenbank kämpft mit der Kontrolle der Landeswährung, da die Abwertung des Yen durch eine enorme Staatsverschuldung erschwert wird, die eine Zinserhöhung blockiert. Dies sendet ein deutliches Warnsignal an andere hochverschuldete Nationen weltweit."
+      "headline": "Japanischer Yen fällt: Warnsignal für eine hochverschuldete Welt",
+      "summary": "Der japanische Yen verliert stark an Wert, was ein Warnsignal für die globale Verschuldung ist, da Japan die Währung nur schwer unter Kontrolle halten kann. Eine Zinsanhebung zur Stützung des Yen wird durch die enorme Staatsverschuldung erschwert."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
-      "summary": "Bei der Weltmeisterschaft humanoider Roboter in China hat ein chinesisches Modell den 100-Meter-Weltrekord von Usain Bolt unterboten. Dies ist nicht das erste Mal, dass Roboter menschliche Bestleistungen im Laufen übertreffen."
+      "headline": "Billionenklage gegen Meta: Instagram als \"neues Rauchen\"",
+      "summary": "29 US-Gliedstaaten verklagen Meta mit dem Vorwurf, Minderjährige aus Profitgier abhängig zu machen, wobei das juristische Vorgehen dem Muster von Prozessen gegen die Tabakindustrie folgt. Verhandelt werden digitale Technologien, doch das Vorbild stammt aus der analogen Ära."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Instagram ist das neue Rauchen: Die Billionenklage gegen den Zuckerberg-Konzern",
-      "summary": "29 amerikanische Gliedstaaten werfen Meta vor, Minderjährige aus Profitgier abhängig zu machen, was eine Billionenklage nach dem Vorbild der Tabakprozesse nach sich zieht. Verhandelt werden digitale Technologien, doch das rechtliche Vorbild stammt aus der analogen Ära."
+      "headline": "Moderna-Gründer Stéphane Bancel plant den nächsten Jackpot mit Krebsimpfung",
+      "summary": "Stéphane Bancel, Gründer des mRNA-Vakzin-Unternehmens Moderna, will nach dem Pandemie-Erfolg nun mit einer Krebsimpfung ein zweites Mal durchstarten. Er steckte bereits vor fünfzehn Jahren sein Geld in die Biotechfirma."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Will the DOJ’s investigation into a16z spook other VCs?",
-      "summary": "Das US-Justizministerium (DOJ) untersucht die Besetzung von Startup-Vorstandssitzen durch a16z, was Fragen nach möglichen Auswirkungen auf andere Venture-Capital-Firmen aufwirft. Diese Untersuchung könnte die gesamte VC-Landschaft verunsichern."
+      "headline": "DeepMind-Alumni gründen Inherent: KI-Agent übertrifft OpenAI und Anthropic",
+      "summary": "Das britische KI-Labor Inherent, gegründet von DeepMind-Alumni, hat einen KI-Agenten namens Faraday entwickelt, der bei der Replikation wissenschaftlicher Arbeiten besser als Modelle von Anthropic und OpenAI ist. Dies könnte ein wichtiger Schritt für Innovationen sein."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "summary": "Das japanische Raumfahrt-Startup Letara hat 16 Millionen US-Dollar eingesammelt, um seine Hybridraketentechnologie über Satelliten-Triebwerke hinaus zu erweitern. Das Unternehmen will nun einen breiteren Markt in den Bereichen Raumfahrt, Verteidigung und Sicherheit erschließen."
+      "headline": "DOJ-Ermittlungen gegen a16z: Besorgnis in der VC-Szene",
+      "summary": "Eine Untersuchung des US-Justizministeriums bezüglich der Beteiligung an Startup-Vorständen durch Venture-Capital-Firmen wie a16z löst in der VC-Branche Fragen und mögliche Besorgnis aus. Man fragt sich, inwiefern dies andere VCs beeinflussen könnte."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang Entschlüsselt: SaaS, B2B, ARR, Burn Rate & Churn",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Lektion entschlüsselt essenzielle Begriffe aus der Startup- und Venture-Capital-Welt, um Geschäftsmodelle, finanzielle Performance und Kundendynamiken zu beschreiben.",
-    "details": "SaaS (Software as a Service) beschreibt ein Geschäftsmodell, bei dem Software nicht gekauft, sondern abonniert und meist cloudbasiert genutzt wird. B2B (Business-to-Business) bedeutet, dass ein Unternehmen seine Produkte oder Dienstleistungen an andere Unternehmen verkauft. ARR (Annual Recurring Revenue) ist der vorhersehbare Jahresumsatz aus wiederkehrenden Abonnements, ein Schlüsselindikator für die Stabilität von SaaS-Firmen. Die Burn Rate zeigt, wie schnell ein Startup monatlich Bargeld verbraucht, während Churn die Rate ist, mit der Kunden Abonnements kündigen oder Dienstleistungen nicht mehr nutzen.",
-    "takeaway": "Das Verständnis dieser Fachbegriffe ist entscheidend, um das Geschäftsmodell, die finanzielle Gesundheit und das Wachstumspotenzial von Startups schnell zu erfassen, insbesondere bei der Bewertung von Investitionsmöglichkeiten."
+    "topic": "Derivate verstehen: Die Metapher des Ernte-Vergleichs",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem Basiswert abgeleitet wird, ähnlich wie ein Versprechen auf eine zukünftige Ernte. Sie dienen der Absicherung von Risiken oder der Spekulation.",
+    "details": "Stell dir vor, ein Bauer möchte sich gegen fallende Getreidepreise absichern und ein Bäcker gegen steigende. Sie können einen Vertrag abschließen, ein Derivat, das dem Bäcker das Recht gibt, das Getreide des Bauern zu einem heute festgelegten Preis in der Zukunft zu kaufen, unabhängig vom dann aktuellen Marktpreis. Dieses 'Recht' oder diese 'Pflicht' ist das Derivat. Der Wert des Derivats ändert sich mit dem erwarteten zukünftigen Getreidepreis und dem festgelegten Preis im Vertrag. Derivate sind also Wetten auf die zukünftige Preisentwicklung eines Basiswertes, ohne diesen Basiswert direkt besitzen zu müssen.",
+    "takeaway": "Derivate ermöglichen es, auf Preisbewegungen zu setzen oder sich dagegen abzusichern, indem man Verträge über zukünftige Transaktionen eingeht, ohne den Basiswert sofort zu kaufen oder zu verkaufen. Sie sind mächtige, aber auch risikoreiche Instrumente."
   }
 }
