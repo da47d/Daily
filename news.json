@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
-      "summary": "Der Besuch von Außenminister Wadephul in der Ukraine sollte ein starkes Symbol der Verbundenheit sein. Vor Ort wurde jedoch deutlich, dass das Land dringend Abwehrraketen benötigt, um sich im Krieg zu verteidigen."
+      "headline": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
+      "summary": "US-Präsident Trump eskaliert den Zollstreit mit Kanada und kündigt eine Verdopplung der Zölle auf Autos und Autoteile an. Dies folgt auf eine neue Phase des Konflikts am Wochenende."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "«Es ist ein Angriff in einem Handelskrieg»: Kanadas Premierminister Carney trotzt US-Präsident Trump",
-      "summary": "Die Zollverhandlungen zwischen den USA und Kanada sind gescheitert, was einen drohenden Handelskrieg signalisiert. Kanada sieht sich in seiner Souveränität bedroht durch Trumps Handelspolitik."
+      "headline": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
+      "summary": "Die USA sagten eine große Militärübung mit Südkorea ab, da Truppenkapazitäten aufgrund des Krieges gegen den Iran fehlen. Präsident Trump hatte zuvor bereits ein anderes Manöver verkürzt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX vor schwunglosem Wochenstart",
-      "summary": "Der DAX startet voraussichtlich schwunglos in die Woche, da Anleger auf die Bilanz von Nvidia und ein Treffen der US-Notenbanker warten. Diese Ereignisse werden die Marktstimmung maßgeblich beeinflussen."
+      "headline": "Marktbericht: Seitwärts in die neue Woche",
+      "summary": "Der deutsche Aktienmarkt startete mit leichten Abschlägen in die Woche, da Anleger vor neuen Zahlen von Nvidia und US-Inflationsdaten zurückhaltend agierten."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Turbulenzen bei US-Staatsanleihen haben auch für Anleger in der Schweiz Konsequenzen",
-      "summary": "Angesichts der Turbulenzen bei US-Staatsanleihen müssen Anleger Wege finden, ihr Vermögen zu schützen. Dies wird relevant, falls hochverschuldete Länder die Kontrolle über Inflation und Zinsen verlieren."
+      "headline": "Gas aus Norwegen: Uniper schließt Liefervertrag mit Equinor",
+      "summary": "Deutschland sichert sich langfristig mehr Gas aus Norwegen durch einen umfangreichen Liefervertrag zwischen dem staatlichen Gashändler Uniper und Equinor."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
-      "summary": "ChatGPT wird in Europa ab Montag Werbung enthalten, um die KI-Entwicklung zu finanzieren. Dies markiert einen strategischen Schwenk von OpenAI-Chef Altman, der lange gegen Werbung war."
+      "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "OpenAI treibt die Entwicklung von KI-Agenten voran, die in Zukunft breit eingesetzt werden sollen. Damit möchte das Unternehmen KI-Technologien für die breite Masse zugänglich machen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Instagram ist das neue Rauchen: Die Billionenklage gegen den Zuckerberg-Konzern folgt dem Muster der Prozesse gegen die Tabakindustrie",
-      "summary": "29 US-Bundesstaaten verklagen Meta, weil Instagram Minderjährige profitgierig abhängig mache, ähnlich den Klagen gegen die Tabakindustrie. Dieser Prozess überträgt analoge Rechtsstrategien auf digitale Technologien."
+      "headline": "Chat-GPT startet mit Werbung in der Schweiz. Selbst beim Abo für acht Franken gibt es jetzt Anzeigen",
+      "summary": "ChatGPT führt in der Schweiz Werbung ein, die auch Abonnenten angezeigt wird. Dies wirft Fragen für Nutzer nach Alternativen und für Unternehmen nach den Risiken des neuen Werbeformats auf."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Ein junger Forscher übernimmt einen Kühlschrank voller Bakterien. Elf Jahre später verkauft er seine Firma für bis zu 450 Millionen Franken – wie geht das?",
-      "summary": "Simon Ittig entwickelte aus Bakterien einen potenziellen neuen Ansatz zur Krebsbekämpfung. Elf Jahre nach der Übernahme eines Forschungsprojekts verkaufte er seine Firma für bis zu 450 Millionen Franken."
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "summary": "Das KI-Startup General Intuition, welches an einem universellen KI-Modell für Roboter arbeitet, verhandelt über eine Finanzierungsrunde mit einer Pre-Money-Bewertung von 6 Milliarden Dollar. Neue Investoren wie Valor Ventures und Point72 Ventures sind beteiligt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "summary": "Das britische KI-Labor Inherent, gegründet von DeepMind-Alumni, hat Faraday entwickelt, einen KI-Agenten, der Forschungsergebnisse replizieren kann. Faraday übertraf dabei sogar Modelle von Anthropic und OpenAI, was ein großer Schritt für wissenschaftliche Innovation sein könnte."
+      "headline": "Hugging Face reportedly in talks to be acquired for $13B",
+      "summary": "Hugging Face soll Berichten zufolge Übernahmeangebote erhalten haben, die das Unternehmen mit rund 13 Milliarden Dollar bewerten. Die Gründer sind jedoch aufgrund ihrer Verantwortung gegenüber der Community unsicher bezüglich eines Verkaufs."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Was ist der Unterschied?",
+    "topic": "Die Bedeutung von Vesting für Gründer",
     "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach Erhalt des neuen Kapitals darstellt.",
-    "details": "Wenn ein Investor beispielsweise 1 Million Euro in ein Startup investiert, das Pre-Money mit 9 Millionen Euro bewertet wird, beträgt die Post-Money-Bewertung 10 Millionen Euro (9 Mio. + 1 Mio.). Der Investor erhält dafür 10% der Anteile (1 Mio. / 10 Mio. = 10%). Dies ist entscheidend für die Anteilsverteilung und die Dilution bestehender Gesellschafter.",
-    "takeaway": "Das Verständnis dieser Bewertungen ist fundamental, um die Verhandlungsposition und die Anteilsstruktur bei einer Finanzierungsrunde korrekt einzuschätzen. Es hilft sowohl Gründern als auch Investoren, ihren künftigen prozentualen Anteil am Unternehmen zu berechnen."
+    "concept": "Vesting ist ein Mechanismus, der festlegt, wann Gründeranteile an einem Unternehmen tatsächlich unverfallbar werden. Es sichert die langfristige Bindung der Gründer an ihr Startup.",
+    "details": "Beim Vesting werden Gründeranteile nicht sofort nach Gründung vollständig zugewiesen, sondern über einen festgelegten Zeitraum, oft vier Jahre (der 'Vesting-Zeitraum'), verteilt. Nach jedem Jahr wird ein Teil der Anteile 'vested', also unverfallbar. Häufig gibt es eine 'Cliff'-Periode von einem Jahr: Erst nach zwölf Monaten ist der erste Anteil unverfallbar, und bei einem früheren Ausscheiden verfallen alle Anteile. Scheidet ein Gründer während des Vesting-Zeitraums aus, verliert er die noch nicht unverfallbaren Anteile. Dies schützt Investoren und verbleibende Gründer davor, dass ein Gründer mit vollen Anteilen ausscheidet und keine Gegenleistung mehr erbringt. Es motiviert zudem, das Unternehmen langfristig zu entwickeln.",
+    "takeaway": "Vesting ist entscheidend für Gründer und Investoren, um Anreize zu schaffen und die gemeinsame Vision eines Unternehmens langfristig zu sichern. Es schützt vor frühzeitigem Ausstieg und belohnt langfristiges Engagement."
   }
 }
