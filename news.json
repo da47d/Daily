@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Finanzminister droht mit Sanktionen gegen Irans Handelspartner",
-      "summary": "Die USA planen, den Iran wirtschaftlich zu isolieren und haben Sanktionen gegen dessen Handelspartner angekündigt. Wer weiterhin Geschäfte mit Teheran mache, werde die 'Wucht der amerikanischen Macht' zu spüren bekommen."
+      "headline": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
+      "summary": "Kanada verhängt als Reaktion auf US-Zölle Gegenzölle von bis zu 50 Prozent auf bestimmte US-Importe. Dies eskaliert den Handelskonflikt zwischen den beiden Nachbarstaaten."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
-      "summary": "Der Zollstreit zwischen den USA und Kanada eskaliert, nachdem US-Präsident Trump deutlich höhere Abgaben auf Autos und Autoteile aus Kanada ankündigte. Kanada hatte zuvor die Zollverhandlungen abgebrochen und steuert auf einen Handelskrieg zu."
+      "headline": "China kritisiert angedrohte US-Sanktionen gegen Irans Handelspartner",
+      "summary": "Die USA drohen Handelspartnern des Irans mit Sanktionen, um Teheran finanziell zu schwächen. China, als größter Handelspartner, kündigt bereits Gegenmaßnahmen an."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Anleger nervös in der Woche der Wahrheit",
-      "summary": "Anleger zeigen sich vor wichtigen Terminen wie der Nvidia-Bilanz und einer Rede des US-Notenbank-Chefs zurückhaltend. Die Märkte erwarten entscheidende Impulse für die weitere Entwicklung."
+      "headline": "Marktbericht: Konjunkturdaten bringen neuen Schwung",
+      "summary": "Erfreulich robuste Daten aus der deutschen Wirtschaft haben den DAX am Dienstag aus seiner Lethargie gerissen. Vor wichtigen Terminen bleibt die Stimmung aber angespannt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-      "summary": "Amazon erhöht die Hardwarepreise um 60% und führt dies auf eine anhaltende Knappheit bei Speicherchips zurück. Dies zeigt, wie globale Lieferkettenprobleme direkt zu höheren Konsumentenpreisen führen können."
+      "headline": "Sorge um Top-Rating: Deutsches Staatsdefizit fast verdoppelt",
+      "summary": "Das deutsche Staatsdefizit hat sich im ersten Halbjahr nahezu verdoppelt, was Sorgen um das Top-Rating weckt. Während Fiskalpakete Unternehmen helfen, gerät der Staat in eine schwierige Lage."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Aller guten Dinge sind drei: Billigmodehändler Shein will in Hongkong an die Börse",
-      "summary": "Der chinesische Onlinehändler Shein plant seinen Börsenstart in Hongkong, nachdem zwei frühere Versuche in New York und London scheiterten. Die UBS ist als Ankerinvestor mit an Bord, was dem Unternehmen einen wichtigen Rückenwind gibt."
+      "headline": "Der Chip-Gigant im Zentrum des KI-Booms: Einmal mehr macht Nvidia die Börsen nervös",
+      "summary": "Das Finanzergebnis von Nvidia ist für die Weltwirtschaft entscheidend, vergleichbar mit einem Zinsentscheid der US-Notenbank. Ein positives Ergebnis ist für die Börsen zur Vermeidung eines Markteinbruchs unerlässlich."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Oura reportedly eyeing September IPO at more than $16B valuation",
-      "summary": "Der Wearable-Tech-Hersteller Oura bereitet angeblich einen Börsengang im September vor, der das Unternehmen mit über 16 Milliarden US-Dollar bewerten könnte. Diese hohe Bewertung unterstreicht das wachsende Interesse an Gesundheitstechnologie und digitalen Fitnesslösungen."
+      "headline": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
+      "summary": "Apple stellt seine bisher leistungsstärksten Chips, den M5 Ultra und M6, vor. Diese neuen Prozessoren debütieren zusammen mit aktualisierten Mac Mini und Mac Studio Modellen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
-      "summary": "Das indische Startup Airbound hat 37 Millionen US-Dollar von Investoren wie Greenoaks und DoorDash erhalten. Sie entwickeln ultraleichte Raketen-Drohnen für die Paketzustellung, um den Transport per LKW zu konkurrieren."
+      "headline": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+      "summary": "Das Startup Gatik, spezialisiert auf selbstfahrende Lastwagen, hat nach einem Deal mit PepsiCo 200 Millionen Dollar eingesammelt. Diese größte Finanzierungsrunde wurde von Qatar Investment Authority und Koch Disruptive Technologies angeführt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary": "General Intuition, ein KI-Startup, das ein Grundmodell für die Bewegung generalisierter KI-Agenten im Raum entwickelt, strebt eine Finanzierungsrunde mit einer Pre-Money-Bewertung von 6 Milliarden US-Dollar an. Investoren wie Valor Ventures und Point72 Ventures zeigen großes Interesse an dem Vorstoß in die Robotik."
+      "headline": "Accel-backed Keenable is indexing the web for AI agents",
+      "summary": "Das Accel-unterstützte Startup Keenable verlässt den Stealth-Modus mit einer 26 Millionen Dollar Seed-Runde. Es entwickelt einen umfangreichen Web-Suchindex speziell für KI-Agenten."
     }
   ],
   "learning": {
-    "topic": "Der Ablauf eines Short Squeeze: Mechanik eines Marktphänomens",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist eine explosive Aufwärtsbewegung des Preises eines Vermögenswertes, die hauptsächlich durch das erzwungene Eindecken von Short-Positionen verursacht wird. Dies geschieht, wenn Anleger, die auf fallende Kurse wetten, ihre Verluste begrenzen müssen.",
-    "details": "Wenn viele Anleger auf fallende Kurse einer Aktie setzen (Short Selling), verkaufen sie geliehene Aktien in der Hoffnung, diese später zu einem niedrigeren Preis zurückkaufen und die Differenz als Gewinn einstreichen zu können. Steigt der Kurs unerwartet stark an, geraten diese 'Short Seller' unter Druck, ihre Positionen zu schließen, indem sie die Aktie zurückkaufen. Dieser erzwungene Kauf treibt den Kurs weiter in die Höhe und löst eine Kettenreaktion aus, da immer mehr Short Seller zum Eindecken gezwungen sind. Dieser Mechanismus verstärkt den Preisanstieg enorm und kann in kurzer Zeit zu extremen Kursbewegungen führen.",
-    "takeaway": "Short Squeezes zeigen die Macht von Momentum und Anlegerpsychologie an den Märkten. Für Short Seller birgt dieses Phänomen das Risiko unbegrenzter Verluste, während Long-Anleger (die auf steigende Kurse setzen) davon profitieren können, wenn sie das Potenzial frühzeitig erkennen."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer neuen Finanzierungsrunde, während die Post-Money-Bewertung den Wert NACH der Investition darstellt.",
+    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird der Wert des Unternehmens vor dieser Investition als Pre-Money-Bewertung bezeichnet. Die Post-Money-Bewertung ergibt sich aus der Addition der Investitionssumme zur Pre-Money-Bewertung. Diese Unterscheidung ist entscheidend, um den Anteil zu berechnen, den ein Investor für seine Einlage erhält, da sich die Anzahl der ausstehenden Anteile nach der Finanzierungsrunde und damit die prozentualen Eigentumsverhältnisse ändern. Die Post-Money-Bewertung dient oft als Basis für die zukünftige Kapitalisierungsplanung und zur Bestimmung des Gewichts von Stimmrechten.",
+    "takeaway": "Das Verständnis von Pre- und Post-Money ist essenziell, um den genauen Wertanteil eines Investors und die zukünftige Verwässerung der bestehenden Eigentümeranteile präzise zu kalkulieren."
   }
 }
