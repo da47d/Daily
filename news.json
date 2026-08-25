@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
-      "summary": "US-Präsident Trump eskaliert den Zollstreit mit Kanada und kündigt eine Verdopplung der Zölle auf Autos und Autoteile an. Dies folgt auf eine neue Phase des Konflikts am Wochenende."
+      "headline": "US-Finanzminister droht mit Sanktionen gegen Irans Handelspartner",
+      "summary": "Die USA planen, den Iran wirtschaftlich zu isolieren und haben Sanktionen gegen dessen Handelspartner angekündigt. Wer weiterhin Geschäfte mit Teheran mache, werde die 'Wucht der amerikanischen Macht' zu spüren bekommen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
-      "summary": "Die USA sagten eine große Militärübung mit Südkorea ab, da Truppenkapazitäten aufgrund des Krieges gegen den Iran fehlen. Präsident Trump hatte zuvor bereits ein anderes Manöver verkürzt."
+      "headline": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
+      "summary": "Der Zollstreit zwischen den USA und Kanada eskaliert, nachdem US-Präsident Trump deutlich höhere Abgaben auf Autos und Autoteile aus Kanada ankündigte. Kanada hatte zuvor die Zollverhandlungen abgebrochen und steuert auf einen Handelskrieg zu."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Seitwärts in die neue Woche",
-      "summary": "Der deutsche Aktienmarkt startete mit leichten Abschlägen in die Woche, da Anleger vor neuen Zahlen von Nvidia und US-Inflationsdaten zurückhaltend agierten."
+      "headline": "Marktbericht: Anleger nervös in der Woche der Wahrheit",
+      "summary": "Anleger zeigen sich vor wichtigen Terminen wie der Nvidia-Bilanz und einer Rede des US-Notenbank-Chefs zurückhaltend. Die Märkte erwarten entscheidende Impulse für die weitere Entwicklung."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Gas aus Norwegen: Uniper schließt Liefervertrag mit Equinor",
-      "summary": "Deutschland sichert sich langfristig mehr Gas aus Norwegen durch einen umfangreichen Liefervertrag zwischen dem staatlichen Gashändler Uniper und Equinor."
+      "headline": "Amazon hikes hardware prices by 60%, blaming memory shortage",
+      "summary": "Amazon erhöht die Hardwarepreise um 60% und führt dies auf eine anhaltende Knappheit bei Speicherchips zurück. Dies zeigt, wie globale Lieferkettenprobleme direkt zu höheren Konsumentenpreisen führen können."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "OpenAI treibt die Entwicklung von KI-Agenten voran, die in Zukunft breit eingesetzt werden sollen. Damit möchte das Unternehmen KI-Technologien für die breite Masse zugänglich machen."
+      "headline": "Aller guten Dinge sind drei: Billigmodehändler Shein will in Hongkong an die Börse",
+      "summary": "Der chinesische Onlinehändler Shein plant seinen Börsenstart in Hongkong, nachdem zwei frühere Versuche in New York und London scheiterten. Die UBS ist als Ankerinvestor mit an Bord, was dem Unternehmen einen wichtigen Rückenwind gibt."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Chat-GPT startet mit Werbung in der Schweiz. Selbst beim Abo für acht Franken gibt es jetzt Anzeigen",
-      "summary": "ChatGPT führt in der Schweiz Werbung ein, die auch Abonnenten angezeigt wird. Dies wirft Fragen für Nutzer nach Alternativen und für Unternehmen nach den Risiken des neuen Werbeformats auf."
+      "headline": "Oura reportedly eyeing September IPO at more than $16B valuation",
+      "summary": "Der Wearable-Tech-Hersteller Oura bereitet angeblich einen Börsengang im September vor, der das Unternehmen mit über 16 Milliarden US-Dollar bewerten könnte. Diese hohe Bewertung unterstreicht das wachsende Interesse an Gesundheitstechnologie und digitalen Fitnesslösungen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary": "Das KI-Startup General Intuition, welches an einem universellen KI-Modell für Roboter arbeitet, verhandelt über eine Finanzierungsrunde mit einer Pre-Money-Bewertung von 6 Milliarden Dollar. Neue Investoren wie Valor Ventures und Point72 Ventures sind beteiligt."
+      "headline": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+      "summary": "Das indische Startup Airbound hat 37 Millionen US-Dollar von Investoren wie Greenoaks und DoorDash erhalten. Sie entwickeln ultraleichte Raketen-Drohnen für die Paketzustellung, um den Transport per LKW zu konkurrieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Hugging Face reportedly in talks to be acquired for $13B",
-      "summary": "Hugging Face soll Berichten zufolge Übernahmeangebote erhalten haben, die das Unternehmen mit rund 13 Milliarden Dollar bewerten. Die Gründer sind jedoch aufgrund ihrer Verantwortung gegenüber der Community unsicher bezüglich eines Verkaufs."
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "summary": "General Intuition, ein KI-Startup, das ein Grundmodell für die Bewegung generalisierter KI-Agenten im Raum entwickelt, strebt eine Finanzierungsrunde mit einer Pre-Money-Bewertung von 6 Milliarden US-Dollar an. Investoren wie Valor Ventures und Point72 Ventures zeigen großes Interesse an dem Vorstoß in die Robotik."
     }
   ],
   "learning": {
-    "topic": "Die Bedeutung von Vesting für Gründer",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting ist ein Mechanismus, der festlegt, wann Gründeranteile an einem Unternehmen tatsächlich unverfallbar werden. Es sichert die langfristige Bindung der Gründer an ihr Startup.",
-    "details": "Beim Vesting werden Gründeranteile nicht sofort nach Gründung vollständig zugewiesen, sondern über einen festgelegten Zeitraum, oft vier Jahre (der 'Vesting-Zeitraum'), verteilt. Nach jedem Jahr wird ein Teil der Anteile 'vested', also unverfallbar. Häufig gibt es eine 'Cliff'-Periode von einem Jahr: Erst nach zwölf Monaten ist der erste Anteil unverfallbar, und bei einem früheren Ausscheiden verfallen alle Anteile. Scheidet ein Gründer während des Vesting-Zeitraums aus, verliert er die noch nicht unverfallbaren Anteile. Dies schützt Investoren und verbleibende Gründer davor, dass ein Gründer mit vollen Anteilen ausscheidet und keine Gegenleistung mehr erbringt. Es motiviert zudem, das Unternehmen langfristig zu entwickeln.",
-    "takeaway": "Vesting ist entscheidend für Gründer und Investoren, um Anreize zu schaffen und die gemeinsame Vision eines Unternehmens langfristig zu sichern. Es schützt vor frühzeitigem Ausstieg und belohnt langfristiges Engagement."
+    "topic": "Der Ablauf eines Short Squeeze: Mechanik eines Marktphänomens",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist eine explosive Aufwärtsbewegung des Preises eines Vermögenswertes, die hauptsächlich durch das erzwungene Eindecken von Short-Positionen verursacht wird. Dies geschieht, wenn Anleger, die auf fallende Kurse wetten, ihre Verluste begrenzen müssen.",
+    "details": "Wenn viele Anleger auf fallende Kurse einer Aktie setzen (Short Selling), verkaufen sie geliehene Aktien in der Hoffnung, diese später zu einem niedrigeren Preis zurückkaufen und die Differenz als Gewinn einstreichen zu können. Steigt der Kurs unerwartet stark an, geraten diese 'Short Seller' unter Druck, ihre Positionen zu schließen, indem sie die Aktie zurückkaufen. Dieser erzwungene Kauf treibt den Kurs weiter in die Höhe und löst eine Kettenreaktion aus, da immer mehr Short Seller zum Eindecken gezwungen sind. Dieser Mechanismus verstärkt den Preisanstieg enorm und kann in kurzer Zeit zu extremen Kursbewegungen führen.",
+    "takeaway": "Short Squeezes zeigen die Macht von Momentum und Anlegerpsychologie an den Märkten. Für Short Seller birgt dieses Phänomen das Risiko unbegrenzter Verluste, während Long-Anleger (die auf steigende Kurse setzen) davon profitieren können, wenn sie das Potenzial frühzeitig erkennen."
   }
 }
