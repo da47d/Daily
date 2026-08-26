@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russlands Raketen zerstören die ukrainische Wirtschaft",
-      "summary": "Russland nutzt seine Luftüberlegenheit, um die ukrainische Wirtschaft mit Angriffen auf Stahlwerke und Getreideschiffe zu zerstören. Die Abhängigkeit der Ukraine vom US-Flugabwehrsystem \"Patriot\" stellt dabei ein Hauptproblem dar."
+      "headline": "Wie Menschen in Iran unter den wirtschaftlichen Kriegsfolgen leiden",
+      "summary": "US-Sanktionen gegen den Iran verschärfen sich und bedrohen Handelspartner, was den Alltag der iranischen Bevölkerung massiv erschwert. Während das Regime unbeeindruckt bleibt, leidet die Bevölkerung unter den wirtschaftlichen Kriegsfolgen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kanada verhängt Vergeltungszölle auf US-Importe und bricht Verhandlungen ab",
-      "summary": "Kanada hat Vergeltungszölle von bis zu 50 Prozent auf US-Importe verhängt und die Zollverhandlungen mit den USA abgebrochen. Dies führt zu Turbulenzen im bilateralen Handel und könnte in einem Handelskrieg münden."
+      "headline": "Handelsstreit: Kanada hat Vergeltungszölle von bis zu 50 Prozent auf Importe aus den USA verhängt",
+      "summary": "Kanada hat als Reaktion auf US-Maßnahmen Vergeltungszölle von bis zu 50 Prozent auf US-Importe verhängt und steuert damit auf einen Handelskrieg mit den Vereinigten Staaten zu. Das Land hat zudem die Zollverhandlungen mit den USA abgebrochen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Nvidia-Zahlen machen Börsen nervös und sind entscheidend für die Weltwirtschaft",
-      "summary": "Das bevorstehende Finanzergebnis von Nvidia ist für die Weltwirtschaft so wichtig wie ein Zinsentscheid der US-Notenbank und sorgt für Nervosität. Ein positives Ergebnis ist entscheidend, um einen Markteinbruch zu verhindern."
+      "headline": "Marktbericht: DAX bleibt auf hohem Niveau",
+      "summary": "Der DAX zeigte sich trotz Anlegervorsicht vor den Nvidia-Bilanzzahlen leicht im Plus und kratzt am Allzeithoch, begünstigt durch den weiteren Rückgang der Ölpreise. Dies deutet auf eine stabile Marktstimmung trotz wichtiger kommender Unternehmensmeldungen hin."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Billigmodehändler Shein plant nach gescheiterten Versuchen Börsengang in Hongkong",
-      "summary": "Nach zwei abgesagten Börsengängen in New York und London plant der chinesische Onlinehändler Shein nun seinen Handelsstart für Anfang September in Hongkong. Die UBS ist als einer der Ankerinvestoren mit von der Partie."
+      "headline": "Die SNB will mehr Handhabe gegen Übertreibungen am Immobilienmarkt",
+      "summary": "Die Schweizer Nationalbank (SNB) fordert mehr regulatorische Hebel gegen Übertreibungen am Immobilienmarkt, da ihre bisherigen Gegenmittel ausgeschöpft sind. Seit Jahren warnt die SNB vor Risiken auf dem Wohnungsmarkt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Trauer um Ikone Dolly Parton: Sängerin im Alter von 80 Jahren gestorben",
-      "summary": "Die unerschrockene und willensstarke Country-Sängerin Dolly Parton ist im Alter von 80 Jahren gestorben. Sie begeisterte Generationen und setzte sich ihr Leben lang für soziale Belange ein."
+      "headline": "Apple is holding its iPhone launch event on September 9",
+      "summary": "Apple kündigt für den 9. September ein Launch-Event an, bei dem das lang erwartete faltbare iPhone enthüllt werden soll. Dies wird auch der erste Auftritt des neuen CEOs John Ternus sein."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX plant zweiten Mega-Weltraumbahnhof in Louisiana für 100 Milliarden Dollar",
-      "summary": "SpaceX plant in Louisiana einen neuen Weltraumbahnhof, der ab 2027 gebaut und bereits 2029 erste Starship-Starts ermöglichen soll. Tech-Milliardär Elon Musk träumt vom größten Startplatz der Erde mit einem Wert von 100 Milliarden Dollar."
+      "headline": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
+      "summary": "Meta hat sich mit US-Staaten auf einen Milliarden-Vergleich geeinigt, der weitreichende Änderungen zum Schutz jugendlicher Nutzer vorsieht. Künftig soll es eine standardmäßige zweistündige Zeitbegrenzung für Teenager geben, die nur mit elterlicher Erlaubnis deaktiviert werden kann."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Indisches Voice-AI-Startup Ringg sichert sich 10 Millionen Dollar in Series A Erweiterung",
-      "summary": "Das indische Startup Ringg hat in einer Series A Erweiterungsrunde 10 Millionen Dollar von Peak XV erhalten. Das Unternehmen fokussiert sich darauf, Voice AI über traditionelle Telefonanrufe hinaus zu entwickeln."
+      "headline": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
+      "summary": "Capital F, eine von Frauen geführte VC-Firma, hat ihren Debütfonds in Höhe von 17 Millionen Dollar geschlossen, um in Unternehmen der \"Female Economy\" zu investieren. Der Fokus liegt dabei auf Märkten, in denen Frauen die Nachfrage treiben, insbesondere im Bereich Frauengesundheit."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Stability AI, Entwickler von Stable Diffusion, erhält weitere 76 Millionen Dollar Finanzierung",
-      "summary": "Stability AI, bekannt als Entwickler des Bildgenerators Stable Diffusion, hat weitere 76 Millionen Dollar an frischem Kapital aufgenommen. Die Gesamtfinanzierung des Unternehmens beläuft sich damit auf 232 Millionen Dollar."
+      "headline": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+      "summary": "Schweden erlebt einen florierenden Startup-Boom, wobei Unternehmen wie Lovable mit einer Bewertung von 13,3 Milliarden Dollar und einer Finanzierungsrunde von 400 Millionen Dollar hervorstechen. Auch Legal-AI-Firmen wie Legora tragen zu diesem dynamischen Ökosystem bei."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang entmystifiziert: B2B, SaaS, ARR, Burn Rate & Churn",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Begriffe sind Schlüsselkonzepte in der Startup- und Venture-Capital-Welt, die Geschäftsmodelle, Wachstumspotenziale und finanzielle Gesundheit von jungen Unternehmen beschreiben. Sie sind essenziell, um die Dynamik im Tech-Sektor zu verstehen.",
-    "details": "B2B (Business-to-Business) steht für Geschäftsmodelle, bei denen Produkte oder Dienstleistungen an andere Unternehmen verkauft werden, im Gegensatz zu Endverbrauchern (B2C). SaaS (Software-as-a-Service) bezeichnet ein Lizenz- und Bereitstellungsmodell, bei dem Software über das Internet als Dienstleistung angeboten und typischerweise abonniert wird. ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements, ein wichtiger Indikator für die Vorhersagbarkeit und Stabilität eines SaaS-Unternehmens. Die Burn Rate gibt an, wie schnell ein Startup sein Kapital aufbraucht, typischerweise pro Monat. Die Churn Rate misst den Prozentsatz der Kunden, die ein Produkt oder einen Dienst innerhalb eines bestimmten Zeitraums abbestellen oder nicht verlängern. Die Kombination dieser Metriken erlaubt Investoren und Gründern, die Leistungsfähigkeit und das Potenzial eines Startups umfassend zu bewerten.",
-    "takeaway": "Das Beherrschen dieser Begriffe ermöglicht es dir, schnell die operative und finanzielle Stärke von Startups zu beurteilen und fundierte Gespräche in der VC-Branche zu führen. Sie sind die Sprache des Wachstums und der Nachhaltigkeit im Tech-Ökosystem."
+    "topic": "Optionen vs. Optionsscheine: Der feine, aber entscheidende Unterschied",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Optionen sind standardisierte, börsengehandelte Verträge mit klar definierten Rechten und Pflichten für Käufer und Verkäufer. Optionsscheine sind hingegen Schuldverschreibungen, die von Banken ausgegeben werden und dem Inhaber das Recht, aber nicht die Pflicht geben, einen Basiswert zu kaufen oder zu verkaufen.",
+    "details": "Der Hauptunterschied liegt im Emittenten und der Standardisierung. Optionen werden an Terminbörsen gehandelt und haben feste Parameter; sie ermöglichen sowohl Long- als auch Short-Positionen und werden oft zur Absicherung oder Spekulation verwendet. Optionsscheine werden von Banken oder Brokern ausgegeben, sind nicht standardisiert und unterliegen dem Emittentenrisiko; sie werden primär zur Spekulation eingesetzt und bieten oft höhere Hebelwirkung, können aber auch komplexe Gebühren und eine geringere Transparenz aufweisen. Man kann Optionen auch schreiben (also verkaufen), um Prämien zu erhalten, was bei Optionsscheinen nicht möglich ist.",
+    "takeaway": "Echte Optionen sind flexible Instrumente zum Risikomanagement oder zur Spekulation mit transparenten Bedingungen, während Optionsscheine von Banken geschaffene Produkte sind, die zwar hohe Hebel bieten, aber ein Emittentenrisiko und oft weniger Transparenz mit sich bringen. Verstehe den Unterschied, um die Risiken und Chancen korrekt einzuschätzen."
   }
 }
