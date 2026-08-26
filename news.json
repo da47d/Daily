@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
-      "summary": "Kanada verhängt als Reaktion auf US-Zölle Gegenzölle von bis zu 50 Prozent auf bestimmte US-Importe. Dies eskaliert den Handelskonflikt zwischen den beiden Nachbarstaaten."
+      "headline": "Russlands Raketen zerstören die ukrainische Wirtschaft",
+      "summary": "Russland nutzt seine Luftüberlegenheit, um die ukrainische Wirtschaft mit Angriffen auf Stahlwerke und Getreideschiffe zu zerstören. Die Abhängigkeit der Ukraine vom US-Flugabwehrsystem \"Patriot\" stellt dabei ein Hauptproblem dar."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "China kritisiert angedrohte US-Sanktionen gegen Irans Handelspartner",
-      "summary": "Die USA drohen Handelspartnern des Irans mit Sanktionen, um Teheran finanziell zu schwächen. China, als größter Handelspartner, kündigt bereits Gegenmaßnahmen an."
+      "headline": "Kanada verhängt Vergeltungszölle auf US-Importe und bricht Verhandlungen ab",
+      "summary": "Kanada hat Vergeltungszölle von bis zu 50 Prozent auf US-Importe verhängt und die Zollverhandlungen mit den USA abgebrochen. Dies führt zu Turbulenzen im bilateralen Handel und könnte in einem Handelskrieg münden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Konjunkturdaten bringen neuen Schwung",
-      "summary": "Erfreulich robuste Daten aus der deutschen Wirtschaft haben den DAX am Dienstag aus seiner Lethargie gerissen. Vor wichtigen Terminen bleibt die Stimmung aber angespannt."
+      "headline": "Nvidia-Zahlen machen Börsen nervös und sind entscheidend für die Weltwirtschaft",
+      "summary": "Das bevorstehende Finanzergebnis von Nvidia ist für die Weltwirtschaft so wichtig wie ein Zinsentscheid der US-Notenbank und sorgt für Nervosität. Ein positives Ergebnis ist entscheidend, um einen Markteinbruch zu verhindern."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Sorge um Top-Rating: Deutsches Staatsdefizit fast verdoppelt",
-      "summary": "Das deutsche Staatsdefizit hat sich im ersten Halbjahr nahezu verdoppelt, was Sorgen um das Top-Rating weckt. Während Fiskalpakete Unternehmen helfen, gerät der Staat in eine schwierige Lage."
+      "headline": "Billigmodehändler Shein plant nach gescheiterten Versuchen Börsengang in Hongkong",
+      "summary": "Nach zwei abgesagten Börsengängen in New York und London plant der chinesische Onlinehändler Shein nun seinen Handelsstart für Anfang September in Hongkong. Die UBS ist als einer der Ankerinvestoren mit von der Partie."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Der Chip-Gigant im Zentrum des KI-Booms: Einmal mehr macht Nvidia die Börsen nervös",
-      "summary": "Das Finanzergebnis von Nvidia ist für die Weltwirtschaft entscheidend, vergleichbar mit einem Zinsentscheid der US-Notenbank. Ein positives Ergebnis ist für die Börsen zur Vermeidung eines Markteinbruchs unerlässlich."
+      "headline": "Trauer um Ikone Dolly Parton: Sängerin im Alter von 80 Jahren gestorben",
+      "summary": "Die unerschrockene und willensstarke Country-Sängerin Dolly Parton ist im Alter von 80 Jahren gestorben. Sie begeisterte Generationen und setzte sich ihr Leben lang für soziale Belange ein."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
-      "summary": "Apple stellt seine bisher leistungsstärksten Chips, den M5 Ultra und M6, vor. Diese neuen Prozessoren debütieren zusammen mit aktualisierten Mac Mini und Mac Studio Modellen."
+      "headline": "SpaceX plant zweiten Mega-Weltraumbahnhof in Louisiana für 100 Milliarden Dollar",
+      "summary": "SpaceX plant in Louisiana einen neuen Weltraumbahnhof, der ab 2027 gebaut und bereits 2029 erste Starship-Starts ermöglichen soll. Tech-Milliardär Elon Musk träumt vom größten Startplatz der Erde mit einem Wert von 100 Milliarden Dollar."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-      "summary": "Das Startup Gatik, spezialisiert auf selbstfahrende Lastwagen, hat nach einem Deal mit PepsiCo 200 Millionen Dollar eingesammelt. Diese größte Finanzierungsrunde wurde von Qatar Investment Authority und Koch Disruptive Technologies angeführt."
+      "headline": "Indisches Voice-AI-Startup Ringg sichert sich 10 Millionen Dollar in Series A Erweiterung",
+      "summary": "Das indische Startup Ringg hat in einer Series A Erweiterungsrunde 10 Millionen Dollar von Peak XV erhalten. Das Unternehmen fokussiert sich darauf, Voice AI über traditionelle Telefonanrufe hinaus zu entwickeln."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Accel-backed Keenable is indexing the web for AI agents",
-      "summary": "Das Accel-unterstützte Startup Keenable verlässt den Stealth-Modus mit einer 26 Millionen Dollar Seed-Runde. Es entwickelt einen umfangreichen Web-Suchindex speziell für KI-Agenten."
+      "headline": "Stability AI, Entwickler von Stable Diffusion, erhält weitere 76 Millionen Dollar Finanzierung",
+      "summary": "Stability AI, bekannt als Entwickler des Bildgenerators Stable Diffusion, hat weitere 76 Millionen Dollar an frischem Kapital aufgenommen. Die Gesamtfinanzierung des Unternehmens beläuft sich damit auf 232 Millionen Dollar."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer neuen Finanzierungsrunde, während die Post-Money-Bewertung den Wert NACH der Investition darstellt.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird der Wert des Unternehmens vor dieser Investition als Pre-Money-Bewertung bezeichnet. Die Post-Money-Bewertung ergibt sich aus der Addition der Investitionssumme zur Pre-Money-Bewertung. Diese Unterscheidung ist entscheidend, um den Anteil zu berechnen, den ein Investor für seine Einlage erhält, da sich die Anzahl der ausstehenden Anteile nach der Finanzierungsrunde und damit die prozentualen Eigentumsverhältnisse ändern. Die Post-Money-Bewertung dient oft als Basis für die zukünftige Kapitalisierungsplanung und zur Bestimmung des Gewichts von Stimmrechten.",
-    "takeaway": "Das Verständnis von Pre- und Post-Money ist essenziell, um den genauen Wertanteil eines Investors und die zukünftige Verwässerung der bestehenden Eigentümeranteile präzise zu kalkulieren."
+    "topic": "Startup-Slang entmystifiziert: B2B, SaaS, ARR, Burn Rate & Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese Begriffe sind Schlüsselkonzepte in der Startup- und Venture-Capital-Welt, die Geschäftsmodelle, Wachstumspotenziale und finanzielle Gesundheit von jungen Unternehmen beschreiben. Sie sind essenziell, um die Dynamik im Tech-Sektor zu verstehen.",
+    "details": "B2B (Business-to-Business) steht für Geschäftsmodelle, bei denen Produkte oder Dienstleistungen an andere Unternehmen verkauft werden, im Gegensatz zu Endverbrauchern (B2C). SaaS (Software-as-a-Service) bezeichnet ein Lizenz- und Bereitstellungsmodell, bei dem Software über das Internet als Dienstleistung angeboten und typischerweise abonniert wird. ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements, ein wichtiger Indikator für die Vorhersagbarkeit und Stabilität eines SaaS-Unternehmens. Die Burn Rate gibt an, wie schnell ein Startup sein Kapital aufbraucht, typischerweise pro Monat. Die Churn Rate misst den Prozentsatz der Kunden, die ein Produkt oder einen Dienst innerhalb eines bestimmten Zeitraums abbestellen oder nicht verlängern. Die Kombination dieser Metriken erlaubt Investoren und Gründern, die Leistungsfähigkeit und das Potenzial eines Startups umfassend zu bewerten.",
+    "takeaway": "Das Beherrschen dieser Begriffe ermöglicht es dir, schnell die operative und finanzielle Stärke von Startups zu beurteilen und fundierte Gespräche in der VC-Branche zu führen. Sie sind die Sprache des Wachstums und der Nachhaltigkeit im Tech-Ökosystem."
   }
 }
