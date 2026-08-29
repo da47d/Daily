@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Sechs Monate Iran-Krieg: Golfstaaten suchen Ausweg aus der Krise",
-      "summary": "Der seit einem halben Jahr andauernde Iran-Krieg zwingt die Golfstaaten zu einer Neubewertung ihrer Position und zur Suche nach neuen Ölexportwegen sowie regionalen Allianzen. Dies hat weitreichende Konsequenzen für das Selbstverständnis der Region und die globale Energieversorgung."
+      "headline": "Iran-Krieg: Hunderte Schiffe im Persischen Golf gefangen – Wirtschaft in Bedrängnis",
+      "summary": "Der anhaltende Iran-Krieg führt weiterhin zu starken Einschränkungen im Schiffsverkehr durch die Straße von Hormus, wodurch Hunderte Schiffe im Persischen Golf festsitzen. Trotz eingestandener schwerer wirtschaftlicher Schäden zeigt die iranische Führung keine Bereitschaft zum Einlenken."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: Kanada hat Vergeltungszölle von bis zu 50 Prozent auf Importe aus den USA verhängt",
-      "summary": "Kanada hat Vergeltungszölle von bis zu 50 Prozent auf US-Importe verhängt, nachdem der Supreme Court Trumps Zölle für unrechtmäßig erklärt hatte. Die Eskalation des Handelsstreits zwischen beiden Ländern verursacht weiterhin weltweite Turbulenzen."
+      "headline": "Handelsstreit eskaliert: Kanada verhängt Vergeltungszölle auf US-Importe",
+      "summary": "Kanada hat als Reaktion auf von Trump verhängte Zölle Vergeltungszölle von bis zu 50 Prozent auf US-Importe eingeführt, obwohl Trumps ursprüngliche Zölle vom Supreme Court für unrechtmässig erklärt wurden. Dies verschärft die globalen Handelsspannungen und zeigt die anhaltenden Turbulenzen durch umstrittene Zollpolitiken."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Kurz vor dem Wochenschluss ein neues Allzeithoch",
-      "summary": "Der DAX übersprang in der letzten Handelsstunde die Marke von 26.600 Punkten und erreichte damit ein neues Allzeithoch. Die Woche endet mit einem soliden Plus für den Leitindex, was die positive Marktstimmung widerspiegelt."
+      "headline": "Bank of America CEO sieht US-Konsumenten trotz Krisen stabil",
+      "summary": "Der CEO der Bank of America, Brian Moynihan, äußert sich trotz Iran-Krieg und hoher Preise optimistisch über die Lage des amerikanischen Konsumenten. Er sieht Staatsdefizit und Zinsen als unproblematisch an, solange die Wirtschaft wächst."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der Fed-Chef Kevin Warsh gibt einmal mehr den Kämpfer gegen die Inflation, doch Zweifel an seiner Entschlossenheit bleiben",
-      "summary": "Fed-Chef Kevin Warsh bezeichnete die Inflation trotz jüngster Verlangsamung weiterhin als zu hoch und positionierte sich als entschlossener Kämpfer dagegen. Diese Aussage wurde von den Märkten als klare Kampfansage gegen die Teuerung gewertet."
+      "headline": "Fed-Chef Warsh signalisiert anhaltenden Kampf gegen die Inflation",
+      "summary": "Obwohl sich die Inflation in den USA jüngst verlangsamt hat, betonte Fed-Chef Kevin Warsh in einer Rede, dass die Teuerung noch zu hoch sei. Die Märkte interpretierten dies als erneute Kampfansage gegen die Inflation, doch bleiben Zweifel an der Entschlossenheit der Fed."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Sind wir schlecht vorbereitet auf die künstliche Intelligenz? Bill Gates warnt vor «der turbulentesten Zeit in der Menschheitsgeschichte»",
-      "summary": "Bill Gates warnt in einem Essay vor den disruptiven Auswirkungen Künstlicher Intelligenz und fordert, Jobs für Menschen zu reservieren sowie einen umfassenden Plan für den Umgang mit KI zu entwickeln. Er prognostiziert eine der turbulentesten Zeiten der Menschheitsgeschichte, doch eine globale Einigung darauf sei illusorisch."
+      "headline": "Bill Gates warnt vor KI als Auslöser einer 'turbulentesten Zeit'",
+      "summary": "Microsoft-Gründer Bill Gates warnt, dass Künstliche Intelligenz die 'turbulenteste Zeit der Menschheitsgeschichte' einläuten könnte und fordert einen globalen Plan für den Umgang mit KI sowie die Sicherung menschlicher Arbeitsplätze. Er hält eine weltweite Einigung darauf jedoch für illusorisch."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Bahnbrechender Vergleich: Instagram limitiert in den USA, wie lange Kinder den Onlinedienst nutzen dürfen",
-      "summary": "Meta, der Mutterkonzern von Instagram, zahlt eine Strafe von 18 Milliarden Dollar und führt auf Druck einer breiten politischen Koalition neue Kindesschutzmaßnahmen ein. Dazu gehört die Limitierung der Nutzungsdauer für Kinder auf dem Onlinedienst in den USA."
+      "headline": "Chinesische Autobauer setzen auf humanoide Roboter als nächsten Profit-Motor",
+      "summary": "Chinesische Automobilhersteller folgen dem Beispiel Teslas und investieren verstärkt in die Entwicklung humanoider Roboter, um das nächste große Geschäftsfeld zu erschließen. Technische Fortschritte befeuern die Hoffnung auf erhebliche Gewinne aus dieser aufstrebenden Technologie."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Friend-focused photo-sharing app Retro snags $21M",
-      "summary": "Retro, eine von ehemaligen Instagram-Mitarbeitern entwickelte Foto-Sharing-App mit Fokus auf Freunde, hat über 21 Millionen Dollar in einer Series-A-Finanzierungsrunde eingesammelt. Die Plattform ermöglicht Nutzern, Bilder im engen Kreis zu teilen."
+      "headline": "Neocloud Lambda sichert $1 Milliarde für Nvidia AI-Chips",
+      "summary": "Neocloud Lambda hat eine private Verschuldung von 1 Milliarde Dollar aufgenommen, um Nvidia AI-Chips zu kaufen und an Microsoft zu vermieten. Diese Finanzierung unterstreicht die hohen Kosten des aktuellen KI-Booms und die steigende Nachfrage nach Rechenkapazität."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
-      "summary": "Die Venture-Capital-Firma a16z hat einen neuen 'Machine Age' Fonds mit einem Volumen von 1,1 Milliarden Dollar aufgelegt. Dieser Fonds soll gezielt in die physische Infrastruktur und Hardware investieren, die für den Ausbau von KI-Technologien benötigt wird."
+      "headline": "Open-weight AI-Unternehmen werden zu Top-Akquisitionszielen im Valley",
+      "summary": "Unternehmen, die quelloffene KI-Modelle entwickeln, werden im Silicon Valley zu den begehrtesten Akquisitionszielen. Derzeit fließt viel Kapital in das Geschäftsmodell, Modelle frei zur Verfügung zu stellen."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang entschlüsseln: ARR, Burn Rate & Churn verstehen",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Kennzahlen sind entscheidend, um die finanzielle Gesundheit und Wachstumsaussichten eines Startups zu beurteilen und dessen Geschäftsmodell besser zu durchdringen.",
-    "details": "ARR (Annual Recurring Revenue) steht für den wiederkehrenden Jahresumsatz aus Abonnements oder Verträgen und zeigt die Planbarkeit der Einnahmen. Die Burn Rate misst, wie schnell ein Startup seine liquiden Mittel verbraucht, bevor es profitabel wird, und gibt Aufschluss über den Finanzierungsbedarf. Die Churn Rate (Kundenabwanderungsrate) beziffert den Prozentsatz der Kunden, die in einem bestimmten Zeitraum abspringen, und ist ein wichtiger Indikator für Kundenzufriedenheit und langfristiges Wachstumspotenzial.",
-    "takeaway": "Ein solides Verständnis von ARR, Burn Rate und Churn ermöglicht es, die operative Effizienz und die Nachhaltigkeit von Startups kritisch zu bewerten, was für Investitionsentscheidungen und Interviews unerlässlich ist."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zu deinem Startup-Anteil",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens vor einer neuen Investition, während die Post-Money-Bewertung den Wert nach dem Erhalt des Kapitals beschreibt.",
+    "details": "Wenn ein Investor in ein Startup investiert, erhöht er das Kapital des Unternehmens. Die Pre-Money-Bewertung ist die Grundlage, auf der der Investor seinen Anteil berechnet. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Dies ist der Gesamtwert des Unternehmens, in dem der Investor nun seinen Anteil hält. Für Gründer ist das Verständnis entscheidend, da es direkt bestimmt, wie stark ihre Anteile durch die neue Finanzierung verwässert werden.",
+    "takeaway": "Eine höhere Pre-Money-Bewertung bedeutet, dass Gründer für die gleiche Investition weniger Anteile abgeben müssen. Dies ist ein zentraler Verhandlungspunkt, der direkt den zukünftigen Wert ihrer Beteiligung beeinflusst."
   }
 }
