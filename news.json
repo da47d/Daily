@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Klingbeil fordert vor G20 ein Ende des Iran-Kriegs",
-      "summary": "Bundesfinanzminister Klingbeil reist zum G20-Treffen in die USA, wo der Iran-Krieg und ein Handelskonflikt mit Kanada die Agenda überschatten. Er fordert ein Ende des Konflikts, der globale Auswirkungen hat."
+      "headline": "Islands Nein zu EU-Beitrittsgesprächen: Angst war stärker als Europa",
+      "summary": "Island hat sich in einem Referendum gegen die Wiederaufnahme von EU-Beitrittsgesprächen entschieden, was den Wunsch nach Souveränität unterstreicht. Trotz knapper Abstimmung ist die Frage nach Islands Platz in Europa weiterhin offen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran-Krieg blockiert Hunderte Schiffe im Persischen Golf",
-      "summary": "Seit Beginn des Iran-Kriegs ist der Schiffsverkehr durch die wichtige Straße von Hormus stark eingeschränkt. Hunderte Tanker und Frachter können den Persischen Golf nicht verlassen, was die globalen Lieferketten massiv beeinträchtigt."
+      "headline": "Angriffe gegen NATO-Staaten: \"Putin eskaliert\"",
+      "summary": "Militärhistoriker warnen, dass Russlands Präsident Putin den Konflikt mit der NATO eskaliert und fordern ein entschiedeneres Vorgehen. Nachrichtendienste sollen die Öffentlichkeit über die Ernsthaftigkeit der globalen Lage aufklären."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Höhere Zinsen in den USA: Welche «Zeitbomben» an Finanzmärkten nun explodieren könnten",
-      "summary": "Die steigenden Zinsen in den USA schüren Ängste vor den Folgen der hohen Staatsschulden und möglichen Verwerfungen an den Finanzmärkten. Frankreich wird in diesem Kontext als weiteres Sorgenkind hervorgehoben."
+      "headline": "Hohe Staatsschulden in den USA: Welche «Zeitbomben» an den Finanzmärkten nun explodieren könnten",
+      "summary": "Die hohen Staatsschulden der USA befeuern Ängste an den Finanzmärkten und treiben die Zinsen in die Höhe. Frankreich gilt in diesem Kontext sogar als ein noch größeres Sorgenkind für die Finanzwelt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Skandal um Pierre Mirabaud: Ex-Banker wegen Bestechung und Geldwäsche vor Gericht",
-      "summary": "Der frühere Präsident der Schweizer Bankiervereinigung, Pierre Mirabaud, muss sich wegen Bestechung und Geldwäscherei im Zusammenhang mit Geschäften in Kuwait verantworten. Dies wirft ein Licht auf vergangene Praktiken im Schweizer Finanzplatz."
+      "headline": "Deutschland hat unter G20-Staaten die höchsten Strompreise",
+      "summary": "Deutschland weist laut einer Verivox-Analyse die höchsten Strompreise unter allen G20-Ländern auf. Dies ist ein langjähriger Kritikpunkt von Wirtschaftsverbänden, die die Wettbewerbsfähigkeit gefährdet sehen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Deutschland kämpft in Dresden um Schlüsselposition in globaler KI-Wirtschaft",
-      "summary": "Europa versucht, in der Fertigung modernster KI-Chips geopolitisches Gewicht zu erlangen, da es derzeit kaum eine Rolle spielt. In Dresden wird um eine entscheidende Position im globalen KI-Wettbewerb gerungen."
+      "headline": "Neues Weltraumteleskop ins All gestartet",
+      "summary": "Ein neues, deutlich leistungsstärkeres Weltraumteleskop ist als Nachfolger des über 35 Jahre alten Hubble ins All gestartet. Es verspricht bahnbrechende neue Erkenntnisse über das Universum."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Sony Music und Warner verklagen Anthropic wegen 'dreister' Urheberrechtsverletzung",
-      "summary": "Große Musikunternehmen wie Sony Music und Warner haben Klage gegen das KI-Unternehmen Anthropic eingereicht. Sie werfen dem Unternehmen einen 'dreisten Feldzug' der Urheberrechtsverletzung vor, was die Debatte um KI und geistiges Eigentum anheizt."
+      "headline": "In Dresden kämpft Deutschland um eine Schlüsselposition in der globalen KI-Wirtschaft",
+      "summary": "Deutschland bemüht sich aktiv, in Dresden eine zentrale Rolle in der globalen KI-Halbleiterfertigung zu etablieren. Ziel ist es, geopolitisches Gewicht zu sichern und Europas Abhängigkeit in dieser Schlüsseltechnologie zu verringern."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Neocloud Lambda sichert sich 1 Mrd. $ Schulden für Nvidia-Chips",
-      "summary": "Neocloud Lambda hat sich 1 Milliarde US-Dollar Fremdkapital gesichert, um Nvidia AI-Chips zu kaufen und an Microsoft zu vermieten. Dies unterstreicht die immensen Kosten und die hohe Nachfrage im Bereich der KI-Infrastruktur."
+      "headline": "Diese Finanzplattform bietet Banking der Zukunft, und ich bin gerade ihr Kunde geworden",
+      "summary": "Die neue Finanzplattform Ether.fi bietet derzeit höhere Zinsen auf Erspartes, als Kredite kosten, was ein disruptives Banking-Modell darstellt. Dies zeigt innovative Ansätze im FinTech-Sektor, die traditionelle Banken herausfordern."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Open-Weight-KI-Firmen sind begehrte Übernahmeziele im Silicon Valley",
-      "summary": "Unternehmen, die 'Open-Weight'-KI-Modelle anbieten, entwickeln sich zu den heissesten Akquisitionszielen im Valley. Es fliesst viel Kapital in dieses Geschäftsmodell, das auf der Freigabe von KI-Modellen basiert."
+      "headline": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary": "Große Musiklabels verklagen das KI-Startup Anthropic wegen umfangreichen Diebstahls geistigen Eigentums, was eine \"dreiste Kampagne\" genannt wird. Dieser Fall verdeutlicht die wachsenden rechtlichen Herausforderungen für KI-Unternehmen bezüglich Copyright-Verletzungen."
     }
   ],
   "learning": {
-    "topic": "Der Ablauf eines Short Squeeze: Wenn Leerverkäufer in die Falle tappen",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein plötzlicher und starker Preisanstieg einer Aktie, der Leerverkäufer zwingt, ihre Positionen zu schließen und dadurch den Kurs weiter nach oben treibt.",
-    "details": "Leerverkäufer leihen sich Aktien, verkaufen sie sofort und hoffen, diese später zu einem tieferen Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben und die Differenz als Gewinn einzustreichen. Steigt der Aktienkurs jedoch unerwartet stark an, geraten Leerverkäufer unter Druck. Um ihre Verluste zu begrenzen, müssen sie die Aktien zu einem höheren Preis zurückkaufen, was als 'Covering' bezeichnet wird. Dieser erzwungene Rückkauf erhöht die Nachfrage nach der Aktie und lässt den Preis noch weiter steigen, was eine Kettenreaktion auslösen kann, bei der immer mehr Leerverkäufer ihre Positionen schließen müssen.",
-    "takeaway": "Ein Short Squeeze kann zu extremen Kursschwankungen führen und birgt für Leerverkäufer enorme Risiken, während er für Anleger, die frühzeitig auf den Anstieg gesetzt haben, hohe Gewinne ermöglichen kann. Er verdeutlicht die Dynamik, wie Marktbewegungen sich selbst verstärken können."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money Bewertung ist der Wert eines Startups *vor* einer neuen Finanzierungsrunde, während die Post-Money Bewertung der Wert *nach* dem Erhalt des frischen Kapitals ist.",
+    "details": "Stell dir vor, ein Startup ist vor einer Investition 10 Millionen Euro wert (Pre-Money). Wenn ein Investor nun 2 Millionen Euro für 20% der Anteile investiert, dann ist das Startup nach dieser Investition 12 Millionen Euro wert (Post-Money). Die Post-Money Bewertung setzt sich also aus der Pre-Money Bewertung und dem investierten Kapital zusammen. Sie ist entscheidend, da sie den Wert jedes Anteils nach der Runde bestimmt und zeigt, wie viel Prozent des Unternehmens der Investor für sein Geld erhält.",
+    "takeaway": "Für Gründer ist die Pre-Money Bewertung wichtig, um zu wissen, wie viel ihres Unternehmens sie vor der Investition besitzen; die Post-Money Bewertung zeigt den neuen Gesamtwert und die Verdünnung ihrer Anteile nach der Runde. Investoren nutzen beide, um ihre Beteiligungsquote und den Wert ihrer Investition zu kalkulieren."
   }
 }
