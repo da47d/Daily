@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran-Krieg: Hunderte Schiffe im Persischen Golf gefangen – Wirtschaft in Bedrängnis",
-      "summary": "Der anhaltende Iran-Krieg führt weiterhin zu starken Einschränkungen im Schiffsverkehr durch die Straße von Hormus, wodurch Hunderte Schiffe im Persischen Golf festsitzen. Trotz eingestandener schwerer wirtschaftlicher Schäden zeigt die iranische Führung keine Bereitschaft zum Einlenken."
+      "headline": "Klingbeil fordert vor G20 ein Ende des Iran-Kriegs",
+      "summary": "Bundesfinanzminister Klingbeil reist zum G20-Treffen in die USA, wo der Iran-Krieg und ein Handelskonflikt mit Kanada die Agenda überschatten. Er fordert ein Ende des Konflikts, der globale Auswirkungen hat."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit eskaliert: Kanada verhängt Vergeltungszölle auf US-Importe",
-      "summary": "Kanada hat als Reaktion auf von Trump verhängte Zölle Vergeltungszölle von bis zu 50 Prozent auf US-Importe eingeführt, obwohl Trumps ursprüngliche Zölle vom Supreme Court für unrechtmässig erklärt wurden. Dies verschärft die globalen Handelsspannungen und zeigt die anhaltenden Turbulenzen durch umstrittene Zollpolitiken."
+      "headline": "Iran-Krieg blockiert Hunderte Schiffe im Persischen Golf",
+      "summary": "Seit Beginn des Iran-Kriegs ist der Schiffsverkehr durch die wichtige Straße von Hormus stark eingeschränkt. Hunderte Tanker und Frachter können den Persischen Golf nicht verlassen, was die globalen Lieferketten massiv beeinträchtigt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Bank of America CEO sieht US-Konsumenten trotz Krisen stabil",
-      "summary": "Der CEO der Bank of America, Brian Moynihan, äußert sich trotz Iran-Krieg und hoher Preise optimistisch über die Lage des amerikanischen Konsumenten. Er sieht Staatsdefizit und Zinsen als unproblematisch an, solange die Wirtschaft wächst."
+      "headline": "Höhere Zinsen in den USA: Welche «Zeitbomben» an Finanzmärkten nun explodieren könnten",
+      "summary": "Die steigenden Zinsen in den USA schüren Ängste vor den Folgen der hohen Staatsschulden und möglichen Verwerfungen an den Finanzmärkten. Frankreich wird in diesem Kontext als weiteres Sorgenkind hervorgehoben."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Fed-Chef Warsh signalisiert anhaltenden Kampf gegen die Inflation",
-      "summary": "Obwohl sich die Inflation in den USA jüngst verlangsamt hat, betonte Fed-Chef Kevin Warsh in einer Rede, dass die Teuerung noch zu hoch sei. Die Märkte interpretierten dies als erneute Kampfansage gegen die Inflation, doch bleiben Zweifel an der Entschlossenheit der Fed."
+      "headline": "Skandal um Pierre Mirabaud: Ex-Banker wegen Bestechung und Geldwäsche vor Gericht",
+      "summary": "Der frühere Präsident der Schweizer Bankiervereinigung, Pierre Mirabaud, muss sich wegen Bestechung und Geldwäscherei im Zusammenhang mit Geschäften in Kuwait verantworten. Dies wirft ein Licht auf vergangene Praktiken im Schweizer Finanzplatz."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Bill Gates warnt vor KI als Auslöser einer 'turbulentesten Zeit'",
-      "summary": "Microsoft-Gründer Bill Gates warnt, dass Künstliche Intelligenz die 'turbulenteste Zeit der Menschheitsgeschichte' einläuten könnte und fordert einen globalen Plan für den Umgang mit KI sowie die Sicherung menschlicher Arbeitsplätze. Er hält eine weltweite Einigung darauf jedoch für illusorisch."
+      "headline": "Deutschland kämpft in Dresden um Schlüsselposition in globaler KI-Wirtschaft",
+      "summary": "Europa versucht, in der Fertigung modernster KI-Chips geopolitisches Gewicht zu erlangen, da es derzeit kaum eine Rolle spielt. In Dresden wird um eine entscheidende Position im globalen KI-Wettbewerb gerungen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Chinesische Autobauer setzen auf humanoide Roboter als nächsten Profit-Motor",
-      "summary": "Chinesische Automobilhersteller folgen dem Beispiel Teslas und investieren verstärkt in die Entwicklung humanoider Roboter, um das nächste große Geschäftsfeld zu erschließen. Technische Fortschritte befeuern die Hoffnung auf erhebliche Gewinne aus dieser aufstrebenden Technologie."
+      "headline": "Sony Music und Warner verklagen Anthropic wegen 'dreister' Urheberrechtsverletzung",
+      "summary": "Große Musikunternehmen wie Sony Music und Warner haben Klage gegen das KI-Unternehmen Anthropic eingereicht. Sie werfen dem Unternehmen einen 'dreisten Feldzug' der Urheberrechtsverletzung vor, was die Debatte um KI und geistiges Eigentum anheizt."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Neocloud Lambda sichert $1 Milliarde für Nvidia AI-Chips",
-      "summary": "Neocloud Lambda hat eine private Verschuldung von 1 Milliarde Dollar aufgenommen, um Nvidia AI-Chips zu kaufen und an Microsoft zu vermieten. Diese Finanzierung unterstreicht die hohen Kosten des aktuellen KI-Booms und die steigende Nachfrage nach Rechenkapazität."
+      "headline": "Neocloud Lambda sichert sich 1 Mrd. $ Schulden für Nvidia-Chips",
+      "summary": "Neocloud Lambda hat sich 1 Milliarde US-Dollar Fremdkapital gesichert, um Nvidia AI-Chips zu kaufen und an Microsoft zu vermieten. Dies unterstreicht die immensen Kosten und die hohe Nachfrage im Bereich der KI-Infrastruktur."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Open-weight AI-Unternehmen werden zu Top-Akquisitionszielen im Valley",
-      "summary": "Unternehmen, die quelloffene KI-Modelle entwickeln, werden im Silicon Valley zu den begehrtesten Akquisitionszielen. Derzeit fließt viel Kapital in das Geschäftsmodell, Modelle frei zur Verfügung zu stellen."
+      "headline": "Open-Weight-KI-Firmen sind begehrte Übernahmeziele im Silicon Valley",
+      "summary": "Unternehmen, die 'Open-Weight'-KI-Modelle anbieten, entwickeln sich zu den heissesten Akquisitionszielen im Valley. Es fliesst viel Kapital in dieses Geschäftsmodell, das auf der Freigabe von KI-Modellen basiert."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zu deinem Startup-Anteil",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens vor einer neuen Investition, während die Post-Money-Bewertung den Wert nach dem Erhalt des Kapitals beschreibt.",
-    "details": "Wenn ein Investor in ein Startup investiert, erhöht er das Kapital des Unternehmens. Die Pre-Money-Bewertung ist die Grundlage, auf der der Investor seinen Anteil berechnet. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Dies ist der Gesamtwert des Unternehmens, in dem der Investor nun seinen Anteil hält. Für Gründer ist das Verständnis entscheidend, da es direkt bestimmt, wie stark ihre Anteile durch die neue Finanzierung verwässert werden.",
-    "takeaway": "Eine höhere Pre-Money-Bewertung bedeutet, dass Gründer für die gleiche Investition weniger Anteile abgeben müssen. Dies ist ein zentraler Verhandlungspunkt, der direkt den zukünftigen Wert ihrer Beteiligung beeinflusst."
+    "topic": "Der Ablauf eines Short Squeeze: Wenn Leerverkäufer in die Falle tappen",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein plötzlicher und starker Preisanstieg einer Aktie, der Leerverkäufer zwingt, ihre Positionen zu schließen und dadurch den Kurs weiter nach oben treibt.",
+    "details": "Leerverkäufer leihen sich Aktien, verkaufen sie sofort und hoffen, diese später zu einem tieferen Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben und die Differenz als Gewinn einzustreichen. Steigt der Aktienkurs jedoch unerwartet stark an, geraten Leerverkäufer unter Druck. Um ihre Verluste zu begrenzen, müssen sie die Aktien zu einem höheren Preis zurückkaufen, was als 'Covering' bezeichnet wird. Dieser erzwungene Rückkauf erhöht die Nachfrage nach der Aktie und lässt den Preis noch weiter steigen, was eine Kettenreaktion auslösen kann, bei der immer mehr Leerverkäufer ihre Positionen schließen müssen.",
+    "takeaway": "Ein Short Squeeze kann zu extremen Kursschwankungen führen und birgt für Leerverkäufer enorme Risiken, während er für Anleger, die frühzeitig auf den Anstieg gesetzt haben, hohe Gewinne ermöglichen kann. Er verdeutlicht die Dynamik, wie Marktbewegungen sich selbst verstärken können."
   }
 }
