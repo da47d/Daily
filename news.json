@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Islands Nein zu EU-Beitrittsgesprächen: Angst war stärker als Europa",
-      "summary": "Island hat sich in einem Referendum gegen die Wiederaufnahme von EU-Beitrittsgesprächen entschieden, was den Wunsch nach Souveränität unterstreicht. Trotz knapper Abstimmung ist die Frage nach Islands Platz in Europa weiterhin offen."
+      "headline": "Hohe Staatsschulden in den USA: Welche «Zeitbomben» an den Finanzmärkten nun explodieren könnten",
+      "summary": "Die massiv gestiegenen US-Staatsschulden treiben Zinsen in die Höhe und schüren Ängste vor Finanzmarkt-Instabilität. Auch Frankreich wird wegen seiner Schuldenlast als Sorgenkind an den Finanzmärkten gesehen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Angriffe gegen NATO-Staaten: \"Putin eskaliert\"",
-      "summary": "Militärhistoriker warnen, dass Russlands Präsident Putin den Konflikt mit der NATO eskaliert und fordern ein entschiedeneres Vorgehen. Nachrichtendienste sollen die Öffentlichkeit über die Ernsthaftigkeit der globalen Lage aufklären."
+      "headline": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
+      "summary": "Italiens Wiederaufbauprogramm mit 200 Milliarden Euro EU-Hilfen zur Investition in Infrastruktur und Energie läuft aus. Experten äußern Skepsis hinsichtlich des Erfolgs und der tatsächlichen Wirkung der Gelder."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Hohe Staatsschulden in den USA: Welche «Zeitbomben» an den Finanzmärkten nun explodieren könnten",
-      "summary": "Die hohen Staatsschulden der USA befeuern Ängste an den Finanzmärkten und treiben die Zinsen in die Höhe. Frankreich gilt in diesem Kontext sogar als ein noch größeres Sorgenkind für die Finanzwelt."
+      "headline": "Pflegekassen im ersten Halbjahr mit 770 Millionen Euro Minus",
+      "summary": "Die deutschen Pflegekassen verzeichnen im ersten Halbjahr ein Defizit von 770 Millionen Euro. Der Spitzenverband warnt, dass bereits im Oktober die Finanzierung der Pflegeleistungen kritisch werden könnte."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Deutschland hat unter G20-Staaten die höchsten Strompreise",
-      "summary": "Deutschland weist laut einer Verivox-Analyse die höchsten Strompreise unter allen G20-Ländern auf. Dies ist ein langjähriger Kritikpunkt von Wirtschaftsverbänden, die die Wettbewerbsfähigkeit gefährdet sehen."
+      "headline": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
+      "summary": "Deutschland bleibt ein attraktiver Standort für ausländische Unternehmen, mit einem deutlichen Anstieg der Direktinvestitionen im letzten Jahr. Es gab jedoch eine Verschiebung der Herkunftsländer dieser Investitionen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Neues Weltraumteleskop ins All gestartet",
-      "summary": "Ein neues, deutlich leistungsstärkeres Weltraumteleskop ist als Nachfolger des über 35 Jahre alten Hubble ins All gestartet. Es verspricht bahnbrechende neue Erkenntnisse über das Universum."
+      "headline": "Madonna oder Maschine? Australien verbannt KI-Songs aus den Charts – die Schweiz zieht bis Ende Jahr nach",
+      "summary": "Mehrere Länder, darunter Australien und bald die Schweiz, wollen rein KI-generierte Musik aus ihren offiziellen Charts ausschließen. Die Musikindustrie diskutiert intensiv, wie viel künstliche Intelligenz in Songs akzeptabel ist."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "In Dresden kämpft Deutschland um eine Schlüsselposition in der globalen KI-Wirtschaft",
-      "summary": "Deutschland bemüht sich aktiv, in Dresden eine zentrale Rolle in der globalen KI-Halbleiterfertigung zu etablieren. Ziel ist es, geopolitisches Gewicht zu sichern und Europas Abhängigkeit in dieser Schlüsseltechnologie zu verringern."
+      "headline": "Bilanz des DWD: Zweitwärmster Sommer seit Aufzeichnungsbeginn",
+      "summary": "Der Deutsche Wetterdienst meldet den zweitwärmsten Sommer seit Beginn der Aufzeichnungen, geprägt von extremer Hitze, Dürre und Unwettern. Diese Wetterereignisse erreichten in Deutschland bisher ungesehene Dimensionen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Diese Finanzplattform bietet Banking der Zukunft, und ich bin gerade ihr Kunde geworden",
-      "summary": "Die neue Finanzplattform Ether.fi bietet derzeit höhere Zinsen auf Erspartes, als Kredite kosten, was ein disruptives Banking-Modell darstellt. Dies zeigt innovative Ansätze im FinTech-Sektor, die traditionelle Banken herausfordern."
+      "headline": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "summary": "Grindr-CEO George Arison will die Plattform zu einer \"Everything App\" für schwule Männer ausbauen, inklusive KI-Features und Healthcare-Angeboten. Investoren beobachten mit Skepsis, ob diese Strategie den \"Grindr Discount\" an der Wall Street überwinden kann."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "summary": "Große Musiklabels verklagen das KI-Startup Anthropic wegen umfangreichen Diebstahls geistigen Eigentums, was eine \"dreiste Kampagne\" genannt wird. Dieser Fall verdeutlicht die wachsenden rechtlichen Herausforderungen für KI-Unternehmen bezüglich Copyright-Verletzungen."
+      "headline": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary": "Vijay Pande, der frühere Leiter des 4-Milliarden-Dollar-Biotech-Bereichs bei a16z, konzentriert sich mit seinem neuen VC-Fonds VZVC auf weniger, aber tiefere Investitionen. Er sieht Biologie als sich entwickelnde Ingenieurswissenschaft und betont die Wichtigkeit offener Datensätze für KI in der Medizin."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money Bewertung ist der Wert eines Startups *vor* einer neuen Finanzierungsrunde, während die Post-Money Bewertung der Wert *nach* dem Erhalt des frischen Kapitals ist.",
-    "details": "Stell dir vor, ein Startup ist vor einer Investition 10 Millionen Euro wert (Pre-Money). Wenn ein Investor nun 2 Millionen Euro für 20% der Anteile investiert, dann ist das Startup nach dieser Investition 12 Millionen Euro wert (Post-Money). Die Post-Money Bewertung setzt sich also aus der Pre-Money Bewertung und dem investierten Kapital zusammen. Sie ist entscheidend, da sie den Wert jedes Anteils nach der Runde bestimmt und zeigt, wie viel Prozent des Unternehmens der Investor für sein Geld erhält.",
-    "takeaway": "Für Gründer ist die Pre-Money Bewertung wichtig, um zu wissen, wie viel ihres Unternehmens sie vor der Investition besitzen; die Post-Money Bewertung zeigt den neuen Gesamtwert und die Verdünnung ihrer Anteile nach der Runde. Investoren nutzen beide, um ihre Beteiligungsquote und den Wert ihrer Investition zu kalkulieren."
+    "topic": "Startup-Metriken: ARR, Burn Rate und Churn Rate",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese Metriken sind entscheidend, um die finanzielle Gesundheit und das Wachstumspotenzial von Startups, insbesondere im SaaS-Bereich, zu bewerten. Sie geben Aufschluss über Umsatzstabilität, Kapitalverbrauch und Kundenbindung.",
+    "details": "Annual Recurring Revenue (ARR) ist der jährlich wiederkehrende Umsatz aus Abonnements oder Verträgen und zeigt die Vorhersagbarkeit der Einnahmen sowie die Skalierbarkeit des Geschäftsmodells. Die Burn Rate beschreibt, wie schnell ein Startup seine liquiden Mittel verbraucht; eine hohe Netto-Burn Rate ohne entsprechendes Wachstum kann kritisch sein. Die Churn Rate ist die Rate, mit der Kunden ein Produkt oder eine Dienstleistung kündigen, und deutet auf Probleme bei Produkt, Service oder Preisgestaltung hin.",
+    "takeaway": "Das Verständnis dieser Metriken ist für Investoren und Gründer essenziell, um die Performance eines Startups realistisch einzuschätzen und fundierte Entscheidungen über Finanzierung oder Strategie zu treffen."
   }
 }
