@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Hohe Staatsschulden in den USA: Welche «Zeitbomben» an den Finanzmärkten nun explodieren könnten",
-      "summary": "Die massiv gestiegenen US-Staatsschulden treiben Zinsen in die Höhe und schüren Ängste vor Finanzmarkt-Instabilität. Auch Frankreich wird wegen seiner Schuldenlast als Sorgenkind an den Finanzmärkten gesehen."
+      "headline": "USA und Iran melden erneut heftige Angriffe",
+      "summary": "Nach Wochen relativer Ruhe nehmen die gegenseitigen Angriffe zwischen Iran und den USA an der Straße von Hormus wieder zu. Beide Seiten meldeten erneut heftige Attacken, was die Spannungen in der geopolitisch wichtigen Region verschärft."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
-      "summary": "Italiens Wiederaufbauprogramm mit 200 Milliarden Euro EU-Hilfen zur Investition in Infrastruktur und Energie läuft aus. Experten äußern Skepsis hinsichtlich des Erfolgs und der tatsächlichen Wirkung der Gelder."
+      "headline": "ERKLÄRT - Trump greift nach Venezuelas Erdöl. Doch das ist ein riskantes Spiel",
+      "summary": "Ex-Präsident Trump verspricht tiefere Benzinpreise durch venezolanisches Erdöl, was ein riskantes geopolitisches Spiel darstellt. Der Milliardendeal involviert umstrittene Figuren, gegen die sogar in der Schweiz Strafverfahren laufen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Pflegekassen im ersten Halbjahr mit 770 Millionen Euro Minus",
-      "summary": "Die deutschen Pflegekassen verzeichnen im ersten Halbjahr ein Defizit von 770 Millionen Euro. Der Spitzenverband warnt, dass bereits im Oktober die Finanzierung der Pflegeleistungen kritisch werden könnte."
+      "headline": "Marktbericht: DAX verliert erneut deutlich",
+      "summary": "Der DAX hat zum September-Start aufgrund steigender Zinsen erneut deutlich verloren und fiel um mehr als ein Prozent unter die Marke von 26.000 Punkten. Diese Entwicklung spiegelt die Nervosität der Anleger wider und deutet auf eine angespannte Marktstimmung hin."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
-      "summary": "Deutschland bleibt ein attraktiver Standort für ausländische Unternehmen, mit einem deutlichen Anstieg der Direktinvestitionen im letzten Jahr. Es gab jedoch eine Verschiebung der Herkunftsländer dieser Investitionen."
+      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Umbruch bei VW: Konzern plant laut Medienbericht das Aus an vier deutschen Standorten",
+      "summary": "VW-Chef Oliver Blume plant einen radikalen Umbau des Konzerns zur Zukunftsfähigkeit, der laut Medienberichten das Aus von vier deutschen Standorten vorsieht. Die Belegschaft äußert bereits Kritik bei Betriebsversammlungen, während erste Entscheidungen Anfang September erwartet werden."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Madonna oder Maschine? Australien verbannt KI-Songs aus den Charts – die Schweiz zieht bis Ende Jahr nach",
-      "summary": "Mehrere Länder, darunter Australien und bald die Schweiz, wollen rein KI-generierte Musik aus ihren offiziellen Charts ausschließen. Die Musikindustrie diskutiert intensiv, wie viel künstliche Intelligenz in Songs akzeptabel ist."
+      "headline": "Die Zahnbürste kann jetzt auch filmen: Der Staubsauger-Guru James Dyson schickt sich an, den Mund zu erobern",
+      "summary": "Der britische Unternehmer James Dyson, bekannt für hochpreisige Staubsauger und Haartrockner, will nun die Mundhygiene revolutionieren. Er bringt eine Hightech-Zahnbürste auf den Markt, die sogar filmen kann."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Bilanz des DWD: Zweitwärmster Sommer seit Aufzeichnungsbeginn",
-      "summary": "Der Deutsche Wetterdienst meldet den zweitwärmsten Sommer seit Beginn der Aufzeichnungen, geprägt von extremer Hitze, Dürre und Unwettern. Diese Wetterereignisse erreichten in Deutschland bisher ungesehene Dimensionen."
+      "headline": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "summary": "Google dringt mit 'Google Pics' tiefer in den Markt für Kreativsoftware vor, der von Canva und Adobe dominiert wird. Das neue KI-Tool ermöglicht es Nutzern, Designs durch Texteingaben zu erstellen, statt sie manuell zu gestalten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-      "summary": "Grindr-CEO George Arison will die Plattform zu einer \"Everything App\" für schwule Männer ausbauen, inklusive KI-Features und Healthcare-Angeboten. Investoren beobachten mit Skepsis, ob diese Strategie den \"Grindr Discount\" an der Wall Street überwinden kann."
+      "headline": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "summary": "Das von Sequoia inkubierte Startup Empirik startet mit einer Finanzierung von 21 Millionen Dollar, um IT-Ausfälle vorauszusagen, bevor sie eintreten. Es zielt darauf ab, die IT-Infrastruktur-Branche ähnlich zu revolutionieren, wie Cursor es für das Software-Engineering tat."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "summary": "Vijay Pande, der frühere Leiter des 4-Milliarden-Dollar-Biotech-Bereichs bei a16z, konzentriert sich mit seinem neuen VC-Fonds VZVC auf weniger, aber tiefere Investitionen. Er sieht Biologie als sich entwickelnde Ingenieurswissenschaft und betont die Wichtigkeit offener Datensätze für KI in der Medizin."
+      "headline": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "summary": "AIR hat 50 Millionen Dollar eingesammelt, um Unternehmen dabei zu unterstützen, die Fähigkeiten und Add-ons ihrer KI-Agenten zu überprüfen. Ihre Plattform kann in einem Unternehmen laufende Agenten entdecken, deren Verhaltensweisen kontinuierlich prüfen und unerwünschte Aktionen blockieren."
     }
   ],
   "learning": {
-    "topic": "Startup-Metriken: ARR, Burn Rate und Churn Rate",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Metriken sind entscheidend, um die finanzielle Gesundheit und das Wachstumspotenzial von Startups, insbesondere im SaaS-Bereich, zu bewerten. Sie geben Aufschluss über Umsatzstabilität, Kapitalverbrauch und Kundenbindung.",
-    "details": "Annual Recurring Revenue (ARR) ist der jährlich wiederkehrende Umsatz aus Abonnements oder Verträgen und zeigt die Vorhersagbarkeit der Einnahmen sowie die Skalierbarkeit des Geschäftsmodells. Die Burn Rate beschreibt, wie schnell ein Startup seine liquiden Mittel verbraucht; eine hohe Netto-Burn Rate ohne entsprechendes Wachstum kann kritisch sein. Die Churn Rate ist die Rate, mit der Kunden ein Produkt oder eine Dienstleistung kündigen, und deutet auf Probleme bei Produkt, Service oder Preisgestaltung hin.",
-    "takeaway": "Das Verständnis dieser Metriken ist für Investoren und Gründer essenziell, um die Performance eines Startups realistisch einzuschätzen und fundierte Entscheidungen über Finanzierung oder Strategie zu treffen."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Bei einer Finanzierungsrunde beschreibt die Pre-Money-Bewertung den Wert eines Startups *vor* dem Erhalt neuer Investitionen, während die Post-Money-Bewertung den Wert *nach* der Investition angibt.",
+    "details": "Die Pre-Money-Bewertung ist entscheidend für die Berechnung, wie viele Anteile ein Investor für sein Kapital erhält. Wenn ein Investor beispielsweise 1 Million Euro für 10% eines Startups investiert, bedeutet dies eine Post-Money-Bewertung von 10 Millionen Euro (1 Million / 0,10). Die Pre-Money-Bewertung wäre dann 9 Millionen Euro, da die neue Investition den Unternehmenswert um die eingebrachte Summe erhöht. Das Verständnis dieses Unterschieds ist fundamental, um die Verteilung der Eigentumsanteile (Cap Table) nach einer Finanzierungsrunde zu verstehen.",
+    "takeaway": "Investoren und Gründer müssen den Unterschied zwischen Pre- und Post-Money-Bewertung genau kennen, da er direkt beeinflusst, wie viel Prozent des Unternehmens nach einer Finanzierungsrunde den ursprünglichen Gründern und früheren Investoren noch gehören. Es ist der Schlüssel zur Equity-Verteilung bei Startups."
   }
 }
