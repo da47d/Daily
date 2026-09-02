@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Hybride Angriffe und Anschläge in Tschechien und der Slowakei",
-      "summary": "Tschechien und die Slowakei ermitteln wegen hybrider Angriffe und Anschlägen, die Lieferungen für die Ukraine betreffen und Parallelen zum Leipziger Drohnenvorfall aufweisen. Diese Vorfälle deuten auf eine Ausweitung russischer Aktivitäten in der EU hin und belasten die geopolitische Lage."
+      "headline": "Moskau bestellt Geschäftsträger der deutschen Botschaft ein",
+      "summary": "Das russische Außenministerium hat den Geschäftsträger der deutschen Botschaft einbestellt. Dies geschieht als scharfer Protest gegen angekündigte neue Sanktionen, die auf einen Anschlagsversuch am Flughafen Leipzig/Halle folgen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Nach Drohnenfund in Leipzig: EU berät neue Sanktionen gegen Russland",
-      "summary": "Nach dem Anschlagsversuch in Leipzig berät die EU neue Sanktionen gegen Russland, da die Tat als \"staatlich geförderter Terrorismus\" eingestuft wird. Alle EU-Staaten stehen geschlossen hinter Deutschland, was eine harte Reaktion auf die Eskalation signalisiert."
+      "headline": "Trump greift nach Venezuelas Erdöl – Ein riskantes Spiel",
+      "summary": "Präsident Trump strebt nach venezolanischem Erdöl, um niedrigere Benzinpreise für Amerikaner zu ermöglichen. Dieser riskante Schritt involviert umstrittene Figuren, gegen die sogar in der Schweiz Strafverfahren laufen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX bleibt unter Druck",
-      "summary": "Die Weltbörsen, darunter der DAX, stehen aufgrund neuer Inflationssorgen und der Eskalation im Iran-Krieg unter Druck, wobei der DAX zum Handelsstart weiter nachgibt. Trotz einer Verlangsamung der Talfahrt bleiben die Märkte volatil und reagieren empfindlich auf geopolitische Entwicklungen und Rohstoffpreise."
+      "headline": "Marktbericht: Hohe Ölpreise drücken die Stimmung",
+      "summary": "Wieder höhere Ölpreise belasten das Anlageumfeld, da sie die Inflationserwartungen steigen lassen. Dies führt zu einer vorsichtigen Haltung der Anleger, insbesondere im DAX."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Was hilft gegen die gestiegene Inflation?",
-      "summary": "Die Euro-Inflation hat 3,3 Prozent erreicht, primär getrieben durch teures Rohöl infolge des Iran-Kriegs, was Europas Notenbanker vor ein Dilemma stellt. Es besteht die Sorge, dass die Preise in naher Zukunft noch schneller steigen könnten, was weitere geldpolitische Maßnahmen erforderlich machen würde."
+      "headline": "Delivery Hero Vorstand befürwortet Ubers 15 Mrd. Dollar Übernahmeangebot",
+      "summary": "Das Management von Delivery Hero hat Ubers Übernahmeangebot von 15 Milliarden Dollar befürwortet. Sollte der Deal genehmigt werden, würde das fusionierte Unternehmen zu einem der weltweit größten Essenslieferplattformen aufsteigen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI bereitet die Veröffentlichung ihres neuen Astra-Modells vor, das als cyber-kritischer LLM bekannt ist und außergewöhnliche Fähigkeiten zum Einbruch in Computersysteme besitzt. Das Unternehmen betont dabei die umfangreichen Sicherheitsvorkehrungen, die vor dem Release getroffen werden."
+      "headline": "US-Regierung stellt sich auf die Seite von OpenAI in Bezug auf Urheberrecht",
+      "summary": "Die US-Regierung unterstützt OpenAI bezüglich der Nutzung urheberrechtlich geschützten Materials zum Trainieren großer Sprachmodelle (LLMs). Sie betont das starke Interesse der USA an der Entwicklung einer robusten und wettbewerbsfähigen KI-Industrie."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-      "summary": "Apples neuer CEO John Ternus hat in seinem ersten Memo einen \"riesigen Launch nächste Woche\" angekündigt, der voraussichtlich die Vorstellung des ersten faltbaren iPhones umfassen wird. Dies heizt die Spekulationen um eine bahnbrechende Produkterweiterung auf dem jährlichen iPhone-Event an."
+      "headline": "Google kauft 400 MW Geothermie von Fervo – Erweitertes Engagement für erneuerbare Energien",
+      "summary": "Google hat 400 Megawatt Geothermie-Leistung von Fervo erworben, mit der Option, auf ein Gigawatt zu erweitern. Dies könnte ein sehr großes KI-Rechenzentrum in Utah versorgen und unterstreicht das Engagement in fortschrittliche erneuerbare Energien."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "summary": "Das KI-Modell-Trainings-Startup AfterQuery hat Berichten zufolge eine Finanzierungsrunde abgeschlossen, die es mit 3,2 Milliarden Dollar bewertet und damit zum schnellsten Einhorn in der Geschichte von Y Combinator macht. Dies geschieht nur fünf Monate nach der Serie-A-Runde, die das Unternehmen mit 300 Millionen Dollar bewertete."
+      "headline": "Wonderful verdoppelt Bewertung auf 5 Mrd. Dollar in unter 6 Monaten",
+      "summary": "Wonderful hat seine Bewertung in weniger als sechs Monaten auf 5 Milliarden Dollar mehr als verdoppelt. Das Unternehmen wird die 550 Millionen Dollar aus der Series C Finanzierungsrunde nutzen, um die Produktentwicklung zu beschleunigen und die Nachfrage zu decken."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
-      "summary": "Die New Yorker Venture-Firma Thrive Capital äußert sich endlich zu ihrer Verwicklung in den FIFA-Skandal und hat Elon Musks bevorzugten Anwalt engagiert, um die Angelegenheit zu klären. Dieser Schritt zeigt die Bereitschaft der prestigeträchtigen Firma, ihre Beteiligung an dem internationalen Fußball-Drama offensiv zu verteidigen."
+      "headline": "HiddenLayer sichert 100 Mio. Dollar für KI-Sicherheit",
+      "summary": "HiddenLayer hat 100 Millionen Dollar eingesammelt, da Unternehmen dringend ihre KI-Implementierungen absichern wollen. Security-Firmen entwickeln derzeit intensiv Produkte zur Überwachung von KI-Agenten und ihren Tools."
     }
   ],
   "learning": {
-    "topic": "Derivate: Futures und Forwards verstehen – Der Ernte-Vergleich",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem zugrunde liegenden Vermögenswert abhängt. Futures und Forwards sind spezifische Derivate, die eine Vereinbarung zum Kauf oder Verkauf eines Basiswerts zu einem festgelegten Preis und Termin in der Zukunft darstellen.",
-    "details": "Stell dir vor, du bist Landwirt und möchtest deine Ernte (Basiswert) in sechs Monaten verkaufen. Du weißt nicht, wie hoch der Preis dann sein wird. Ein Abnehmer, z.B. eine Großbäckerei, hat das umgekehrte Problem: Sie braucht Weizen in sechs Monaten und möchte den Preis fixieren. Mit einem Derivat wie einem Forward-Kontrakt vereinbaren beide Parteien heute einen Preis für die zukünftige Lieferung des Weizens. Der Landwirt sichert sich so einen festen Verkaufspreis und der Bäcker einen festen Einkaufspreis, unabhängig davon, wie sich der Marktpreis bis dahin entwickelt. Futures funktionieren ähnlich, sind aber standardisiert und werden an Börsen gehandelt, was sie liquider und transparenter macht, aber auch mit Margin-Anforderungen verbunden ist. Das zentrale Prinzip ist die Absicherung gegen Preisrisiken (Hedging) oder die Spekulation auf zukünftige Preisbewegungen.",
-    "takeaway": "Derivate ermöglichen es, zukünftige Preise abzusichern oder auf sie zu spekulieren, indem man sich heute auf einen Preis für eine zukünftige Transaktion einigt. Der Landwirtschafts-Vergleich veranschaulicht, wie Lieferanten und Abnehmer Unsicherheiten bei Rohstoffpreisen managen können."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer Finanzierungsrunde, während die Post-Money-Bewertung der Wert NACH Erhalt der Investition ist.",
+    "details": "Wenn ein Investor Kapital in ein Startup steckt, erhöht sich dessen Unternehmenswert. Die Pre-Money-Bewertung dient als Basis für die Berechnung des Anteils, den der Investor für sein Geld erhält. Addiert man die investierte Summe zur Pre-Money-Bewertung, ergibt sich die Post-Money-Bewertung. Diese Unterscheidung ist essenziell, um zu verstehen, wie sich Kapitalerhöhungen auf die Eigentumsanteile von Gründern und Bestandsinvestoren auswirken und wie der Preis pro Aktie in einer neuen Finanzierungsrunde bestimmt wird.",
+    "takeaway": "Die Post-Money-Bewertung ist stets die Summe aus Pre-Money-Bewertung und neuem Investment. Sie legt fest, welchen prozentualen Anteil ein Investor für sein bereitgestelltes Kapital am Unternehmen erhält."
   }
 }
