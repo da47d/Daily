@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Moskau bestellt Geschäftsträger der deutschen Botschaft ein",
-      "summary": "Das russische Außenministerium hat den Geschäftsträger der deutschen Botschaft einbestellt. Dies geschieht als scharfer Protest gegen angekündigte neue Sanktionen, die auf einen Anschlagsversuch am Flughafen Leipzig/Halle folgen."
+      "headline": "Norwegen beschlagnahmt russisches Schiff vor Spitzbergen",
+      "summary": "Norwegen beschlagnahmt ein russisches Schiff vor Spitzbergen aufgrund ukrainischer Entschädigungsforderungen. Dies führt zu empörten Reaktionen Russlands."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump greift nach Venezuelas Erdöl – Ein riskantes Spiel",
-      "summary": "Präsident Trump strebt nach venezolanischem Erdöl, um niedrigere Benzinpreise für Amerikaner zu ermöglichen. Dieser riskante Schritt involviert umstrittene Figuren, gegen die sogar in der Schweiz Strafverfahren laufen."
+      "headline": "Nach deutschen Strafmaßnahmen: Goethe-Institut in Russland wird geschlossen",
+      "summary": "Als Reaktion auf deutsche Strafmaßnahmen schließt Russland Niederlassungen des Goethe-Instituts. Dies folgt auf die Kündigung des Vertrags mit dem Russischen Haus durch die Bundesregierung."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Hohe Ölpreise drücken die Stimmung",
-      "summary": "Wieder höhere Ölpreise belasten das Anlageumfeld, da sie die Inflationserwartungen steigen lassen. Dies führt zu einer vorsichtigen Haltung der Anleger, insbesondere im DAX."
+      "headline": "Marktbericht: Unsichere Zinspolitik hält Anleger vom Kaufen ab",
+      "summary": "Unsichere Zinspolitik bremst den Aktienmarkt, der DAX bleibt unter 26.000 Punkten. Anleger warten auf Impulse vom US-Jobmarkt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Delivery Hero Vorstand befürwortet Ubers 15 Mrd. Dollar Übernahmeangebot",
-      "summary": "Das Management von Delivery Hero hat Ubers Übernahmeangebot von 15 Milliarden Dollar befürwortet. Sollte der Deal genehmigt werden, würde das fusionierte Unternehmen zu einem der weltweit größten Essenslieferplattformen aufsteigen."
+      "headline": "Delivery Hero board backs Uber’s $15B takeover bid",
+      "summary": "Der Vorstand von Delivery Hero unterstützt Ubers Übernahmeangebot von 15 Milliarden Dollar. Bei Genehmigung würde das fusionierte Unternehmen zu einem der größten Essenslieferplattformen weltweit."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "US-Regierung stellt sich auf die Seite von OpenAI in Bezug auf Urheberrecht",
-      "summary": "Die US-Regierung unterstützt OpenAI bezüglich der Nutzung urheberrechtlich geschützten Materials zum Trainieren großer Sprachmodelle (LLMs). Sie betont das starke Interesse der USA an der Entwicklung einer robusten und wettbewerbsfähigen KI-Industrie."
+      "headline": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "summary": "Google entgeht einer Zerschlagung seines Werbegeschäfts, muss aber seine Geschäftspraktiken anpassen. Ein Richter ordnete Änderungen zugunsten von Wettbewerbern an."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Google kauft 400 MW Geothermie von Fervo – Erweitertes Engagement für erneuerbare Energien",
-      "summary": "Google hat 400 Megawatt Geothermie-Leistung von Fervo erworben, mit der Option, auf ein Gigawatt zu erweitern. Dies könnte ein sehr großes KI-Rechenzentrum in Utah versorgen und unterstreicht das Engagement in fortschrittliche erneuerbare Energien."
+      "headline": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAIs neues Astra-Modell mit 'recurrent depth' beunruhigt KI-Sicherheitsexperten. Die Technik ermöglicht dem Modell ein nicht-sequenzielles Denken, was die bisherigen Grenzen überschreitet."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Wonderful verdoppelt Bewertung auf 5 Mrd. Dollar in unter 6 Monaten",
-      "summary": "Wonderful hat seine Bewertung in weniger als sechs Monaten auf 5 Milliarden Dollar mehr als verdoppelt. Das Unternehmen wird die 550 Millionen Dollar aus der Series C Finanzierungsrunde nutzen, um die Produktentwicklung zu beschleunigen und die Nachfrage zu decken."
+      "headline": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "Palo Alto Networks hat Quellen zufolge Thrive-backed Console für 500 Millionen US-Dollar übernommen. Damit etabliert sich Sequoia-backed Serval als Marktführer im Bereich AI IT Service Automation."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "HiddenLayer sichert 100 Mio. Dollar für KI-Sicherheit",
-      "summary": "HiddenLayer hat 100 Millionen Dollar eingesammelt, da Unternehmen dringend ihre KI-Implementierungen absichern wollen. Security-Firmen entwickeln derzeit intensiv Produkte zur Überwachung von KI-Agenten und ihren Tools."
+      "headline": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "summary": "Die 'Builders Stage' der TechCrunch Disrupt 2026 bietet praktische Strategien für skalierende Startups. Gründer, Betreiber und Investoren kommen zusammen, um Wissen auszutauschen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer Finanzierungsrunde, während die Post-Money-Bewertung der Wert NACH Erhalt der Investition ist.",
-    "details": "Wenn ein Investor Kapital in ein Startup steckt, erhöht sich dessen Unternehmenswert. Die Pre-Money-Bewertung dient als Basis für die Berechnung des Anteils, den der Investor für sein Geld erhält. Addiert man die investierte Summe zur Pre-Money-Bewertung, ergibt sich die Post-Money-Bewertung. Diese Unterscheidung ist essenziell, um zu verstehen, wie sich Kapitalerhöhungen auf die Eigentumsanteile von Gründern und Bestandsinvestoren auswirken und wie der Preis pro Aktie in einer neuen Finanzierungsrunde bestimmt wird.",
-    "takeaway": "Die Post-Money-Bewertung ist stets die Summe aus Pre-Money-Bewertung und neuem Investment. Sie legt fest, welchen prozentualen Anteil ein Investor für sein bereitgestelltes Kapital am Unternehmen erhält."
+    "topic": "Derivate erklärt: Vom Bauernfeld zum Finanzmarkt",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem zugrunde liegenden Basiswert ableitet, wie Aktien, Rohstoffen oder Währungen. Sie werden oft zur Absicherung von Risiken oder zur Spekulation eingesetzt.",
+    "details": "Stell dir vor, ein Bauer fürchtet fallende Weizenpreise bis zur Ernte. Er könnte heute mit einem Bäcker einen Preis für seinen zukünftigen Weizen festlegen – das ist im Prinzip ein Derivat. Beide Parteien sichern sich ab: Der Bauer hat einen garantierten Verkaufspreis, der Bäcker einen garantierten Einkaufspreis. Im Finanzmarkt funktioniert dies ähnlich, etwa mit Futures oder Optionen auf Aktien: Man vereinbart heute die zukünftige Lieferung oder das Recht zum Kauf/Verkauf eines Assets zu einem bestimmten Preis.",
+    "takeaway": "Derivate ermöglichen es, Risiken zu managen oder von zukünftigen Preisbewegungen zu profitieren, ohne den Basiswert direkt besitzen zu müssen."
   }
 }
