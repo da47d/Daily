@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Norwegen beschlagnahmt russisches Schiff vor Spitzbergen",
-      "summary": "Norwegen beschlagnahmt ein russisches Schiff vor Spitzbergen aufgrund ukrainischer Entschädigungsforderungen. Dies führt zu empörten Reaktionen Russlands."
+      "headline": "Zahl der Sabotageakte in Deutschland besorgniserregend hoch",
+      "summary": "Ein internes BKA-Lagebild zeigt über 160 mutmaßliche Sabotageakte und 740 Drohnensichtungen bundesweit in diesem Jahr, was auf eine erhöhte Bedrohungslage hindeutet. Starke Hinweise verdichten sich zudem, dass der Brandanschlag nahe eines Rüstungsunternehmens in München im Auftrag eines russischen Geheimdienstes verübt wurde."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Nach deutschen Strafmaßnahmen: Goethe-Institut in Russland wird geschlossen",
-      "summary": "Als Reaktion auf deutsche Strafmaßnahmen schließt Russland Niederlassungen des Goethe-Instituts. Dies folgt auf die Kündigung des Vertrags mit dem Russischen Haus durch die Bundesregierung."
+      "headline": "EU-Protektionismus bedroht Schweizer Zulieferer und könnte China nutzen",
+      "summary": "Der Industrieverband Swissmem warnt, dass neue EU-Gesetze zum Protektionismus den Zugang Schweizer Autozulieferer zum europäischen Markt gefährden könnten. Dies könnte paradoxerweise China zugutekommen und globale Lieferketten neu ordnen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Unsichere Zinspolitik hält Anleger vom Kaufen ab",
-      "summary": "Unsichere Zinspolitik bremst den Aktienmarkt, der DAX bleibt unter 26.000 Punkten. Anleger warten auf Impulse vom US-Jobmarkt."
+      "headline": "Nvidia akquiriert KI-Firma Hugging Face für 12,9 Milliarden Dollar",
+      "summary": "Der Chiphersteller Nvidia hat die Übernahme der KI-Plattform Hugging Face für 12,9 Milliarden US-Dollar bestätigt. Diese Großtransaktion unterstreicht Nvidias Ambitionen, seine Führungsposition im Bereich der künstlichen Intelligenz weiter auszubauen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Delivery Hero board backs Uber’s $15B takeover bid",
-      "summary": "Der Vorstand von Delivery Hero unterstützt Ubers Übernahmeangebot von 15 Milliarden Dollar. Bei Genehmigung würde das fusionierte Unternehmen zu einem der größten Essenslieferplattformen weltweit."
+      "headline": "Showdown bei VW: Aufsichtsrat verabschiedet Sanierungsplan vor entscheidender Sitzung",
+      "summary": "Der Aufsichtsrat von Volkswagen hat einen umfassenden Sanierungsplan verabschiedet, über den am Freitag entschieden wird. Der Konzernchef Oliver Blume will radikal sparen, während Arbeitnehmer und Politiker Widerstand leisten, was die Zukunft des größten europäischen Industriekonzerns ungewiss macht."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-      "summary": "Google entgeht einer Zerschlagung seines Werbegeschäfts, muss aber seine Geschäftspraktiken anpassen. Ein Richter ordnete Änderungen zugunsten von Wettbewerbern an."
+      "headline": "OpenAI enthüllt «Astra» und beansprucht technologische Führung in der KI",
+      "summary": "OpenAI hat das neue KI-Modell «Astra» vorgestellt und behauptet, es sei das intelligenteste und am besten abgestimmte Modell des Unternehmens. Der Hersteller beansprucht damit die technologische Führung und verspricht beispiellose Geschwindigkeit, Genauigkeit und Sicherheit."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "summary": "OpenAIs neues Astra-Modell mit 'recurrent depth' beunruhigt KI-Sicherheitsexperten. Die Technik ermöglicht dem Modell ein nicht-sequenzielles Denken, was die bisherigen Grenzen überschreitet."
+      "headline": "Weltwetterorganisation prognostiziert Rekord-El-Niño mit globalen Auswirkungen",
+      "summary": "Die Weltwetterorganisation rechnet dieses Jahr mit einem rekordverdächtigen El Niño, der weltweit Dürren, Überschwemmungen und Taifune verursachen wird. Die Auswirkungen werden sich global bemerkbar machen, auch in Europa, wenn auch auf andere Weise."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "Palo Alto Networks hat Quellen zufolge Thrive-backed Console für 500 Millionen US-Dollar übernommen. Damit etabliert sich Sequoia-backed Serval als Marktführer im Bereich AI IT Service Automation."
+      "headline": "Qualcomm investiert 70 Mio. Dollar in Ultrahuman für Smart Rings",
+      "summary": "Qualcomm beteiligt sich mit 70 Millionen US-Dollar an Ultrahuman, um die Entwicklung von Smart Rings zu Computern voranzutreiben. Das Startup strebt bis Januar 2027 einen Jahresumsatz von 200 Millionen US-Dollar an."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "summary": "Die 'Builders Stage' der TechCrunch Disrupt 2026 bietet praktische Strategien für skalierende Startups. Gründer, Betreiber und Investoren kommen zusammen, um Wissen auszutauschen."
+      "headline": "Energieversorger investieren in Fusions-Startups zur Netzstabilisierung",
+      "summary": "Angesichts der Belastung des Stromnetzes durch neue KI-Rechenzentren schließen sich Energieversorger zunehmend mit Fusions-Startups zusammen. Realta Fusion profitiert als jüngstes Beispiel von diesem Trend, der bahnbrechende Technologielösungen vorantreibt."
     }
   ],
   "learning": {
-    "topic": "Derivate erklärt: Vom Bauernfeld zum Finanzmarkt",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem zugrunde liegenden Basiswert ableitet, wie Aktien, Rohstoffen oder Währungen. Sie werden oft zur Absicherung von Risiken oder zur Spekulation eingesetzt.",
-    "details": "Stell dir vor, ein Bauer fürchtet fallende Weizenpreise bis zur Ernte. Er könnte heute mit einem Bäcker einen Preis für seinen zukünftigen Weizen festlegen – das ist im Prinzip ein Derivat. Beide Parteien sichern sich ab: Der Bauer hat einen garantierten Verkaufspreis, der Bäcker einen garantierten Einkaufspreis. Im Finanzmarkt funktioniert dies ähnlich, etwa mit Futures oder Optionen auf Aktien: Man vereinbart heute die zukünftige Lieferung oder das Recht zum Kauf/Verkauf eines Assets zu einem bestimmten Preis.",
-    "takeaway": "Derivate ermöglichen es, Risiken zu managen oder von zukünftigen Preisbewegungen zu profitieren, ohne den Basiswert direkt besitzen zu müssen."
+    "topic": "Vesting für Gründer: Langfristige Bindung und Risikostreuung im Startup",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Vesting ist ein Mechanismus, der Gründeranteile über einen bestimmten Zeitraum bindet, um ihr langfristiges Engagement zu sichern und Anreize für den Erfolg des Startups zu schaffen.",
+    "details": "Im Venture-Capital-Bereich ist Vesting üblich: Gründer erhalten ihre Firmenanteile nicht sofort komplett, sondern stufenweise über typischerweise vier Jahre, oft mit einem einjährigen 'Cliff'. Das bedeutet, dass sie erst nach einem Jahr einen ersten Teil ihrer Anteile erhalten und danach monatlich weitere Anteile freigeschaltet werden. Verlässt ein Gründer das Unternehmen vor Ablauf des Vesting-Zeitraums, verliert er die noch nicht 'gevesteten' Anteile. Dies schützt Investoren und das Team davor, dass ein Gründer schnell mit wertvollen Anteilen ausscheidet und dem Startup schadet.",
+    "takeaway": "Vesting stellt sicher, dass Gründer auch nach der Finanzierung motiviert bleiben und ihr Erfolg eng an den des Unternehmens gekoppelt ist; es minimiert das Risiko für Investoren und Mitgründer."
   }
 }
