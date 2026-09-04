@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Zahl der Sabotageakte in Deutschland besorgniserregend hoch",
-      "summary": "Ein internes BKA-Lagebild zeigt über 160 mutmaßliche Sabotageakte und 740 Drohnensichtungen bundesweit in diesem Jahr, was auf eine erhöhte Bedrohungslage hindeutet. Starke Hinweise verdichten sich zudem, dass der Brandanschlag nahe eines Rüstungsunternehmens in München im Auftrag eines russischen Geheimdienstes verübt wurde."
+      "headline": "Argentinien droht Großbritannien im Falkland-Streit mit Sanktionen",
+      "summary": "Argentiniens Präsident Milei eskaliert den Konflikt um die Falklandinseln und droht mit militärischen und wirtschaftlichen Sanktionen. US-Präsident Trump mischt sich ebenfalls in den Dauerstreit ein."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU-Protektionismus bedroht Schweizer Zulieferer und könnte China nutzen",
-      "summary": "Der Industrieverband Swissmem warnt, dass neue EU-Gesetze zum Protektionismus den Zugang Schweizer Autozulieferer zum europäischen Markt gefährden könnten. Dies könnte paradoxerweise China zugutekommen und globale Lieferketten neu ordnen."
+      "headline": "Notenbanken ziehen Gold aus den USA ab – Misstrauen gegenüber Trumps Amerika wächst",
+      "summary": "Die Niederlande holen 78 Tonnen Gold aus New York zurück, was das wachsende Misstrauen vieler Notenbanken gegenüber den USA und dem US-Dollar unterstreicht. Weltweit machen sich Zentralbanken unabhängiger von Washington."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Nvidia akquiriert KI-Firma Hugging Face für 12,9 Milliarden Dollar",
-      "summary": "Der Chiphersteller Nvidia hat die Übernahme der KI-Plattform Hugging Face für 12,9 Milliarden US-Dollar bestätigt. Diese Großtransaktion unterstreicht Nvidias Ambitionen, seine Führungsposition im Bereich der künstlichen Intelligenz weiter auszubauen."
+      "headline": "DAX steckt bei 26.000 Punkten fest – Anleger scheuen Risiko vor US-Arbeitsmarktdaten",
+      "summary": "Der DAX verharrt im frühen Handel bei 26.000 Punkten, da Anleger vor wichtigen US-Arbeitsmarktdaten das Risiko scheuen. Im Fokus steht Volkswagen, dessen Sanierungspläne der Börse positiv aufstoßen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Showdown bei VW: Aufsichtsrat verabschiedet Sanierungsplan vor entscheidender Sitzung",
-      "summary": "Der Aufsichtsrat von Volkswagen hat einen umfassenden Sanierungsplan verabschiedet, über den am Freitag entschieden wird. Der Konzernchef Oliver Blume will radikal sparen, während Arbeitnehmer und Politiker Widerstand leisten, was die Zukunft des größten europäischen Industriekonzerns ungewiss macht."
+      "headline": "Inflation in der Schweiz höher als erwartet – Novartis baut Stellen ab",
+      "summary": "Die Inflation in der Schweiz übertrifft die Erwartungen, während der Pharmakonzern Novartis in Basel bis zu 130 Stellen abbaut. Diese Meldungen geben Einblicke in die aktuelle wirtschaftliche Lage."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI enthüllt «Astra» und beansprucht technologische Führung in der KI",
-      "summary": "OpenAI hat das neue KI-Modell «Astra» vorgestellt und behauptet, es sei das intelligenteste und am besten abgestimmte Modell des Unternehmens. Der Hersteller beansprucht damit die technologische Führung und verspricht beispiellose Geschwindigkeit, Genauigkeit und Sicherheit."
+      "headline": "Tesla stellt fahrerloses 'Cybercab' vor und beginnt erste Fahrten in Texas",
+      "summary": "Der US-Elektroautobauer Tesla hat sein neues fahrerloses 'Cybercab' in Texas präsentiert und erste Fahrten in Austin gestartet. Das Taxi ohne Lenkrad wird zunächst in ausgewählten Gegenden angeboten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Weltwetterorganisation prognostiziert Rekord-El-Niño mit globalen Auswirkungen",
-      "summary": "Die Weltwetterorganisation rechnet dieses Jahr mit einem rekordverdächtigen El Niño, der weltweit Dürren, Überschwemmungen und Taifune verursachen wird. Die Auswirkungen werden sich global bemerkbar machen, auch in Europa, wenn auch auf andere Weise."
+      "headline": "OpenAI lanciert mächtiges und umstrittenes neues KI-Modell Astra",
+      "summary": "OpenAI hat mit Astra ein neues KI-Modell vorgestellt, das Aufgaben mit hoher Geschwindigkeit, Genauigkeit und Sicherheit bewältigen soll. Das Unternehmen bezeichnet Astra als eine neue Grenze der Computer- und Browsernutzung."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Qualcomm investiert 70 Mio. Dollar in Ultrahuman für Smart Rings",
-      "summary": "Qualcomm beteiligt sich mit 70 Millionen US-Dollar an Ultrahuman, um die Entwicklung von Smart Rings zu Computern voranzutreiben. Das Startup strebt bis Januar 2027 einen Jahresumsatz von 200 Millionen US-Dollar an."
+      "headline": "Crusoe schließt angeblich 3-Milliarden-Dollar-Finanzierungsrunde bei 30 Milliarden Bewertung ab",
+      "summary": "Der Rechenzentrums-Entwickler Crusoe hat Medienberichten zufolge eine Finanzierungsrunde über 3 Milliarden US-Dollar abgeschlossen und wird dabei mit 30 Milliarden US-Dollar bewertet. Dies folgt einem 13-Milliarden-Dollar-Vertrag mit Jane Street."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Energieversorger investieren in Fusions-Startups zur Netzstabilisierung",
-      "summary": "Angesichts der Belastung des Stromnetzes durch neue KI-Rechenzentren schließen sich Energieversorger zunehmend mit Fusions-Startups zusammen. Realta Fusion profitiert als jüngstes Beispiel von diesem Trend, der bahnbrechende Technologielösungen vorantreibt."
+      "headline": "Accel verhandelt über 1-Milliarden-Dollar-Runde für Thinking Machines bei 40 Milliarden Bewertung",
+      "summary": "Accel führt angeblich Gespräche, um eine Finanzierungsrunde von 1 Milliarde US-Dollar für das hochkarätige Startup Thinking Machines bei einer Bewertung von 40 Milliarden US-Dollar anzuführen. Das Startup verzeichnet bereits einen jährlichen Umsatz von über 100 Millionen US-Dollar."
     }
   ],
   "learning": {
-    "topic": "Vesting für Gründer: Langfristige Bindung und Risikostreuung im Startup",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting ist ein Mechanismus, der Gründeranteile über einen bestimmten Zeitraum bindet, um ihr langfristiges Engagement zu sichern und Anreize für den Erfolg des Startups zu schaffen.",
-    "details": "Im Venture-Capital-Bereich ist Vesting üblich: Gründer erhalten ihre Firmenanteile nicht sofort komplett, sondern stufenweise über typischerweise vier Jahre, oft mit einem einjährigen 'Cliff'. Das bedeutet, dass sie erst nach einem Jahr einen ersten Teil ihrer Anteile erhalten und danach monatlich weitere Anteile freigeschaltet werden. Verlässt ein Gründer das Unternehmen vor Ablauf des Vesting-Zeitraums, verliert er die noch nicht 'gevesteten' Anteile. Dies schützt Investoren und das Team davor, dass ein Gründer schnell mit wertvollen Anteilen ausscheidet und dem Startup schadet.",
-    "takeaway": "Vesting stellt sicher, dass Gründer auch nach der Finanzierung motiviert bleiben und ihr Erfolg eng an den des Unternehmens gekoppelt ist; es minimiert das Risiko für Investoren und Mitgründer."
+    "topic": "Ablauf eines Short Squeeze: Wenn Leerverkäufer in die Klemme geraten",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein Phänomen, bei dem der Kurs eines Wertpapiers rapide ansteigt, was Leerverkäufer dazu zwingt, ihre Positionen durch Käufe aufzulösen und den Preisanstieg weiter zu beschleunigen.",
+    "details": "Beim Leerverkauf (Short Selling) leiht sich ein Anleger Aktien, verkauft sie sofort in der Erwartung, sie später zu einem niedrigeren Preis zurückzukaufen und dem Verleiher zurückzugeben. Wenn der Aktienkurs jedoch entgegen der Erwartung steigt, geraten Leerverkäufer unter Druck: Um größere Verluste zu vermeiden oder Margin Calls zu erfüllen, müssen sie die geliehenen Aktien zu einem höheren Preis zurückkaufen. Diese 'Rückkäufe' erhöhen die Nachfrage nach der Aktie und treiben den Kurs weiter in die Höhe, was einen Teufelskreis – den Short Squeeze – auslöst, da immer mehr Leerverkäufer gezwungen sind, ihre Positionen zu schließen.",
+    "takeaway": "Ein Short Squeeze zeigt die Macht der Dynamik im Markt und kann zu extremen Kursbewegungen führen. Für Anleger ist es wichtig zu verstehen, dass eine hohe Anzahl an Leerverkaufspositionen ein Indikator für das Potenzial eines Short Squeeze sein kann, der erhebliche Chancen und Risiken birgt."
   }
 }
