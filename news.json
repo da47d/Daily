@@ -2,56 +2,64 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Argentinien droht Großbritannien im Falkland-Streit mit Sanktionen",
-      "summary": "Argentiniens Präsident Milei eskaliert den Konflikt um die Falklandinseln und droht mit militärischen und wirtschaftlichen Sanktionen. US-Präsident Trump mischt sich ebenfalls in den Dauerstreit ein."
+      "headline": "Niederlande ziehen Gold aus New York ab – Notenbanken misstrauen Trump-Amerika",
+      "summary": "Die Niederlande holen 78 Tonnen Gold aus New York zurück, ein Zeichen des wachsenden Misstrauens vieler Notenbanken gegenüber den USA und dem US-Dollar. Weltweit streben Zentralbanken eine stärkere Unabhängigkeit von den Vereinigten Staaten an.",
+      "link": "https://www.nzz.ch/wirtschaft/notenbanken-ziehen-gold-ab-weil-sie-trumps-amerika-misstrauen-ld.1652431"
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Notenbanken ziehen Gold aus den USA ab – Misstrauen gegenüber Trumps Amerika wächst",
-      "summary": "Die Niederlande holen 78 Tonnen Gold aus New York zurück, was das wachsende Misstrauen vieler Notenbanken gegenüber den USA und dem US-Dollar unterstreicht. Weltweit machen sich Zentralbanken unabhängiger von Washington."
+      "headline": "Alejandro Betancourt: Vom Zürcher Gesuchten zu Trumps Öl-Deal-Partner",
+      "summary": "Ein venezolanischer Wirtschaftselitist, der in Zürich wegen Geldwäsche gesucht wurde, wickelt nun große Öl-Deals für Donald Trump ab. Dieser Aufstieg wirft Fragen über die Verbindungen zwischen politischer Macht und zweifelhaften Geschäftsleuten auf.",
+      "link": "https://www.nzz.ch/wirtschaft/alejandro-betancourt-wie-ein-in-zuerich-gesuchter-ein-oel-deal-fuer-donald-trump-macht-ld.1712431"
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX steckt bei 26.000 Punkten fest – Anleger scheuen Risiko vor US-Arbeitsmarktdaten",
-      "summary": "Der DAX verharrt im frühen Handel bei 26.000 Punkten, da Anleger vor wichtigen US-Arbeitsmarktdaten das Risiko scheuen. Im Fokus steht Volkswagen, dessen Sanierungspläne der Börse positiv aufstoßen."
+      "headline": "VW-Aufsichtsrat einigt sich auf Sanierungskonzept: Aktie steigt",
+      "summary": "Nach tagelangem Ringen hat sich der VW-Aufsichtsrat überraschend einstimmig auf ein Sanierungskonzept geeinigt, was die VW-Aktie an die DAX-Spitze katapultierte. Trotz des Kompromisses bleiben entscheidende Punkte zur Zukunft des Konzerns und Tausender Arbeitsplätze ungeklärt, da bis 2030 weitere 50.000 Stellen abgebaut werden sollen.",
+      "link": "https://www.finanzen.net/nachricht/aktien/vw-aktie-setzt-sich-an-die-dax-spitze-13008985"
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Inflation in der Schweiz höher als erwartet – Novartis baut Stellen ab",
-      "summary": "Die Inflation in der Schweiz übertrifft die Erwartungen, während der Pharmakonzern Novartis in Basel bis zu 130 Stellen abbaut. Diese Meldungen geben Einblicke in die aktuelle wirtschaftliche Lage."
+      "headline": "Schweizer Inflation über Erwartung; Nvidia kauft KI-Firma Hugging Face",
+      "summary": "Die Inflation in der Schweiz fiel höher aus als erwartet, während der Chiphersteller Nvidia die KI-Firma Hugging Face erwirbt. Diese Entwicklungen zeigen anhaltenden Inflationsdruck und eine Konsolidierung im hochdynamischen Tech-Sektor.",
+      "link": "https://www.handelsblatt.com/unternehmen/industrie/kurzmeldungen-wirtschaft-inflation-in-der-schweiz-hoeher-als-erwartet-chiphersteller-nvidia-kauft-ki-firma-hugging-face/2987654.html"
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Tesla stellt fahrerloses 'Cybercab' vor und beginnt erste Fahrten in Texas",
-      "summary": "Der US-Elektroautobauer Tesla hat sein neues fahrerloses 'Cybercab' in Texas präsentiert und erste Fahrten in Austin gestartet. Das Taxi ohne Lenkrad wird zunächst in ausgewählten Gegenden angeboten."
+      "headline": "Apple unter neuer Führung: John Ternus übernimmt das Ruder",
+      "summary": "Tim Cook ist als CEO von Apple zurückgetreten und übergibt die Führung an den ehemaligen Hardware-Chef John Ternus, der bereits eine 'riesige Produkteinführung nächste Woche' ankündigte. Cook bleibt als Executive Chairman dem Unternehmen erhalten.",
+      "link": "https://techcrunch.com/2026/01/20/what-will-apples-john-ternus-era-look-like/"
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI lanciert mächtiges und umstrittenes neues KI-Modell Astra",
-      "summary": "OpenAI hat mit Astra ein neues KI-Modell vorgestellt, das Aufgaben mit hoher Geschwindigkeit, Genauigkeit und Sicherheit bewältigen soll. Das Unternehmen bezeichnet Astra als eine neue Grenze der Computer- und Browsernutzung."
+      "headline": "Gericht blockiert 'Twitter'-Nutzung durch X-Konkurrent, erlaubt 'Tweet'",
+      "summary": "Ein Bundesrichter hat einem Konkurrenten von X vorübergehend die Nutzung des Namens 'Twitter' untersagt, befand jedoch, dass X das 'Tweet'-Warenzeichen wahrscheinlich aufgegeben hat. Das Startup hat daraufhin als Tweet.app neu gestartet.",
+      "link": "https://techcrunch.com/2026/01/20/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Crusoe schließt angeblich 3-Milliarden-Dollar-Finanzierungsrunde bei 30 Milliarden Bewertung ab",
-      "summary": "Der Rechenzentrums-Entwickler Crusoe hat Medienberichten zufolge eine Finanzierungsrunde über 3 Milliarden US-Dollar abgeschlossen und wird dabei mit 30 Milliarden US-Dollar bewertet. Dies folgt einem 13-Milliarden-Dollar-Vertrag mit Jane Street."
+      "headline": "Crusoe sichert sich $3 Milliarden bei $30 Milliarden Bewertung",
+      "summary": "Crusoe, ein Entwickler von Rechenzentren, hat Berichten zufolge eine Finanzierungsrunde über 3 Milliarden US-Dollar abgeschlossen und wird nun mit 30 Milliarden US-Dollar bewertet. Die Runde kam nach einem 13 Milliarden US-Dollar schweren Vertrag mit Jane Street zustande.",
+      "link": "https://techcrunch.com/2026/01/20/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Accel verhandelt über 1-Milliarden-Dollar-Runde für Thinking Machines bei 40 Milliarden Bewertung",
-      "summary": "Accel führt angeblich Gespräche, um eine Finanzierungsrunde von 1 Milliarde US-Dollar für das hochkarätige Startup Thinking Machines bei einer Bewertung von 40 Milliarden US-Dollar anzuführen. Das Startup verzeichnet bereits einen jährlichen Umsatz von über 100 Millionen US-Dollar."
+      "headline": "Krafton verdoppelt Indien-Investment mit weiteren $250 Millionen",
+      "summary": "Krafton erweitert sein Engagement in Indien mit einer zusätzlichen Investition von 250 Millionen US-Dollar außerhalb des Gaming-Sektors, womit das geplante Gesamtinvestment über 500 Millionen US-Dollar liegt. Dies unterstreicht das wachsende Vertrauen in den indischen Tech-Markt und dessen Potenziale über die Kernbereiche hinaus.",
+      "link": "https://techcrunch.com/2026/01/20/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/"
     }
   ],
   "learning": {
-    "topic": "Ablauf eines Short Squeeze: Wenn Leerverkäufer in die Klemme geraten",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein Phänomen, bei dem der Kurs eines Wertpapiers rapide ansteigt, was Leerverkäufer dazu zwingt, ihre Positionen durch Käufe aufzulösen und den Preisanstieg weiter zu beschleunigen.",
-    "details": "Beim Leerverkauf (Short Selling) leiht sich ein Anleger Aktien, verkauft sie sofort in der Erwartung, sie später zu einem niedrigeren Preis zurückzukaufen und dem Verleiher zurückzugeben. Wenn der Aktienkurs jedoch entgegen der Erwartung steigt, geraten Leerverkäufer unter Druck: Um größere Verluste zu vermeiden oder Margin Calls zu erfüllen, müssen sie die geliehenen Aktien zu einem höheren Preis zurückkaufen. Diese 'Rückkäufe' erhöhen die Nachfrage nach der Aktie und treiben den Kurs weiter in die Höhe, was einen Teufelskreis – den Short Squeeze – auslöst, da immer mehr Leerverkäufer gezwungen sind, ihre Positionen zu schließen.",
-    "takeaway": "Ein Short Squeeze zeigt die Macht der Dynamik im Markt und kann zu extremen Kursbewegungen führen. Für Anleger ist es wichtig zu verstehen, dass eine hohe Anzahl an Leerverkaufspositionen ein Indikator für das Potenzial eines Short Squeeze sein kann, der erhebliche Chancen und Risiken birgt."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money Bewertung ist der Wert eines Startups VOR einer neuen Finanzierungsrunde, während die Post-Money Bewertung der Wert NACHdem Erhalt des neuen Kapitals ist.",
+    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird die Pre-Money Bewertung herangezogen, um den prozentualen Anteil des Investors zu bestimmen. Das neue Investment wird dann zur Pre-Money Bewertung addiert, um die Post-Money Bewertung zu erhalten. Diese gibt den Gesamtwert des Unternehmens inklusive des frischen Kapitals an. Sie ist entscheidend, da sie die Basis für die Berechnung der Anteile aller Beteiligten nach der Finanzierung bildet und somit die Verwässerung der bestehenden Eigentümer direkt widerspiegelt.",
+    "takeaway": "Für Gründer und Investoren ist das Verständnis von Pre-Money und Post-Money essenziell, um den Wert des Unternehmens und die eigene Beteiligung nach einer Finanzierungsrunde korrekt einschätzen zu können."
   }
 }
