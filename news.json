@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelskonflikt: Kanada verhängt Gegenzölle auf US-Importe",
-      "summary": "Kanada hat mit Gegenzöllen auf bestimmte US-Importe reagiert, was den Zollstreit in Nordamerika eskaliert. US-Präsident Trump drohte unterdessen dem kanadischen Flugzeughersteller Bombardier."
+      "headline": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
+      "summary": "Verteidigungsminister Pistorius kündigte weitere Waffenlieferungen an die Ukraine an. Währenddessen deutet Moskau nach einem Telefonat zwischen Putin und Trump eine mögliche Annäherung an die USA an."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Baerbock beendet UN-Amtszeit mit Reforminitiativen",
-      "summary": "Als Präsidentin der UN-Generalversammlung trieb Annalena Baerbock Reformen voran und brachte Veränderungen auf den Weg. Sie stieß jedoch auch auf Widerstand bei ihren Bemühungen während ihrer einjährigen Amtszeit."
+      "headline": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
+      "summary": "Großbritannien plant ein Handelsverbot für Waren aus israelischen Siedlungen im Westjordanland. Israel reagiert mit der Schließung des britischen Konsulats in Jerusalem mit Gegenmaßnahmen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX gibt nach – hohe Ölpreise belasten Märkte",
-      "summary": "Nach einem schwachen Wochenauftakt verliert der DAX weiter an Wert, wobei hohe Ölpreise die Märkte negativ beeinflussen. Anleger blicken gespannt auf die anstehende Zinssitzung der EZB am Donnerstag."
+      "headline": "Wachsende Verschuldung: Dem Staat drohen gewaltige Zinskosten",
+      "summary": "Steigende Staatsschulden und Zinszahlungen bedrohen den zukünftigen Haushalt und reduzieren den fiskalischen Spielraum erheblich. Dieses makroökonomische Problem könnte weitreichende Folgen haben."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Chinas Banken gestützt: Milliardenhilfe gegen Vertrauenskrise",
-      "summary": "Peking stützt Banken und Versicherungen mit über 50 Milliarden Dollar, da mangelndes Vertrauen der Bevölkerung die Wirtschaft lähmt. Das Grundproblem bleibt, dass die Menschen ihr Geld nicht ausgeben wollen."
+      "headline": "Neue Milliardenhilfe: Die Chinesen zweifeln an der Zukunft – das bringt die Banken in die Bredouille",
+      "summary": "Peking stützt Banken und Versicherungen mit Milliardenhilfen, doch die Konsumzurückhaltung der Bevölkerung bleibt ein Kernproblem. Die Maßnahme soll das Vertrauen in Chinas Finanzsystem stärken und die Wirtschaft stabilisieren."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Amazon-Frachtflugzeug abgestürzt: Flugschreiber geborgen",
-      "summary": "Nach dem tödlichen Absturz eines Amazon-Frachtflugzeugs in Miami konnten Ermittler beide Flugschreiber bergen. Bei dem Unfall kamen fünf Menschen ums Leben, und neue Details zeigen, wie weit der Jet über die Landebahn hinausschoss."
+      "headline": "Nvidia will seine Macht zementieren – und kauft für fast 13 Milliarden Dollar eine Firma dreier Nerds aus Frankreich, die nach einem Emoji benannt ist",
+      "summary": "Nvidia übernimmt für fast 13 Milliarden Dollar Hugging Face, eine führende Plattform für KI-Modelle. Die Akquisition zementiert Nvidias Position im KI-Markt, nachdem die Firma durch einen Angriff von OpenAI-KI-Agenten Berühmtheit erlangte."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Apple-Launch erwartet: Neue Foldable iPhone Ultra, AirPods und HomePods",
-      "summary": "Apple wird voraussichtlich am 9. September ein erstes faltbares iPhone Ultra vorstellen, das die Hauptattraktion sein soll. Auch Neuigkeiten zu AirPods und HomePods werden bei der Veranstaltung erwartet."
+      "headline": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary": "Meta stellt seinen neuen persönlichen KI-Agenten Muse vor, der umfassenden Zugriff auf Nutzerdaten wie E-Mails und Gesundheitsdienste beansprucht. Dieser Schritt ist Metas bislang größtes KI-Wagnis und ein Test für das Verbrauchervertrauen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "KI-Start-up Mistral sammelt drei Milliarden Euro ein",
-      "summary": "Das französische KI-Start-up Mistral hat in der bisher größten europäischen Finanzierungsrunde drei Milliarden Euro erhalten. Das Unternehmen positioniert sich mit offenen KI-Modellen als Alternative zu US-Konzernen."
+      "headline": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "Das französische KI-Labor Mistral hat in einer Series-D-Runde unter Führung von Samsung beeindruckende 3 Milliarden Euro eingesammelt. Die Bewertung des Unternehmens steigt damit auf 21 Milliarden Euro, was die Bedeutung souveräner KI unterstreicht."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Nvidia kauft Hugging Face für fast 13 Milliarden Dollar",
-      "summary": "Nvidia zementiert seine Stellung im KI-Bereich durch den Kauf der französischen Plattform Hugging Face für fast 13 Milliarden Dollar. Die Firma, benannt nach einem Emoji, wurde durch einen Angriff von OpenAI berühmt und für Nvidia noch interessanter."
+      "headline": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+      "summary": "Das Raumfahrt-Startup Stoke Space hat eine Series-E-Runde von einer Milliarde Dollar abgeschlossen, um mit SpaceX im Bereich wiederverwendbarer Raketen zu konkurrieren. Ziel ist es, in den Orbit zu gelangen und eine größere Rakete für den operativen Einsatz vorzubereiten."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine – der fundamentale Unterschied",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Obwohl beide Instrumente das Recht, aber nicht die Pflicht zum Kauf oder Verkauf eines Basiswerts einräumen, unterscheiden sie sich primär in ihrer Herausgeberstruktur und somit in der zugrunde liegenden Mechanik und dem Emittentenrisiko.",
-    "details": "Optionen sind standardisierte, börsengehandelte Verträge zwischen zwei Marktteilnehmern, meist institutionellen Anlegern, ohne einen Emittenten dazwischen. Sie dienen oft der Absicherung oder Spekulation auf professioneller Ebene. Optionsscheine hingegen werden von Banken oder Finanzinstituten emittiert und sind im Wesentlichen Schuldverschreibungen. Sie sind für Privatanleger konzipiert und beinhalten ein Emittentenrisiko, da ihre Erfüllung von der Solvenz des Herausgebers abhängt. Optionsscheine sind zudem oft komplexer strukturiert mit variablen Laufzeiten und Ausstattungsmerkmalen.",
-    "takeaway": "Optionen sind professionelle, bilateral gehandelte Instrumente, während Optionsscheine von Banken für Privatanleger ausgegeben werden und ein Emittentenrisiko tragen. Dies ist entscheidend für das Verständnis von Risiken und Funktionsweise im Handel."
+    "topic": "Pre-Money vs. Post-Money Bewertung – Der Schlüssel zur Startup-Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money und Post-Money sind grundlegende Konzepte in der Startup-Finanzierung, die den Wert eines Unternehmens vor bzw. nach einer Investitionsrunde beschreiben. Sie sind entscheidend, um den Anteil zu bestimmen, den Investoren für ihr Kapital erhalten.",
+    "details": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens *vor* dem Eingang neuen Kapitals von Investoren. Addiert man zu diesem Wert die frischen Investitionsmittel, erhält man die Post-Money-Bewertung. Vereinfacht gesagt: Pre-Money + Investment = Post-Money. Diese Unterscheidung ist wichtig, weil sie direkt beeinflusst, wie viele Anteile Investoren für ihr Geld erhalten. Ein Investor, der 1 Million Euro in ein Startup mit einer Pre-Money-Bewertung von 4 Millionen Euro investiert, erhält Anteile basierend auf einer Post-Money-Bewertung von 5 Millionen Euro (1 Mio. / 5 Mio. = 20%). Hätte man fälschlicherweise die Pre-Money-Bewertung als Basis genommen, wäre das Ergebnis (1 Mio. / 4 Mio. = 25%) irreführend und würde den Gründeranteil zu stark verwässern.",
+    "takeaway": "Für Gründer ist die Pre-Money-Bewertung entscheidend für die Wahrnehmung des Werts, während die Post-Money-Bewertung den tatsächlichen Wert nach der Finanzierung darstellt und die Basis für die prozentuale Beteiligung der neuen Investoren bildet."
   }
 }
