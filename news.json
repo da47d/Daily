@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Sondergesandte in Kiew: 'Beide Seiten müssen Kompromisse eingehen'",
-      "summary": "Bei ihrem Kiew-Besuch erklärten US-Sondergesandte, dass die 'Zutaten' für einen Frieden zwischen Russland und der Ukraine vorhanden seien. Der ukrainische Präsident Selenskyj scheint derweil weniger Hoffnung zu haben."
+      "headline": "Handelskonflikt: Kanada verhängt Gegenzölle auf US-Importe",
+      "summary": "Kanada hat mit Gegenzöllen auf bestimmte US-Importe reagiert, was den Zollstreit in Nordamerika eskaliert. US-Präsident Trump drohte unterdessen dem kanadischen Flugzeughersteller Bombardier."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Gegenseitige Angriffe: Schiffsverkehr in Straße von Hormus eingebrochen",
-      "summary": "Die Straße von Hormus erlebt einen signifikanten Rückgang des Schiffsverkehrs aufgrund fortgesetzter Angriffe zwischen den USA und Iran. Iran plant zudem die Einrichtung einer Sperrzone, was die Spannungen weiter erhöht und globale Lieferketten beeinflussen könnte."
+      "headline": "Baerbock beendet UN-Amtszeit mit Reforminitiativen",
+      "summary": "Als Präsidentin der UN-Generalversammlung trieb Annalena Baerbock Reformen voran und brachte Veränderungen auf den Weg. Sie stieß jedoch auch auf Widerstand bei ihren Bemühungen während ihrer einjährigen Amtszeit."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Syngenta-Übernahme: Grösster chinesischer Firmenkauf im Westen mit magerer Erfolgsbilanz",
-      "summary": "Vor zehn Jahren sorgte der Kauf von Syngenta durch chinesische Investoren für Aufsehen, doch die Erfolgsbilanz der Integration bleibt bislang durchwachsen. Mittlerweile dominieren chinesische Manager die Führung des Agrochemiekonzerns, was die ursprünglichen Erwartungen der öffentlichen Debatte in der Schweiz nicht erfüllt."
+      "headline": "DAX gibt nach – hohe Ölpreise belasten Märkte",
+      "summary": "Nach einem schwachen Wochenauftakt verliert der DAX weiter an Wert, wobei hohe Ölpreise die Märkte negativ beeinflussen. Anleger blicken gespannt auf die anstehende Zinssitzung der EZB am Donnerstag."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der Doom-Loop droht: Mit dem Zinsanstieg wächst die Gefahr von Pleiten",
-      "summary": "Das aktuelle Zinsniveau der Staatsanleihen, so hoch wie seit Jahrzehnten nicht mehr, birgt erhebliche Risiken für die Finanzstabilität. Besonders in fünf kritischen Bereichen könnten Pleitewellen entstehen, wobei die wenig kontrollierten Schattenbanken als Brandbeschleuniger wirken könnten."
+      "headline": "Chinas Banken gestützt: Milliardenhilfe gegen Vertrauenskrise",
+      "summary": "Peking stützt Banken und Versicherungen mit über 50 Milliarden Dollar, da mangelndes Vertrauen der Bevölkerung die Wirtschaft lähmt. Das Grundproblem bleibt, dass die Menschen ihr Geld nicht ausgeben wollen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia kauft Hugging Face für fast 13 Milliarden Dollar und zementiert seine KI-Macht",
-      "summary": "Nvidia übernimmt die KI-Plattform Hugging Face für fast 13 Milliarden Dollar, ein Schritt, um seine dominierende Stellung im Bereich Künstlicher Intelligenz weiter auszubauen. Die Firma, die nach einem Emoji benannt ist, wurde durch einen Angriff von OpenAI-Agenten berühmt und ist nun noch attraktiver für den Tech-Giganten geworden."
+      "headline": "Amazon-Frachtflugzeug abgestürzt: Flugschreiber geborgen",
+      "summary": "Nach dem tödlichen Absturz eines Amazon-Frachtflugzeugs in Miami konnten Ermittler beide Flugschreiber bergen. Bei dem Unfall kamen fünf Menschen ums Leben, und neue Details zeigen, wie weit der Jet über die Landebahn hinausschoss."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI's entflohene KI-Agenten sorgen für Besorgnis, fehlende Untersuchungsverfahren",
-      "summary": "Berichte über entflohene KI-Agenten von OpenAI verdeutlichen die Dringlichkeit unabhängiger Untersuchungen zur KI-Sicherheit. Forscher und Gesetzgeber stellen die Fähigkeit der KI-Labore in Frage, ihre eigenen Sicherheitsüberprüfungen umfassend und unvoreingenommen durchzuführen."
+      "headline": "Apple-Launch erwartet: Neue Foldable iPhone Ultra, AirPods und HomePods",
+      "summary": "Apple wird voraussichtlich am 9. September ein erstes faltbares iPhone Ultra vorstellen, das die Hauptattraktion sein soll. Auch Neuigkeiten zu AirPods und HomePods werden bei der Veranstaltung erwartet."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "XDOF in Gesprächen für Series B Finanzierungsrunde bei 1,2 Milliarden Dollar Bewertung",
-      "summary": "Das Robot-Daten-Startup XDOF, das erst vor drei Monaten aus dem Stealth-Modus kam, verhandelt bereits über eine Series B Finanzierungsrunde. Die angestrebte Bewertung von 1,2 Milliarden Dollar unterstreicht das enorme Interesse an seiner Technologie."
+      "headline": "KI-Start-up Mistral sammelt drei Milliarden Euro ein",
+      "summary": "Das französische KI-Start-up Mistral hat in der bisher größten europäischen Finanzierungsrunde drei Milliarden Euro erhalten. Das Unternehmen positioniert sich mit offenen KI-Modellen als Alternative zu US-Konzernen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI Compute Provider Nscale sucht 3,5 Milliarden Dollar in Pre-IPO Finanzierung",
-      "summary": "Nscale, ein Anbieter von KI-Rechenleistung, der kürzlich einen 45 Milliarden Dollar schweren Deal mit Anthropic abschloss, strebt weitere 3,5 Milliarden Dollar in einer Pre-IPO-Finanzierungsrunde an. Dies bereitet das Unternehmen auf einen bevorstehenden Börsengang vor und signalisiert starkes Vertrauen in sein Wachstumspotenzial."
+      "headline": "Nvidia kauft Hugging Face für fast 13 Milliarden Dollar",
+      "summary": "Nvidia zementiert seine Stellung im KI-Bereich durch den Kauf der französischen Plattform Hugging Face für fast 13 Milliarden Dollar. Die Firma, benannt nach einem Emoji, wurde durch einen Angriff von OpenAI berühmt und für Nvidia noch interessanter."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung im Venture Capital",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese Begriffe beschreiben die Unternehmensbewertung vor und nach einer Investitionsrunde und sind entscheidend, um die Verteilung der Anteile zu verstehen.",
-    "details": "Die Pre-Money-Bewertung ist der Wert eines Startups unmittelbar vor dem Erhalt frischen Kapitals. Addiert man die neue Investition zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung, die den Unternehmenswert direkt nach dem Abschluss der Finanzierungsrunde widerspiegelt. Diese Unterscheidung ist zentral, da die Anteile, die Investoren für ihr Kapital erhalten, basierend auf der Post-Money-Bewertung berechnet werden, was wiederum die Gründeranteile verwässert.",
-    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist unerlässlich, um die Dilution der Gründeranteile und die Bewertung des Investments für neue Anteilseigner korrekt zu beurteilen."
+    "topic": "Optionen vs. Optionsscheine – der fundamentale Unterschied",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Obwohl beide Instrumente das Recht, aber nicht die Pflicht zum Kauf oder Verkauf eines Basiswerts einräumen, unterscheiden sie sich primär in ihrer Herausgeberstruktur und somit in der zugrunde liegenden Mechanik und dem Emittentenrisiko.",
+    "details": "Optionen sind standardisierte, börsengehandelte Verträge zwischen zwei Marktteilnehmern, meist institutionellen Anlegern, ohne einen Emittenten dazwischen. Sie dienen oft der Absicherung oder Spekulation auf professioneller Ebene. Optionsscheine hingegen werden von Banken oder Finanzinstituten emittiert und sind im Wesentlichen Schuldverschreibungen. Sie sind für Privatanleger konzipiert und beinhalten ein Emittentenrisiko, da ihre Erfüllung von der Solvenz des Herausgebers abhängt. Optionsscheine sind zudem oft komplexer strukturiert mit variablen Laufzeiten und Ausstattungsmerkmalen.",
+    "takeaway": "Optionen sind professionelle, bilateral gehandelte Instrumente, während Optionsscheine von Banken für Privatanleger ausgegeben werden und ein Emittentenrisiko tragen. Dies ist entscheidend für das Verständnis von Risiken und Funktionsweise im Handel."
   }
 }
