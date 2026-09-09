@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
-      "summary": "Verteidigungsminister Pistorius kündigte weitere Waffenlieferungen an die Ukraine an. Währenddessen deutet Moskau nach einem Telefonat zwischen Putin und Trump eine mögliche Annäherung an die USA an."
+      "headline": "USA zerstören fünf iranische Öltanker - Iran reagiert mit Angriffen",
+      "summary": "US-Streitkräfte haben nach eigenen Angaben fünf iranische Öltanker zerstört, wovon einer versenkt wurde. Iran reagierte umgehend mit Gegenangriffen, die auch US-Schiffe betrafen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
-      "summary": "Großbritannien plant ein Handelsverbot für Waren aus israelischen Siedlungen im Westjordanland. Israel reagiert mit der Schließung des britischen Konsulats in Jerusalem mit Gegenmaßnahmen."
+      "headline": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
+      "summary": "Im Zollkonflikt zwischen den USA und Kanada haben die USA milliardenschwere Einfuhrverbote für bestimmte kanadische Produkte angekündigt. Dies verschärft den Handelsstreit zwischen Washington und Ottawa erneut."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Wachsende Verschuldung: Dem Staat drohen gewaltige Zinskosten",
-      "summary": "Steigende Staatsschulden und Zinszahlungen bedrohen den zukünftigen Haushalt und reduzieren den fiskalischen Spielraum erheblich. Dieses makroökonomische Problem könnte weitreichende Folgen haben."
+      "headline": "Eskalation im Iran-Krieg: DAX driftet nach unten",
+      "summary": "Eine neue Eskalation am Persischen Golf hat den Ölpreis über 100 Dollar getrieben, was die Sorge vor hartnäckiger Inflation nährt. Der DAX steht infolgedessen deutlich unter Druck."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Neue Milliardenhilfe: Die Chinesen zweifeln an der Zukunft – das bringt die Banken in die Bredouille",
-      "summary": "Peking stützt Banken und Versicherungen mit Milliardenhilfen, doch die Konsumzurückhaltung der Bevölkerung bleibt ein Kernproblem. Die Maßnahme soll das Vertrauen in Chinas Finanzsystem stärken und die Wirtschaft stabilisieren."
+      "headline": "Novartis erleidet einen weiteren Rückschlag in der Forschung – der Aktienkurs bricht um über 10 Prozent ein",
+      "summary": "Ein neuer Novartis-Wirkstoff gegen eine Muskelerkrankung hat sich in der späten klinischen Entwicklung als Flop erwiesen, woraufhin der Aktienkurs um über 10 Prozent einbrach. Dies wirft Fragen auf, ob der Pharmakonzern für seine teuerste Firmenübernahme zu viel bezahlt hat."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia will seine Macht zementieren – und kauft für fast 13 Milliarden Dollar eine Firma dreier Nerds aus Frankreich, die nach einem Emoji benannt ist",
-      "summary": "Nvidia übernimmt für fast 13 Milliarden Dollar Hugging Face, eine führende Plattform für KI-Modelle. Die Akquisition zementiert Nvidias Position im KI-Markt, nachdem die Firma durch einen Angriff von OpenAI-KI-Agenten Berühmtheit erlangte."
+      "headline": "How to watch Apple’s foldable iPhone announcement",
+      "summary": "Apple wird am 9. September um 10 Uhr PDT ein Live-Stream-Event abhalten, bei dem die Tech-Welt mit großen Neuigkeiten rechnet. Viele erwarten die Ankündigung eines faltbaren iPhones."
     },
     {
       "tag": "TOP STORIES",
       "headline": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "summary": "Meta stellt seinen neuen persönlichen KI-Agenten Muse vor, der umfassenden Zugriff auf Nutzerdaten wie E-Mails und Gesundheitsdienste beansprucht. Dieser Schritt ist Metas bislang größtes KI-Wagnis und ein Test für das Verbrauchervertrauen."
+      "summary": "Metas neuer persönlicher KI-Agent Muse benötigt Zugriff auf Nutzerdaten wie E-Mails und Kalender. Dies ist Metas größtes KI-Wagnis und ein wichtiger Test für das Verbrauchervertrauen in das Unternehmen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Mistral raises €3B as sovereign AI becomes big business",
-      "summary": "Das französische KI-Labor Mistral hat in einer Series-D-Runde unter Führung von Samsung beeindruckende 3 Milliarden Euro eingesammelt. Die Bewertung des Unternehmens steigt damit auf 21 Milliarden Euro, was die Bedeutung souveräner KI unterstreicht."
+      "headline": "The Exploration Company nabs $450 million to challenge SpaceX",
+      "summary": "The Exploration Company (TEC) hat 450 Millionen Dollar in einer Serie-C-Runde eingesammelt und beschreibt dies als die größte einer europäischen Raumfahrtfirma. Das Unternehmen plant, mit wiederverwendbaren Raumfahrzeugen SpaceX herauszufordern."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
-      "summary": "Das Raumfahrt-Startup Stoke Space hat eine Series-E-Runde von einer Milliarde Dollar abgeschlossen, um mit SpaceX im Bereich wiederverwendbarer Raketen zu konkurrieren. Ziel ist es, in den Orbit zu gelangen und eine größere Rakete für den operativen Einsatz vorzubereiten."
+      "headline": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+      "summary": "Das britische Fertigungssoftware-Startup CloudNC gab eine 20 Millionen Dollar schwere Series B Extension Runde bekannt. Damit beläuft sich das insgesamt eingeworbene Kapital auf 128 Millionen Dollar für die Automatisierung von Fertigungsengpässen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung – Der Schlüssel zur Startup-Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money und Post-Money sind grundlegende Konzepte in der Startup-Finanzierung, die den Wert eines Unternehmens vor bzw. nach einer Investitionsrunde beschreiben. Sie sind entscheidend, um den Anteil zu bestimmen, den Investoren für ihr Kapital erhalten.",
-    "details": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens *vor* dem Eingang neuen Kapitals von Investoren. Addiert man zu diesem Wert die frischen Investitionsmittel, erhält man die Post-Money-Bewertung. Vereinfacht gesagt: Pre-Money + Investment = Post-Money. Diese Unterscheidung ist wichtig, weil sie direkt beeinflusst, wie viele Anteile Investoren für ihr Geld erhalten. Ein Investor, der 1 Million Euro in ein Startup mit einer Pre-Money-Bewertung von 4 Millionen Euro investiert, erhält Anteile basierend auf einer Post-Money-Bewertung von 5 Millionen Euro (1 Mio. / 5 Mio. = 20%). Hätte man fälschlicherweise die Pre-Money-Bewertung als Basis genommen, wäre das Ergebnis (1 Mio. / 4 Mio. = 25%) irreführend und würde den Gründeranteil zu stark verwässern.",
-    "takeaway": "Für Gründer ist die Pre-Money-Bewertung entscheidend für die Wahrnehmung des Werts, während die Post-Money-Bewertung den tatsächlichen Wert nach der Finanzierung darstellt und die Basis für die prozentuale Beteiligung der neuen Investoren bildet."
+    "topic": "Derivate verstehen: Warum das Wetter wichtiger sein kann als der Acker",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem zugrunde liegenden Basiswert ableitet, wie zum Beispiel Aktien, Rohstoffe oder Zinssätze. Sie werden oft zur Absicherung von Risiken oder zur Spekulation eingesetzt.",
+    "details": "Stell dir vor, du bist ein Bauer und hast Angst, dass der Weizenpreis bei der Ernte niedrig sein wird. Du kannst jetzt einen Vertrag (ein Derivat) abschließen, der dir einen bestimmten Preis für deine Ernte in der Zukunft garantiert. Egal wie der Marktpreis dann ist, du bekommst den vereinbarten Preis. Dieser Vertrag (das Derivat) leitet seinen Wert vom zukünftigen Weizenpreis ab. Sinkt der Weizenpreis, ist dein Derivat viel wert, da es dir einen höheren Preis sichert. Steigt der Preis stark an, verlierst du zwar die Chance auf einen höheren Gewinn, bist aber gegen fallende Preise abgesichert. So funktionieren zum Beispiel Futures oder Optionen: Sie fixieren Konditionen für einen zukünftigen Zeitpunkt, ohne dass der Basiswert sofort den Besitzer wechselt.",
+    "takeaway": "Derivate sind im Kern Absicherungs- oder Spekulationsinstrumente, die es ermöglichen, auf Preisbewegungen von Basiswerten zu wetten oder sich gegen sie abzusichern, ohne diese Basiswerte direkt besitzen zu müssen."
   }
 }
