@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Tote nach russischem Angriff auf Einkaufszentrum in Sumy",
-      "summary": "Russland und die Ukraine setzen ihre Angriffe fort; eine russische Attacke auf ein Einkaufszentrum forderte zwei Todesopfer. Die Ukraine zielte ihrerseits auf russische Infrastruktur und den Badeort Sotschi."
+      "headline": "Golfstaaten ziehen Lehren aus US-Politik im Iran-Krieg",
+      "summary": "Die Euphorie der Golfstaaten gegenüber den USA unter Trump ist vorbei. Arabische Partner fühlen sich im Iran-Krieg alleingelassen und ziehen ihre Konsequenzen aus der sich wandelnden US-Außenpolitik."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump will Amerikaner mit Importverboten vom Konsum kanadischer Waren abhalten",
-      "summary": "US-Präsident Trump plant weitere Importverbote für kanadische Produkte wie Alkohol und Milch, um Amerikaner vom Konsum abzuhalten. Dieser Handelskonflikt könnte den Republikanern bei den Zwischenwahlen Schwierigkeiten bereiten."
+      "headline": "Trump plant Importverbote für kanadische Waren",
+      "summary": "Die Vereinigten Staaten erwägen Importverbote für Alkohol, Milch und Motorräder aus Kanada. Dieser Handelskonflikt könnte für die Republikaner bei den kommenden Zwischenwahlen zum Problem werden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: EZB-Zinsentscheid sorgt für Stillstand am Markt",
-      "summary": "Vor dem EZB-Zinsentscheid bleiben Anleger zurückhaltend, was den DAX stagnieren lässt. Hohe Ölpreise verstärken die Sorgen vor anhaltend hohen Verbraucherpreisen."
+      "headline": "EZB erhöht Leitzinsen – Inflation hält länger an",
+      "summary": "Die EZB-Präsidentin Christine Lagarde prognostiziert eine länger anhaltende Inflation und hob den Einlagenzins auf 2,5 Prozent an. Fragen zu weiteren Zinsschritten ließ sie dabei offen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Hedge-Fund-Milliardär Chris Rokos verlässt Grossbritannien – aus Steuergründen",
-      "summary": "Hedgefonds-Milliardär Chris Rokos verlegt seinen Wohnsitz aus Steuergründen von London nach Griechenland, was eine Debatte über den Exodus von Spitzenverdienern in Grossbritannien anheizt. Dies könnte ein Indikator für Auswirkungen der Steuerpolitik auf die Kapitalmobilität sein."
+      "headline": "Bending Spoons kauft Miro für $1.36 Mrd. mit hohem Bewertungsrückgang",
+      "summary": "Das italienische Technologieunternehmen Bending Spoons übernimmt den Kollaborationstool-Anbieter Miro für 1,36 Milliarden Dollar. Dies bedeutet einen massiven Rückgang von 90 Prozent gegenüber Miro's Bewertung von 2021."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "summary": "Beim Herbst-Event stellte Apple das mit Spannung erwartete faltbare iPhone Duo sowie eine Apple Watch mit neuen KI-Funktionen vor. Die neuen Produkte sollen die Innovationskraft des Tech-Giganten unterstreichen."
+      "headline": "IDScan bestätigt Datenleck von über 150 Millionen Führerscheinen",
+      "summary": "Das Identifikationsprüfungsunternehmen IDScan gab einen schwerwiegenden Datenklau bekannt. Dabei wurden Namen und Führerscheininformationen von über 150 Millionen Personen entwendet."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI adds a prominent AI doomer to its board of directors",
-      "summary": "OpenAI hat Paul Christiano, einen einflussreichen KI-Forscher mit Fokus auf Alignment, als Mitglied in den Vorstand der OpenAI Foundation aufgenommen. Diese Besetzung signalisiert eine Stärkung der ethischen und sicherheitsrelevanten Aspekte in der KI-Entwicklung."
+      "headline": "Macron fordert mehr Einsatz für Europas Weltraumstrategie",
+      "summary": "Beim Weltraumgipfel in Paris drängt Frankreichs Präsident Macron auf eine verstärkte europäische Präsenz im All. Verteidigung, Sicherheit und Wirtschaft sind ohne eine starke Weltraumstrategie kaum vorstellbar."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "summary": "Das KI-Startup Listen Labs hat eine unterschriebene Series C Finanzierungsrunde über 1,5 Milliarden Dollar mit Menlo Ventures zugunsten von Salesforce-Gesprächen abgesagt. Dies deutet auf mögliche Übernahmeverhandlungen hin."
+      "headline": "The Boring Company sichert sich $3 Mrd. in neuer Finanzierungsrunde",
+      "summary": "Das Tunnelbauunternehmen von Elon Musk, The Boring Company, hat eine Finanzierungsrunde über 3 Milliarden US-Dollar abgeschlossen. Die Mittel sollen für den Bau von über 150 Kilometern Tunnels in den Vereinigten Arabischen Emiraten verwendet werden."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Harvey hits $15.5B valuation, months after reaching $11B",
-      "summary": "Das Legal-AI-Startup Harvey hat seine Bewertung innerhalb von neun Monaten von 11 Milliarden auf 15,5 Milliarden Dollar fast verdoppelt. Dies unterstreicht das enorme Wachstum und das Vertrauen der Investoren in den KI-Sektor."
+      "headline": "Proxima Fusion investiert €140 Mio. in Fusions-Supraleiter",
+      "summary": "Proxima Fusion plant den Bau einer Fabrik für Hochtemperatur-Supraleiter im Wert von 140 Millionen Euro. Diese Investition soll die Abhängigkeit von asiatischen Lieferanten für Schlüsselkomponenten ihrer Fusionsreaktoren verringern."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang entschlüsselt: SaaS, B2B, ARR, Burn Rate & Churn",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Startup-Slang sind essenzielle Fachbegriffe aus der Tech- und Venture-Capital-Welt, die Geschäftsmodelle, Wachstum und finanzielle Gesundheit von jungen Unternehmen beschreiben. Das Verständnis dieser Begriffe ist entscheidend für die Bewertung und Kommunikation in diesem Sektor.",
-    "details": "SaaS (Software-as-a-Service) bezeichnet ein Geschäftsmodell, bei dem Software als Abonnementdienst über das Internet bereitgestellt wird. B2B (Business-to-Business) beschreibt Geschäftsbeziehungen zwischen Unternehmen. ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements, ein zentraler Indikator für Stabilität. Die Burn Rate gibt an, wie schnell ein Startup Kapital verbraucht, während die Churn Rate den Prozentsatz der Kunden misst, die abspringen. Diese Metriken sind entscheidend, um die Skalierbarkeit und Nachhaltigkeit eines Startups zu bewerten.",
-    "takeaway": "Um Startups und deren Geschäftsmodelle richtig zu bewerten, ist das Verständnis von SaaS, B2B, ARR, Burn Rate und Churn unerlässlich. Diese Metriken geben Aufschluss über das Umsatzmodell, die Wachstumstrajektorie und die finanzielle Überlebensfähigkeit eines jungen Unternehmens."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert VOR der Kapitalzufuhr durch Investoren, während die Post-Money-Bewertung den Wert NACH der Investition darstellt.",
+    "details": "Bei einer Finanzierungsrunde bewerten Investoren ein Startup. Die Pre-Money-Bewertung ist die Grundlage dieser Einschätzung. Wenn neue Investoren Kapital gegen Anteile einbringen, erhöht sich der Unternehmenswert um diese Investition, was zur Post-Money-Bewertung führt. Die Post-Money-Bewertung ist somit die Summe aus Pre-Money-Bewertung und dem neuen Investitionsbetrag. Sie bestimmt, wie viele Anteile neue Investoren für ihr Kapital erhalten und wie sich die Anteile der Bestandsgesellschafter verwässern.",
+    "takeaway": "Die Pre-Money-Bewertung reflektiert den Wert des Unternehmens vor der Finanzierung, während die Post-Money-Bewertung den neuen, höheren Wert nach der Kapitalzufuhr darstellt. Das Verständnis dieser Metriken ist entscheidend für die Bewertung von Startup-Deals und deren Kapitalstruktur."
   }
 }
