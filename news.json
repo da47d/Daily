@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA zerstören fünf iranische Öltanker - Iran reagiert mit Angriffen",
-      "summary": "US-Streitkräfte haben nach eigenen Angaben fünf iranische Öltanker zerstört, wovon einer versenkt wurde. Iran reagierte umgehend mit Gegenangriffen, die auch US-Schiffe betrafen."
+      "headline": "Tote nach russischem Angriff auf Einkaufszentrum in Sumy",
+      "summary": "Russland und die Ukraine setzen ihre Angriffe fort; eine russische Attacke auf ein Einkaufszentrum forderte zwei Todesopfer. Die Ukraine zielte ihrerseits auf russische Infrastruktur und den Badeort Sotschi."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
-      "summary": "Im Zollkonflikt zwischen den USA und Kanada haben die USA milliardenschwere Einfuhrverbote für bestimmte kanadische Produkte angekündigt. Dies verschärft den Handelsstreit zwischen Washington und Ottawa erneut."
+      "headline": "Trump will Amerikaner mit Importverboten vom Konsum kanadischer Waren abhalten",
+      "summary": "US-Präsident Trump plant weitere Importverbote für kanadische Produkte wie Alkohol und Milch, um Amerikaner vom Konsum abzuhalten. Dieser Handelskonflikt könnte den Republikanern bei den Zwischenwahlen Schwierigkeiten bereiten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Eskalation im Iran-Krieg: DAX driftet nach unten",
-      "summary": "Eine neue Eskalation am Persischen Golf hat den Ölpreis über 100 Dollar getrieben, was die Sorge vor hartnäckiger Inflation nährt. Der DAX steht infolgedessen deutlich unter Druck."
+      "headline": "Marktbericht: EZB-Zinsentscheid sorgt für Stillstand am Markt",
+      "summary": "Vor dem EZB-Zinsentscheid bleiben Anleger zurückhaltend, was den DAX stagnieren lässt. Hohe Ölpreise verstärken die Sorgen vor anhaltend hohen Verbraucherpreisen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Novartis erleidet einen weiteren Rückschlag in der Forschung – der Aktienkurs bricht um über 10 Prozent ein",
-      "summary": "Ein neuer Novartis-Wirkstoff gegen eine Muskelerkrankung hat sich in der späten klinischen Entwicklung als Flop erwiesen, woraufhin der Aktienkurs um über 10 Prozent einbrach. Dies wirft Fragen auf, ob der Pharmakonzern für seine teuerste Firmenübernahme zu viel bezahlt hat."
+      "headline": "Hedge-Fund-Milliardär Chris Rokos verlässt Grossbritannien – aus Steuergründen",
+      "summary": "Hedgefonds-Milliardär Chris Rokos verlegt seinen Wohnsitz aus Steuergründen von London nach Griechenland, was eine Debatte über den Exodus von Spitzenverdienern in Grossbritannien anheizt. Dies könnte ein Indikator für Auswirkungen der Steuerpolitik auf die Kapitalmobilität sein."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "How to watch Apple’s foldable iPhone announcement",
-      "summary": "Apple wird am 9. September um 10 Uhr PDT ein Live-Stream-Event abhalten, bei dem die Tech-Welt mit großen Neuigkeiten rechnet. Viele erwarten die Ankündigung eines faltbaren iPhones."
+      "headline": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "summary": "Beim Herbst-Event stellte Apple das mit Spannung erwartete faltbare iPhone Duo sowie eine Apple Watch mit neuen KI-Funktionen vor. Die neuen Produkte sollen die Innovationskraft des Tech-Giganten unterstreichen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "summary": "Metas neuer persönlicher KI-Agent Muse benötigt Zugriff auf Nutzerdaten wie E-Mails und Kalender. Dies ist Metas größtes KI-Wagnis und ein wichtiger Test für das Verbrauchervertrauen in das Unternehmen."
+      "headline": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "OpenAI hat Paul Christiano, einen einflussreichen KI-Forscher mit Fokus auf Alignment, als Mitglied in den Vorstand der OpenAI Foundation aufgenommen. Diese Besetzung signalisiert eine Stärkung der ethischen und sicherheitsrelevanten Aspekte in der KI-Entwicklung."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "The Exploration Company nabs $450 million to challenge SpaceX",
-      "summary": "The Exploration Company (TEC) hat 450 Millionen Dollar in einer Serie-C-Runde eingesammelt und beschreibt dies als die größte einer europäischen Raumfahrtfirma. Das Unternehmen plant, mit wiederverwendbaren Raumfahrzeugen SpaceX herauszufordern."
+      "headline": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "summary": "Das KI-Startup Listen Labs hat eine unterschriebene Series C Finanzierungsrunde über 1,5 Milliarden Dollar mit Menlo Ventures zugunsten von Salesforce-Gesprächen abgesagt. Dies deutet auf mögliche Übernahmeverhandlungen hin."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-      "summary": "Das britische Fertigungssoftware-Startup CloudNC gab eine 20 Millionen Dollar schwere Series B Extension Runde bekannt. Damit beläuft sich das insgesamt eingeworbene Kapital auf 128 Millionen Dollar für die Automatisierung von Fertigungsengpässen."
+      "headline": "Harvey hits $15.5B valuation, months after reaching $11B",
+      "summary": "Das Legal-AI-Startup Harvey hat seine Bewertung innerhalb von neun Monaten von 11 Milliarden auf 15,5 Milliarden Dollar fast verdoppelt. Dies unterstreicht das enorme Wachstum und das Vertrauen der Investoren in den KI-Sektor."
     }
   ],
   "learning": {
-    "topic": "Derivate verstehen: Warum das Wetter wichtiger sein kann als der Acker",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem zugrunde liegenden Basiswert ableitet, wie zum Beispiel Aktien, Rohstoffe oder Zinssätze. Sie werden oft zur Absicherung von Risiken oder zur Spekulation eingesetzt.",
-    "details": "Stell dir vor, du bist ein Bauer und hast Angst, dass der Weizenpreis bei der Ernte niedrig sein wird. Du kannst jetzt einen Vertrag (ein Derivat) abschließen, der dir einen bestimmten Preis für deine Ernte in der Zukunft garantiert. Egal wie der Marktpreis dann ist, du bekommst den vereinbarten Preis. Dieser Vertrag (das Derivat) leitet seinen Wert vom zukünftigen Weizenpreis ab. Sinkt der Weizenpreis, ist dein Derivat viel wert, da es dir einen höheren Preis sichert. Steigt der Preis stark an, verlierst du zwar die Chance auf einen höheren Gewinn, bist aber gegen fallende Preise abgesichert. So funktionieren zum Beispiel Futures oder Optionen: Sie fixieren Konditionen für einen zukünftigen Zeitpunkt, ohne dass der Basiswert sofort den Besitzer wechselt.",
-    "takeaway": "Derivate sind im Kern Absicherungs- oder Spekulationsinstrumente, die es ermöglichen, auf Preisbewegungen von Basiswerten zu wetten oder sich gegen sie abzusichern, ohne diese Basiswerte direkt besitzen zu müssen."
+    "topic": "Startup-Slang entschlüsselt: SaaS, B2B, ARR, Burn Rate & Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Startup-Slang sind essenzielle Fachbegriffe aus der Tech- und Venture-Capital-Welt, die Geschäftsmodelle, Wachstum und finanzielle Gesundheit von jungen Unternehmen beschreiben. Das Verständnis dieser Begriffe ist entscheidend für die Bewertung und Kommunikation in diesem Sektor.",
+    "details": "SaaS (Software-as-a-Service) bezeichnet ein Geschäftsmodell, bei dem Software als Abonnementdienst über das Internet bereitgestellt wird. B2B (Business-to-Business) beschreibt Geschäftsbeziehungen zwischen Unternehmen. ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements, ein zentraler Indikator für Stabilität. Die Burn Rate gibt an, wie schnell ein Startup Kapital verbraucht, während die Churn Rate den Prozentsatz der Kunden misst, die abspringen. Diese Metriken sind entscheidend, um die Skalierbarkeit und Nachhaltigkeit eines Startups zu bewerten.",
+    "takeaway": "Um Startups und deren Geschäftsmodelle richtig zu bewerten, ist das Verständnis von SaaS, B2B, ARR, Burn Rate und Churn unerlässlich. Diese Metriken geben Aufschluss über das Umsatzmodell, die Wachstumstrajektorie und die finanzielle Überlebensfähigkeit eines jungen Unternehmens."
   }
 }
