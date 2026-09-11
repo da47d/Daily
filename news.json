@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Golfstaaten ziehen Lehren aus US-Politik im Iran-Krieg",
-      "summary": "Die Euphorie der Golfstaaten gegenüber den USA unter Trump ist vorbei. Arabische Partner fühlen sich im Iran-Krieg alleingelassen und ziehen ihre Konsequenzen aus der sich wandelnden US-Außenpolitik."
+      "headline": "25 Jahre nach 9/11: Geopolitische Auswirkungen in den USA und Deutschland",
+      "summary": "Die Anschläge vom 11. September 2001 prägten die US-Außenpolitik nachhaltig mit dem 'Krieg gegen den Terror' und der Logik von Präventivkriegen. Auch die deutsche Politik reagierte damals mit Sicherheitspaketen und der Beteiligung am Afghanistan-Einsatz, was eine Zeitenwende markierte."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump plant Importverbote für kanadische Waren",
-      "summary": "Die Vereinigten Staaten erwägen Importverbote für Alkohol, Milch und Motorräder aus Kanada. Dieser Handelskonflikt könnte für die Republikaner bei den kommenden Zwischenwahlen zum Problem werden."
+      "headline": "US-Republikaner verschärfen Rhetorik vor Zwischenwahlen",
+      "summary": "Zwei Monate vor den US-Zwischenwahlen attackierte Vizepräsident Vance auf dem Parteitag der Republikaner die Demokraten scharf als 'Partei des Hasses'. Seine Präsidentschaftskandidatur ließ er dabei offen, was die politische Spannung weiter erhöht und die Märkte beeinflussen könnte."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EZB erhöht Leitzinsen – Inflation hält länger an",
-      "summary": "Die EZB-Präsidentin Christine Lagarde prognostiziert eine länger anhaltende Inflation und hob den Einlagenzins auf 2,5 Prozent an. Fragen zu weiteren Zinsschritten ließ sie dabei offen."
+      "headline": "DAX hält sich vor US-Inflationsdaten stabil",
+      "summary": "Der DAX befindet sich nach jüngsten Verlusten auf einem vorsichtigen Erholungskurs und legt vor wichtigen US-Inflationsdaten leicht zu. Auf Wochensicht dürfte der deutsche Leitindex jedoch weiterhin ein hohes Minus aufweisen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Bending Spoons kauft Miro für $1.36 Mrd. mit hohem Bewertungsrückgang",
-      "summary": "Das italienische Technologieunternehmen Bending Spoons übernimmt den Kollaborationstool-Anbieter Miro für 1,36 Milliarden Dollar. Dies bedeutet einen massiven Rückgang von 90 Prozent gegenüber Miro's Bewertung von 2021."
+      "headline": "EZB erhöht Leitzinsen und prognostiziert längere Inflation",
+      "summary": "EZB-Präsidentin Christine Lagarde prognostiziert ein längeres Anhalten der Inflation und erhöht den Einlagenzins auf 2,5 Prozent. Fragen zu weiteren Zinsschritten oder ihrer eigenen Zukunft ließ sie bewusst offen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "IDScan bestätigt Datenleck von über 150 Millionen Führerscheinen",
-      "summary": "Das Identifikationsprüfungsunternehmen IDScan gab einen schwerwiegenden Datenklau bekannt. Dabei wurden Namen und Führerscheininformationen von über 150 Millionen Personen entwendet."
+      "headline": "OpenAI stoppt Pro-Abonnements wegen Astra-Nachfrage",
+      "summary": "OpenAI hat die Anmeldung für Pro-Abonnements aufgrund der hohen Nachfrage nach ihrem Astra-Modell vorübergehend ausgesetzt. Dies belastet die Systemkapazitäten erheblich, weshalb man nun den Ausbau vorantreibt."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Macron fordert mehr Einsatz für Europas Weltraumstrategie",
-      "summary": "Beim Weltraumgipfel in Paris drängt Frankreichs Präsident Macron auf eine verstärkte europäische Präsenz im All. Verteidigung, Sicherheit und Wirtschaft sind ohne eine starke Weltraumstrategie kaum vorstellbar."
+      "headline": "Meta's KI-Agent Muse avanciert zur zweitmeistgenutzten App in den USA",
+      "summary": "Metas neuer KI-Agent Muse hat sich in den USA zur zweitmeistgenutzten App entwickelt, wenn auch mit einem langsameren Start als frühere Meta-Apps wie Threads. Die rasante Adoption unterstreicht das wachsende Interesse an KI-Anwendungen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "The Boring Company sichert sich $3 Mrd. in neuer Finanzierungsrunde",
-      "summary": "Das Tunnelbauunternehmen von Elon Musk, The Boring Company, hat eine Finanzierungsrunde über 3 Milliarden US-Dollar abgeschlossen. Die Mittel sollen für den Bau von über 150 Kilometern Tunnels in den Vereinigten Arabischen Emiraten verwendet werden."
+      "headline": "VC-Firmen steigen in professionelle Sportteams ein",
+      "summary": "Venture-Capital-Firmen wie Thrive Capital und Collaborative Fund steigen verstärkt in den Besitz professioneller Sportteams ein. Collaborative Fund erwarb Anteile an D.C. United und dessen Stadion, um es als Showcase für Startups zu nutzen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Proxima Fusion investiert €140 Mio. in Fusions-Supraleiter",
-      "summary": "Proxima Fusion plant den Bau einer Fabrik für Hochtemperatur-Supraleiter im Wert von 140 Millionen Euro. Diese Investition soll die Abhängigkeit von asiatischen Lieferanten für Schlüsselkomponenten ihrer Fusionsreaktoren verringern."
+      "headline": "Furo-Gründer verlassen Silicon Valley und sichern Millionen-Finanzierung",
+      "summary": "Die Gründer des Energie-Startups Furo verließen das Silicon Valley und zogen zurück nach Deutschland, was sich auszahlt. Sie sicherten sich 4 Millionen Dollar hauptsächlich von US-Investoren, trotz des geografischen Wechsels."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert VOR der Kapitalzufuhr durch Investoren, während die Post-Money-Bewertung den Wert NACH der Investition darstellt.",
-    "details": "Bei einer Finanzierungsrunde bewerten Investoren ein Startup. Die Pre-Money-Bewertung ist die Grundlage dieser Einschätzung. Wenn neue Investoren Kapital gegen Anteile einbringen, erhöht sich der Unternehmenswert um diese Investition, was zur Post-Money-Bewertung führt. Die Post-Money-Bewertung ist somit die Summe aus Pre-Money-Bewertung und dem neuen Investitionsbetrag. Sie bestimmt, wie viele Anteile neue Investoren für ihr Kapital erhalten und wie sich die Anteile der Bestandsgesellschafter verwässern.",
-    "takeaway": "Die Pre-Money-Bewertung reflektiert den Wert des Unternehmens vor der Finanzierung, während die Post-Money-Bewertung den neuen, höheren Wert nach der Kapitalzufuhr darstellt. Das Verständnis dieser Metriken ist entscheidend für die Bewertung von Startup-Deals und deren Kapitalstruktur."
+    "topic": "ETF-Namenszusätze: Acc vs. Dist",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Die Zusätze 'Acc' (Accumulating) und 'Dist' (Distributing) in ETF-Namen zeigen an, wie ein Fonds mit den erzielten Erträgen wie Dividenden umgeht. Dies hat direkte Auswirkungen auf die Wiederanlage und die Besteuerung für Anleger.",
+    "details": "Ein 'Acc'-ETF legt die eingenommenen Dividenden automatisch wieder im Fondsvermögen an, was den Zinseszinseffekt ohne eigenes Zutun maximiert. Ein 'Dist'-ETF schüttet diese Erträge hingegen regelmäßig an seine Anleger aus, die diese dann manuell wieder investieren oder für Konsumzwecke nutzen können. Für langfristige Sparziele ist oft die 'Acc'-Variante steuereffizienter, da die Thesaurierung im Fonds zunächst nicht direkt besteuert wird (Stichwort Vorabpauschale), während Ausschüttungen sofort der Abgeltungssteuer unterliegen.",
+    "takeaway": "Die Wahl zwischen einem 'Acc'- und einem 'Dist'-ETF sollte auf den persönlichen Anlagezielen – sei es Vermögensaufbau durch Reinvestition oder regelmäßiges Einkommen – sowie der steuerlichen Situation basieren."
   }
 }
