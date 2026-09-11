@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "25 Jahre nach 9/11: Geopolitische Auswirkungen in den USA und Deutschland",
-      "summary": "Die Anschläge vom 11. September 2001 prägten die US-Außenpolitik nachhaltig mit dem 'Krieg gegen den Terror' und der Logik von Präventivkriegen. Auch die deutsche Politik reagierte damals mit Sicherheitspaketen und der Beteiligung am Afghanistan-Einsatz, was eine Zeitenwende markierte."
+      "headline": "Huthi-Miliz greift nach wichtiger Meerenge Bab al-Mandab",
+      "summary": "Die Huthi-Miliz hat ihren Einfluss auf die strategisch wichtige Meerenge Bab al-Mandab und angrenzende Küstengebiete im Jemen ausgebaut. Dies hat weitreichende Folgen für den internationalen Seehandel."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Republikaner verschärfen Rhetorik vor Zwischenwahlen",
-      "summary": "Zwei Monate vor den US-Zwischenwahlen attackierte Vizepräsident Vance auf dem Parteitag der Republikaner die Demokraten scharf als 'Partei des Hasses'. Seine Präsidentschaftskandidatur ließ er dabei offen, was die politische Spannung weiter erhöht und die Märkte beeinflussen könnte."
+      "headline": "Anschlagspläne: Hamas-Unterstützer in Berlin angeklagt",
+      "summary": "Mutmaßliche Hamas-Mitglieder wurden in Berlin wegen Anschlagsplänen zum Jahrestag des Überfalls auf Israel angeklagt. Sie sollen von Deutschland aus Waffen für Angriffe auf jüdische Ziele beschafft haben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX hält sich vor US-Inflationsdaten stabil",
-      "summary": "Der DAX befindet sich nach jüngsten Verlusten auf einem vorsichtigen Erholungskurs und legt vor wichtigen US-Inflationsdaten leicht zu. Auf Wochensicht dürfte der deutsche Leitindex jedoch weiterhin ein hohes Minus aufweisen."
+      "headline": "Trumps Finanzminister hat sich mit dem Anleihemarkt den härtesten Gegner ausgesucht. Der Machtkampf beginnt erst",
+      "summary": "Die Rendite für 10-jährige US-Staatsanleihen nähert sich trotz Eingriffen des Finanzministers der 5-Prozent-Marke. Dies erschwert das Schuldenmanagement der USA erheblich und deutet auf einen Machtkampf am Anleihemarkt hin."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EZB erhöht Leitzinsen und prognostiziert längere Inflation",
-      "summary": "EZB-Präsidentin Christine Lagarde prognostiziert ein längeres Anhalten der Inflation und erhöht den Einlagenzins auf 2,5 Prozent. Fragen zu weiteren Zinsschritten oder ihrer eigenen Zukunft ließ sie bewusst offen."
+      "headline": "Die Inflation dürfte länger anhalten als erwartet, sagt die EZB-Präsidentin – und erhöht die Leitzinsen",
+      "summary": "Die EZB-Präsidentin Christine Lagarde prognostiziert länger anhaltende Inflation und erhöht die Leitzinsen auf 2,5 Prozent. Fragen nach weiteren Schritten und ihrer eigenen Zukunft lässt sie jedoch offen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI stoppt Pro-Abonnements wegen Astra-Nachfrage",
-      "summary": "OpenAI hat die Anmeldung für Pro-Abonnements aufgrund der hohen Nachfrage nach ihrem Astra-Modell vorübergehend ausgesetzt. Dies belastet die Systemkapazitäten erheblich, weshalb man nun den Ausbau vorantreibt."
+      "headline": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "summary": "OpenAI hat die Registrierungen für seine Pro-Abonnements aufgrund der hohen Nachfrage nach Astra vorübergehend gestoppt. Das Unternehmen arbeitet daran, die Systemkapazität zu erhöhen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Meta's KI-Agent Muse avanciert zur zweitmeistgenutzten App in den USA",
-      "summary": "Metas neuer KI-Agent Muse hat sich in den USA zur zweitmeistgenutzten App entwickelt, wenn auch mit einem langsameren Start als frühere Meta-Apps wie Threads. Die rasante Adoption unterstreicht das wachsende Interesse an KI-Anwendungen."
+      "headline": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
+      "summary": "Das US-Unternehmen Anthropic hat mehrere Fälle missbräuchlicher KI-Nutzung unterbunden, darunter mutmaßliche Cyberspionage aus Russland und Biowaffen-Recherchen. Dies unterstreicht die wachsenden Sicherheitsbedenken im Bereich künstlicher Intelligenz."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "VC-Firmen steigen in professionelle Sportteams ein",
-      "summary": "Venture-Capital-Firmen wie Thrive Capital und Collaborative Fund steigen verstärkt in den Besitz professioneller Sportteams ein. Collaborative Fund erwarb Anteile an D.C. United und dessen Stadion, um es als Showcase für Startups zu nutzen."
+      "headline": "Furo’s founders left Silicon Valley — and it’s paying off",
+      "summary": "Die Gründer des Energie-Startups Furo zogen von Silicon Valley zurück nach Deutschland und sicherten sich dort 4 Millionen Dollar Finanzierung. Ihr Erfolg zeigt, dass innovative Startups auch außerhalb traditioneller Hubs Kapital anziehen können."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Furo-Gründer verlassen Silicon Valley und sichern Millionen-Finanzierung",
-      "summary": "Die Gründer des Energie-Startups Furo verließen das Silicon Valley und zogen zurück nach Deutschland, was sich auszahlt. Sie sicherten sich 4 Millionen Dollar hauptsächlich von US-Investoren, trotz des geografischen Wechsels."
+      "headline": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+      "summary": "Collaborative Fund hat sich in den Fußballclub D.C. United und sein Stadion eingekauft, um dies als Showcase für seine Startups zu nutzen. Dies folgt dem Trend von VCs, in den Profisport zu investieren."
     }
   ],
   "learning": {
-    "topic": "ETF-Namenszusätze: Acc vs. Dist",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Die Zusätze 'Acc' (Accumulating) und 'Dist' (Distributing) in ETF-Namen zeigen an, wie ein Fonds mit den erzielten Erträgen wie Dividenden umgeht. Dies hat direkte Auswirkungen auf die Wiederanlage und die Besteuerung für Anleger.",
-    "details": "Ein 'Acc'-ETF legt die eingenommenen Dividenden automatisch wieder im Fondsvermögen an, was den Zinseszinseffekt ohne eigenes Zutun maximiert. Ein 'Dist'-ETF schüttet diese Erträge hingegen regelmäßig an seine Anleger aus, die diese dann manuell wieder investieren oder für Konsumzwecke nutzen können. Für langfristige Sparziele ist oft die 'Acc'-Variante steuereffizienter, da die Thesaurierung im Fonds zunächst nicht direkt besteuert wird (Stichwort Vorabpauschale), während Ausschüttungen sofort der Abgeltungssteuer unterliegen.",
-    "takeaway": "Die Wahl zwischen einem 'Acc'- und einem 'Dist'-ETF sollte auf den persönlichen Anlagezielen – sei es Vermögensaufbau durch Reinvestition oder regelmäßiges Einkommen – sowie der steuerlichen Situation basieren."
+    "topic": "Der Short Squeeze: Mechanik eines Marktphänomens",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein plötzlicher Preisanstieg einer Aktie, der durch die Notwendigkeit ausgelöst wird, dass Leerverkäufer ihre Positionen schließen müssen. Dies geschieht, wenn der Aktienkurs entgegen ihrer Erwartung steigt.",
+    "details": "Wenn Anleger eine Aktie 'leerverkaufen', leihen sie sich diese, verkaufen sie sofort in der Erwartung, sie später zu einem niedrigeren Preis zurückzukaufen und an den Verleiher zurückzugeben. Steigt der Kurs jedoch unerwartet, geraten Leerverkäufer unter Druck: Um größere Verluste zu vermeiden, müssen sie die Aktien zurückkaufen, was die Nachfrage und damit den Preis weiter in die Höhe treibt. Dieser erzwungene Rückkauf zur Deckung der Leerverkaufspositionen erzeugt eine spiralförmige Aufwärtsbewegung, den sogenannten Short Squeeze. Es ist eine Kettenreaktion, bei der jeder Rückkauf den Preis für den nächsten Leerverkäufer erhöht.",
+    "takeaway": "Ein Short Squeeze zeigt die Macht der kollektiven Marktbewegung und kann für Leerverkäufer ruinös sein. Für andere Anleger kann es eine Chance sein, aber auch ein Warnsignal für extreme Volatilität."
   }
 }
