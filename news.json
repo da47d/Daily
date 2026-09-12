@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Huthi-Miliz greift nach wichtiger Meerenge Bab al-Mandab",
-      "summary": "Die Huthi-Miliz hat ihren Einfluss auf die strategisch wichtige Meerenge Bab al-Mandab und angrenzende Küstengebiete im Jemen ausgebaut. Dies hat weitreichende Folgen für den internationalen Seehandel."
+      "headline": "Saudi-Arabien schaltet nach Drohnenangriffen wichtige Öl-Pipeline ab",
+      "summary": "Nach Drohnenangriffen aus dem Irak hat Saudi-Arabien vorsorglich seine Ost-West-Öl-Pipeline abgeschaltet. Diese Maßnahme könnte die Öl- und Benzinpreise weiter in die Höhe treiben und reduziert die globalen Exportkapazitäten."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Anschlagspläne: Hamas-Unterstützer in Berlin angeklagt",
-      "summary": "Mutmaßliche Hamas-Mitglieder wurden in Berlin wegen Anschlagsplänen zum Jahrestag des Überfalls auf Israel angeklagt. Sie sollen von Deutschland aus Waffen für Angriffe auf jüdische Ziele beschafft haben."
+      "headline": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
+      "summary": "Unmittelbar nach einem gemeinsamen Manöver der USA und Südkoreas hat Nordkorea erneut ballistische Raketen getestet. Dies signalisiert eine Fortsetzung der Spannungen in der Region trotz früherer Dialogversuche."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Trumps Finanzminister hat sich mit dem Anleihemarkt den härtesten Gegner ausgesucht. Der Machtkampf beginnt erst",
-      "summary": "Die Rendite für 10-jährige US-Staatsanleihen nähert sich trotz Eingriffen des Finanzministers der 5-Prozent-Marke. Dies erschwert das Schuldenmanagement der USA erheblich und deutet auf einen Machtkampf am Anleihemarkt hin."
+      "headline": "Die Inflation dürfte länger anhalten als erwartet, sagt die EZB-Präsidentin – und erhöht die Leitzinsen",
+      "summary": "Die Europäische Zentralbank erhöht den Einlagenzins auf 2,5 Prozent, da Präsidentin Christine Lagarde eine länger anhaltende Inflation erwartet. Fragen zu weiteren Zinsschritten lässt die EZB-Chefin vorerst offen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Inflation dürfte länger anhalten als erwartet, sagt die EZB-Präsidentin – und erhöht die Leitzinsen",
-      "summary": "Die EZB-Präsidentin Christine Lagarde prognostiziert länger anhaltende Inflation und erhöht die Leitzinsen auf 2,5 Prozent. Fragen nach weiteren Schritten und ihrer eigenen Zukunft lässt sie jedoch offen."
+      "headline": "Trumps Finanzminister hat sich mit dem Anleihemarkt den härtesten Gegner ausgesucht. Der Machtkampf beginnt erst",
+      "summary": "Trotz Eingriffen von Finanzminister Scott Bessent steigen die Renditen für 10-jährige US-Staatsanleihen und nähern sich der 5-Prozent-Marke. Dies erschwert den USA das Schuldenmanagement erheblich."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "summary": "OpenAI hat die Registrierungen für seine Pro-Abonnements aufgrund der hohen Nachfrage nach Astra vorübergehend gestoppt. Das Unternehmen arbeitet daran, die Systemkapazität zu erhöhen."
+      "headline": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "Eine Gruppe von 25 führenden Mathematikern hat sich in einem offenen Brief gegen OpenAI gestellt und argumentiert, KI-Labore würden ihre intellektuelle Arbeit bedrohen. Dieser Konflikt um die Auswirkungen von KI auf die Forschung eskaliert weiter."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
-      "summary": "Das US-Unternehmen Anthropic hat mehrere Fälle missbräuchlicher KI-Nutzung unterbunden, darunter mutmaßliche Cyberspionage aus Russland und Biowaffen-Recherchen. Dies unterstreicht die wachsenden Sicherheitsbedenken im Bereich künstlicher Intelligenz."
+      "headline": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "summary": "Roblox kündigt auf seiner Entwicklerkonferenz neue Tools an, die das Erstellen von Spielen mit KI vereinfachen und deren Verfügbarkeit über die Plattform hinaus erweitern. Dazu gehören verbesserte NPC-Funktionen und Cross-Platform-Fähigkeiten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Furo’s founders left Silicon Valley — and it’s paying off",
-      "summary": "Die Gründer des Energie-Startups Furo zogen von Silicon Valley zurück nach Deutschland und sicherten sich dort 4 Millionen Dollar Finanzierung. Ihr Erfolg zeigt, dass innovative Startups auch außerhalb traditioneller Hubs Kapital anziehen können."
+      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "Das erst zwei Jahre alte Startup Mecka AI nähert sich einer Bewertung von 500 Millionen US-Dollar in einer von Sequoia geführten Finanzierungsrunde. Der Deal unterstreicht den hohen Bedarf an Daten für das Robotertraining."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-      "summary": "Collaborative Fund hat sich in den Fußballclub D.C. United und sein Stadion eingekauft, um dies als Showcase für seine Startups zu nutzen. Dies folgt dem Trend von VCs, in den Profisport zu investieren."
+      "headline": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary": "Nscale hat Fidji Simo, die ehemalige Nummer Zwei von OpenAI und erfahrene IPO-Chefin bei Instacart, in seinen Vorstand berufen. Dieser strategische Schritt erfolgt im Hinblick auf einen möglichen Börsengang des Unternehmens."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Mechanik eines Marktphänomens",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein plötzlicher Preisanstieg einer Aktie, der durch die Notwendigkeit ausgelöst wird, dass Leerverkäufer ihre Positionen schließen müssen. Dies geschieht, wenn der Aktienkurs entgegen ihrer Erwartung steigt.",
-    "details": "Wenn Anleger eine Aktie 'leerverkaufen', leihen sie sich diese, verkaufen sie sofort in der Erwartung, sie später zu einem niedrigeren Preis zurückzukaufen und an den Verleiher zurückzugeben. Steigt der Kurs jedoch unerwartet, geraten Leerverkäufer unter Druck: Um größere Verluste zu vermeiden, müssen sie die Aktien zurückkaufen, was die Nachfrage und damit den Preis weiter in die Höhe treibt. Dieser erzwungene Rückkauf zur Deckung der Leerverkaufspositionen erzeugt eine spiralförmige Aufwärtsbewegung, den sogenannten Short Squeeze. Es ist eine Kettenreaktion, bei der jeder Rückkauf den Preis für den nächsten Leerverkäufer erhöht.",
-    "takeaway": "Ein Short Squeeze zeigt die Macht der kollektiven Marktbewegung und kann für Leerverkäufer ruinös sein. Für andere Anleger kann es eine Chance sein, aber auch ein Warnsignal für extreme Volatilität."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "\"Pre-Money\" ist der Wert eines Startups vor einer neuen Investition, während \"Post-Money\" der Wert nach dieser Investition ist und somit das neue Kapital miteinschließt.",
+    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird dieses Startup bewertet. Die Pre-Money-Bewertung ist dabei der Ausgangspunkt: Der aktuelle Wert des Unternehmens, bevor das frische Kapital hineinfließt. Die Post-Money-Bewertung ergibt sich, indem man die Investitionssumme zur Pre-Money-Bewertung addiert. Diese Unterscheidung ist entscheidend für die Berechnung der Anteile, die ein Investor für sein Kapital erhält. Wenn beispielsweise ein Startup eine Pre-Money-Bewertung von 10 Millionen Euro hat und ein Investor 2 Millionen Euro investiert, beträgt die Post-Money-Bewertung 12 Millionen Euro. Der Investor erhält in diesem Fall 2 Mio. / 12 Mio. = 16,67% der Anteile am Unternehmen. Eine hohe Pre-Money-Bewertung ist für Gründer vorteilhaft, da sie für dieselbe Investition weniger Anteile abgeben müssen.",
+    "takeaway": "Pre- und Post-Money sind grundlegende Konzepte in der Startup-Finanzierung, die bestimmen, wie sich Eigentumsanteile nach einer Finanzierungsrunde verteilen. Sie sind essenziell, um den Wert eines Unternehmens im Kontext einer Investition richtig zu verstehen."
   }
 }
