@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Saudi-Arabien schaltet nach Drohnenangriffen wichtige Öl-Pipeline ab",
-      "summary": "Nach Drohnenangriffen aus dem Irak hat Saudi-Arabien vorsorglich seine Ost-West-Öl-Pipeline abgeschaltet. Diese Maßnahme könnte die Öl- und Benzinpreise weiter in die Höhe treiben und reduziert die globalen Exportkapazitäten."
+      "headline": "Europa rüstet sich gegen hybride Bedrohungen aus Russland",
+      "summary": "Angesichts zunehmender Sabotage und Drohnen-Vorfälle rücken europäische Partner zusammen, um auf hybride Angriffe aus Russland zu reagieren. Kritiker fordern jedoch ein umfassenderes gesamteuropäisches Konzept zur Abwehr."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
-      "summary": "Unmittelbar nach einem gemeinsamen Manöver der USA und Südkoreas hat Nordkorea erneut ballistische Raketen getestet. Dies signalisiert eine Fortsetzung der Spannungen in der Region trotz früherer Dialogversuche."
+      "headline": "China fordert auf BRICS-Treffen mehr Einsatz für den Frieden",
+      "summary": "Auf dem BRICS-Treffen in Neu-Delhi mahnte Chinas Präsident Xi die Schwellenländer zu verstärktem Engagement für Frieden im Nahen Osten. Er betonte die Notwendigkeit, sich auf die 'richtige Seite der Geschichte' zu stellen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Inflation dürfte länger anhalten als erwartet, sagt die EZB-Präsidentin – und erhöht die Leitzinsen",
-      "summary": "Die Europäische Zentralbank erhöht den Einlagenzins auf 2,5 Prozent, da Präsidentin Christine Lagarde eine länger anhaltende Inflation erwartet. Fragen zu weiteren Zinsschritten lässt die EZB-Chefin vorerst offen."
+      "headline": "EZB erhöht Leitzinsen und erwartet längere Inflation",
+      "summary": "Die EZB-Präsidentin Christine Lagarde kündigte an, dass die Inflation länger anhalten könnte als erwartet, und hob den Einlagenzins auf 2,5 Prozent an. Fragen zu weiteren Zinsschritten und ihrer eigenen Zukunft ließ sie dabei offen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Trumps Finanzminister hat sich mit dem Anleihemarkt den härtesten Gegner ausgesucht. Der Machtkampf beginnt erst",
-      "summary": "Trotz Eingriffen von Finanzminister Scott Bessent steigen die Renditen für 10-jährige US-Staatsanleihen und nähern sich der 5-Prozent-Marke. Dies erschwert den USA das Schuldenmanagement erheblich."
+      "headline": "Ölpreis-Schock droht durch Probleme Saudi-Arabiens",
+      "summary": "Nach Vorfällen in der Straße von Hormus, der Meerenge Bab al-Mandab und einer beschädigten Pipeline steht der größte Ölexporteur Saudi-Arabien vor großen Herausforderungen. Dies könnte die globale Ölpreisentwicklung stark beeinflussen und Folgen für Deutschland haben."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI’s feud with mathematicians is only escalating",
-      "summary": "Eine Gruppe von 25 führenden Mathematikern hat sich in einem offenen Brief gegen OpenAI gestellt und argumentiert, KI-Labore würden ihre intellektuelle Arbeit bedrohen. Dieser Konflikt um die Auswirkungen von KI auf die Forschung eskaliert weiter."
+      "headline": "Zehntausende demonstrieren gegen Rechtsextremismus",
+      "summary": "In über 35 deutschen Städten gingen Zehntausende Menschen auf die Straße, um gegen Rechtsextremismus und für Demokratie zu protestieren. Eine zentrale Forderung war die Prüfung eines AfD-Verbotsverfahrens."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "summary": "Roblox kündigt auf seiner Entwicklerkonferenz neue Tools an, die das Erstellen von Spielen mit KI vereinfachen und deren Verfügbarkeit über die Plattform hinaus erweitern. Dazu gehören verbesserte NPC-Funktionen und Cross-Platform-Fähigkeiten."
+      "headline": "KI-Sprachmodelle und ihre Bedeutung: Was ist Claude?",
+      "summary": "Künstliche Intelligenz prägt zunehmend die Welt, weshalb eine Übersicht der wichtigsten KI-Begriffe und Akteure wie Claude essentiell ist. Dabei werden auch Fragen zur Originalität chinesischer Sprachmodelle beleuchtet."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "Das erst zwei Jahre alte Startup Mecka AI nähert sich einer Bewertung von 500 Millionen US-Dollar in einer von Sequoia geführten Finanzierungsrunde. Der Deal unterstreicht den hohen Bedarf an Daten für das Robotertraining."
+      "headline": "Mecka AI steuert auf $500M Bewertung zu mit Sequoia-Deal",
+      "summary": "Das erst zwei Jahre alte Startup Mecka AI nähert sich einer Bewertung von 500 Millionen US-Dollar in einer von Sequoia geführten Finanzierungsrunde. Dies unterstreicht den anhaltenden Hype um Robotik-Trainingsdaten."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "summary": "Nscale hat Fidji Simo, die ehemalige Nummer Zwei von OpenAI und erfahrene IPO-Chefin bei Instacart, in seinen Vorstand berufen. Dieser strategische Schritt erfolgt im Hinblick auf einen möglichen Börsengang des Unternehmens."
+      "headline": "Nscale holt Ex-OpenAI-Führungskraft in den Verwaltungsrat vor möglichem IPO",
+      "summary": "Nscale hat Fidji Simo, eine ehemalige Spitzenmanagerin von OpenAI und erfahrene Führungskraft bei Instacart (IPO 2023), in seinen Verwaltungsrat berufen. Dies wird als deutliches Signal für einen potenziellen Börsengang des Unternehmens gewertet."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "\"Pre-Money\" ist der Wert eines Startups vor einer neuen Investition, während \"Post-Money\" der Wert nach dieser Investition ist und somit das neue Kapital miteinschließt.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird dieses Startup bewertet. Die Pre-Money-Bewertung ist dabei der Ausgangspunkt: Der aktuelle Wert des Unternehmens, bevor das frische Kapital hineinfließt. Die Post-Money-Bewertung ergibt sich, indem man die Investitionssumme zur Pre-Money-Bewertung addiert. Diese Unterscheidung ist entscheidend für die Berechnung der Anteile, die ein Investor für sein Kapital erhält. Wenn beispielsweise ein Startup eine Pre-Money-Bewertung von 10 Millionen Euro hat und ein Investor 2 Millionen Euro investiert, beträgt die Post-Money-Bewertung 12 Millionen Euro. Der Investor erhält in diesem Fall 2 Mio. / 12 Mio. = 16,67% der Anteile am Unternehmen. Eine hohe Pre-Money-Bewertung ist für Gründer vorteilhaft, da sie für dieselbe Investition weniger Anteile abgeben müssen.",
-    "takeaway": "Pre- und Post-Money sind grundlegende Konzepte in der Startup-Finanzierung, die bestimmen, wie sich Eigentumsanteile nach einer Finanzierungsrunde verteilen. Sie sind essenziell, um den Wert eines Unternehmens im Kontext einer Investition richtig zu verstehen."
+    "topic": "Startup-Slang: ARR und Burn Rate verstehen",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Annual Recurring Revenue (ARR) misst die wiederkehrenden jährlichen Einnahmen, während die Burn Rate angibt, wie schnell ein Startup seine liquiden Mittel verbraucht.",
+    "details": "ARR ist eine Schlüsselmetrik für SaaS-Unternehmen, da sie die Vorhersehbarkeit und Skalierbarkeit des Geschäftsmodells anzeigt und von Investoren stark beachtet wird. Die Burn Rate ist entscheidend für die Runway eines Startups – die Zeit, die es noch überleben kann, bevor das Kapital aufgebraucht ist. Eine hohe Burn Rate kann auf aggressives Wachstum oder Ineffizienz hindeuten, muss aber im Kontext des ARR und der Finanzierungsrunde bewertet werden.",
+    "takeaway": "Für Investoren und Gründer ist das Verständnis von ARR und Burn Rate essenziell, um die finanzielle Gesundheit, das Wachstumspotenzial und die Nachhaltigkeit eines Startups realistisch einschätzen zu können."
   }
 }
