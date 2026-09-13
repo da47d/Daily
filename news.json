@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Europa rüstet sich gegen hybride Bedrohungen aus Russland",
-      "summary": "Angesichts zunehmender Sabotage und Drohnen-Vorfälle rücken europäische Partner zusammen, um auf hybride Angriffe aus Russland zu reagieren. Kritiker fordern jedoch ein umfassenderes gesamteuropäisches Konzept zur Abwehr."
+      "headline": "Goethe-Institute in Russland geschlossen",
+      "summary": "Nach über 30 Jahren wurden die letzten drei Goethe-Institute in Russland aufgrund deutscher Strafmaßnahmen geschlossen. Dies markiert eine weitere Eskalation der diplomatischen Spannungen zwischen Moskau und Berlin."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "China fordert auf BRICS-Treffen mehr Einsatz für den Frieden",
-      "summary": "Auf dem BRICS-Treffen in Neu-Delhi mahnte Chinas Präsident Xi die Schwellenländer zu verstärktem Engagement für Frieden im Nahen Osten. Er betonte die Notwendigkeit, sich auf die 'richtige Seite der Geschichte' zu stellen."
+      "headline": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
+      "summary": "Schweden wählt heute ein neues Parlament, wobei der Ausgang ungewiss ist. Während die Sozialdemokraten in Umfragen führen, könnten die rechtspopulistischen Schwedendemokraten erheblichen Einfluss gewinnen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EZB erhöht Leitzinsen und erwartet längere Inflation",
-      "summary": "Die EZB-Präsidentin Christine Lagarde kündigte an, dass die Inflation länger anhalten könnte als erwartet, und hob den Einlagenzins auf 2,5 Prozent an. Fragen zu weiteren Zinsschritten und ihrer eigenen Zukunft ließ sie dabei offen."
+      "headline": "INTERVIEW - Die neuen Herren der Finanzmärkte: «KI-Agenten können die Notenbanken in die Enge treiben», sagt der Princeton-Professor Markus Brunnermeier",
+      "summary": "Der Volkswirt Markus Brunnermeier warnt, dass autonome KI-Systeme an den Börsen zunehmend mächtig werden, ohne dass ihre Entscheidungsfindung verstanden wird. Dies stellt laut ihm eine potenzielle Gefahr für die Finanzmärkte und Notenbanken dar."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Ölpreis-Schock droht durch Probleme Saudi-Arabiens",
-      "summary": "Nach Vorfällen in der Straße von Hormus, der Meerenge Bab al-Mandab und einer beschädigten Pipeline steht der größte Ölexporteur Saudi-Arabien vor großen Herausforderungen. Dies könnte die globale Ölpreisentwicklung stark beeinflussen und Folgen für Deutschland haben."
+      "headline": "Die Spekulanten werden die Entschlossenheit von US-Finanzminister Scott Bessent testen",
+      "summary": "US-Finanzminister Scott Bessent hat Investoren herausgefordert, gegen seine Marktinterventionen zu wetten. Diese aggressive Haltung des ehemaligen Hedgefonds-Managers könnte zu unvorhergesehenen Marktreaktionen führen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Zehntausende demonstrieren gegen Rechtsextremismus",
-      "summary": "In über 35 deutschen Städten gingen Zehntausende Menschen auf die Straße, um gegen Rechtsextremismus und für Demokratie zu protestieren. Eine zentrale Forderung war die Prüfung eines AfD-Verbotsverfahrens."
+      "headline": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
+      "summary": "Angesichts wachsender Risiken fordern Chefs führender KI-Firmen wie Anthropic und OpenAI eine dringende Verlangsamung und Regulierung der KI-Entwicklung. Sie betonen die Notwendigkeit, unkontrollierbare Aspekte der Künstlichen Intelligenz zu adressieren."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "KI-Sprachmodelle und ihre Bedeutung: Was ist Claude?",
-      "summary": "Künstliche Intelligenz prägt zunehmend die Welt, weshalb eine Übersicht der wichtigsten KI-Begriffe und Akteure wie Claude essentiell ist. Dabei werden auch Fragen zur Originalität chinesischer Sprachmodelle beleuchtet."
+      "headline": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "summary": "Tesla hat angekündigt, die zweite Generation seines Sportwagens Roadster am 1. Oktober endlich vorzustellen. Das \"Halo Car\" wurde ursprünglich bereits im November 2017 angekündigt und lässt Fans lange warten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Mecka AI steuert auf $500M Bewertung zu mit Sequoia-Deal",
-      "summary": "Das erst zwei Jahre alte Startup Mecka AI nähert sich einer Bewertung von 500 Millionen US-Dollar in einer von Sequoia geführten Finanzierungsrunde. Dies unterstreicht den anhaltenden Hype um Robotik-Trainingsdaten."
+      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "Das zwei Jahre alte Startup Mecka AI nähert sich einer Bewertung von 500 Millionen Dollar in einer von Sequoia Capital geführten Finanzierungsrunde. Dies unterstreicht den hohen Bedarf an Robotertrainingsdaten im aktuellen Markt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Nscale holt Ex-OpenAI-Führungskraft in den Verwaltungsrat vor möglichem IPO",
-      "summary": "Nscale hat Fidji Simo, eine ehemalige Spitzenmanagerin von OpenAI und erfahrene Führungskraft bei Instacart (IPO 2023), in seinen Verwaltungsrat berufen. Dies wird als deutliches Signal für einen potenziellen Börsengang des Unternehmens gewertet."
+      "headline": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+      "summary": "Khosla Ventures, ein führendes VC-Unternehmen, wird diesen Herbst erstmals außerhalb der traditionellen Sand Hill Road ein Büro in New York eröffnen. Dieser Schritt signalisiert eine geografische Expansion großer Wagniskapitalgeber."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang: ARR und Burn Rate verstehen",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Annual Recurring Revenue (ARR) misst die wiederkehrenden jährlichen Einnahmen, während die Burn Rate angibt, wie schnell ein Startup seine liquiden Mittel verbraucht.",
-    "details": "ARR ist eine Schlüsselmetrik für SaaS-Unternehmen, da sie die Vorhersehbarkeit und Skalierbarkeit des Geschäftsmodells anzeigt und von Investoren stark beachtet wird. Die Burn Rate ist entscheidend für die Runway eines Startups – die Zeit, die es noch überleben kann, bevor das Kapital aufgebraucht ist. Eine hohe Burn Rate kann auf aggressives Wachstum oder Ineffizienz hindeuten, muss aber im Kontext des ARR und der Finanzierungsrunde bewertet werden.",
-    "takeaway": "Für Investoren und Gründer ist das Verständnis von ARR und Burn Rate essenziell, um die finanzielle Gesundheit, das Wachstumspotenzial und die Nachhaltigkeit eines Startups realistisch einschätzen zu können."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Konzepte sind entscheidend, um die Wertentwicklung eines Startups vor und nach einer Finanzierungsrunde zu verstehen. Sie helfen zu berechnen, welchen Anteil Investoren für ihr Kapital erhalten und wie sich die Eigentümerstruktur verändert.",
+    "details": "Die Pre-Money Bewertung ist der Wert eines Unternehmens *vor* dem Eingang neuer Investitionsgelder. Kommt es zu einer Finanzierungsrunde, wird der Investitionsbetrag zum Pre-Money Wert addiert, um die Post-Money Bewertung zu erhalten. Diese Post-Money Bewertung stellt den Wert des Unternehmens *nach* der Kapitalerhöhung dar. Ein Investor, der beispielsweise 1 Million Euro für ein Startup mit einer Pre-Money Bewertung von 9 Millionen Euro bereitstellt, investiert in ein Unternehmen, das post-money 10 Millionen Euro wert ist und erhält dafür 10% der Anteile (1 Mio. / 10 Mio.).",
+    "takeaway": "Die Unterscheidung zwischen Pre- und Post-Money ist essenziell, um den genauen Wertanteil von Bestands- und Neuaktionären nach einer Finanzierungsrunde zu bestimmen und die Verwässerung der Anteile zu verstehen."
   }
 }
