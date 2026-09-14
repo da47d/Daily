@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Saudi-Arabien unter Druck nach Angriffen auf Öl-Infrastruktur",
-      "summary": "Angriffe auf eine Pipeline und der Huthi-Vormarsch setzen Saudi-Arabien zu, da die Ausweichroute für Ölexporte gefährdet ist. Die USA verweigern Unterstützung, was den Druck auf die Ölversorgung erhöht."
+      "headline": "Irans Drohnen treffen Saudiarabien – und die Welt: Öl, Benzin und Diesel könnten noch teurer werden",
+      "summary": "Ein Drohnenangriff auf eine saudische Pipeline hat die Ölversorgung beeinträchtigt und die Gefahr für Tanker erhöht. Dies könnte zu einem weiteren Anstieg der Öl-, Benzin- und Dieselpreise weltweit führen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "BRICS-Treffen endet mit vager Erklärung",
-      "summary": "Die BRICS-Staaten demonstrierten beim Gipfel in Indien Einigkeit, konnten sich aber nur auf eine allgemeine und vage Erklärung einigen. Trotzdem unterstreicht das Treffen die geopolitische Bedeutung des Blocks."
+      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: Kanada will «einzigartige Allianz» mit EU aufbauen",
+      "summary": "Nachdem Trumps Zölle vom Supreme Court als unrechtmäßig erklärt wurden, sorgen seine Handelspraktiken weiterhin für globale Turbulenzen. Kanada reagiert darauf mit dem Bestreben, eine enge Handelsallianz mit der EU zu formen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Kupferpreis auf Rekordhoch – Teuerung für Verbraucher erwartet",
-      "summary": "Der Kupferpreis hat ein Rekordhoch erreicht, getrieben von US-Zollsorgen, KI-Entwicklung, Stromnetzausbau und E-Mobilität. Dies könnte sich bald in höheren Kosten für Bauprojekte und Stromrechnungen niederschlagen."
+      "headline": "Klingbeil stellt Bedingungen für Commerzbank-Übernahme",
+      "summary": "Die Übernahme der Commerzbank durch die italienische UniCredit scheint trotz Widerständen kaum noch abwendbar. Finanzminister Klingbeil versucht nun, rote Linien für den Deal zu definieren."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "KI-Agenten könnten Notenbanken an den Finanzmärkten in die Enge treiben",
-      "summary": "Autonome KI-Systeme gewinnen an der Börse an Macht, obwohl ihre Entscheidungsprozesse undurchsichtig sind. Volkswirte sehen darin eine potenzielle Gefahr für die Finanzmärkte und die Einflussmöglichkeiten der Notenbanken."
+      "headline": "Marktbericht: KI- und Zinssorgen bremsen DAX",
+      "summary": "Eine Mischung aus ungünstigen Nachrichten, darunter Sorgen um die KI-Entwicklung und steigende Zinsen, belastete den Start in die neue Börsenwoche. Der DAX konnte seine Verluste im Tagesverlauf jedoch eingrenzen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Tesla kündigt Enthüllung des neuen Roadsters für Oktober an",
-      "summary": "Nach langer Wartezeit wird Tesla am 1. Oktober die zweite Generation seines Supersportwagens Roadster präsentieren. Das 'Halo Car' wurde ursprünglich bereits 2017 angekündigt und verspricht neue technologische Maßstäbe."
+      "headline": "Was steckt hinter der Debatte über eine KI-Bremse?",
+      "summary": "Nach bedrohlichen Zwischenfällen mit KI-Modellen ist eine globale Debatte über strengere Regeln entbrannt. Überraschenderweise sind führende Entwickler wie OpenAI und Anthropic aktiv daran beteiligt."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Bitcoin feiert Comeback – Droht nur ein Strohfeuer?",
-      "summary": "Der Kurs der wichtigsten Kryptowährung Bitcoin ist stark gestiegen, was Spekulationen über ein dauerhaftes Comeback anheizt. Es bleibt jedoch unklar, ob dies ein nachhaltiger Trend oder lediglich ein kurzfristiger Höhenflug ist."
+      "headline": "Was bedeuten die Endzeit-Warnungen? Der Börsengang von Anthropic wird zum ultimativen Test für den KI-Boom",
+      "summary": "Die Forderungen von Sam Altman und Dario Amodei nach einer Drosselung der KI-Entwicklung werfen Fragen auf. Der geplante IPO von Anthropic wird als entscheidender Test für den aktuellen KI-Boom angesehen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Mecka AI steuert auf $500M Bewertung zu – Sequoia führt Finanzierungsrunde an",
-      "summary": "Das erst zwei Jahre alte Startup Mecka AI nähert sich einer Bewertung von 500 Millionen Dollar in einer von Sequoia Capital angeführten Finanzierungsrunde. Dies unterstreicht den anhaltenden Investitionsboom in Unternehmen, die sich auf Trainingsdaten für Roboter spezialisiert haben."
+      "headline": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "summary": "Das KI-Infrastrukturunternehmen Cornelis hat 205 Millionen Dollar eingesammelt, um Nvidias Dominanz herauszufordern. Das Unternehmen stellte auch ein neues Netzwerkprodukt namens Active Compute Fabric vor, das GPU-Leerlaufzeiten reduzieren soll."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Khosla Ventures eröffnet erstes Büro außerhalb des Silicon Valley in New York",
-      "summary": "Die renommierte VC-Firma Khosla Ventures expandiert diesen Herbst mit der Eröffnung ihres ersten Büros außerhalb der Sand Hill Road nach New York. Dieser Schritt signalisiert die wachsende Bedeutung und Diversifizierung der Venture-Capital-Landschaft in den USA."
+      "headline": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "summary": "Superhuman hat den von YC unterstützten Notizen-Dienst Fathom übernommen, der über 400.000 monatlich aktive Nutzer hat. Dies unterstreicht den Trend, dass Produktivitätsplattformen auf 'agentic work' setzen."
     }
   ],
   "learning": {
-    "topic": "Die Funktionsweise von Hedgefonds",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Hedgefonds sind Investmentfonds, die mit weitreichenden Strategien und hoher Flexibilität überdurchschnittliche Renditen erzielen wollen, unabhängig von der allgemeinen Marktentwicklung.",
-    "details": "Anders als traditionelle Fonds sind Hedgefonds weniger reguliert und können ein breiteres Spektrum an Strategien und Finanzinstrumenten nutzen. Dazu gehören Leerverkäufe, Derivate, Arbitrage und der Einsatz von Hebeln (Leverage), um sowohl in steigenden als auch in fallenden Märkten Gewinne zu erzielen. Ihr Ziel ist es, absolute Renditen zu erwirtschaften, oft gegen hohe Gebühren und mit Mindestanlagevolumen, was sie vorwiegend institutionellen oder sehr vermögenden Anlegern zugänglich macht. Sie 'hedgen' (sichern) sich dabei gegen Risiken ab, können aber durch ihre komplexen Strategien und den Hebeleinsatz auch hohe Verluste erleiden.",
-    "takeaway": "Hedgefonds sind flexible, oft risikoreiche Anlagevehikel, die versuchen, in jedem Marktumfeld Gewinne zu erzielen. Ihre Strategien sind komplex und erfordern tiefgreifendes Marktverständnis."
+    "topic": "Vesting für Gründer: Sicherung der Unternehmensbindung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Vesting ist ein vertraglicher Mechanismus, der Gründeranteile an die Dauer der Betriebszugehörigkeit knüpft, um ihr langfristiges Engagement im Unternehmen zu gewährleisten.",
+    "details": "Typischerweise werden Gründeranteile nicht sofort voll übertragen, sondern über einen Zeitraum von drei bis fünf Jahren (den sogenannten Vesting-Zeitraum) freigeschaltet. Dies bedeutet, dass ein Gründer bei einem frühen Ausscheiden nur einen proportionalen Teil seiner Anteile behält. Oft gibt es einen 'Cliff' von einem Jahr, nach dem die ersten 25% der Anteile vested sind und danach monatlich weitere Anteile freigegeben werden. Dies schützt Investoren und Mitgründer davor, dass ein Gründer mit vollen Anteilen das Unternehmen vorzeitig verlässt.",
+    "takeaway": "Vesting ist entscheidend für die Risikominimierung von Investoren und zur Sicherstellung der Anreisausrichtung innerhalb des Gründerteams, da es die langfristige Bindung an das Unternehmen fördert und Fluktuation eindämmt."
   }
 }
