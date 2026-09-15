@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
-      "summary": "Die EU zögert mit der Verlängerung ihrer Strafmaßnahmen gegen russische Personen und Einrichtungen. Grund dafür ist der Wunsch der Slowakei und Frankreichs, einen Oligarchen von der Sanktionsliste zu streichen."
+      "headline": "Wie blockierte Seewege den weltweiten Handel gefährden",
+      "summary": "Die Huthi-Miliz blockiert wichtige Meerengen, wodurch die kürzeste Route von Asien nach Europa unterbrochen ist. Dies führt zu teuren Umwegen und gefährdet globale Lieferketten massiv."
     },
     {
       "tag": "POLITIK & GLOBAL",
       "headline": "Irans Drohnen treffen Saudiarabien – und die Welt: Öl, Benzin und Diesel könnten noch teurer werden",
-      "summary": "Angriffe iranischer Drohnen auf eine saudische Pipeline haben die Ölversorgung beeinträchtigt und Sorgen vor weiter steigenden Preisen geweckt. Die Beschädigung der Pipeline und die Gefahr für Tanker könnten den globalen Ölmarkt empfindlich treffen."
+      "summary": "Ein Drohnenangriff auf eine saudische Pipeline hat die Ölversorgung beeinträchtigt und Tanker in Gefahr gebracht. Das könnte die globalen Preise für Öl, Benzin und Diesel weiter in die Höhe treiben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: US-Zinsentscheid zwingt Anleger zur Vorsicht",
-      "summary": "Der hohe Ölpreis und schwache Konjunkturdaten trüben die Stimmung an den Märkten, wodurch der DAX weiter fällt. Anleger bleiben nach dem jüngsten US-Zinsentscheid vorsichtig, da Argumente für Aktienkäufe fehlen."
+      "headline": "Marktbericht: Krisensignale häufen sich",
+      "summary": "Steigende Ölpreise sorgen für Nervosität an den Finanzmärkten, während sich der DAX noch hält. Gleichzeitig setzt sich der Ausverkauf am Anleihemarkt fort."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "INTERVIEW - «Die Marktschreier rufen die globale Krise aus – und dann passiert nichts», sagt der Präsident des Private-Equity-Riesen Blackstone",
-      "summary": "Jonathan Gray, Präsident des Private-Equity-Riesen Blackstone, hält die Furcht vor einer KI-Blase für unbegründet. Er äußert sich zur Nervosität unter Privatanlegern und sieht trotz globaler Krisenrufe keine drohende Rezession."
+      "summary": "Jonathan Gray von Blackstone, einem der größten KI-Investoren, sieht keine Blase und bleibt trotz allgemeiner Nervosität gelassen. Er nimmt Stellung zur aktuellen Marktstimmung unter Privatanlegern."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Was bedeuten die Endzeit-Warnungen? Der Börsengang von Anthropic wird zum ultimativen Test für den KI-Boom",
-      "summary": "Trotz Forderungen von KI-Größen wie Sam Altman, die Entwicklung zu verlangsamen, steht Anthropic vor einem Börsengang. Dieser IPO wird als entscheidender Test für den aktuellen KI-Boom und dessen Nachhaltigkeit gesehen."
+      "headline": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "summary": "Elon Musks Unternehmen SpaceX plant am 22. September den ersten Orbitalflug seiner Starship-Rakete. Dabei sollen auch die ersten V3 Starlink-Satelliten ins All gebracht werden."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "With iOS 27, I’m actually using Siri again",
-      "summary": "Apples lang erwartete Siri-Überarbeitung mit iOS 27 ist endlich da und macht den digitalen Assistenten deutlich nützlicher. Die neue Version verspricht, das tägliche Nutzererlebnis grundlegend zu verbessern."
+      "headline": "US military says it has launched weapons into space",
+      "summary": "Das US-Militär hat erstmals öffentlich die Stationierung von Waffen im Erdorbit bekannt gegeben. Dies markiert eine bedeutende Entwicklung in der Militärtechnologie und Raumfahrtstrategie."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "summary": "OpenAI hat Berichten zufolge den Smartphone-Kamerahersteller Glass Imaging für 300 Millionen Dollar übernommen. Das Unternehmen wurde von ehemaligen Apple-Ingenieuren gegründet, die zuvor den Porträtmodus entwickelten."
+      "headline": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "summary": "Das AEO-Startup Profound hat in einer Series D-Runde 180 Millionen US-Dollar eingesammelt und erreicht damit eine Bewertung von 1,8 Milliarden US-Dollar. Dies geschieht nur sieben Monate nach seiner letzten Finanzierungsrunde."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-      "summary": "Das KI-Infrastrukturunternehmen Cornelis hat 205 Millionen Dollar eingesammelt, um Nvidias Dominanz im KI-Chip-Bereich herauszufordern. Sie stellten zudem \"Active Compute Fabric\" vor, eine Netzwerktechnologie zur effizienteren GPU-Nutzung."
+      "headline": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+      "summary": "Die Gesundheitsplattform Thatch hat eine Bewertung von einer Milliarde US-Dollar erreicht. Sie hilft Arbeitgebern, Gesundheitskosten durch individuelle Versicherungspläne für Mitarbeiter zu managen."
     }
   ],
   "learning": {
-    "topic": "ETF-Namenszusätze entschlüsseln: Der Code für deine Indexfonds",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Exchange Traded Funds (ETFs) tragen oft lange Namen, die wichtige Informationen über ihre Anlagestrategie, Replikationsmethode und Ertragsverwendung verschlüsseln. Das Verständnis dieser Kürzel hilft dir, den passenden ETF für deine Ziele zu identifizieren.",
-    "details": "Ein \"Core\"-ETF bildet oft breite Indizes zu geringen Kosten ab, während \"IMI\" (Investable Market Index) auch Nebenwerte berücksichtigt. \"Acc\" (accumulating) bedeutet, dass Gewinne wie Dividenden direkt reinvestiert werden, während \"Dist\" (distributing) sie an Anleger ausschüttet. \"UCITS\" steht für eine EU-Regulierung, die Anlegerschutz gewährleistet. Bei der Replikation gibt es \"physisch\" (direkter Kauf der Aktien) oder \"Swap-basiert\" (Derivate für Indexabbildung), wobei beide Vor- und Nachteile in Bezug auf Kosten und Kontrahentenrisiko haben. Diese Details beeinflussen steuerliche Behandlung, Rendite und Risiko.",
-    "takeaway": "Die ETF-Namenszusätze sind keine bloßen Kürzel, sondern dein Wegweiser zu den Kernmerkmalen des Produkts. Eine genaue Analyse dieser Komponenten ist entscheidend, um zielgerichtet in Indexfonds zu investieren."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Wert deines Startups vor und nach der Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung beziffert den Unternehmenswert *vor* einer Investition, während die Post-Money-Bewertung den Wert *nach* dem Erhalt neuer Finanzmittel darstellt.",
+    "details": "Stell dir vor, dein Startup ist 10 Millionen Euro wert (Pre-Money) und ein Investor gibt 2 Millionen Euro hinzu. Dann ist dein Startup plötzlich 12 Millionen Euro wert (Post-Money). Die 2 Millionen Euro des Investors machen dann 2/12, also etwa 16,7% der Firma aus. Die Pre-Money-Bewertung ist die Basis, über die verhandelt wird; die Post-Money-Bewertung ergibt sich daraus und bestimmt den Anteil, den neue Investoren für ihr Kapital erhalten. Sie ist entscheidend, um zu verstehen, wie sich die Eigentumsverhältnisse und die Kapitalisierung des Unternehmens mit jeder Finanzierungsrunde verändern.",
+    "takeaway": "Ein klares Verständnis von Pre-Money und Post-Money ist essenziell, um den Wert des Startups richtig einzuschätzen und die genaue prozentuale Beteiligung für neue Investoren zu berechnen, was direkte Auswirkungen auf die Equity-Verteilung hat."
   }
 }
