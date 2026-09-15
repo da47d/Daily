@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Irans Drohnen treffen Saudiarabien – und die Welt: Öl, Benzin und Diesel könnten noch teurer werden",
-      "summary": "Ein Drohnenangriff auf eine saudische Pipeline hat die Ölversorgung beeinträchtigt und die Gefahr für Tanker erhöht. Dies könnte zu einem weiteren Anstieg der Öl-, Benzin- und Dieselpreise weltweit führen."
+      "headline": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
+      "summary": "Die EU zögert mit der Verlängerung ihrer Strafmaßnahmen gegen russische Personen und Einrichtungen. Grund dafür ist der Wunsch der Slowakei und Frankreichs, einen Oligarchen von der Sanktionsliste zu streichen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Handelsstreit: Kanada will «einzigartige Allianz» mit EU aufbauen",
-      "summary": "Nachdem Trumps Zölle vom Supreme Court als unrechtmäßig erklärt wurden, sorgen seine Handelspraktiken weiterhin für globale Turbulenzen. Kanada reagiert darauf mit dem Bestreben, eine enge Handelsallianz mit der EU zu formen."
+      "headline": "Irans Drohnen treffen Saudiarabien – und die Welt: Öl, Benzin und Diesel könnten noch teurer werden",
+      "summary": "Angriffe iranischer Drohnen auf eine saudische Pipeline haben die Ölversorgung beeinträchtigt und Sorgen vor weiter steigenden Preisen geweckt. Die Beschädigung der Pipeline und die Gefahr für Tanker könnten den globalen Ölmarkt empfindlich treffen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Klingbeil stellt Bedingungen für Commerzbank-Übernahme",
-      "summary": "Die Übernahme der Commerzbank durch die italienische UniCredit scheint trotz Widerständen kaum noch abwendbar. Finanzminister Klingbeil versucht nun, rote Linien für den Deal zu definieren."
+      "headline": "Marktbericht: US-Zinsentscheid zwingt Anleger zur Vorsicht",
+      "summary": "Der hohe Ölpreis und schwache Konjunkturdaten trüben die Stimmung an den Märkten, wodurch der DAX weiter fällt. Anleger bleiben nach dem jüngsten US-Zinsentscheid vorsichtig, da Argumente für Aktienkäufe fehlen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: KI- und Zinssorgen bremsen DAX",
-      "summary": "Eine Mischung aus ungünstigen Nachrichten, darunter Sorgen um die KI-Entwicklung und steigende Zinsen, belastete den Start in die neue Börsenwoche. Der DAX konnte seine Verluste im Tagesverlauf jedoch eingrenzen."
+      "headline": "INTERVIEW - «Die Marktschreier rufen die globale Krise aus – und dann passiert nichts», sagt der Präsident des Private-Equity-Riesen Blackstone",
+      "summary": "Jonathan Gray, Präsident des Private-Equity-Riesen Blackstone, hält die Furcht vor einer KI-Blase für unbegründet. Er äußert sich zur Nervosität unter Privatanlegern und sieht trotz globaler Krisenrufe keine drohende Rezession."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Was steckt hinter der Debatte über eine KI-Bremse?",
-      "summary": "Nach bedrohlichen Zwischenfällen mit KI-Modellen ist eine globale Debatte über strengere Regeln entbrannt. Überraschenderweise sind führende Entwickler wie OpenAI und Anthropic aktiv daran beteiligt."
+      "headline": "Was bedeuten die Endzeit-Warnungen? Der Börsengang von Anthropic wird zum ultimativen Test für den KI-Boom",
+      "summary": "Trotz Forderungen von KI-Größen wie Sam Altman, die Entwicklung zu verlangsamen, steht Anthropic vor einem Börsengang. Dieser IPO wird als entscheidender Test für den aktuellen KI-Boom und dessen Nachhaltigkeit gesehen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Was bedeuten die Endzeit-Warnungen? Der Börsengang von Anthropic wird zum ultimativen Test für den KI-Boom",
-      "summary": "Die Forderungen von Sam Altman und Dario Amodei nach einer Drosselung der KI-Entwicklung werfen Fragen auf. Der geplante IPO von Anthropic wird als entscheidender Test für den aktuellen KI-Boom angesehen."
+      "headline": "With iOS 27, I’m actually using Siri again",
+      "summary": "Apples lang erwartete Siri-Überarbeitung mit iOS 27 ist endlich da und macht den digitalen Assistenten deutlich nützlicher. Die neue Version verspricht, das tägliche Nutzererlebnis grundlegend zu verbessern."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-      "summary": "Das KI-Infrastrukturunternehmen Cornelis hat 205 Millionen Dollar eingesammelt, um Nvidias Dominanz herauszufordern. Das Unternehmen stellte auch ein neues Netzwerkprodukt namens Active Compute Fabric vor, das GPU-Leerlaufzeiten reduzieren soll."
+      "headline": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "summary": "OpenAI hat Berichten zufolge den Smartphone-Kamerahersteller Glass Imaging für 300 Millionen Dollar übernommen. Das Unternehmen wurde von ehemaligen Apple-Ingenieuren gegründet, die zuvor den Porträtmodus entwickelten."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "summary": "Superhuman hat den von YC unterstützten Notizen-Dienst Fathom übernommen, der über 400.000 monatlich aktive Nutzer hat. Dies unterstreicht den Trend, dass Produktivitätsplattformen auf 'agentic work' setzen."
+      "headline": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "summary": "Das KI-Infrastrukturunternehmen Cornelis hat 205 Millionen Dollar eingesammelt, um Nvidias Dominanz im KI-Chip-Bereich herauszufordern. Sie stellten zudem \"Active Compute Fabric\" vor, eine Netzwerktechnologie zur effizienteren GPU-Nutzung."
     }
   ],
   "learning": {
-    "topic": "Vesting für Gründer: Sicherung der Unternehmensbindung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting ist ein vertraglicher Mechanismus, der Gründeranteile an die Dauer der Betriebszugehörigkeit knüpft, um ihr langfristiges Engagement im Unternehmen zu gewährleisten.",
-    "details": "Typischerweise werden Gründeranteile nicht sofort voll übertragen, sondern über einen Zeitraum von drei bis fünf Jahren (den sogenannten Vesting-Zeitraum) freigeschaltet. Dies bedeutet, dass ein Gründer bei einem frühen Ausscheiden nur einen proportionalen Teil seiner Anteile behält. Oft gibt es einen 'Cliff' von einem Jahr, nach dem die ersten 25% der Anteile vested sind und danach monatlich weitere Anteile freigegeben werden. Dies schützt Investoren und Mitgründer davor, dass ein Gründer mit vollen Anteilen das Unternehmen vorzeitig verlässt.",
-    "takeaway": "Vesting ist entscheidend für die Risikominimierung von Investoren und zur Sicherstellung der Anreisausrichtung innerhalb des Gründerteams, da es die langfristige Bindung an das Unternehmen fördert und Fluktuation eindämmt."
+    "topic": "ETF-Namenszusätze entschlüsseln: Der Code für deine Indexfonds",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Exchange Traded Funds (ETFs) tragen oft lange Namen, die wichtige Informationen über ihre Anlagestrategie, Replikationsmethode und Ertragsverwendung verschlüsseln. Das Verständnis dieser Kürzel hilft dir, den passenden ETF für deine Ziele zu identifizieren.",
+    "details": "Ein \"Core\"-ETF bildet oft breite Indizes zu geringen Kosten ab, während \"IMI\" (Investable Market Index) auch Nebenwerte berücksichtigt. \"Acc\" (accumulating) bedeutet, dass Gewinne wie Dividenden direkt reinvestiert werden, während \"Dist\" (distributing) sie an Anleger ausschüttet. \"UCITS\" steht für eine EU-Regulierung, die Anlegerschutz gewährleistet. Bei der Replikation gibt es \"physisch\" (direkter Kauf der Aktien) oder \"Swap-basiert\" (Derivate für Indexabbildung), wobei beide Vor- und Nachteile in Bezug auf Kosten und Kontrahentenrisiko haben. Diese Details beeinflussen steuerliche Behandlung, Rendite und Risiko.",
+    "takeaway": "Die ETF-Namenszusätze sind keine bloßen Kürzel, sondern dein Wegweiser zu den Kernmerkmalen des Produkts. Eine genaue Analyse dieser Komponenten ist entscheidend, um zielgerichtet in Indexfonds zu investieren."
   }
 }
