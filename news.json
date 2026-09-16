@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Irans Drohnen treffen Saudiarabien – und die Welt: Öl, Benzin und Diesel könnten noch teurer werden",
-      "summary": "Ein Drohnenangriff auf eine saudische Pipeline durch den Iran könnte den globalen Ölschock verstärken und die Preise für Benzin und Diesel weiter in die Höhe treiben. Saudi-Arabien spricht von einer \"Roten Linie\" und die Tanker des Königreichs sind in neuer Gefahr."
+      "headline": "Syrien: Größte Proteste seit Sturz von Assad",
+      "summary": "Angesichts drastischer Energiepreiserhöhungen regt sich in Syrien breiter Protest. Die Energiekrise im Land ist primär eine Folge eines anderen Krieges und nicht direkt mit der Entwicklung rund um Iran verknüpft."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US military says it has launched weapons into space",
-      "summary": "Das US-Militär hat erstmals öffentlich die Platzierung einer Weltraumwaffe in der Erdumlaufbahn bestätigt. Dieser Schritt markiert eine neue Ära in der militärischen Raumfahrt und könnte globale Machtverhältnisse beeinflussen."
+      "headline": "Südukraine: Mehrere Tote nach russischem Angriff auf Linienbus",
+      "summary": "Bei einem russischen Drohnenangriff auf einen Bus und zwei Züge in der Südukraine wurden laut ukrainischen Angaben mindestens fünf Menschen getötet. Präsident Selenskyj verurteilt den Vorfall als 'Akt der Barbarei' mit schweren Schäden und Verletzten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Eine Zinserhöhung, und zwar sofort: Die Finanzmärkte drängen den Fed-Chef Kevin Warsh in die Ecke",
-      "summary": "Die Finanzmärkte fordern eine sofortige Zinserhöhung von der US-Notenbank, um einen Panikmodus an den Anleihenmärkten zu verhindern. Eine weitere Verzögerung der ersten Zinserhöhung in Donald Trumps zweiter Amtszeit könnte erhebliche negative Folgen haben."
+      "headline": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+      "summary": "Die US-Notenbank Fed hat im Kampf gegen die hartnäckig hohe Inflation den Leitzins um einen Viertelpunkt auf 3,75 bis 4,00 Prozent angehoben. Dieser Schritt war von Experten erwartet worden und markiert die erste Erhöhung seit 2023."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "INTERVIEW - «Die Marktschreier rufen die globale Krise aus – und dann passiert nichts», sagt der Präsident des Private-Equity-Riesen Blackstone",
-      "summary": "Jonathan Gray, Präsident von Blackstone, sieht die Angst vor einer globalen Krise unbegründet und hält die Befürchtungen einer KI-Blase für übertrieben. Er positioniert seinen Private-Equity-Riesen weiterhin als grossen Investor im KI-Boom."
+      "headline": "Zollreform: EU führt neue Gebühr für kleine Online-Pakete ein",
+      "summary": "Die EU plant, eine neue Abgabe auf kleine Pakete von Online-Shops aus Nicht-EU-Ländern zu erheben. Diese Reform soll der Flut zollfreier Billigwaren begegnen und verpflichtet Online-Plattformen wie Shein zur Zahlung."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX will try to put Starship in orbit for the first time on September 22",
-      "summary": "Elon Musks Unternehmen SpaceX plant, am 22. September erstmals das Starship in die Umlaufbahn zu bringen und gleichzeitig die ersten V3 Starlink-Satelliten zu deployen. Dieses Ereignis stellt einen wichtigen Meilenstein in der Raumfahrt und der Satellitenkommunikation dar."
+      "headline": "Your AI agents can now control your Google Home devices",
+      "summary": "Google führt einen frühen Zugang zu einem neuen MCP-Server für Google Home ein, der KI-Agenten die Steuerung verbundener Geräte ermöglicht. Dies erlaubt die Nutzung von Claude oder ChatGPT, um Smart-Home-Aktivitäten per natürlicher Sprache zu verwalten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "summary": "Jensen Huang, CEO von Nvidia, betont, dass KI keine neue Form eines \"fremden Geistes\" sei, sondern lediglich Hardware und Software. Er argumentiert, dass Sicherheit von den Herstellern der KI-Produkte selbst gewährleistet werden kann und eine externe Regulierung unnötig ist."
+      "headline": "Revolut will die Schweiz erobern",
+      "summary": "Das größte Fintech Europas, Revolut, hat eine Banklizenz in der Schweiz beantragt und plant, 150 Millionen Franken in den Ausbau seines Standorts zu investieren. Dies könnte den Schweizer Finanzplatz und die Kundenerfahrung erheblich beeinflussen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "KURZMELDUNGEN - Wirtschaft: OpenAI erwägt laut Berichten neue Finanzierungsrunde vor Börsengang",
-      "summary": "OpenAI, das führende Unternehmen im Bereich Künstliche Intelligenz, soll Berichten zufolge eine neue Finanzierungsrunde in Betracht ziehen, bevor es an die Börse geht. Dies könnte die Bewertung des Unternehmens weiter steigern und den KI-Sektor beleben."
+      "headline": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "summary": "Das Startup Fortell hat 163 Millionen Dollar eingesammelt, um mit KI-gestützten Hörgeräten den monopolisierten Markt zu revolutionieren. Ziel ist es, die Nutzung von Hörhilfen so selbstverständlich wie das Tragen einer Brille zu machen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
-      "summary": "Die Plattform Thatch, die Unternehmen hilft, Gesundheitskosten durch individuelle Versicherungspläne für Mitarbeiter zu managen, hat eine Bewertung von 1 Milliarde Dollar erreicht. Dies unterstreicht das wachsende Interesse an innovativen Lösungen im Gesundheitswesen angesichts steigender Kosten."
+      "headline": "May Mobility is going public in a $1.4B SPAC deal",
+      "summary": "Das Robotaxi-Unternehmen May Mobility strebt einen Börsengang über einen SPAC-Deal im Wert von 1,4 Milliarden Dollar an. Durch diese Transaktion könnte dem asset-leichten Unternehmen mehr als 300 Millionen Dollar an Finanzierung zufließen."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Wenn Leerverkäufer in die Falle geraten",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist eine plötzliche und massive Kursexplosion einer Aktie, die durch eine erzwungene Eindeckung von Leerverkaufspositionen ausgelöst wird. Er zwingt Spekulanten, ihre Wetten gegen das Unternehmen mit hohen Verlusten aufzulösen.",
-    "details": "Beim Leerverkauf (Short Selling) leihen sich Anleger Aktien, verkaufen sie sofort und hoffen, sie später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Sinkt der Kurs, machen sie Gewinn. Steigt der Kurs jedoch unerwartet stark an – oft durch positive Nachrichten oder hohes Kaufvolumen – geraten diese Leerverkäufer unter Druck. Um Verluste zu begrenzen, müssen sie die geliehenen Aktien zu einem höheren Preis zurückkaufen (eindecken). Dieser Kaufdruck treibt den Kurs weiter nach oben, was weitere Leerverkäufer zur Eindeckung zwingt und eine Aufwärtsspirale – den Short Squeeze – erzeugt.",
-    "takeaway": "Short Squeezes zeigen die Macht des kollektiven Handels und können für Leerverkäufer verheerende Folgen haben, während sie für die verbleibenden Aktionäre massive kurzfristige Gewinne bedeuten können. Sie sind ein Zeichen extremer Volatilität und oft das Ergebnis eines Kampfes zwischen institutionellen Leerverkäufern und Privatanlegern."
+    "topic": "Pre-Money vs. Post-Money Bewertung in Venture Capital",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer neuen Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* dem Erhalt dieser Investition darstellt. Sie sind entscheidend für die Bestimmung der Eigentumsanteile der Gründer und Investoren.",
+    "details": "Wenn ein Startup Kapital aufnimmt, legt der neue Investor einen Unternehmenswert fest, auf dessen Basis er Anteile erhält. Die Pre-Money-Bewertung ist dabei der Ausgangspunkt: Nehmen wir an, ein Startup ist vor der Investition 10 Millionen Euro wert (Pre-Money). Erhält es nun 2 Millionen Euro frisches Kapital, steigt der Unternehmenswert auf 12 Millionen Euro (Post-Money). Der Investor erhält dann seinen Anteil basierend auf der Post-Money-Bewertung; in diesem Fall würden 2 Millionen Euro von 12 Millionen Euro 1/6 oder ca. 16,67% der Anteile bedeuten. Diese Unterscheidung ist fundamental, da sie direkt beeinflusst, wie viele Anteile die bestehenden Eigentümer – insbesondere die Gründer – abgeben müssen.",
+    "takeaway": "Die Post-Money-Bewertung ist immer die Summe aus Pre-Money-Bewertung und der neuen Investition. Sie zeigt, welchen Anteil neue Investoren für ihr Kapital erhalten und wie sich die Eigentümerstruktur nach einer Finanzierungsrunde verschiebt."
   }
 }
