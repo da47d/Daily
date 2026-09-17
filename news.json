@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Repräsentantenhaus beschließt Sanktionen gegen Russland",
-      "summary": "Das US-Repräsentantenhaus hat neue Sanktionen gegen Russland verabschiedet, die auch Handelspartner Moskaus ins Visier nehmen können. Diese Maßnahme könnte die globale Marktstimmung beeinflussen, wobei die Umsetzung durch den Präsidenten noch ungewiss ist."
+      "headline": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
+      "summary": "Polens Regierungschef Tusk warnt vor einem \"russischen Plan\", gezielt Ukraine-Verbündete anzugreifen, nachdem sich Sorgen vor russischen Angriffen an der NATO-Ostflanke verstärken. Die jüngsten Vorfälle im polnisch-ukrainischen Grenzgebiet geben Anlass zur Besorgnis über eine Eskalation."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Was Wähler in Russlands Provinz beschäftigt",
-      "summary": "Brennende Ölterminals, Drohnenangriffe und Benzinmangel prägen die aktuelle Situation in Russlands Provinz. Es wird erwartet, dass diese Entwicklungen die bevorstehenden Parlamentswahlen und damit potenziell die regionale Stabilität beeinflussen."
+      "headline": "Handelsstreit: Trump droht EU mit höheren Zöllen und Handelsstopp bei geplanter Allianz mit Kanada",
+      "summary": "Donald Trump droht der EU mit höheren Zöllen und einem Handelsstopp, sollte eine geplante Allianz mit Kanada entstehen. Trotz eines Supreme Court Urteils gegen seine Zölle verursacht der amerikanische Präsident weiterhin weltweite Handels-Turbulenzen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
       "headline": "Das Fed verschärft den Kampf gegen die Inflation und erhöht erstmals seit drei Jahren den Leitzins",
-      "summary": "Die amerikanische Notenbank hat den Leitzins angehoben, um die Inflation einzudämmen, was den Erwartungen der Finanzmärkte entsprach. Dieser Schritt setzt die Notenbank auf Konfrontationskurs mit politischen Forderungen nach tieferen Zinsen."
+      "summary": "Die US-Notenbank Federal Reserve hat erstmals seit drei Jahren den Leitzins erhöht, um den Kampf gegen die Inflation zu verschärfen. Dieser Zinsschritt begibt sich auf Konfrontationskurs mit US-Präsident Donald Trump, der tiefere Zinsen fordert."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Auftragsbestand in der Industrie steigt auf Rekordhoch",
-      "summary": "Die Auftragsbücher deutscher Industrieunternehmen sind so voll wie noch nie, insbesondere durch die hohe Nachfrage nach Transport- und Militärfahrzeugen. Dies signalisiert eine robuste Entwicklung im Verarbeitenden Gewerbe und ein ermutigendes Signal für die Konjunktur."
+      "headline": "Erster Showdown in der UBS-Kapitalfrage: Warum AT1-Anleihen den Kompromissvorschlag des Ständerats torpedieren könnten",
+      "summary": "Der Schweizer Ständerat berät über einen Kompromiss zur UBS-Kapitalfrage, wobei sogenannte Krisenanleihen (AT1) eine Rolle spielen. Diese Instrumente werfen jedoch mehr Fragen auf, als sie lösen und könnten die Hängepartie für die Grossbank verlängern."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Al Gore says the real AI risk isn’t data centers",
-      "summary": "Al Gore äußerte in einem Interview, dass die Emissionen von KI-Rechenzentren weniger Besorgnis erregen als die eigenen Warnungen der KI-Industrie vor der zukünftigen Richtung der Technologie. Dies lenkt die Debatte auf ethische und gesellschaftliche Risiken der Künstlichen Intelligenz."
+      "headline": "Plan der EU-Kommission: Drei Altersstufen für Soziale Medien",
+      "summary": "Die EU-Kommission schlägt mit dem \"EU Kids Act\" drei Altersstufen (unter 13, bis 15, bis 18) für die Nutzung Sozialer Medien durch Minderjährige vor. Süchtig machende Funktionen sollen dabei gänzlich verboten werden."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Snap tries to make the case again for its $2,200 smart glasses",
-      "summary": "Snap unternimmt einen erneuten Versuch, die Existenzberechtigung seiner 2.200 Dollar teuren Smart Glasses zu untermauern. Seit dem Debüt der 'Specs' sucht das Unternehmen nach einer überzeugenden Argumentation für ihr Produkt auf dem Markt."
+      "headline": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "summary": "Unversiegelte Gerichtsakten zeigen, dass Microsoft intern das Scraping von KI als \"den größten Arbeitsdiebstahl der Geschichte\" bezeichnete. Dies geschah, während sowohl Microsoft als auch OpenAI urheberrechtlich geschützten Inhalt scrapten und interne Warnungen vor der Zerstörung von Verlagen existierten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary": "Das isländische Unternehmen Treble hat 18 Millionen US-Dollar für seine innovative Sprachsimulationsplattform erhalten. Die Technologie wird von Entwicklern von Sprach-KI-Modellen sowie Unternehmen im Bereich KI-Wearables und Robotik eingesetzt."
+      "headline": "Revolut will die Schweiz erobern: was das für Kunden der Finanz-App und den Finanzplatz bedeutet",
+      "summary": "Fintech-Riese Revolut beantragt eine Schweizer Banklizenz und investiert 150 Millionen Franken in den Ausbau seines Schweizer Standorts. Dies markiert einen bedeutenden Schritt zur Eroberung des Schweizer Marktes und hat Implikationen für Kunden und den Finanzplatz."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Pulley, a Carta rival, is shutting down",
-      "summary": "Pulley, eine Plattform für Cap-Table-Management und direkter Konkurrent von Carta, gibt seine Schließung im Dezember bekannt. Das von General Catalyst, Stripe und Founders Fund unterstützte Startup beendet damit seinen Betrieb."
+      "headline": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "summary": "Huawei beschleunigt die Einführung seines KI-Chips der nächsten Generation, des Ascend 960DT, für das erste Quartal 2027. Damit will das Unternehmen mit Nvidia konkurrieren und Chinas KI-Rechenleistung gegenüber den USA aufholen."
     }
   ],
   "learning": {
-    "topic": "Die Bedeutung von Vesting für Gründer und Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting ist ein Mechanismus, der Gründeranteile über einen festgelegten Zeitraum (\"Vesting-Periode\") freischaltet, typischerweise mit einer \"Cliff\"-Klausel. Es dient dazu, das Engagement der Gründer langfristig zu sichern und Anreize zu schaffen.",
-    "details": "Wenn Gründer ihre Anteile erst nach und nach über beispielsweise vier Jahre erhalten, verhindert dies, dass jemand kurz nach der Gründung mit allen Anteilen ausscheidet. Eine übliche \"Cliff\"-Periode von einem Jahr bedeutet, dass erst nach 12 Monaten ein erster Teil der Anteile (z.B. 25%) freigeschaltet wird. Geht ein Gründer vor der Cliff-Periode, verliert er alle nicht-vested Anteile. Nach der Cliff-Periode werden die restlichen Anteile monatlich oder quartalsweise freigeschaltet. Dies schützt das Unternehmen und seine Investoren, indem es langfristige Loyalität und Performance belohnt.",
-    "takeaway": "Vesting ist ein zentraler Anreiz- und Sicherungsmechanismus im Startup-Umfeld, der das langfristige Engagement von Gründern fördert und so das Vertrauen von Investoren stärkt. Es ist entscheidend für die Stabilität des Gründerteams und die Bewertung des Unternehmens."
+    "topic": "Der Ablauf eines Short Squeeze",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist eine Situation, in der der Preis einer Aktie plötzlich und stark ansteigt, was Leerverkäufer zwingt, ihre Positionen zu schließen, um Verluste zu begrenzen.",
+    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie sich Aktien leihen, verkaufen und hoffen, diese später günstiger zurückkaufen zu können. Steigt der Kurs unerwartet stark an, müssen sie die geliehenen Aktien zurückkaufen, um weitere Verluste zu vermeiden. Diese Eindeckungskäufe erzeugen eine zusätzliche Nachfrage und verstärken den Kursanstieg spiralförmig, was zu erheblichen Verlusten für die Leerverkäufer führt und den \"Squeeze\" auslöst.",
+    "takeaway": "Ein Short Squeeze kann zu extrem volatilen Marktbedingungen führen und ist ein Risiko, das Leerverkäufer stets beachten müssen. Für Investoren kann dies kurzfristig zu außergewöhnlichen Gewinnen oder Verlusten führen."
   }
 }
