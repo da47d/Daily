@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
-      "summary": "Polens Regierungschef Tusk warnt vor einem \"russischen Plan\", gezielt Ukraine-Verbündete anzugreifen, nachdem sich Sorgen vor russischen Angriffen an der NATO-Ostflanke verstärken. Die jüngsten Vorfälle im polnisch-ukrainischen Grenzgebiet geben Anlass zur Besorgnis über eine Eskalation."
+      "headline": "Putin stellt Nestlé-Geschäft unter Zwangsverwaltung",
+      "summary": "Russland hat das Geschäft von Nestlé im Land unter Zwangsverwaltung gestellt, was Besorgnis über Enteignungen westlicher Firmen auslöst. Dieser Schritt des Kremls wird als Reaktion auf 'unfreundliche' Länder eingestuft und könnte die Versorgungssicherheit gefährden."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit: Trump droht EU mit höheren Zöllen und Handelsstopp bei geplanter Allianz mit Kanada",
-      "summary": "Donald Trump droht der EU mit höheren Zöllen und einem Handelsstopp, sollte eine geplante Allianz mit Kanada entstehen. Trotz eines Supreme Court Urteils gegen seine Zölle verursacht der amerikanische Präsident weiterhin weltweite Handels-Turbulenzen."
+      "headline": "FBI und Küstenwache entern gehackte Öltanker vor US-Küste",
+      "summary": "Das FBI und die Küstenwache haben gehackte Öltanker vor der US-Küste geentert, um die Kompromittierung der Schiffsnetzwerke zu untersuchen. In einem Fall beeinträchtigten die Hacker die Navigations- und Antriebssysteme eines Tankers."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Das Fed verschärft den Kampf gegen die Inflation und erhöht erstmals seit drei Jahren den Leitzins",
-      "summary": "Die US-Notenbank Federal Reserve hat erstmals seit drei Jahren den Leitzins erhöht, um den Kampf gegen die Inflation zu verschärfen. Dieser Zinsschritt begibt sich auf Konfrontationskurs mit US-Präsident Donald Trump, der tiefere Zinsen fordert."
+      "headline": "Bank of Japan erhöht Leitzins auf 31-Jahres-Hoch",
+      "summary": "Die Bank of Japan hat ihren Leitzins auf den höchsten Stand seit 31 Jahren angehoben, ein signifikanter Schritt in der Geldpolitik. Parallel dazu erwartet Volkswagen für 2026 einen tieferen Gewinn."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Erster Showdown in der UBS-Kapitalfrage: Warum AT1-Anleihen den Kompromissvorschlag des Ständerats torpedieren könnten",
-      "summary": "Der Schweizer Ständerat berät über einen Kompromiss zur UBS-Kapitalfrage, wobei sogenannte Krisenanleihen (AT1) eine Rolle spielen. Diese Instrumente werfen jedoch mehr Fragen auf, als sie lösen und könnten die Hängepartie für die Grossbank verlängern."
+      "headline": "DAX beendet Woche mit Verlusten",
+      "summary": "Der deutsche Aktienmarkt schloss die Woche mit Verlusten ab, beeinflusst durch Sorgen um die Lage im Nahen Osten. Auch der große Verfallstag trug zur Marktbewegung bei."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Plan der EU-Kommission: Drei Altersstufen für Soziale Medien",
-      "summary": "Die EU-Kommission schlägt mit dem \"EU Kids Act\" drei Altersstufen (unter 13, bis 15, bis 18) für die Nutzung Sozialer Medien durch Minderjährige vor. Süchtig machende Funktionen sollen dabei gänzlich verboten werden."
+      "headline": "Google stellt KI-Agent 'CC' für Haushalte vor",
+      "summary": "Google hat einen neuen KI-Agenten namens 'CC' vorgestellt, der Familien bei der Haushaltskoordination helfen soll. Er kann Kalender verwalten, Formulare ausfüllen und Einkaufslisten erstellen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "summary": "Unversiegelte Gerichtsakten zeigen, dass Microsoft intern das Scraping von KI als \"den größten Arbeitsdiebstahl der Geschichte\" bezeichnete. Dies geschah, während sowohl Microsoft als auch OpenAI urheberrechtlich geschützten Inhalt scrapten und interne Warnungen vor der Zerstörung von Verlagen existierten."
+      "headline": "Neuer KI-Modell-Typ begeistert Entwickler",
+      "summary": "Ein neuer KI-Modell-Typ, entwickelt von einem ChatGPT-Erfinder, verspricht Entwicklern günstigere und schnellere Software-Intelligenz. Dies wird als bahnbrechender Fortschritt in der KI-Entwicklung gefeiert."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Revolut will die Schweiz erobern: was das für Kunden der Finanz-App und den Finanzplatz bedeutet",
-      "summary": "Fintech-Riese Revolut beantragt eine Schweizer Banklizenz und investiert 150 Millionen Franken in den Ausbau seines Schweizer Standorts. Dies markiert einen bedeutenden Schritt zur Eroberung des Schweizer Marktes und hat Implikationen für Kunden und den Finanzplatz."
+      "headline": "Manus strebt $4 Mrd. Bewertung in neuer Finanzierungsrunde an",
+      "summary": "Das Unternehmen Manus, das sich von einer Fusion mit Meta gelöst hat, verhandelt über eine neue Finanzierungsrunde von 500 Millionen Dollar. Dabei wird eine Bewertung von 4 Milliarden Dollar angestrebt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-      "summary": "Huawei beschleunigt die Einführung seines KI-Chips der nächsten Generation, des Ascend 960DT, für das erste Quartal 2027. Damit will das Unternehmen mit Nvidia konkurrieren und Chinas KI-Rechenleistung gegenüber den USA aufholen."
+      "headline": "Joby Aviation absolviert autonomen Langstreckenflug",
+      "summary": "Ein Flugzeug von Joby Aviation absolvierte einen 3.100 Meilen langen autonomen Flug ohne menschlichen Piloten. Dies signalisiert den Vorstoß des Unternehmens über elektrische Lufttaxis hinaus in autonomes Fliegen."
     }
   ],
   "learning": {
-    "topic": "Der Ablauf eines Short Squeeze",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist eine Situation, in der der Preis einer Aktie plötzlich und stark ansteigt, was Leerverkäufer zwingt, ihre Positionen zu schließen, um Verluste zu begrenzen.",
-    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie sich Aktien leihen, verkaufen und hoffen, diese später günstiger zurückkaufen zu können. Steigt der Kurs unerwartet stark an, müssen sie die geliehenen Aktien zurückkaufen, um weitere Verluste zu vermeiden. Diese Eindeckungskäufe erzeugen eine zusätzliche Nachfrage und verstärken den Kursanstieg spiralförmig, was zu erheblichen Verlusten für die Leerverkäufer führt und den \"Squeeze\" auslöst.",
-    "takeaway": "Ein Short Squeeze kann zu extrem volatilen Marktbedingungen führen und ist ein Risiko, das Leerverkäufer stets beachten müssen. Für Investoren kann dies kurzfristig zu außergewöhnlichen Gewinnen oder Verlusten führen."
+    "topic": "Die Pre-Money und Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money Bewertung ist der Wert eines Startups VOR einer Investition, während die Post-Money Bewertung der Wert NACH der Investition ist. Beide sind entscheidend, um den Anteil neuer Investoren zu bestimmen.",
+    "details": "Wenn ein Investor Kapital in ein Startup steckt, wird der Wert des Unternehmens vor dem Investment (Pre-Money) ermittelt. Addiert man zu diesem Wert das frische Kapital, erhält man die Post-Money Bewertung. Aus Sicht des Investors ist die Pre-Money Bewertung wichtig, um zu berechnen, wie viele Anteile er für sein Kapital erhält; sein Prozentsatz errechnet sich aus Investment / Post-Money Bewertung. Für Gründer ist es entscheidend, diese Dynamik zu verstehen, da sie direkt den Verwässerungsgrad ihrer Anteile beeinflusst. Eine höhere Pre-Money Bewertung bedeutet in der Regel, dass Gründer nach der Finanzierungsrunde einen größeren Anteil am Unternehmen behalten.",
+    "takeaway": "Die korrekte Unterscheidung zwischen Pre-Money und Post-Money Bewertung ist fundamental, um die Kapitalstruktur von Startups und die Verteilung von Unternehmensanteilen nach Finanzierungsrunden zu verstehen. Sie sind die Basis jeder Venture-Capital-Transaktion."
   }
 }
