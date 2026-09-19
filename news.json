@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Putin stellt Nestlé-Geschäft unter Zwangsverwaltung",
-      "summary": "Russland hat das Geschäft von Nestlé im Land unter Zwangsverwaltung gestellt, was Besorgnis über Enteignungen westlicher Firmen auslöst. Dieser Schritt des Kremls wird als Reaktion auf 'unfreundliche' Länder eingestuft und könnte die Versorgungssicherheit gefährden."
+      "headline": "CDU vor den Wahlen: Für den Kanzler geht es ums Amt",
+      "summary": "Die anstehenden Landtagswahlen in Berlin und Mecklenburg-Vorpommern sind entscheidend für die politische Zukunft von Kanzler Friedrich Merz. Eine deutliche Zielverfehlung könnte seine Position innerhalb der CDU gefährden und Herausforderer auf den Plan rufen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "FBI und Küstenwache entern gehackte Öltanker vor US-Küste",
-      "summary": "Das FBI und die Küstenwache haben gehackte Öltanker vor der US-Küste geentert, um die Kompromittierung der Schiffsnetzwerke zu untersuchen. In einem Fall beeinträchtigten die Hacker die Navigations- und Antriebssysteme eines Tankers."
+      "headline": "Putin stellt Nestlés Russland-Geschäft unter Zwangsverwaltung – Bundesbern zeigt sich besorgt",
+      "summary": "Russland hat das Geschäft des Schweizer Lebensmittelkonzerns Nestlé unter Zwangsverwaltung gestellt, da die Schweiz als \"unfreundliches\" Land gilt. Dieser Schritt des Kremls gegen westliche Firmen, die im Land geblieben sind, birgt Enteignungsrisiken und weckt Besorgnis."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Bank of Japan erhöht Leitzins auf 31-Jahres-Hoch",
-      "summary": "Die Bank of Japan hat ihren Leitzins auf den höchsten Stand seit 31 Jahren angehoben, ein signifikanter Schritt in der Geldpolitik. Parallel dazu erwartet Volkswagen für 2026 einen tieferen Gewinn."
+      "headline": "KURZMELDUNGEN - Wirtschaft: Volkswagen erwartet für 2026 tiefen Gewinn +++ Bank of Japan erhöht Leitzins auf höchsten Stand seit 31 Jahren",
+      "summary": "Volkswagen prognostiziert für 2026 einen geringeren Gewinn, während die Bank of Japan ihren Leitzins auf den höchsten Stand seit 31 Jahren angehoben hat. Diese Entwicklung signalisiert eine geldpolitische Straffung in Japan und Herausforderungen für große Automobilkonzerne."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX beendet Woche mit Verlusten",
-      "summary": "Der deutsche Aktienmarkt schloss die Woche mit Verlusten ab, beeinflusst durch Sorgen um die Lage im Nahen Osten. Auch der große Verfallstag trug zur Marktbewegung bei."
+      "headline": "Afrikas reichster Mann reitet auf einer Erfolgswelle. Nun startet er den bisher grössten Börsengang auf dem Kontinent",
+      "summary": "Aliko Dangote, Afrikas reichster Mann, plant den größten Börsengang des Kontinents für seine riesige Raffinerie in Nigeria. Dieses Projekt wird als \"Börsengang für das Volk\" vermarktet und krempelt Nigerias Wirtschaft um."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Google stellt KI-Agent 'CC' für Haushalte vor",
-      "summary": "Google hat einen neuen KI-Agenten namens 'CC' vorgestellt, der Familien bei der Haushaltskoordination helfen soll. Er kann Kalender verwalten, Formulare ausfüllen und Einkaufslisten erstellen."
+      "headline": "AI hallucination nearly triggers US military operation",
+      "summary": "Eine KI-Halluzination hat beinahe eine US-Militäroperation ausgelöst und verdeutlicht die inhärente Unsicherheit von Large Language Models (LLMs). Experten warnen davor, dass Anwender die Grenzen und potenziellen Fehler von KI-Systemen verstehen müssen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Neuer KI-Modell-Typ begeistert Entwickler",
-      "summary": "Ein neuer KI-Modell-Typ, entwickelt von einem ChatGPT-Erfinder, verspricht Entwicklern günstigere und schnellere Software-Intelligenz. Dies wird als bahnbrechender Fortschritt in der KI-Entwicklung gefeiert."
+      "headline": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Ein neuer KI-Modelltyp namens Jev, entwickelt von einem ChatGPT-Erfinder, begeistert Entwickler mit seinem Potenzial für schnellere und günstigere Software-Intelligenz. Dies markiert einen Fortschritt in der Effizienz und Zugänglichkeit von Künstlicher Intelligenz."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Manus strebt $4 Mrd. Bewertung in neuer Finanzierungsrunde an",
-      "summary": "Das Unternehmen Manus, das sich von einer Fusion mit Meta gelöst hat, verhandelt über eine neue Finanzierungsrunde von 500 Millionen Dollar. Dabei wird eine Bewertung von 4 Milliarden Dollar angestrebt."
+      "headline": "INTERVIEW - Die Schweizer Organisation Macroscopic Ventures wurde mit Anthropic reich – ihr Mitgründer sagt: «In einigen Jahren wird KI die physische Welt direkt beeinflussen»",
+      "summary": "Macroscopic Ventures, eine Schweizer VC-Firma, wurde durch ihre Investition in Anthropic erfolgreich und warnt gleichzeitig vor den Gefahren zunehmender KI-Kontrolle. Ihr Mitgründer prognostiziert, dass KI in wenigen Jahren die physische Welt direkt beeinflussen wird."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Joby Aviation absolviert autonomen Langstreckenflug",
-      "summary": "Ein Flugzeug von Joby Aviation absolvierte einen 3.100 Meilen langen autonomen Flug ohne menschlichen Piloten. Dies signalisiert den Vorstoß des Unternehmens über elektrische Lufttaxis hinaus in autonomes Fliegen."
+      "headline": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "summary": "UP.Labs, jetzt Vantora, hat 100 Millionen US-Dollar in einer Finanzierungsrunde erhalten, um Startups für Industriekonzerne aufzubauen, mit Fokus auf \"Physical AI\". Diese signifikante Investition unterstreicht das wachsende Interesse an KI-Anwendungen, die die physische Welt direkt beeinflussen."
     }
   ],
   "learning": {
-    "topic": "Die Pre-Money und Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money Bewertung ist der Wert eines Startups VOR einer Investition, während die Post-Money Bewertung der Wert NACH der Investition ist. Beide sind entscheidend, um den Anteil neuer Investoren zu bestimmen.",
-    "details": "Wenn ein Investor Kapital in ein Startup steckt, wird der Wert des Unternehmens vor dem Investment (Pre-Money) ermittelt. Addiert man zu diesem Wert das frische Kapital, erhält man die Post-Money Bewertung. Aus Sicht des Investors ist die Pre-Money Bewertung wichtig, um zu berechnen, wie viele Anteile er für sein Kapital erhält; sein Prozentsatz errechnet sich aus Investment / Post-Money Bewertung. Für Gründer ist es entscheidend, diese Dynamik zu verstehen, da sie direkt den Verwässerungsgrad ihrer Anteile beeinflusst. Eine höhere Pre-Money Bewertung bedeutet in der Regel, dass Gründer nach der Finanzierungsrunde einen größeren Anteil am Unternehmen behalten.",
-    "takeaway": "Die korrekte Unterscheidung zwischen Pre-Money und Post-Money Bewertung ist fundamental, um die Kapitalstruktur von Startups und die Verteilung von Unternehmensanteilen nach Finanzierungsrunden zu verstehen. Sie sind die Basis jeder Venture-Capital-Transaktion."
+    "topic": "Arbeitsweise von Hedgefonds",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Hedgefonds sind spezialisierte Investmentfonds, die eine breite Palette aggressiver Anlagestrategien verfolgen können, um hohe Renditen zu erzielen, unabhängig von der allgemeinen Marktentwicklung.",
+    "details": "Im Gegensatz zu traditionellen Fonds sind Hedgefonds weniger reguliert und können komplexe Instrumente wie Derivate, Leerverkäufe (Short Selling) und Hebelwirkungen (Leverage) nutzen. Sie investieren oft in illiquide Märkte und sind für vermögende Anleger oder institutionelle Investoren gedacht, die bereit sind, höhere Risiken für potenziell überdurchschnittliche Gewinne einzugehen. Ihre Gebührenstruktur beinhaltet meist eine Managementgebühr und eine Performance-Gebühr.",
+    "takeaway": "Hedgefonds suchen nach absoluten Renditen, indem sie flexible und oft risikoreiche Strategien einsetzen, die über das hinausgehen, was reguläre Investmentfonds tun dürfen. Sie sind ein Instrument für Profis, die aktiv Chancen in allen Marktphasen nutzen wollen."
   }
 }
