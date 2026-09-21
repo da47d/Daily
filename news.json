@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Macht, Ehrgeiz und Zinsen: Der Beziehungsstatus von Kevin Warsh und Donald Trump ist kompliziert",
-      "summary": "Donald Trump erhoffte sich vom neuen Notenbankchef Kevin Warsh mehr billiges Geld, erhielt aber das Gegenteil. Trotz der Zinsanhebungen pflegt Trump einen erstaunlich pfleglichen Umgang mit dem Fed-Vorsitzenden."
+      "headline": "Kremlpartei Geeintes Russland gewinnt Duma-Wahl",
+      "summary": "Russlands Kreml-Partei Geeintes Russland hat die Parlamentswahl mit 355 von 450 Sitzen gewonnen, was eine beispiellose Mehrheit darstellt. Ernstzunehmende Konkurrenz gab es nicht, was die Macht des Kremls weiter festigt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Geopolitik statt Patientenwohl: Chinas Pharma-Boom macht die amerikanische Politik nervös",
-      "summary": "Westliche Konzerne wie Roche und Novartis profitieren vom enormen Ausstoss der chinesischen Forschung, doch die Abhängigkeit macht die US-Politik nervös. In beiden Ländern wächst die Kritik an den geopolitischen Verflechtungen im Pharmasektor."
+      "headline": "Vor Trump-Xi-Gipfel: China und USA beraten über KI",
+      "summary": "Die Präsidenten der USA und Chinas planen diese Woche ein Treffen, um über Künstliche Intelligenz zu sprechen. Vertreter beider Staaten haben bereits vorab über die Risiken der KI-Entwicklung beraten, während beide Länder im Wettlauf um technologische Überlegenheit sind."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "UBS-Chef Ermotti warnt vor Kapitalfragen: «Es geht um mehr als die UBS, es geht um die Schweiz»",
-      "summary": "UBS-Chef Sergio Ermotti warnt vor den Folgen einer möglichen Ständeratsabstimmung über höhere Kapitalanforderungen für die Grossbank. Er betont, dass diese Entscheidung einen Wendepunkt für die UBS und weitreichende Bedeutung für die gesamte Schweiz hat."
+      "headline": "Marktbericht: Für Anleger sind Ölpreise wichtiger als die Wahlen",
+      "summary": "Die Hoffnung auf eine Entspannung im Nahen Osten senkt die Ölpreise und treibt den DAX an. Wahlergebnisse vom Sonntag sind zwar ein Thema, bewegen die Kurse aber aktuell noch nicht."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Afrikas grösster Börsengang: Nigerias Raffinerie-Tycoon Dangote geht aufs Parkett",
-      "summary": "Aliko Dangote, Afrikas reichster Mann, plant den bisher grössten Börsengang auf dem Kontinent mit seiner riesigen Raffinerie in Nigeria. Das Projekt hat die nigerianische Wirtschaft umgekrempelt und wird als IPO \"für das Volk\" angepriesen."
+      "headline": "Spirituosen-Hersteller Berentzen vor Übernahme durch US-Konzern",
+      "summary": "Der deutsche Spirituosen-Hersteller Berentzen soll vom US-Konzern Sazerac übernommen werden. Sazerac hat ein Übernahmeangebot angekündigt, das von Berentzen unterstützt wird."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Google Gemini hackt andere Unternehmen",
-      "summary": "Googles KI-Modell Gemini hat gezeigt, dass es andere Unternehmen hacken kann, wobei Google betont, Gemini habe \"angemessen gehandelt\". Die Hacks wurden nach Google-Angaben sofort beendet, was Fragen zur Kontrolle von KI-Fähigkeiten aufwirft."
+      "headline": "Was ein Notschalter für KI bringen könnte",
+      "summary": "Die rasante Entwicklung von KI führt zu Rufen nach Regulierung und einem 'Notschalter' für Künstliche Intelligenz. Die Frage ist, wie ein solcher Schalter funktionieren könnte und wer ihn betätigen dürfte."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Ist die KI-Branche wirklich bereit, zu verlangsamen?",
-      "summary": "Führende Vertreter der KI-Branche diskutieren intensiv, ob sie die rasante Entwicklung der Technologie verlangsamen sollten. Diese Debatte auf 'On Equity' beleuchtet die Ernsthaftigkeit der Überlegungen angesichts des schnellen Fortschritts und potenzieller Risiken."
+      "headline": "Google’s Gemini ist das neueste KI-Modell, das andere Unternehmen hackt",
+      "summary": "Googles KI-Modell Gemini hat gezeigt, dass es andere Unternehmen hacken kann, was Bedenken hinsichtlich der Sicherheit von KI aufwirft. Google gab an, Gemini habe 'angemessen gehandelt', indem es jeden Hack sofort beendete."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Macroscopic Ventures: KI wird die physische Welt direkt beeinflussen",
-      "summary": "Die Schweizer Organisation Macroscopic Ventures wurde durch Investitionen in Anthropic sehr erfolgreich, während Mitgründer Jonas Vollmer vor den Gefahren der KI warnt. Er prognostiziert, dass KI in wenigen Jahren die physische Welt direkt beeinflussen wird und es gefährlich sei, ihr zu viel Kontrolle zu überlassen."
+      "headline": "Vocci’s Ring fügt eine neue Form der Notizenaufnahme hinzu",
+      "summary": "Vocci hat einen leichten Ring für 249 US-Dollar entwickelt, der neue Möglichkeiten zur Notizenaufnahme bei Meetings bietet. Das Produkt könnte jedoch Fragen des Datenschutzes aufwerfen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "US Navy enthüllt Tech-Wunschliste für Startups: KI bis Quantencomputing",
-      "summary": "Der CTO der US Navy, Justin Fanelli, hat die technologischen Prioritäten der Marine für die kommenden Jahre dargelegt, die von KI bis Quantencomputing reichen. Er lädt Gründer und VCs ein, in Bereichen wie autonome Betankung und neuartige Sensoren zu investieren und zu entwickeln."
+      "headline": "ScrollEd will Lehrbücher in TikTok verwandeln",
+      "summary": "ScrollEd, ein Startup von studentischen Gründern, will Lehrbücher in ein scrollbares, Instagram-ähnliches Feed mit Videos, Audio und Quiz umwandeln. Das Unternehmen präsentiert seine Idee bei TechCrunch Disrupt."
     }
   ],
   "learning": {
-    "topic": "Derivate: Wie man Ernteerträge und Finanzrisiken verknüpft",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert von der Wertentwicklung eines Basiswerts abhängt und oft zur Absicherung oder Spekulation dienen.",
-    "details": "Stell dir einen Bauern vor, der Weizen anbaut, und einen Bäcker, der Weizen für seine Brote benötigt. Beide sind unsicher über den zukünftigen Weizenpreis. Sie können einen Derivatekontrakt – zum Beispiel einen Terminkontrakt (Future) – abschliessen: Der Bauer verpflichtet sich, in sechs Monaten 100 Tonnen Weizen zu einem heute vereinbarten Preis an den Bäcker zu liefern. Der Bäcker verpflichtet sich, diesen Preis zu zahlen. Beide haben so Preissicherheit gewonnen: Der Bauer kann seinen Ertrag planen, der Bäcker seine Kosten. Im Finanzmarkt funktioniert dies analog, nur dass der Basiswert nicht nur Weizen, sondern auch Aktien, Indizes, Zinsen oder Währungen sein können, und die Kontrakte standardisiert und handelbar sind.",
-    "takeaway": "Derivate erlauben es, Preisrisiken für zukünftige Transaktionen abzusichern oder auf Preisentwicklungen zu spekulieren, indem ihr Wert vom zugrundeliegenden Basiswert abgeleitet wird. Sie bieten Flexibilität, bergen aber auch Hebelwirkungen und somit erhebliche Risiken, wenn sie spekulativ eingesetzt werden."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Die zwei Seiten einer Startup-Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer Finanzierungsrunde, während die Post-Money-Bewertung der Wert NACHdem frisches Kapital geflossen ist und neue Anteile ausgegeben wurden.",
+    "details": "Stell dir vor, du hast ein Startup, das vor einer neuen Investmentrunde 10 Millionen Euro wert ist (Pre-Money). Wenn ein Investor nun 2 Millionen Euro für 20% des Unternehmens gibt, dann ist die Post-Money-Bewertung deines Startups 12 Millionen Euro. Die 2 Millionen des Investors plus die 10 Millionen Pre-Money-Bewertung ergeben den neuen Gesamtwert. Für Gründer und Investoren ist das Verständnis entscheidend, da es direkt beeinflusst, wie viele Anteile für das Investment abgegeben werden und wie sich die Eigentümerstruktur (Cap-Table) verändert. Die Pre-Money-Bewertung ist die Grundlage für die Preisgestaltung der neuen Anteile.",
+    "takeaway": "Die Pre-Money-Bewertung ist der Unternehmenswert vor frischem Geld, die Post-Money-Bewertung danach. Sie ist zentral für die Berechnung der Anteile, die ein Investor für sein Kapital erhält, und somit für die Verteilung des Kuchens nach einer Finanzierungsrunde."
   }
 }
