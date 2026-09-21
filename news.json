@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kremlpartei Geeintes Russland gewinnt Duma-Wahl",
-      "summary": "Russlands Kreml-Partei Geeintes Russland hat die Parlamentswahl mit 355 von 450 Sitzen gewonnen, was eine beispiellose Mehrheit darstellt. Ernstzunehmende Konkurrenz gab es nicht, was die Macht des Kremls weiter festigt."
+      "headline": "Duma-Wahl: Putins Sieg an der Zahlenfront",
+      "summary": "Die Duma-Wahl in Russland endete erwartungsgemäß mit einem deutlichen Sieg der Kreml-Partei Einiges Russland für Präsident Putin. Dieses Ergebnis festigt seine Macht an der Zahlenfront und kann globale Auswirkungen haben."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Vor Trump-Xi-Gipfel: China und USA beraten über KI",
-      "summary": "Die Präsidenten der USA und Chinas planen diese Woche ein Treffen, um über Künstliche Intelligenz zu sprechen. Vertreter beider Staaten haben bereits vorab über die Risiken der KI-Entwicklung beraten, während beide Länder im Wettlauf um technologische Überlegenheit sind."
+      "headline": "Wie Donald Trump die Medikamentenpreise beim BAG mitbestimmt",
+      "summary": "Donald Trumps Pläne, Medikamentenpreise in den USA zu senken, indem Amerikaner nicht mehr als in anderen Ländern zahlen sollen, beeinflussen die Schweiz direkt. Neue Therapien könnten dort teurer oder später erhältlich werden, was internationale Märkte betrifft."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Für Anleger sind Ölpreise wichtiger als die Wahlen",
-      "summary": "Die Hoffnung auf eine Entspannung im Nahen Osten senkt die Ölpreise und treibt den DAX an. Wahlergebnisse vom Sonntag sind zwar ein Thema, bewegen die Kurse aber aktuell noch nicht."
+      "headline": "Freie Bahn für Milliardendeal: Paramount einigt sich im Rechtsstreit um den Kauf von Warner Brothers mit US-Gliedstaaten",
+      "summary": "Paramount kann den Medienkonzern Warner Brothers übernehmen, nachdem ein Rechtsstreit mit US-Bundesstaaten beigelegt wurde. Nach Zugeständnissen gaben die Gliedstaaten ihren Widerstand gegen den Milliardendeal auf."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Spirituosen-Hersteller Berentzen vor Übernahme durch US-Konzern",
-      "summary": "Der deutsche Spirituosen-Hersteller Berentzen soll vom US-Konzern Sazerac übernommen werden. Sazerac hat ein Übernahmeangebot angekündigt, das von Berentzen unterstützt wird."
+      "headline": "Marktbericht: Entspannung am Ölmarkt stützt den DAX",
+      "summary": "Die Hoffnung auf eine Entspannung zwischen den USA und Iran ließ die Ölpreise fallen und stützte den DAX zum Wochenstart. Gleichzeitig gerieten Immobilientitel unter Druck."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Was ein Notschalter für KI bringen könnte",
-      "summary": "Die rasante Entwicklung von KI führt zu Rufen nach Regulierung und einem 'Notschalter' für Künstliche Intelligenz. Die Frage ist, wie ein solcher Schalter funktionieren könnte und wer ihn betätigen dürfte."
+      "headline": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary": "OpenAI hat eine mathematische Beratergruppe gebildet, nachdem seine KI bereits über 100 ungelöste Probleme gelöst hat. Dies unterstreicht die rasanten Fortschritte in der KI-Forschung."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Google’s Gemini ist das neueste KI-Modell, das andere Unternehmen hackt",
-      "summary": "Googles KI-Modell Gemini hat gezeigt, dass es andere Unternehmen hacken kann, was Bedenken hinsichtlich der Sicherheit von KI aufwirft. Google gab an, Gemini habe 'angemessen gehandelt', indem es jeden Hack sofort beendete."
+      "headline": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "summary": "Metas neuer KI-Agent Muse übertrifft ChatGPT in den frühen mobilen Download- und Nutzerzahlen in den USA und Kanada. Dies deutet auf einen starken Start im Wettbewerb der KI-Assistenten hin."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Vocci’s Ring fügt eine neue Form der Notizenaufnahme hinzu",
-      "summary": "Vocci hat einen leichten Ring für 249 US-Dollar entwickelt, der neue Möglichkeiten zur Notizenaufnahme bei Meetings bietet. Das Produkt könnte jedoch Fragen des Datenschutzes aufwerfen."
+      "headline": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "summary": "Kairos Power erhält bis zu 100 Millionen US-Dollar von der Samsung Group, um einen Kernreaktor für Google zu bauen. Dies markiert eine bedeutende Finanzierungsrunde für ein zukunftsweisendes Energieprojekt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "ScrollEd will Lehrbücher in TikTok verwandeln",
-      "summary": "ScrollEd, ein Startup von studentischen Gründern, will Lehrbücher in ein scrollbares, Instagram-ähnliches Feed mit Videos, Audio und Quiz umwandeln. Das Unternehmen präsentiert seine Idee bei TechCrunch Disrupt."
+      "headline": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "summary": "Das Startup Tabby nutzt KI, um Buchhalter zu automatisieren und bietet eine Echtzeit-Buchführungsschnittstelle. Der Gründer will damit die Branche revolutionieren."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Die zwei Seiten einer Startup-Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups VOR einer Finanzierungsrunde, während die Post-Money-Bewertung der Wert NACHdem frisches Kapital geflossen ist und neue Anteile ausgegeben wurden.",
-    "details": "Stell dir vor, du hast ein Startup, das vor einer neuen Investmentrunde 10 Millionen Euro wert ist (Pre-Money). Wenn ein Investor nun 2 Millionen Euro für 20% des Unternehmens gibt, dann ist die Post-Money-Bewertung deines Startups 12 Millionen Euro. Die 2 Millionen des Investors plus die 10 Millionen Pre-Money-Bewertung ergeben den neuen Gesamtwert. Für Gründer und Investoren ist das Verständnis entscheidend, da es direkt beeinflusst, wie viele Anteile für das Investment abgegeben werden und wie sich die Eigentümerstruktur (Cap-Table) verändert. Die Pre-Money-Bewertung ist die Grundlage für die Preisgestaltung der neuen Anteile.",
-    "takeaway": "Die Pre-Money-Bewertung ist der Unternehmenswert vor frischem Geld, die Post-Money-Bewertung danach. Sie ist zentral für die Berechnung der Anteile, die ein Investor für sein Kapital erhält, und somit für die Verteilung des Kuchens nach einer Finanzierungsrunde."
+    "topic": "Arbeitsweise von Hedgefonds: Wenn Profis mit \"Hecke\" spekulieren",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Hedgefonds sind spezielle Investmentfonds für institutionelle Anleger oder vermögende Privatpersonen, die mit flexiblen Anlagestrategien und oft hohem Risiko überdurchschnittliche Renditen erzielen wollen.",
+    "details": "Im Gegensatz zu traditionellen Fonds sind Hedgefonds weniger reguliert und können aggressive Strategien anwenden, wie Leerverkäufe, Derivate und Hebelwirkungen (Leverage), um auf fallende Kurse zu wetten oder Gewinne zu vervielfachen. Der Begriff \"Hedge\" deutet auf die Absicherung von Risiken hin, doch viele dieser Fonds sind eher für ihre risikofreudigen, spekulativen Manöver bekannt, die sie von den Marktschwankungen unabhängig machen sollen. Ihr Ziel ist die absolute Rendite, unabhängig von der allgemeinen Marktentwicklung.",
+    "takeaway": "Hedgefonds versuchen, in jeder Marktphase Gewinne zu erwirtschaften, indem sie flexibel und oft risikoreich agieren, typischerweise mit Leerverkäufen und Derivaten. Für einen Finance-Studenten ist es wichtig zu verstehen, dass ihr Fokus auf absolute Renditen liegt und ihre Strategien sich stark von denen traditioneller Fonds unterscheiden."
   }
 }
