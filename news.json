@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU und Philippinen einigen sich auf Freihandelsabkommen",
-      "summary": "Die EU und die Philippinen haben sich im Grundsatz auf ein Freihandelsabkommen geeinigt. Dies soll neue Exportmärkte erschließen und Lieferketten für Unternehmen beider Seiten stabilisieren."
+      "headline": "EU streicht zwei russische Oligarchen von Sanktionsliste",
+      "summary": "Die EU hat Russland-Sanktionen verlängert, jedoch zwei Oligarchen von der Liste gestrichen, was in Kiew Empörung auslöst. Dies wirft Fragen zur Einheit der Sanktionspolitik und ihren globalen Auswirkungen auf."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Marktbericht: Anleger warten auf Trumps UN-Auftritt",
-      "summary": "Nach einem starken Wochenstart bleiben die Anleger zurückhaltend und hoffen auf diplomatische Fortschritte. Ein mögliches Treffen zwischen US-Präsident Trump und Vertretern Irans am Rande der UN-Generalversammlung steht im Fokus."
+      "headline": "US-Präsident Trump erwartet Abkommen mit Iran nach den Midterms",
+      "summary": "US-Präsident Trump zeigt sich zuversichtlich, Kriege im Iran und in der Ukraine durch Abkommen zu beenden, verbindet dies aber erneut mit Drohungen. Seine Äußerungen vor den UN beeinflussen die globale Sicherheitslage und damit die Marktstimmung."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "In Zürich und Tokio droht die grösste Immobilienblase",
-      "summary": "Der neueste «Real Estate Bubble Index» warnt vor einer drohenden Immobilienblase in Zürich und Tokio. Dort entkoppeln sich die Eigenheimpreise zunehmend von der lokalen Einkommensentwicklung."
+      "headline": "Abstimmung in der UBS-Kapitalfrage: Warum AT1-Anleihen den Kompromissvorschlag des Ständerats torpedieren könnten",
+      "summary": "Der Schweizer Ständerat entscheidet über neue Eigenkapitalvorschriften für die UBS, wobei umstrittene AT1-Anleihen eine zentrale Rolle spielen. Diese Entscheidung ist entscheidend für die Stabilität des Finanzsektors und die zukünftige Kapitalstruktur der Großbank."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Freie Bahn für Milliardendeal: Paramount einigt sich im Rechtsstreit um den Kauf von Warner Brothers",
-      "summary": "Der Hollywood-Konzern Paramount kann nach Monaten des Stillstands seinen Konkurrenten Warner Brothers schlucken. Nach Zugeständnissen gaben die US-Gliedstaaten ihren Widerstand auf, was den Milliardendeal ermöglicht."
+      "headline": "Die Gefahr einer Immobilienblase ist in Zürich so gross wie sonst nirgends",
+      "summary": "Während sich die Immobilienmärkte in anderen Metropolen abkühlen, steigen die Preise in Zürich, stark abhängig von billigen Hypotheken, weiter. Dies birgt ein hohes Blasengefahr-Risiko im Schweizer Finanzzentrum."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Anteil von E-Autos bei Neuzulassungen in EU erreicht neuen Rekord",
-      "summary": "Im vergangenen Jahr erreichte der Anteil reiner Elektroautos bei Neuzulassungen in der EU einen neuen Höchststand, wobei gut jeder sechste Pkw ein E-Auto war. Deutschland lag dabei leicht über dem europäischen Schnitt."
+      "headline": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
+      "summary": "Nach Berichten über Cyberattacken durch KI fordern 22 Staats- und Regierungschefs eine internationale Aufsicht für die schnell fortschreitende Künstliche Intelligenz. Dies unterstreicht die wachsende globale Sorge um Sicherheit und Ethik im Tech-Bereich."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "summary": "Metas neuer KI-Agent Muse verzeichnet in den USA und Kanada mehr Downloads und täglich aktive Nutzer als ChatGPT in der gleichen Zeitspanne nach seinem mobilen Debüt. Dies deuten neue Schätzungen von Appfigures an."
+      "headline": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "summary": "OpenAI hat mit GPT-6 Sol und Luna zwei neue, verbesserte KI-Modelle vorgestellt, die sich durch niedrigere Kosten und weniger Fehler auszeichnen sollen. Diese Weiterentwicklung markiert einen wichtigen Meilenstein in der kommerziellen Nutzung generativer KI."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Morphotonics raises €40M to expand its display tech into data centers",
-      "summary": "Das Deeptech-Unternehmen Morphotonics hat 40 Millionen Euro von Investoren wie 3M Ventures und Innovation Industries eingesammelt. Das Kapital soll genutzt werden, um seine Display-Technologie in Rechenzentren zu erweitern."
+      "headline": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+      "summary": "Die führende VC-Firma a16z startet eine Akademie für vielversprechende Highschool-Absolventen, eine Mischung aus Fachschule und Startup-Inkubator. Dieser innovative Ansatz könnte die traditionelle Talententwicklung im Silicon Valley neu definieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "summary": "Kairos Power, ein zukünftiger Google-Lieferant, hat eine Vereinbarung mit Samsung C&T unterzeichnet, um seinen ersten 50-Megawatt-Kernreaktor zu bauen. Das Unternehmen erhält dafür bis zu 100 Millionen US-Dollar von der Samsung-Gruppe."
+      "headline": "AstroForge is putting AI in command of its next spacecraft",
+      "summary": "Das Startup AstroForge integriert ein kleines, transformer-basiertes KI-Modell zur Steuerung seiner nächsten Raumsonde 'Autonomy-1'. Dies demonstriert bahnbrechende Anwendungen von Künstlicher Intelligenz in der Raumfahrt."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Was eine Finanzierungsrunde wirklich wert ist",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* einer Kapitalerhöhung, während die Post-Money-Bewertung den Wert *danach* darstellt. Der Unterschied ist entscheidend für die Anteile der Gründer und Investoren.",
-    "details": "Wenn ein Startup frisches Kapital von Investoren erhält, wird der Unternehmenswert vor dieser Investition als Pre-Money-Bewertung festgelegt. Addiert man das investierte Kapital zu diesem Wert, erhält man die Post-Money-Bewertung. Diese repräsentiert den neuen, höheren Unternehmenswert inklusive des neuen Geldes und ist die Basis, um die prozentualen Anteile der Investoren und die daraus resultierende Verwässerung der bestehenden Aktionäre (z.B. Gründer) exakt zu berechnen. Das Verständnis dieser beiden Begriffe ist essenziell, um die Kapitalstruktur und die Verhandlungspositionen bei einer Finanzierungsrunde zu analysieren.",
-    "takeaway": "Investoren kaufen Anteile basierend auf der Pre-Money-Bewertung. Das frisch investierte Geld wird addiert, um die Post-Money-Bewertung und die daraus resultierende Eigentümerstruktur zu bestimmen, was die Verwässerung für bestehende Anteilseigner verdeutlicht."
+    "topic": "M&A-Unterschiede: Strategic Buyer vs. Financial Buyer",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Bei Firmenübernahmen gibt es primär zwei Käufertypen: den strategischen Käufer, der Synergien sucht, und den Finanzkäufer, der eine Rendite auf sein investiertes Kapital anstrebt.",
+    "details": "Ein Strategic Buyer, oft ein Wettbewerber oder Partner, kauft ein Unternehmen, um sein eigenes Geschäft zu ergänzen, Marktanteile zu erhöhen oder Technologien zu integrieren. Sein Fokus liegt auf operativen Synergien, die sich in Kosteneinsparungen oder Umsatzsteigerungen manifestieren können. Ein Financial Buyer, typischerweise eine Private-Equity-Firma, erwirbt Unternehmen primär mit dem Ziel, sie in wenigen Jahren mit Gewinn wieder zu verkaufen. Diese Käufer konzentrieren sich auf die Optimierung der finanziellen Performance, die Reduzierung von Kosten und die Effizienzsteigerung, um den Unternehmenswert zu steigern.",
+    "takeaway": "Strategic Buyer zahlen oft höhere Preise durch Synergiewerte, während Financial Buyer den Fokus auf finanzielle Hebel und Wertsteigerung legen, um ihre Exit-Rendite zu maximieren."
   }
 }
