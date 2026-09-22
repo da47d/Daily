@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Duma-Wahl: Putins Sieg an der Zahlenfront",
-      "summary": "Die Duma-Wahl in Russland endete erwartungsgemäß mit einem deutlichen Sieg der Kreml-Partei Einiges Russland für Präsident Putin. Dieses Ergebnis festigt seine Macht an der Zahlenfront und kann globale Auswirkungen haben."
+      "headline": "EU und Philippinen einigen sich auf Freihandelsabkommen",
+      "summary": "Die EU und die Philippinen haben sich im Grundsatz auf ein Freihandelsabkommen geeinigt. Dies soll neue Exportmärkte erschließen und Lieferketten für Unternehmen beider Seiten stabilisieren."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Wie Donald Trump die Medikamentenpreise beim BAG mitbestimmt",
-      "summary": "Donald Trumps Pläne, Medikamentenpreise in den USA zu senken, indem Amerikaner nicht mehr als in anderen Ländern zahlen sollen, beeinflussen die Schweiz direkt. Neue Therapien könnten dort teurer oder später erhältlich werden, was internationale Märkte betrifft."
+      "headline": "Marktbericht: Anleger warten auf Trumps UN-Auftritt",
+      "summary": "Nach einem starken Wochenstart bleiben die Anleger zurückhaltend und hoffen auf diplomatische Fortschritte. Ein mögliches Treffen zwischen US-Präsident Trump und Vertretern Irans am Rande der UN-Generalversammlung steht im Fokus."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Freie Bahn für Milliardendeal: Paramount einigt sich im Rechtsstreit um den Kauf von Warner Brothers mit US-Gliedstaaten",
-      "summary": "Paramount kann den Medienkonzern Warner Brothers übernehmen, nachdem ein Rechtsstreit mit US-Bundesstaaten beigelegt wurde. Nach Zugeständnissen gaben die Gliedstaaten ihren Widerstand gegen den Milliardendeal auf."
+      "headline": "In Zürich und Tokio droht die grösste Immobilienblase",
+      "summary": "Der neueste «Real Estate Bubble Index» warnt vor einer drohenden Immobilienblase in Zürich und Tokio. Dort entkoppeln sich die Eigenheimpreise zunehmend von der lokalen Einkommensentwicklung."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Entspannung am Ölmarkt stützt den DAX",
-      "summary": "Die Hoffnung auf eine Entspannung zwischen den USA und Iran ließ die Ölpreise fallen und stützte den DAX zum Wochenstart. Gleichzeitig gerieten Immobilientitel unter Druck."
+      "headline": "Freie Bahn für Milliardendeal: Paramount einigt sich im Rechtsstreit um den Kauf von Warner Brothers",
+      "summary": "Der Hollywood-Konzern Paramount kann nach Monaten des Stillstands seinen Konkurrenten Warner Brothers schlucken. Nach Zugeständnissen gaben die US-Gliedstaaten ihren Widerstand auf, was den Milliardendeal ermöglicht."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "summary": "OpenAI hat eine mathematische Beratergruppe gebildet, nachdem seine KI bereits über 100 ungelöste Probleme gelöst hat. Dies unterstreicht die rasanten Fortschritte in der KI-Forschung."
+      "headline": "Anteil von E-Autos bei Neuzulassungen in EU erreicht neuen Rekord",
+      "summary": "Im vergangenen Jahr erreichte der Anteil reiner Elektroautos bei Neuzulassungen in der EU einen neuen Höchststand, wobei gut jeder sechste Pkw ein E-Auto war. Deutschland lag dabei leicht über dem europäischen Schnitt."
     },
     {
       "tag": "TOP STORIES",
       "headline": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "summary": "Metas neuer KI-Agent Muse übertrifft ChatGPT in den frühen mobilen Download- und Nutzerzahlen in den USA und Kanada. Dies deutet auf einen starken Start im Wettbewerb der KI-Assistenten hin."
+      "summary": "Metas neuer KI-Agent Muse verzeichnet in den USA und Kanada mehr Downloads und täglich aktive Nutzer als ChatGPT in der gleichen Zeitspanne nach seinem mobilen Debüt. Dies deuten neue Schätzungen von Appfigures an."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-      "summary": "Kairos Power erhält bis zu 100 Millionen US-Dollar von der Samsung Group, um einen Kernreaktor für Google zu bauen. Dies markiert eine bedeutende Finanzierungsrunde für ein zukunftsweisendes Energieprojekt."
+      "headline": "Morphotonics raises €40M to expand its display tech into data centers",
+      "summary": "Das Deeptech-Unternehmen Morphotonics hat 40 Millionen Euro von Investoren wie 3M Ventures und Innovation Industries eingesammelt. Das Kapital soll genutzt werden, um seine Display-Technologie in Rechenzentren zu erweitern."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "summary": "Das Startup Tabby nutzt KI, um Buchhalter zu automatisieren und bietet eine Echtzeit-Buchführungsschnittstelle. Der Gründer will damit die Branche revolutionieren."
+      "headline": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "summary": "Kairos Power, ein zukünftiger Google-Lieferant, hat eine Vereinbarung mit Samsung C&T unterzeichnet, um seinen ersten 50-Megawatt-Kernreaktor zu bauen. Das Unternehmen erhält dafür bis zu 100 Millionen US-Dollar von der Samsung-Gruppe."
     }
   ],
   "learning": {
-    "topic": "Arbeitsweise von Hedgefonds: Wenn Profis mit \"Hecke\" spekulieren",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Hedgefonds sind spezielle Investmentfonds für institutionelle Anleger oder vermögende Privatpersonen, die mit flexiblen Anlagestrategien und oft hohem Risiko überdurchschnittliche Renditen erzielen wollen.",
-    "details": "Im Gegensatz zu traditionellen Fonds sind Hedgefonds weniger reguliert und können aggressive Strategien anwenden, wie Leerverkäufe, Derivate und Hebelwirkungen (Leverage), um auf fallende Kurse zu wetten oder Gewinne zu vervielfachen. Der Begriff \"Hedge\" deutet auf die Absicherung von Risiken hin, doch viele dieser Fonds sind eher für ihre risikofreudigen, spekulativen Manöver bekannt, die sie von den Marktschwankungen unabhängig machen sollen. Ihr Ziel ist die absolute Rendite, unabhängig von der allgemeinen Marktentwicklung.",
-    "takeaway": "Hedgefonds versuchen, in jeder Marktphase Gewinne zu erwirtschaften, indem sie flexibel und oft risikoreich agieren, typischerweise mit Leerverkäufen und Derivaten. Für einen Finance-Studenten ist es wichtig zu verstehen, dass ihr Fokus auf absolute Renditen liegt und ihre Strategien sich stark von denen traditioneller Fonds unterscheiden."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Was eine Finanzierungsrunde wirklich wert ist",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* einer Kapitalerhöhung, während die Post-Money-Bewertung den Wert *danach* darstellt. Der Unterschied ist entscheidend für die Anteile der Gründer und Investoren.",
+    "details": "Wenn ein Startup frisches Kapital von Investoren erhält, wird der Unternehmenswert vor dieser Investition als Pre-Money-Bewertung festgelegt. Addiert man das investierte Kapital zu diesem Wert, erhält man die Post-Money-Bewertung. Diese repräsentiert den neuen, höheren Unternehmenswert inklusive des neuen Geldes und ist die Basis, um die prozentualen Anteile der Investoren und die daraus resultierende Verwässerung der bestehenden Aktionäre (z.B. Gründer) exakt zu berechnen. Das Verständnis dieser beiden Begriffe ist essenziell, um die Kapitalstruktur und die Verhandlungspositionen bei einer Finanzierungsrunde zu analysieren.",
+    "takeaway": "Investoren kaufen Anteile basierend auf der Pre-Money-Bewertung. Das frisch investierte Geld wird addiert, um die Post-Money-Bewertung und die daraus resultierende Eigentümerstruktur zu bestimmen, was die Verwässerung für bestehende Anteilseigner verdeutlicht."
   }
 }
