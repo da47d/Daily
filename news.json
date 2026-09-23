@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU streicht zwei russische Oligarchen von Sanktionsliste",
-      "summary": "Die EU hat Russland-Sanktionen verlängert, jedoch zwei Oligarchen von der Liste gestrichen, was in Kiew Empörung auslöst. Dies wirft Fragen zur Einheit der Sanktionspolitik und ihren globalen Auswirkungen auf."
+      "headline": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
+      "summary": "Angesichts hoher Treibstoffpreise in den USA erwägt US-Präsident Trump einen Diesel-Exportstopp, ein Schritt zuletzt in den 1970ern. Dies könnte globale Energiemärkte erheblich beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Präsident Trump erwartet Abkommen mit Iran nach den Midterms",
-      "summary": "US-Präsident Trump zeigt sich zuversichtlich, Kriege im Iran und in der Ukraine durch Abkommen zu beenden, verbindet dies aber erneut mit Drohungen. Seine Äußerungen vor den UN beeinflussen die globale Sicherheitslage und damit die Marktstimmung."
+      "headline": "Warum Chinas Staatspräsident Xi Jinping eine Wirtschaftsdelegation mit nach Washington nimmt",
+      "summary": "Trotz US-Sanktionen begleitet Chinas Präsident Xi eine Wirtschaftsdelegation nach Washington, um Zugang zum amerikanischen Markt zu suchen. Dies signalisiert diplomatische Bemühungen inmitten handelswirtschaftlicher Spannungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Abstimmung in der UBS-Kapitalfrage: Warum AT1-Anleihen den Kompromissvorschlag des Ständerats torpedieren könnten",
-      "summary": "Der Schweizer Ständerat entscheidet über neue Eigenkapitalvorschriften für die UBS, wobei umstrittene AT1-Anleihen eine zentrale Rolle spielen. Diese Entscheidung ist entscheidend für die Stabilität des Finanzsektors und die zukünftige Kapitalstruktur der Großbank."
+      "headline": "OECD hebt Konjunkturprognose für deutsche Wirtschaft leicht an",
+      "summary": "Die OECD hat ihre Wachstumsprognose für die deutsche Wirtschaft 2024 auf 1,1 Prozent angehoben. Auch für 2027 wird eine positive Entwicklung erwartet."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Gefahr einer Immobilienblase ist in Zürich so gross wie sonst nirgends",
-      "summary": "Während sich die Immobilienmärkte in anderen Metropolen abkühlen, steigen die Preise in Zürich, stark abhängig von billigen Hypotheken, weiter. Dies birgt ein hohes Blasengefahr-Risiko im Schweizer Finanzzentrum."
+      "headline": "Der Ständerat entscheidet: Die UBS muss ausländische Tochtergesellschaften mit 90 Prozent hartem Eigenkapital unterlegen",
+      "summary": "Der Schweizer Ständerat hat strengere Kapitalregeln für die UBS beschlossen, die ausländische Tochtergesellschaften mit 90 Prozent hartem Eigenkapital unterlegen muss. Die Grossbank hatte sich zuvor vehement dagegen gewehrt, da dies hohe Kosten verursachen könnte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
-      "summary": "Nach Berichten über Cyberattacken durch KI fordern 22 Staats- und Regierungschefs eine internationale Aufsicht für die schnell fortschreitende Künstliche Intelligenz. Dies unterstreicht die wachsende globale Sorge um Sicherheit und Ethik im Tech-Bereich."
+      "headline": "Signa-Insolvenz: Zweieinhalb Jahre Haft für René Benko",
+      "summary": "Der österreichische Immobilienmagnat René Benko wurde wegen der Signa-Insolvenz rechtskräftig zu zweieinhalb Jahren Haft verurteilt. Sein einstiges Immobilien- und Detailhandelsreich ist kollabiert und steckt im Insolvenzverfahren."
     },
     {
       "tag": "TOP STORIES",
       "headline": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "summary": "OpenAI hat mit GPT-6 Sol und Luna zwei neue, verbesserte KI-Modelle vorgestellt, die sich durch niedrigere Kosten und weniger Fehler auszeichnen sollen. Diese Weiterentwicklung markiert einen wichtigen Meilenstein in der kommerziellen Nutzung generativer KI."
+      "summary": "OpenAI hat die neuen Modelle GPT-6 Sol und Luna vorgestellt, die geringere Kosten und weniger Fehler versprechen. Sie sollen leistungsstärker sein als ihre Vorgänger Astra."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
-      "summary": "Die führende VC-Firma a16z startet eine Akademie für vielversprechende Highschool-Absolventen, eine Mischung aus Fachschule und Startup-Inkubator. Dieser innovative Ansatz könnte die traditionelle Talententwicklung im Silicon Valley neu definieren."
+      "headline": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "summary": "Snorkel AI hat seine Bewertung auf 3,5 Milliarden Dollar verdreifacht und in einer Series E-Runde 350 Millionen Dollar eingesammelt. Dies unterstreicht die wachsende Nachfrage nach KI-Trainingsdaten und den Boom in diesem Sektor."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "AstroForge is putting AI in command of its next spacecraft",
-      "summary": "Das Startup AstroForge integriert ein kleines, transformer-basiertes KI-Modell zur Steuerung seiner nächsten Raumsonde 'Autonomy-1'. Dies demonstriert bahnbrechende Anwendungen von Künstlicher Intelligenz in der Raumfahrt."
+      "headline": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+      "summary": "Die prominente VC-Firma a16z startet eine Akademie für vielversprechende Highschool-Absolventen, eine Mischung aus Fachschule, Y Combinator und Thiel Fellowship. Damit fordert sie die traditionelle Silicon-Valley-Kultur heraus, die oft Schulabbrecher bevorzugt."
     }
   ],
   "learning": {
-    "topic": "M&A-Unterschiede: Strategic Buyer vs. Financial Buyer",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Bei Firmenübernahmen gibt es primär zwei Käufertypen: den strategischen Käufer, der Synergien sucht, und den Finanzkäufer, der eine Rendite auf sein investiertes Kapital anstrebt.",
-    "details": "Ein Strategic Buyer, oft ein Wettbewerber oder Partner, kauft ein Unternehmen, um sein eigenes Geschäft zu ergänzen, Marktanteile zu erhöhen oder Technologien zu integrieren. Sein Fokus liegt auf operativen Synergien, die sich in Kosteneinsparungen oder Umsatzsteigerungen manifestieren können. Ein Financial Buyer, typischerweise eine Private-Equity-Firma, erwirbt Unternehmen primär mit dem Ziel, sie in wenigen Jahren mit Gewinn wieder zu verkaufen. Diese Käufer konzentrieren sich auf die Optimierung der finanziellen Performance, die Reduzierung von Kosten und die Effizienzsteigerung, um den Unternehmenswert zu steigern.",
-    "takeaway": "Strategic Buyer zahlen oft höhere Preise durch Synergiewerte, während Financial Buyer den Fokus auf finanzielle Hebel und Wertsteigerung legen, um ihre Exit-Rendite zu maximieren."
+    "topic": "Ablauf eines Short Squeeze",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist eine plötzliche und schnelle Preiserhöhung eines Wertpapiers, die hauptsächlich durch das Decken von Leerverkaufspositionen ausgelöst wird. Er zwingt Leerverkäufer, Aktien zurückzukaufen, was den Preis weiter in die Höhe treibt.",
+    "details": "Leerverkäufer (Shortseller) wetten auf fallende Kurse, indem sie Aktien leihen, verkaufen und später zu einem hoffentlich niedrigeren Preis zurückkaufen. Steigt der Kurs unerwartet stark an, geraten sie unter Druck: Um ihre potenziellen Verluste zu begrenzen oder Margin Calls zu vermeiden, müssen sie die geliehenen Aktien zu einem höheren Preis zurückkaufen. Dieser erzwungene Rückkauf erhöht die Nachfrage dramatisch und beschleunigt den Preisanstieg, was wiederum weitere Leerverkäufer zum Handeln zwingt und eine Aufwärtsspirale in Gang setzt.",
+    "takeaway": "Ein Short Squeeze zeigt, wie die Mechanik des Leerverkaufs im Falle eines Kurswachstums zu einem unkontrollierbaren Rallye-Effekt führen kann. Für Investoren ist das Verständnis wichtig, um potenzielle Risiken und Chancen bei stark leerverkauften Aktien zu bewerten."
   }
 }
