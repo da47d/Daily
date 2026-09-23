@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA prüfen wegen hoher Spritpreise Exportstopp für Diesel",
-      "summary": "Angesichts hoher Treibstoffpreise in den USA erwägt US-Präsident Trump einen Diesel-Exportstopp, ein Schritt zuletzt in den 1970ern. Dies könnte globale Energiemärkte erheblich beeinflussen."
+      "headline": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
+      "summary": "Nach sieben Jahren Abwesenheit haben die USA Russlands Präsident Putin zum G20-Gipfel nach Miami eingeladen. Trotz der Einladung bleiben die Aussichten auf eine Waffenruhe in der Ukraine vage."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Warum Chinas Staatspräsident Xi Jinping eine Wirtschaftsdelegation mit nach Washington nimmt",
-      "summary": "Trotz US-Sanktionen begleitet Chinas Präsident Xi eine Wirtschaftsdelegation nach Washington, um Zugang zum amerikanischen Markt zu suchen. Dies signalisiert diplomatische Bemühungen inmitten handelswirtschaftlicher Spannungen."
+      "headline": "Xi in den USA: Trump und Chinas Staatschef vor schwierigen Gesprächen",
+      "summary": "Chinas Staatschef Xi Jinping reist erstmals seit zehn Jahren zum Staatsbesuch in die USA, um mit Präsident Trump zu sprechen. Trotz demonstrativer Bemühungen Pekings um bessere Beziehungen gibt es zahlreiche Interessengegensätze."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "OECD hebt Konjunkturprognose für deutsche Wirtschaft leicht an",
-      "summary": "Die OECD hat ihre Wachstumsprognose für die deutsche Wirtschaft 2024 auf 1,1 Prozent angehoben. Auch für 2027 wird eine positive Entwicklung erwartet."
+      "headline": "Marktbericht: DAX baut Verluste aus",
+      "summary": "Der wieder steigende Öl-Preis drückt den DAX weiter ins Minus. Die Hoffnung auf eine Entspannung am Öl-Markt ist vorerst wieder verflogen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der Ständerat entscheidet: Die UBS muss ausländische Tochtergesellschaften mit 90 Prozent hartem Eigenkapital unterlegen",
-      "summary": "Der Schweizer Ständerat hat strengere Kapitalregeln für die UBS beschlossen, die ausländische Tochtergesellschaften mit 90 Prozent hartem Eigenkapital unterlegen muss. Die Grossbank hatte sich zuvor vehement dagegen gewehrt, da dies hohe Kosten verursachen könnte."
+      "headline": "Lex UBS: «Man kann nicht sämtliche Risiken wegregulieren», sagt die Finanzministerin im Parlament",
+      "summary": "Das Schweizer Parlament hat strengere Kapitalvorgaben für die UBS beschlossen, wonach sie ihre ausländischen Beteiligungen mit 90 Prozent hartem Eigenkapital unterlegen muss. Dies löst unterschiedliche Reaktionen aus und zeigt die verhärteten Konfliktlinien im Kapitalstreit."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Signa-Insolvenz: Zweieinhalb Jahre Haft für René Benko",
-      "summary": "Der österreichische Immobilienmagnat René Benko wurde wegen der Signa-Insolvenz rechtskräftig zu zweieinhalb Jahren Haft verurteilt. Sein einstiges Immobilien- und Detailhandelsreich ist kollabiert und steckt im Insolvenzverfahren."
+      "headline": "Ex-Hollywood-Produzent Harvey Weinstein erneut verurteilt",
+      "summary": "Fast zehn Jahre nach der Auslösung der MeToo-Bewegung ist der ehemalige Hollywood-Produzent Harvey Weinstein erneut wegen Sexualdelikten verurteilt worden. Der 74-Jährige erhielt eine lange Haftstrafe."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "summary": "OpenAI hat die neuen Modelle GPT-6 Sol und Luna vorgestellt, die geringere Kosten und weniger Fehler versprechen. Sie sollen leistungsstärker sein als ihre Vorgänger Astra."
+      "headline": "ChatGPT mobile app gets voice-based agentic features",
+      "summary": "Die ChatGPT Mobil-App erhält neue sprachbasierte Agenten-Funktionen, die es Pro- und Plus-Nutzern ermöglichen, komplexe Aufgaben auf ihren Telefonen zu erledigen. Dies erweitert die Möglichkeiten der KI-Nutzung im Alltag erheblich."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "summary": "Snorkel AI hat seine Bewertung auf 3,5 Milliarden Dollar verdreifacht und in einer Series E-Runde 350 Millionen Dollar eingesammelt. Dies unterstreicht die wachsende Nachfrage nach KI-Trainingsdaten und den Boom in diesem Sektor."
+      "headline": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "summary": "Das AI-Biotech-Unternehmen Enveda hat eine Finanzierungsrunde über 311 Millionen US-Dollar abgeschlossen und wird nun mit 2 Milliarden US-Dollar bewertet. Das Kapital soll genutzt werden, um weitere KI-basierte Medikamente natürlichen Ursprungs in klinische Studien zu bringen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
-      "summary": "Die prominente VC-Firma a16z startet eine Akademie für vielversprechende Highschool-Absolventen, eine Mischung aus Fachschule, Y Combinator und Thiel Fellowship. Damit fordert sie die traditionelle Silicon-Valley-Kultur heraus, die oft Schulabbrecher bevorzugt."
+      "headline": "Modal Motors is trying to cut China out of electric motors entirely",
+      "summary": "Das Startup Modal Motors entwickelt kleine, leichte Elektromotoren ohne Seltenerdmagnete, um die Abhängigkeit von China zu reduzieren. Diese Technologie eignet sich besonders für Drohnen, Ventilatoren und Roboter."
     }
   ],
   "learning": {
-    "topic": "Ablauf eines Short Squeeze",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist eine plötzliche und schnelle Preiserhöhung eines Wertpapiers, die hauptsächlich durch das Decken von Leerverkaufspositionen ausgelöst wird. Er zwingt Leerverkäufer, Aktien zurückzukaufen, was den Preis weiter in die Höhe treibt.",
-    "details": "Leerverkäufer (Shortseller) wetten auf fallende Kurse, indem sie Aktien leihen, verkaufen und später zu einem hoffentlich niedrigeren Preis zurückkaufen. Steigt der Kurs unerwartet stark an, geraten sie unter Druck: Um ihre potenziellen Verluste zu begrenzen oder Margin Calls zu vermeiden, müssen sie die geliehenen Aktien zu einem höheren Preis zurückkaufen. Dieser erzwungene Rückkauf erhöht die Nachfrage dramatisch und beschleunigt den Preisanstieg, was wiederum weitere Leerverkäufer zum Handeln zwingt und eine Aufwärtsspirale in Gang setzt.",
-    "takeaway": "Ein Short Squeeze zeigt, wie die Mechanik des Leerverkaufs im Falle eines Kurswachstums zu einem unkontrollierbaren Rallye-Effekt führen kann. Für Investoren ist das Verständnis wichtig, um potenzielle Risiken und Chancen bei stark leerverkauften Aktien zu bewerten."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Was ist der Unterschied?",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money-Bewertung ist der Wert eines Startups vor einer Finanzierungsrunde, während Post-Money-Bewertung der Wert nach dem Erhalt des neuen Kapitals ist.",
+    "details": "Wenn ein Startup Kapital von Investoren erhält, steigt sein Wert. Die Pre-Money-Bewertung ist der Unternehmenswert, den Gründer und Investoren vor der Geldspritze vereinbaren. Die Investitionssumme wird dann zu dieser Pre-Money-Bewertung addiert, um die Post-Money-Bewertung zu erhalten. Das neue Kapital repräsentiert gleichzeitig den Anteil der Investoren am Unternehmen, berechnet als Investitionssumme geteilt durch die Post-Money-Bewertung. Dies ist entscheidend, um zu verstehen, wie sich die Eigentumsanteile der Gründer und bestehenden Aktionäre nach einer Finanzierungsrunde verwässern.",
+    "takeaway": "Die Pre-Money-Bewertung bestimmt, wie viele Anteile Investoren für ihr Geld erhalten, und die Post-Money-Bewertung zeigt den Gesamtwert des Unternehmens, an dem diese Anteile gemessen werden."
   }
 }
