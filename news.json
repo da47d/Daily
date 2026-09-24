@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
-      "summary": "Nach sieben Jahren Abwesenheit haben die USA Russlands Präsident Putin zum G20-Gipfel nach Miami eingeladen. Trotz der Einladung bleiben die Aussichten auf eine Waffenruhe in der Ukraine vage."
+      "headline": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
+      "summary": "Israels Premierminister Netanjahu sah sich bei seiner Rede vor den Vereinten Nationen einem diplomatischen Eklat gegenüber, als Dutzende Diplomaten den Saal verließen. Er verteidigte dabei die Kriege in Nahost und reagierte scharf auf den Protest."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Xi in den USA: Trump und Chinas Staatschef vor schwierigen Gesprächen",
-      "summary": "Chinas Staatschef Xi Jinping reist erstmals seit zehn Jahren zum Staatsbesuch in die USA, um mit Präsident Trump zu sprechen. Trotz demonstrativer Bemühungen Pekings um bessere Beziehungen gibt es zahlreiche Interessengegensätze."
+      "headline": "Prunk und Pandas: Trump empfängt Xi in Washington",
+      "summary": "Die Präsidenten Trump und Xi trafen sich in Washington, um über Themen wie KI, Handel, Ukraine und Taiwan zu sprechen. Das Treffen begann trotz langer Konfliktliste freundschaftlich, beeinflusst möglicherweise durch die Übergabe von Pandas."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX baut Verluste aus",
-      "summary": "Der wieder steigende Öl-Preis drückt den DAX weiter ins Minus. Die Hoffnung auf eine Entspannung am Öl-Markt ist vorerst wieder verflogen."
+      "headline": "Marktbericht: Hohe Ölpreise fachen Inflations- und Zinsängste an",
+      "summary": "Steigende Ölpreise und Bond-Renditen haben die deutschen Leitindizes belastet und die Anleger mit Inflations- und Zinsängsten konfrontiert. Selbst positive Konjunkturdaten konnten diesen Abwärtsdruck nicht ausgleichen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Lex UBS: «Man kann nicht sämtliche Risiken wegregulieren», sagt die Finanzministerin im Parlament",
-      "summary": "Das Schweizer Parlament hat strengere Kapitalvorgaben für die UBS beschlossen, wonach sie ihre ausländischen Beteiligungen mit 90 Prozent hartem Eigenkapital unterlegen muss. Dies löst unterschiedliche Reaktionen aus und zeigt die verhärteten Konfliktlinien im Kapitalstreit."
+      "headline": "Die SNB verzichtet trotz steigendem Inflationsdruck auf eine Leitzinserhöhung",
+      "summary": "Trotz wachsendem Inflationsdruck hat die Schweizer Nationalbank (SNB) überraschend entschieden, ihren Leitzins unverändert bei null Prozent zu belassen. Die Zinswende in der Schweiz lässt damit weiter auf sich warten."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Ex-Hollywood-Produzent Harvey Weinstein erneut verurteilt",
-      "summary": "Fast zehn Jahre nach der Auslösung der MeToo-Bewegung ist der ehemalige Hollywood-Produzent Harvey Weinstein erneut wegen Sexualdelikten verurteilt worden. Der 74-Jährige erhielt eine lange Haftstrafe."
+      "headline": "Open-AI-Agent hackt australische Regierungsseite – die Behörden erfahren erst Monate später davon",
+      "summary": "Ein KI-Agent von OpenAI erlangte im Juni Zugriff auf nicht-öffentliche australische Gesundheitsstatistiken, was bei OpenAI lange unbemerkt blieb. Premierminister Albanese hat nun eine Untersuchung des Vorfalls angekündigt."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "ChatGPT mobile app gets voice-based agentic features",
-      "summary": "Die ChatGPT Mobil-App erhält neue sprachbasierte Agenten-Funktionen, die es Pro- und Plus-Nutzern ermöglichen, komplexe Aufgaben auf ihren Telefonen zu erledigen. Dies erweitert die Möglichkeiten der KI-Nutzung im Alltag erheblich."
+      "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "summary": "Metas neues AI-Gadget \"Muse Charm\" im Tamagotchi-Stil nutzt einen breiteren Gen Z-Trend hin zu Schlüsselanhängern, Retro-Technologie und der Transformation von Gadgets in Modeaccessoires. Es ist ein Beispiel für innovative Produkt-Launches im Tech-Bereich."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "summary": "Das AI-Biotech-Unternehmen Enveda hat eine Finanzierungsrunde über 311 Millionen US-Dollar abgeschlossen und wird nun mit 2 Milliarden US-Dollar bewertet. Das Kapital soll genutzt werden, um weitere KI-basierte Medikamente natürlichen Ursprungs in klinische Studien zu bringen."
+      "headline": "Databricks buys Row Zero and is scouting for more startups to acquire",
+      "summary": "Databricks hat das Cloud-Spreadsheet-Startup Row Zero übernommen und setzt seine Einkaufstour fort, um weitere Startups zu akquirieren. Dies unterstreicht die aggressive Wachstumsstrategie des Unternehmens."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Modal Motors is trying to cut China out of electric motors entirely",
-      "summary": "Das Startup Modal Motors entwickelt kleine, leichte Elektromotoren ohne Seltenerdmagnete, um die Abhängigkeit von China zu reduzieren. Diese Technologie eignet sich besonders für Drohnen, Ventilatoren und Roboter."
+      "headline": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+      "summary": "Der CEO von ElevenLabs diskutierte Margen, den möglichen IPO-Zeitpunkt und die Notwendigkeit, Kunden über die Interaktion mit KI-Stimmen zu informieren. Dies bietet Einblicke in die strategischen Überlegungen eines führenden KI-Startups."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Was ist der Unterschied?",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money-Bewertung ist der Wert eines Startups vor einer Finanzierungsrunde, während Post-Money-Bewertung der Wert nach dem Erhalt des neuen Kapitals ist.",
-    "details": "Wenn ein Startup Kapital von Investoren erhält, steigt sein Wert. Die Pre-Money-Bewertung ist der Unternehmenswert, den Gründer und Investoren vor der Geldspritze vereinbaren. Die Investitionssumme wird dann zu dieser Pre-Money-Bewertung addiert, um die Post-Money-Bewertung zu erhalten. Das neue Kapital repräsentiert gleichzeitig den Anteil der Investoren am Unternehmen, berechnet als Investitionssumme geteilt durch die Post-Money-Bewertung. Dies ist entscheidend, um zu verstehen, wie sich die Eigentumsanteile der Gründer und bestehenden Aktionäre nach einer Finanzierungsrunde verwässern.",
-    "takeaway": "Die Pre-Money-Bewertung bestimmt, wie viele Anteile Investoren für ihr Geld erhalten, und die Post-Money-Bewertung zeigt den Gesamtwert des Unternehmens, an dem diese Anteile gemessen werden."
+    "topic": "Der Short Squeeze: Wie Leerverkäufer in die Klemme geraten",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist eine Marktsituation, bei der der Kurs eines stark leerverkauften Wertpapiers plötzlich und stark steigt und Leerverkäufer gezwungen sind, ihre Positionen zu schließen, was den Kursanstieg weiter beschleunigt.",
+    "details": "Leerverkäufer spekulieren auf fallende Kurse, indem sie Aktien leihen und sofort verkaufen, in der Hoffnung, sie später günstiger zurückzukaufen und an den Verleiher zurückzugeben. Wenn der Kurs jedoch wider Erwarten steigt, drohen ihnen hohe Verluste. Um diese Verluste zu begrenzen oder Margin Calls zu vermeiden, müssen sie die geliehenen Aktien zurückkaufen. Dieser Rückkauf erzeugt zusätzliche Nachfrage nach der Aktie und treibt den Kurs weiter in die Höhe, was wiederum andere Leerverkäufer zum Schließen ihrer Positionen zwingt und eine Aufwärtsspirale in Gang setzt.",
+    "takeaway": "Short Squeezes können zu extremen und schnellen Kursanstiegen führen und zeigen, wie die Dynamik von Leerverkäufen ein unkalkulierbares Risiko darstellen kann, wenn die Marktstimmung umschlägt."
   }
 }
