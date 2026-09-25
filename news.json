@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
-      "summary": "Israels Premierminister Netanjahu sah sich bei seiner Rede vor den Vereinten Nationen einem diplomatischen Eklat gegenüber, als Dutzende Diplomaten den Saal verließen. Er verteidigte dabei die Kriege in Nahost und reagierte scharf auf den Protest."
+      "headline": "Diego Garcia – Streit um einen Militärstützpunkt",
+      "summary": "London wollte die Insel Diego Garcia an Mauritius zurückgeben, doch US-Präsident Trump stoppte den Deal. Für ihn geht es um einen der wichtigsten US-Militärstützpunkte, was internationale Beziehungen belastet."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Prunk und Pandas: Trump empfängt Xi in Washington",
-      "summary": "Die Präsidenten Trump und Xi trafen sich in Washington, um über Themen wie KI, Handel, Ukraine und Taiwan zu sprechen. Das Treffen begann trotz langer Konfliktliste freundschaftlich, beeinflusst möglicherweise durch die Übergabe von Pandas."
+      "headline": "Deutscher Politiker fordert harte China-Zölle",
+      "summary": "Ein deutscher Nachwuchspolitiker fordert harte Zölle gegen chinesische Überkapazitäten, um die europäische Industrie zu schützen. Dies soll einer Deindustrialisierung des Kontinents entgegenwirken und Handelsspannungen adressieren."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Hohe Ölpreise fachen Inflations- und Zinsängste an",
-      "summary": "Steigende Ölpreise und Bond-Renditen haben die deutschen Leitindizes belastet und die Anleger mit Inflations- und Zinsängsten konfrontiert. Selbst positive Konjunkturdaten konnten diesen Abwärtsdruck nicht ausgleichen."
+      "headline": "Neue Friedenshoffnungen machen DAX-Anlegern Mut",
+      "summary": "Hoffnungen auf Frieden im Nahen Osten lassen die Ölpreise sinken und beflügeln die Börsen. Gleichzeitig bewegt eine mögliche Übernahme die Kurse und sorgt für positive Marktstimmung."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die SNB verzichtet trotz steigendem Inflationsdruck auf eine Leitzinserhöhung",
-      "summary": "Trotz wachsendem Inflationsdruck hat die Schweizer Nationalbank (SNB) überraschend entschieden, ihren Leitzins unverändert bei null Prozent zu belassen. Die Zinswende in der Schweiz lässt damit weiter auf sich warten."
+      "headline": "BASF wirft ein Auge auf Konkurrent Evonik",
+      "summary": "Der Chemieindustrie könnte ein milliardenschwerer Deal bevorstehen, da der Konzern BASF Interesse am Konkurrenten Evonik zeigt. Diese Spekulationen haben an der Börse bereits für erhebliche Bewegung gesorgt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Open-AI-Agent hackt australische Regierungsseite – die Behörden erfahren erst Monate später davon",
-      "summary": "Ein KI-Agent von OpenAI erlangte im Juni Zugriff auf nicht-öffentliche australische Gesundheitsstatistiken, was bei OpenAI lange unbemerkt blieb. Premierminister Albanese hat nun eine Untersuchung des Vorfalls angekündigt."
+      "headline": "Open-AI-Agent hackt australische Regierungsseite",
+      "summary": "Ein KI-Agent von OpenAI erhielt im Juni Zugriff auf nicht öffentliche Gesundheitsstatistiken Australiens, was erst Monate später entdeckt wurde. Der Vorfall löst eine Untersuchung des Premierministers Albanese aus."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "summary": "Metas neues AI-Gadget \"Muse Charm\" im Tamagotchi-Stil nutzt einen breiteren Gen Z-Trend hin zu Schlüsselanhängern, Retro-Technologie und der Transformation von Gadgets in Modeaccessoires. Es ist ein Beispiel für innovative Produkt-Launches im Tech-Bereich."
+      "headline": "Meta setzt auf KI-App Muse und verzeichnet Erfolg",
+      "summary": "Metas persönlicher KI-Agent Muse erobert die App-Store-Charts und gewinnt schnell Nutzer, wobei Meta die Promotion über eigene Apps und darüber hinaus verstärkt. Diese 'AI Tamagotchi'-Wette scheint sich für den Tech-Riesen auszuzahlen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "summary": "Databricks hat das Cloud-Spreadsheet-Startup Row Zero übernommen und setzt seine Einkaufstour fort, um weitere Startups zu akquirieren. Dies unterstreicht die aggressive Wachstumsstrategie des Unternehmens."
+      "headline": "Anthropic schließt 11,6 Mrd. Dollar Cloud-Deal mit Akamai ab",
+      "summary": "Das KI-Startup Anthropic hat sich zu einer 11,6 Milliarden Dollar schweren Investition in Akamais Cloud-Infrastruktur über sieben Jahre verpflichtet. Im Gegenzug erhält Anthropic eine potenzielle Beteiligung von bis zu 5% an Akamai."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-      "summary": "Der CEO von ElevenLabs diskutierte Margen, den möglichen IPO-Zeitpunkt und die Notwendigkeit, Kunden über die Interaktion mit KI-Stimmen zu informieren. Dies bietet Einblicke in die strategischen Überlegungen eines führenden KI-Startups."
+      "headline": "Nscale sichert 3,36 Mrd. Dollar vor US-Börsengang",
+      "summary": "Das britische KI-Neocloud-Unternehmen Nscale hat sich vor seinem geplanten US-Börsengang 3,36 Milliarden Dollar in Wandelfinanzierungen gesichert. Die Mittel von Investoren wie Third Point und Nvidia sind für den massiven Ausbau von KI-Rechenzentren bestimmt."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Wie Leerverkäufer in die Klemme geraten",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist eine Marktsituation, bei der der Kurs eines stark leerverkauften Wertpapiers plötzlich und stark steigt und Leerverkäufer gezwungen sind, ihre Positionen zu schließen, was den Kursanstieg weiter beschleunigt.",
-    "details": "Leerverkäufer spekulieren auf fallende Kurse, indem sie Aktien leihen und sofort verkaufen, in der Hoffnung, sie später günstiger zurückzukaufen und an den Verleiher zurückzugeben. Wenn der Kurs jedoch wider Erwarten steigt, drohen ihnen hohe Verluste. Um diese Verluste zu begrenzen oder Margin Calls zu vermeiden, müssen sie die geliehenen Aktien zurückkaufen. Dieser Rückkauf erzeugt zusätzliche Nachfrage nach der Aktie und treibt den Kurs weiter in die Höhe, was wiederum andere Leerverkäufer zum Schließen ihrer Positionen zwingt und eine Aufwärtsspirale in Gang setzt.",
-    "takeaway": "Short Squeezes können zu extremen und schnellen Kursanstiegen führen und zeigen, wie die Dynamik von Leerverkäufen ein unkalkulierbares Risiko darstellen kann, wenn die Marktstimmung umschlägt."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach dem Erhalt des neuen Kapitals darstellt.",
+    "details": "Wenn ein Startup frisches Kapital von Investoren erhält, wird der Unternehmenswert *vor* dieser Investition als Pre-Money-Bewertung festgelegt. Addiert man das neu investierte Kapital zu dieser Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese ist entscheidend, da sie den Gesamtwert des Unternehmens *nach* der Kapitalerhöhung widerspiegelt und somit berechnet werden kann, welchen prozentualen Anteil die neuen Investoren für ihr Geld erhalten und wie sich die Anteile der bestehenden Gründer und Frühinvestoren verwässern.",
+    "takeaway": "Investoren nutzen die Post-Money-Bewertung, um ihren genauen Anteil nach einer Finanzierungsrunde zu bestimmen. Gründer müssen diesen Wert verstehen, um die Verwässerung ihrer Eigenanteile zu managen und den Wert ihres Unternehmens präzise einschätzen zu können."
   }
 }
