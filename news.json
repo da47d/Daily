@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kallas: Bericht offenbart Lücken bei EU-Verteidigungsbereitschaft",
-      "summary": "Die EU-Außenbeauftragte Kallas warnt vor erheblichen Mängeln in der Verteidigungsbereitschaft der Europäischen Union. Ein Bericht offenbart Lücken bei Luftverteidigung und Munitionsbeständen, was auf künftige Militärausgaben und geopolitische Spannungen hindeutet."
+      "headline": "Russland stellt Metros Vermögenswerte unter Zwangsverwaltung",
+      "summary": "Russland hat Vermögenswerte der Metro AG unter Zwangsverwaltung gestellt, da der Handelskonzern sein Geschäft nach Beginn des Ukraine-Kriegs weiterführte. Dies folgt einem Muster, bei dem der russische Präsident Putin bereits ähnliche Maßnahmen gegen andere Unternehmen ergriffen hat."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Rasierapparate, Kamele und Hasenfell: Die USA und China wollen die Zölle auf wenige ausgewählte Produkte reduzieren",
-      "summary": "Bei ihrem jüngsten Gipfeltreffen erzielten US-Präsident Trump und Xi Jinping nur einen Minimalkonsens zur Reduzierung von Zöllen auf wenige Produkte. Größere Handelsfragen wurden aufgeschoben, was die anhaltende Spannung in den US-chinesischen Wirtschaftsbeziehungen unterstreicht."
+      "headline": "USA und China wollen Zölle auf wenige ausgewählte Produkte reduzieren",
+      "summary": "Die USA und China einigten sich bei ihrem jüngsten Gipfeltreffen auf einen Minimalkonsens zur Reduzierung von Zöllen auf ausgewählte Produkte. Die großen Themen des Handelskonflikts wurden jedoch auf die lange Bank geschoben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX trotzt steigenden Ölpreisen",
-      "summary": "Der DAX hält sich zu Wochenbeginn stabil im Plus, obwohl die Ölpreise wieder anziehen. Die Lage bleibt angespannt, und der Kursfantasie sind ohne neue Impulse enge Grenzen gesetzt."
+      "headline": "Marktbericht: DAX gibt nur wenig nach",
+      "summary": "Der DAX zeigte sich zum Wochenstart trotz steigender Ölpreise widerstandsfähig, gestützt durch Hoffnungen auf weitere Gespräche zwischen den USA und Iran. Bei kleineren Konzernen gab es leichte Bewegungen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Nach der Schlappe im Ständerat: Das UBS-Lager plant einen neuen Kompromiss – die Börse wettet auf einen Wegzug",
-      "summary": "Bürgerliche Nationalräte in der Schweiz streben einen neuen Kompromiss im Streit um die Eigenkapitalanforderungen für Großbanken wie die UBS an. Die Börse spekuliert derweil über einen möglichen Wegzug der Bank aufgrund «unverhältnismäßiger Mehrkosten»."
+      "headline": "AMD will Fei-Fei Li’s World Labs für 8.2 Milliarden US-Dollar übernehmen",
+      "summary": "AMD plant die Akquisition von Fei-Fei Lis World Labs für 8,2 Milliarden US-Dollar, wobei die Gründerin als Executive Vice President und Chief Scientist zu AMD wechseln wird. Diese Milliardenübernahme unterstreicht die fortgesetzte Konsolidierung und den Kampf um Talent im Tech-Sektor."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Indien und Nepal: Viele Tote wegen Überschwemmungen",
-      "summary": "Starke Regenfälle haben in Nordindien und Nepal verheerende Überschwemmungen und Erdrutsche ausgelöst, bei denen über 80 Menschen ums Leben kamen und Tausende vermisst werden. Hunderte Häuser wurden zerstört, und die Angst vor weiteren Katastrophen bleibt."
+      "headline": "„Starship“-Rakete erreicht erstmals Erdumlaufbahn",
+      "summary": "Eine „Starship“-Rakete erreichte erstmals erfolgreich die Erdumlaufbahn und setzte dabei mehrere Satelliten aus. Trotz geplanter sechsfacher Erdumrundung landete die Riesenrakete wegen technischer Probleme jedoch Stunden früher im Pazifik."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "summary": "TikTok hat einer Vergleichszahlung von mindestens 100 Millionen US-Dollar an Alabama zugestimmt. Die Einigung betrifft Vorwürfe, die Plattform habe Nutzer über Sicherheit getäuscht und sei darauf ausgelegt, Kinder süchtig zu machen."
+      "headline": "Nvidia lanciert Plattform zur Eindämmung „schurkischer“ KI-Agenten",
+      "summary": "Nvidia hat eine neue Plattform vorgestellt, um „schurkische“ KI-Agenten zu kontrollieren und damit auf die Debatte um unkontrollierbare KI-Aktivitäten zu reagieren. Der Toolkit aus Software und Hardware fügt unabhängige Sicherheitsebenen um KI-Agenten hinzu."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "KI-Boom und Rüstung bringen Rekord bei Milliarden-Start-ups",
-      "summary": "Der deutsche Gründersektor erlebt einen Boom und bringt immer mehr Milliarden-Start-ups hervor, darunter Trade Republic und N26 sowie neue Akteure wie Osapiens und Stark Defense. Der Aufstieg wird maßgeblich durch KI und Rüstung getragen."
+      "headline": "Modal Labs vor 750 Mio. USD Finanzierungsrunde bei 15,75 Mrd. USD Bewertung",
+      "summary": "Der KI-Infrastruktur-Startup Modal Labs steht kurz vor einer Finanzierungsrunde von 750 Millionen US-Dollar, die die Bewertung auf 15,75 Milliarden US-Dollar steigern würde. Dies verdreifacht die Unternehmensbewertung innerhalb von nur vier Monaten."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "TechCrunch Mobility: AV companies pick their lanes",
-      "summary": "Im Bereich autonomer Fahrzeuge (AV) definieren Unternehmen zunehmend ihre Spezialisierungsbereiche. Künstliche Intelligenz spielt dabei eine immer wichtigere Rolle für die Zukunft des Transports und die Strategie der Startups."
+      "headline": "Anthropic veröffentlicht Sonnet 5.5: Günstigerer und schnellerer KI-Arbeitspartner",
+      "summary": "Anthropic hat die neueste Version seines Mid-Range-Modells, Sonnet 5.5, veröffentlicht, das als deutlich günstigerer und schnellerer Arbeitspartner beworben wird. Das Modell zeichnet sich durch verbesserte Reaktionszeiten und geringeren Token-Verbrauch aus."
     }
   ],
   "learning": {
-    "topic": "Derivate verständlich erklärt: Der Ernte-Vergleich",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem Basiswert abhängt. Sie dienen primär dazu, Risiken abzusichern oder auf Preisentwicklungen zu spekulieren.",
-    "details": "Stell dir einen Bauern vor, der Weizen anbaut. Er weiß heute nicht, wie viel er in sechs Monaten für seinen Weizen bekommen wird. Wenn der Preis fällt, macht er Verlust. Ein Derivat wie ein Futures-Kontrakt könnte ihm helfen: Er vereinbart heute mit einem Großhändler einen festen Preis für seine zukünftige Ernte. Der Großhändler sichert sich damit ebenfalls einen Preis, falls der Weizen teurer wird. Beide Parteien sichern sich so gegen Preisfluktuationen ab. Auch wenn der Bauer seinen Weizen später an jemand anderen verkauft, wird der Wert seines Futures-Kontrakts die Preisdifferenz ausgleichen. So 'leitet' sich der Wert des Kontrakts vom Weizenpreis ab.",
-    "takeaway": "Derivate sind keine magischen Finanzprodukte, sondern oft logische Absicherungs- oder Spekulationsinstrumente, die sich vom Wert eines Basisguts ableiten und so zur Risikostreuung beitragen können."
+    "topic": "ETF-Namenszusätze entschlüsseln: Dein Wegweiser durch den Fondsdschungel",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "ETF-Namenszusätze wie \"Core\", \"IMI\", \"Acc\" oder \"UCITS\" sind wichtige Codes, die dir auf einen Blick die Strategie, den geografischen Fokus und die Ertragsverwendung eines Indexfonds verraten. Sie helfen Anlegern, die Eignung eines ETFs für ihre Portfolioziele schnell zu erkennen.",
+    "details": "„Core“ steht oft für kostengünstige ETFs, die breite Märkte abdecken. „IMI“ (Investable Market Index) zeigt an, dass der ETF nicht nur Large Caps, sondern auch Mid- und Small Caps berücksichtigt. Bei „Acc“ (Accumulating/thesaurierend) werden Erträge automatisch reinvestiert, während „Dist“ (Distributing/ausschüttend) eine regelmäßige Auszahlung an die Anleger bedeutet. „UCITS“ garantiert die Einhaltung EU-weiter Anlegerschutz- und Diversifikationsrichtlinien. Bei der Replikation gibt es „Swap“ (synthetisch), wo der Index über ein Tauschgeschäft abgebildet wird, oder „Physisch“ (replizierend), wo die Wertpapiere des Index direkt gekauft werden.",
+    "takeaway": "Das Entschlüsseln dieser Kürzel ermöglicht eine fundierte Auswahl von ETFs, die exakt zur persönlichen Anlagestrategie und dem Risikoprofil passen. So kann man schnell erkennen, ob ein Fonds ausschüttet, breit streut oder welche Replikationsmethode er verwendet."
   }
 }
