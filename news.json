@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russland stellt Metros Vermögenswerte unter Zwangsverwaltung",
-      "summary": "Russland hat Vermögenswerte der Metro AG unter Zwangsverwaltung gestellt, da der Handelskonzern sein Geschäft nach Beginn des Ukraine-Kriegs weiterführte. Dies folgt einem Muster, bei dem der russische Präsident Putin bereits ähnliche Maßnahmen gegen andere Unternehmen ergriffen hat."
+      "headline": "US-Importverbote gegen Kanada ab heute in Kraft",
+      "summary": "Ab heute treten neue US-Importverbote für kanadische Waren in Kraft, wovon unter anderem Molkereiprodukte, alkoholische Getränke und Motorräder betroffen sind. Diese Maßnahme hat direkte Auswirkungen auf die Handelsbeziehungen beider Länder."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA und China wollen Zölle auf wenige ausgewählte Produkte reduzieren",
-      "summary": "Die USA und China einigten sich bei ihrem jüngsten Gipfeltreffen auf einen Minimalkonsens zur Reduzierung von Zöllen auf ausgewählte Produkte. Die großen Themen des Handelskonflikts wurden jedoch auf die lange Bank geschoben."
+      "headline": "USA und China reduzieren Zölle auf ausgewählte Produkte",
+      "summary": "Beim jüngsten Gipfeltreffen konnten sich die USA und China lediglich auf einen Minimalkonsens zur Reduzierung von Zöllen auf wenige ausgewählte Produkte einigen. Die größeren Themen des Handelsstreits wurden von beiden Staatschefs auf die lange Bank geschoben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX gibt nur wenig nach",
-      "summary": "Der DAX zeigte sich zum Wochenstart trotz steigender Ölpreise widerstandsfähig, gestützt durch Hoffnungen auf weitere Gespräche zwischen den USA und Iran. Bei kleineren Konzernen gab es leichte Bewegungen."
+      "headline": "Marktbericht: Anleger können sich nicht zum Kauf durchringen",
+      "summary": "Steigende Ölpreise belasten derzeit die globalen Aktienmärkte, da positive Impulse weitgehend fehlen. Neue Hoffnungen auf eine diplomatische Einigung zwischen den USA und Iran könnten jedoch den Markt stützen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "AMD will Fei-Fei Li’s World Labs für 8.2 Milliarden US-Dollar übernehmen",
-      "summary": "AMD plant die Akquisition von Fei-Fei Lis World Labs für 8,2 Milliarden US-Dollar, wobei die Gründerin als Executive Vice President und Chief Scientist zu AMD wechseln wird. Diese Milliardenübernahme unterstreicht die fortgesetzte Konsolidierung und den Kampf um Talent im Tech-Sektor."
+      "headline": "UBS-Aktie auf 18-Jahre-Hoch trotz Eigenkapital-Streit",
+      "summary": "Trotz eines unversöhnlichen Streits zwischen dem Bundesrat und der UBS über die Höhe des Eigenkapitals, erreicht die UBS-Aktie ein 18-Jahre-Hoch. Analysten blicken gelassen auf die Diskussionen und Medienspekulationen über eine mögliche Abkehr der UBS von der Schweiz."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "„Starship“-Rakete erreicht erstmals Erdumlaufbahn",
-      "summary": "Eine „Starship“-Rakete erreichte erstmals erfolgreich die Erdumlaufbahn und setzte dabei mehrere Satelliten aus. Trotz geplanter sechsfacher Erdumrundung landete die Riesenrakete wegen technischer Probleme jedoch Stunden früher im Pazifik."
+      "headline": "Tesla verschiebt Roadster 2 Event erneut wegen schlechten Wetters",
+      "summary": "Tesla hat das Präsentationsevent für den Roadster 2 erneut verschoben, da die Veranstaltung angeblich nur im Freien stattfinden kann. Erwartet wird, dass das Auto in irgendeiner Form mit SpaceX-Triebwerken fliegen wird."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia lanciert Plattform zur Eindämmung „schurkischer“ KI-Agenten",
-      "summary": "Nvidia hat eine neue Plattform vorgestellt, um „schurkische“ KI-Agenten zu kontrollieren und damit auf die Debatte um unkontrollierbare KI-Aktivitäten zu reagieren. Der Toolkit aus Software und Hardware fügt unabhängige Sicherheitsebenen um KI-Agenten hinzu."
+      "headline": "Nvidia stellt Plattform für die Kontrolle von KI-Agenten vor",
+      "summary": "Nvidia-CEO Jensen Huang präsentierte ein Toolkit aus Software und Hardware, das unabhängige Sicherheitsebenen um KI-Agenten legt. Dies soll sicherstellen, dass diese in ihren Testumgebungen verbleiben, selbst bei Ausbruchversuchen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Modal Labs vor 750 Mio. USD Finanzierungsrunde bei 15,75 Mrd. USD Bewertung",
-      "summary": "Der KI-Infrastruktur-Startup Modal Labs steht kurz vor einer Finanzierungsrunde von 750 Millionen US-Dollar, die die Bewertung auf 15,75 Milliarden US-Dollar steigern würde. Dies verdreifacht die Unternehmensbewertung innerhalb von nur vier Monaten."
+      "headline": "Modal Labs vor 750-Millionen-Dollar-Finanzierungsrunde mit 15,75 Milliarden Bewertung",
+      "summary": "Das AI-Infrastruktur-Startup Modal Labs steht kurz vor einer Finanzierungsrunde von 750 Millionen US-Dollar, die seine Bewertung auf 15,75 Milliarden US-Dollar verdreifachen soll. Dies geschieht nur vier Monate nach der letzten Bewertung."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic veröffentlicht Sonnet 5.5: Günstigerer und schnellerer KI-Arbeitspartner",
-      "summary": "Anthropic hat die neueste Version seines Mid-Range-Modells, Sonnet 5.5, veröffentlicht, das als deutlich günstigerer und schnellerer Arbeitspartner beworben wird. Das Modell zeichnet sich durch verbesserte Reaktionszeiten und geringeren Token-Verbrauch aus."
+      "headline": "Protego Ventures schließt Debütfonds für israelische Verteidigungstechnologie ab",
+      "summary": "Protego Ventures, der erste und größte spezialisierte Defense-Tech-VC in Israel, hat seinen ersten Fonds mit 125 Millionen US-Dollar erfolgreich abgeschlossen. Der Fonds konzentriert sich auf Investitionen in israelische Verteidigungstechnologie-Startups."
     }
   ],
   "learning": {
-    "topic": "ETF-Namenszusätze entschlüsseln: Dein Wegweiser durch den Fondsdschungel",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "ETF-Namenszusätze wie \"Core\", \"IMI\", \"Acc\" oder \"UCITS\" sind wichtige Codes, die dir auf einen Blick die Strategie, den geografischen Fokus und die Ertragsverwendung eines Indexfonds verraten. Sie helfen Anlegern, die Eignung eines ETFs für ihre Portfolioziele schnell zu erkennen.",
-    "details": "„Core“ steht oft für kostengünstige ETFs, die breite Märkte abdecken. „IMI“ (Investable Market Index) zeigt an, dass der ETF nicht nur Large Caps, sondern auch Mid- und Small Caps berücksichtigt. Bei „Acc“ (Accumulating/thesaurierend) werden Erträge automatisch reinvestiert, während „Dist“ (Distributing/ausschüttend) eine regelmäßige Auszahlung an die Anleger bedeutet. „UCITS“ garantiert die Einhaltung EU-weiter Anlegerschutz- und Diversifikationsrichtlinien. Bei der Replikation gibt es „Swap“ (synthetisch), wo der Index über ein Tauschgeschäft abgebildet wird, oder „Physisch“ (replizierend), wo die Wertpapiere des Index direkt gekauft werden.",
-    "takeaway": "Das Entschlüsseln dieser Kürzel ermöglicht eine fundierte Auswahl von ETFs, die exakt zur persönlichen Anlagestrategie und dem Risikoprofil passen. So kann man schnell erkennen, ob ein Fonds ausschüttet, breit streut oder welche Replikationsmethode er verwendet."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Die Logik hinter VC-Deals",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach Erhalt der neuen Investition darstellt.",
+    "details": "Diese Unterscheidung ist essenziell für die Berechnung der Eigentumsanteile und die Verwässerung bestehender Aktionäre. Die Post-Money-Bewertung ergibt sich aus der Summe der Pre-Money-Bewertung und dem neuen Investment. Wenn ein Investor beispielsweise 1 Million Euro in ein Startup mit einer Pre-Money-Bewertung von 9 Millionen Euro investiert, beträgt die Post-Money-Bewertung 10 Millionen Euro, und der Investor erhält 10% der Anteile (1 Mio / 10 Mio). Dies beeinflusst direkt die Anteile der Gründer und aller bestehenden Investoren.",
+    "takeaway": "Die Kenntnis von Pre- und Post-Money ist entscheidend, um den Verwässerungseffekt von Anteilen nach einer Finanzierungsrunde zu verstehen und den tatsächlichen Wertzuwachs des Unternehmens korrekt zu bewerten, was für Gründer wie Investoren gleichermaßen relevant ist."
   }
 }
