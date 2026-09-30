@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Importverbote gegen Kanada ab heute in Kraft",
-      "summary": "Ab heute treten neue US-Importverbote für kanadische Waren in Kraft, wovon unter anderem Molkereiprodukte, alkoholische Getränke und Motorräder betroffen sind. Diese Maßnahme hat direkte Auswirkungen auf die Handelsbeziehungen beider Länder."
+      "headline": "Gewaltvorfall bei Flydubai-Flug nach Tel Aviv: Israel geht von Terroranschlag aus",
+      "summary": "An Bord einer Flydubai-Maschine von Dubai nach Tel Aviv stach ein Pilot auf seinen Kollegen ein, wobei 180 Israelis an Bord waren. Die israelische Regierung stuft den Vorfall als versuchten Terroranschlag ein, was die regionalen Spannungen verschärft."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA und China reduzieren Zölle auf ausgewählte Produkte",
-      "summary": "Beim jüngsten Gipfeltreffen konnten sich die USA und China lediglich auf einen Minimalkonsens zur Reduzierung von Zöllen auf wenige ausgewählte Produkte einigen. Die größeren Themen des Handelsstreits wurden von beiden Staatschefs auf die lange Bank geschoben."
+      "headline": "China schnürt Europas Industrie die Luft ab: EU-Handelskommissar reist mit heikler Mission nach Peking",
+      "summary": "EU-Handelskommissar Maros Sefcovic fordert beinahe ultimativ Zugeständnisse von China beim Handel, um die europäische Industrie zu schützen. Diese Reise unterstreicht die wachsenden globalen Handelsspannungen und den Druck auf Peking."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Anleger können sich nicht zum Kauf durchringen",
-      "summary": "Steigende Ölpreise belasten derzeit die globalen Aktienmärkte, da positive Impulse weitgehend fehlen. Neue Hoffnungen auf eine diplomatische Einigung zwischen den USA und Iran könnten jedoch den Markt stützen."
+      "headline": "Zinsängste schrecken DAX-Anleger ab: Inflation über EZB-Ziel",
+      "summary": "Am deutschen Aktienmarkt überwog heute die Sorge vor steigenden Zinsen, ausgelöst durch Inflationsdaten aus der Eurozone deutlich über dem EZB-Ziel. Dies deutet auf mögliche restriktivere Geldpolitik hin und belastet die Investorenstimmung."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "UBS-Aktie auf 18-Jahre-Hoch trotz Eigenkapital-Streit",
-      "summary": "Trotz eines unversöhnlichen Streits zwischen dem Bundesrat und der UBS über die Höhe des Eigenkapitals, erreicht die UBS-Aktie ein 18-Jahre-Hoch. Analysten blicken gelassen auf die Diskussionen und Medienspekulationen über eine mögliche Abkehr der UBS von der Schweiz."
+      "headline": "EU bereitet sich auf 'sehr harten Winter' vor: Teures Gas und Erdöl belasten Haushalte",
+      "summary": "Die EU steht vor einem finanziell herausfordernden Winter, da hohe Gas- und Ölpreise sowie teure Gasspeicherfüllungen Europa unter Druck setzen. Konsumenten müssen mit steigenden Kosten rechnen, während Entlastungsmaßnahmen zunehmend schwierig werden."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Tesla verschiebt Roadster 2 Event erneut wegen schlechten Wetters",
-      "summary": "Tesla hat das Präsentationsevent für den Roadster 2 erneut verschoben, da die Veranstaltung angeblich nur im Freien stattfinden kann. Erwartet wird, dass das Auto in irgendeiner Form mit SpaceX-Triebwerken fliegen wird."
+      "headline": "DoorDash startet KI-Agenten für Essensbestellungen per Textnachricht",
+      "summary": "DoorDash hat einen neuen KI-Agenten eingeführt, der es Nutzern ermöglicht, Essen per Textnachricht zu bestellen, um sich einen Vorteil gegenüber Konkurrenten zu verschaffen. Dies ist ein bedeutender Schritt in der KI-Integration in Verbraucherdienste und könnte die Branche verändern."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia stellt Plattform für die Kontrolle von KI-Agenten vor",
-      "summary": "Nvidia-CEO Jensen Huang präsentierte ein Toolkit aus Software und Hardware, das unabhängige Sicherheitsebenen um KI-Agenten legt. Dies soll sicherstellen, dass diese in ihren Testumgebungen verbleiben, selbst bei Ausbruchversuchen."
+      "headline": "Hacker stehlen Millionen US-Militärdaten über monatelangen Zeitraum",
+      "summary": "Das US-Verteidigungsministerium informierte Millionen ehemaliger und aktueller US-Militärangehöriger über den Diebstahl ihrer persönlichen Daten bei einem monatelangen Hack. Dieser Vorfall ist eine Top-Schlagzeile aufgrund seiner immensen Tragweite für die nationale Sicherheit und das Vertrauen in digitale Systeme."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Modal Labs vor 750-Millionen-Dollar-Finanzierungsrunde mit 15,75 Milliarden Bewertung",
-      "summary": "Das AI-Infrastruktur-Startup Modal Labs steht kurz vor einer Finanzierungsrunde von 750 Millionen US-Dollar, die seine Bewertung auf 15,75 Milliarden US-Dollar verdreifachen soll. Dies geschieht nur vier Monate nach der letzten Bewertung."
+      "headline": "Neko Health des Spotify-Milliardärs Daniel Ek sammelt 700 Millionen Dollar für Ganzkörper-Scan-Geschäft",
+      "summary": "Das Startup Neko Health von Spotify-Gründer Daniel Ek hat 700 Millionen Dollar eingesammelt und expandiert mit seinen Ganzkörper-Scans in die USA. Diese massive Investition unterstreicht das wachsende Vertrauen von VCs in den Bereich der präventiven Gesundheitstechnologie."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Protego Ventures schließt Debütfonds für israelische Verteidigungstechnologie ab",
-      "summary": "Protego Ventures, der erste und größte spezialisierte Defense-Tech-VC in Israel, hat seinen ersten Fonds mit 125 Millionen US-Dollar erfolgreich abgeschlossen. Der Fonds konzentriert sich auf Investitionen in israelische Verteidigungstechnologie-Startups."
+      "headline": "KI-Sprach-Startup ElevenLabs verdoppelt Bewertung auf 22 Milliarden Dollar",
+      "summary": "Das KI-Sprach-Startup ElevenLabs hat seine Bewertung auf beeindruckende 22 Milliarden Dollar verdoppelt und eine 300 Millionen Dollar schwere Finanzierungsrunde abgeschlossen. Dies demonstriert das enorme Wachstum und das starke Investoreninteresse an disruptiven KI-Technologien."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Die Logik hinter VC-Deals",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach Erhalt der neuen Investition darstellt.",
-    "details": "Diese Unterscheidung ist essenziell für die Berechnung der Eigentumsanteile und die Verwässerung bestehender Aktionäre. Die Post-Money-Bewertung ergibt sich aus der Summe der Pre-Money-Bewertung und dem neuen Investment. Wenn ein Investor beispielsweise 1 Million Euro in ein Startup mit einer Pre-Money-Bewertung von 9 Millionen Euro investiert, beträgt die Post-Money-Bewertung 10 Millionen Euro, und der Investor erhält 10% der Anteile (1 Mio / 10 Mio). Dies beeinflusst direkt die Anteile der Gründer und aller bestehenden Investoren.",
-    "takeaway": "Die Kenntnis von Pre- und Post-Money ist entscheidend, um den Verwässerungseffekt von Anteilen nach einer Finanzierungsrunde zu verstehen und den tatsächlichen Wertzuwachs des Unternehmens korrekt zu bewerten, was für Gründer wie Investoren gleichermaßen relevant ist."
+    "topic": "Startup-Slang entschlüsselt: SaaS, B2B, ARR, Burn Rate, Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese Begriffe sind Schlüsselkonzepte in der Startup- und Venture Capital-Welt, die Geschäftsmodelle, Wachstum und finanzielle Gesundheit von Unternehmen beschreiben. Sie helfen Investoren und Gründern, schnell die Performance und das Potenzial eines jungen Unternehmens zu bewerten.",
+    "details": "SaaS (Software as a Service) ist ein Geschäftsmodell, bei dem Software abonnementbasiert über das Internet bereitgestellt wird. B2B (Business-to-Business) beschreibt Unternehmen, die an andere Unternehmen verkaufen. ARR (Annual Recurring Revenue) ist der jährliche wiederkehrende Umsatz aus Abonnements und eine zentrale Metrik für SaaS-Firmen. Die Burn Rate ist die Geschwindigkeit, mit der ein Startup seine liquiden Mittel verbraucht, typischerweise monatlich angegeben. Churn ist die Abwanderungsrate von Kunden oder der Verlust von Umsatz über einen Zeitraum.",
+    "takeaway": "Das Verständnis dieser Begriffe ist essenziell, um die Kommunikation im Tech- und VC-Umfeld zu meistern und Geschäftsmodelle schnell zu analysieren, da sie direkte Indikatoren für Wachstum, Risiko und Profitabilität sind."
   }
 }
