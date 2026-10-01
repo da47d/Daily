@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Neue Ausreiseverbote für Chinas 'nationale Sicherheit'",
-      "summary": "Peking verhängt immer mehr Chinesen Ausreiseverbote, um die Abwanderung von Know-how und Talenten zu verhindern. Ein weit gefasstes neues Gesetz soll insbesondere den Transfer in die USA stoppen und so die nationale Sicherheit schützen."
+      "headline": "Merz' verleiht Friedenspreis an die NATO - \"Moskau Einhalt gebieten\"",
+      "summary": "Kanzler Merz hat die Verleihung des Westfälischen Friedenspreises an die NATO genutzt, um die Bedeutung der Allianz im Angesicht der russischen Aggression zu betonen. Er unterstrich die Notwendigkeit, \"Moskau Einhalt zu gebieten\" und die internationale Sicherheit zu gewährleisten."
     },
     {
       "tag": "POLITIK & GLOBAL",
       "headline": "China schnürt Europas Industrie die Luft ab: Nun reist der EU-Handelskommissar mit einem kaum erfüllbaren Auftrag nach Peking",
-      "summary": "Der EU-Handelskommissar Maros Sefcovic reist mit beinahe ultimativen Forderungen für Handelszugeständnisse nach Peking. Die EU will damit ihre Industrie vor chinesischer Konkurrenz schützen, fürchtet aber auch Gegenmaßnahmen."
+      "summary": "Angesichts der zunehmenden wirtschaftlichen Spannungen reist EU-Handelskommissar Maros Sefcovic mit fordernden Zugeständnissen an China nach Peking. Die Mission soll den Druck auf Europas Industrie mindern, steht aber vor großen Herausforderungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX fällt unter 25.000 Punkte",
-      "summary": "Belastet von Inflationssorgen und der Befürchtung steigender Zinsen ist der DAX mit Verlusten in den Oktober gestartet. Dabei fiel sogar die psychologisch wichtige Marke von 25.000 Punkten und signalisiert eine angespannte Marktstimmung."
+      "headline": "Marktbericht: DAX schließt unter 25.000 Punkten",
+      "summary": "Der DAX schloss erstmals seit Juli unterhalb der psychologisch wichtigen Marke von 25.000 Punkten, beeinflusst durch steigende Energiepreise und weiter anziehende Anleiherenditen. Dies signalisiert eine erhöhte Vorsicht und Unsicherheit am deutschen Aktienmarkt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "MELDUNGEN WIRTSCHAFT - Die Schweizer Jahresinflation erreicht ein Prozent",
-      "summary": "Die Schweizer Jahresinflation hat ein Prozent erreicht, was als wichtige makroökonomische Kennzahl gilt. Gleichzeitig reaktiviert Mercedes-Benz ein Abfindungsprogramm in Deutschland, was auf strukturelle Anpassungen in der Industrie hindeutet."
+      "headline": "Teures Gas und Erdöl: Die EU bereite sich auf einen «sehr harten Winter» vor, sagt der EU-Kommissar",
+      "summary": "Ein EU-Kommissar warnt vor einem \"sehr harten Winter\" für Europa, da die Gasspeicher zu hohen Kosten gefüllt werden müssen und für Entlastungsmaßnahmen zunehmend Geld fehlt. Die hohen Energiepreise werden Verbraucher und Wirtschaft stark belasten und rächen sich für frühere Versäumnisse."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "summary": "Google hat sein neuestes Gemini-Modell, Gemini 4 Argon, vorgestellt und bewirbt es als sein leistungsstärkstes Modell bisher. Es ist speziell als Arbeitstier für Coding und Cybersicherheitsaufgaben konzipiert und markiert einen wichtigen AI-Meilenstein."
+      "headline": "ChatGPT can now virtually try on clothes for you",
+      "summary": "OpenAI hat neue Shopping-Funktionen für ChatGPT eingeführt, die Nutzern das virtuelle Anprobieren von Kleidung und Accessoires mittels eigener Fotos ermöglichen. Diese Innovation könnte das Online-Shopping revolutionieren und die Interaktion mit KI im Alltag vertiefen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Die Flugsicherheit rückt wieder in den Fokus: Die wirtschaftlichen Folgen der Beinahe-Katastrophe bei Flydubai",
-      "summary": "Nach einer gewaltsamen Auseinandersetzung im Cockpit eines Flydubai-Fluges rückt die Flugsicherheit wieder verstärkt in den Fokus der Öffentlichkeit. Der Vorfall hat bereits Auswirkungen auf den Flugverkehr und setzt Fluggesellschaften unter Druck, ihre Crews besser zu überprüfen."
+      "headline": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "summary": "Shopify hat \"Canvas\" vorgestellt, einen neuen Website-Builder, der es Händlern ermöglicht, Online-Shops durch Konversation mit dem KI-Agenten Sidekick in Echtzeit zu erstellen und anzupassen. Dies markiert einen bedeutenden Schritt in der Demokratisierung des E-Commerce-Designs durch KI-gestützte Tools."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "summary": "Das von einem ehemaligen Google- und SpaceX-Produktmanager gegründete Startup Satlyt hat 8 Millionen Dollar in einer Finanzierungsrunde eingesammelt. Satlyt zielt darauf ab, KI auf Satelliten zu betreiben und als offene Softwareplattform für Orbital-Computing zu dienen."
+      "headline": "This startup wants to turn idle car inventory into rental revenue",
+      "summary": "Das Startup MyMonthlyCar zielt darauf ab, ungenutzte Fahrzeugbestände von Autohändlern in Mieterträge umzuwandeln und so Millionen von Dollar an Wert freizusetzen. Dieses innovative Geschäftsmodell wird beim TechCrunch Disrupt vorgestellt und könnte die Effizienz im Automobilhandel steigern."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "summary": "Das KI-Startup Flow Engineering, das KI-Agenten ins Hardware-Design bringt, wurde in seiner jüngsten Finanzierungsrunde mit 750 Millionen Dollar bewertet. Renommierte VCs wie Valor, Atreides und Sequoia beteiligten sich an der Runde, ergänzt durch Angel-Investor Roelof Botha."
+      "headline": "Infomaniak geht als erste Schweizer IT-Firma seit Jahren an die Börse – und setzt dabei auf chinesische Technologie",
+      "summary": "Der Genfer Cloud-Anbieter Infomaniak wagt als erste Schweizer IT-Firma seit Langem den Börsengang, mit dem Ziel, digitale Souveränität zu fördern, obwohl er auf chinesische Open-Source-Technologie setzt. Dieser Schritt wirft interessante Fragen bezüglich technologischer Unabhängigkeit und globaler Kooperation auf."
     }
   ],
   "learning": {
-    "topic": "Strategic Buyer vs. Financial Buyer: Wer kauft warum?",
-    "category": "Finanz-Dechiffrierung: Abkürzungen und Produktbezeichnungen zerlegen",
-    "concept": "Bei M&A-Transaktionen unterscheiden wir primär zwischen strategischen und Finanzkäufern, deren Motivationen und Zielsetzungen fundamental voneinander abweichen. Das Verständnis dieser Unterschiede ist entscheidend für die Bewertung eines Deals.",
-    "details": "Ein strategischer Käufer ist in der Regel ein Unternehmen, das ein anderes Unternehmen erwirbt, um Synergien zu erzielen – sei es durch Kostensenkungen, Markterweiterung, Technologiesicherung oder die Eliminierung eines Konkurrenten. Ihr Fokus liegt auf der Integration und dem langfristigen operativen Wachstum. Ein Finanzkäufer hingegen ist meist ein Private Equity Fonds oder eine andere Investmentgesellschaft, die ein Unternehmen mit dem Ziel kauft, es innerhalb weniger Jahre (oft 3-7 Jahre) profitabel weiterzuentwickeln und mit Gewinn zu verkaufen. Ihr Fokus liegt auf der Optimierung der Kapitalstruktur, Effizienzsteigerung und dem finanziellen Leverage, um die Rendite auf das eingesetzte Kapital zu maximieren.",
-    "takeaway": "Strategic Buyers zahlen oft Premiumpreise für Synergien, während Financial Buyers primär auf verbesserte Cashflows und einen attraktiven Wiederverkaufswert abzielen. Diese unterschiedlichen Logiken prägen die Verhandlungen und die Post-Akquisitions-Strategie."
+    "topic": "Cap-Table-Logik bei einer Down Round",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Eine Down Round ist eine Finanzierungsrunde, bei der ein Startup zu einer niedrigeren Bewertung pro Aktie Kapital aufnimmt als in der vorherigen Runde. Dies führt zu einer erheblichen Verwässerung der Anteile bestehender Aktionäre, insbesondere der Gründer.",
+    "details": "Die Cap Table (Capitalization Table) visualisiert die Eigentümerstruktur eines Unternehmens und wird bei einer Down Round besonders relevant. Da neue Investoren zu einer niedrigeren Pre-Money-Bewertung einsteigen, wird der relative Anteil der bisherigen Eigentümer am Unternehmen reduziert. Bestehende Investoren mit Anti-Dilution-Klauseln können unter Umständen ihren Anteilswert schützen, was die Verwässerung für Gründer und nicht geschützte Aktionäre jedoch noch verstärkt. Eine Down Round ist oft ein Zeichen für verfehlte Ziele oder schwierige Marktbedingungen, die eine Neubewertung und Anpassung der Kapitalstruktur erzwingen, um das Überleben des Unternehmens zu sichern.",
+    "takeaway": "Eine Down Round ist eine schmerzhafte Realität, die zu starker Verwässerung führt und die Motivation beeinflussen kann. Ihre Dynamik und Auswirkungen auf die Cap Table sind für die Bewertung von Startups und die Verhandlung von Finanzierungsrunden entscheidend."
   }
 }
