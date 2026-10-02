@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Merz' verleiht Friedenspreis an die NATO - \"Moskau Einhalt gebieten\"",
-      "summary": "Kanzler Merz hat die Verleihung des Westfälischen Friedenspreises an die NATO genutzt, um die Bedeutung der Allianz im Angesicht der russischen Aggression zu betonen. Er unterstrich die Notwendigkeit, \"Moskau Einhalt zu gebieten\" und die internationale Sicherheit zu gewährleisten."
+      "headline": "Luftangriffe auf Kiew dauern an - Brücken gesperrt",
+      "summary": "Russland setzt seine Angriffe auf die ukrainische Infrastruktur fort, wobei eine wichtige Ost-West-Verbindung in Kiew von einer Drohne getroffen wurde. Mehrere Brücken wurden gesperrt, was die Logistik in der Hauptstadt beeinträchtigt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "China schnürt Europas Industrie die Luft ab: Nun reist der EU-Handelskommissar mit einem kaum erfüllbaren Auftrag nach Peking",
-      "summary": "Angesichts der zunehmenden wirtschaftlichen Spannungen reist EU-Handelskommissar Maros Sefcovic mit fordernden Zugeständnissen an China nach Peking. Die Mission soll den Druck auf Europas Industrie mindern, steht aber vor großen Herausforderungen."
+      "headline": "Zollverhandlungen Schweiz – USA: Donald Trump greift die Schweiz erneut an",
+      "summary": "Die Zollverhandlungen zwischen der Schweiz und den USA geraten erneut unter Druck, da Donald Trump Drohungen wegen des Handelsdefizits ausspricht. Er fordert, dass die USA nicht weiterhin Milliarden für Schweizer Uhren verlieren sollten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX schließt unter 25.000 Punkten",
-      "summary": "Der DAX schloss erstmals seit Juli unterhalb der psychologisch wichtigen Marke von 25.000 Punkten, beeinflusst durch steigende Energiepreise und weiter anziehende Anleiherenditen. Dies signalisiert eine erhöhte Vorsicht und Unsicherheit am deutschen Aktienmarkt."
+      "headline": "Inflation im Euroraum steigt stärker als erwartet - auf 3,8 Prozent",
+      "summary": "Die Inflationsrate in der Eurozone ist im September auf 3,8 Prozent gestiegen, die höchste Rate seit September 2023. Hauptursache für diesen Anstieg sind die hohen Energiepreise."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Teures Gas und Erdöl: Die EU bereite sich auf einen «sehr harten Winter» vor, sagt der EU-Kommissar",
-      "summary": "Ein EU-Kommissar warnt vor einem \"sehr harten Winter\" für Europa, da die Gasspeicher zu hohen Kosten gefüllt werden müssen und für Entlastungsmaßnahmen zunehmend Geld fehlt. Die hohen Energiepreise werden Verbraucher und Wirtschaft stark belasten und rächen sich für frühere Versäumnisse."
+      "headline": "Marktbericht: DAX wieder über 25.000 Punkten",
+      "summary": "Der DAX hat vor der Veröffentlichung wichtiger US-Arbeitsmarktdaten zugelegt und notiert wieder über 25.000 Punkten. Anleger erhoffen sich von den Zahlen neue Impulse für die Geldpolitik der US-Notenbank Federal Reserve."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "ChatGPT can now virtually try on clothes for you",
-      "summary": "OpenAI hat neue Shopping-Funktionen für ChatGPT eingeführt, die Nutzern das virtuelle Anprobieren von Kleidung und Accessoires mittels eigener Fotos ermöglichen. Diese Innovation könnte das Online-Shopping revolutionieren und die Interaktion mit KI im Alltag vertiefen."
+      "headline": "Copernicus: Sommer in Westeuropa war so heiß wie nie zuvor",
+      "summary": "Der Sommer in Westeuropa war laut dem EU-Klimadienst Copernicus der heißeste und trockenste seit Beginn der Aufzeichnungen. Dies führte zu einem neuen Höchststand an Hitzetagen mit ernsten gesundheitlichen Folgen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "summary": "Shopify hat \"Canvas\" vorgestellt, einen neuen Website-Builder, der es Händlern ermöglicht, Online-Shops durch Konversation mit dem KI-Agenten Sidekick in Echtzeit zu erstellen und anzupassen. Dies markiert einen bedeutenden Schritt in der Demokratisierung des E-Commerce-Designs durch KI-gestützte Tools."
+      "headline": "ChatGPT kann jetzt Kleidung virtuell anprobieren",
+      "summary": "OpenAI hat neue Shopping-Funktionen für ChatGPT eingeführt, die es Nutzern ermöglichen, Kleidung und Accessoires virtuell anzuprobieren. Produkte können zudem in einer Favoritenbibliothek gespeichert werden."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "This startup wants to turn idle car inventory into rental revenue",
-      "summary": "Das Startup MyMonthlyCar zielt darauf ab, ungenutzte Fahrzeugbestände von Autohändlern in Mieterträge umzuwandeln und so Millionen von Dollar an Wert freizusetzen. Dieses innovative Geschäftsmodell wird beim TechCrunch Disrupt vorgestellt und könnte die Effizienz im Automobilhandel steigern."
+      "headline": "Kevin Mandias neues Sicherheits-Startup Armadin erhält $255.5M",
+      "summary": "Kevin Mandia, Gründer von Mandiant, hat mit Armadin ein neues Sicherheits-Startup ins Leben gerufen, das 255,5 Millionen Dollar bei einer Bewertung von 2,5 Milliarden Dollar eingesammelt hat. Die Firma nutzt 'Agent Swarms' zur Prüfung und zum Schutz von Unternehmen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Infomaniak geht als erste Schweizer IT-Firma seit Jahren an die Börse – und setzt dabei auf chinesische Technologie",
-      "summary": "Der Genfer Cloud-Anbieter Infomaniak wagt als erste Schweizer IT-Firma seit Langem den Börsengang, mit dem Ziel, digitale Souveränität zu fördern, obwohl er auf chinesische Open-Source-Technologie setzt. Dieser Schritt wirft interessante Fragen bezüglich technologischer Unabhängigkeit und globaler Kooperation auf."
+      "headline": "Startup will ungenutzte Auto-Bestände in Mieteinnahmen verwandeln",
+      "summary": "Das Startup MyMonthlyCar will ungenutzte Auto-Bestände von Händlern in Mieteinnahmen umwandeln. Es sieht in stehenden Fahrzeugen Millionen von Dollar ungenutztes Potenzial und stellt sich auf der TechCrunch Disrupt vor."
     }
   ],
   "learning": {
-    "topic": "Cap-Table-Logik bei einer Down Round",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Eine Down Round ist eine Finanzierungsrunde, bei der ein Startup zu einer niedrigeren Bewertung pro Aktie Kapital aufnimmt als in der vorherigen Runde. Dies führt zu einer erheblichen Verwässerung der Anteile bestehender Aktionäre, insbesondere der Gründer.",
-    "details": "Die Cap Table (Capitalization Table) visualisiert die Eigentümerstruktur eines Unternehmens und wird bei einer Down Round besonders relevant. Da neue Investoren zu einer niedrigeren Pre-Money-Bewertung einsteigen, wird der relative Anteil der bisherigen Eigentümer am Unternehmen reduziert. Bestehende Investoren mit Anti-Dilution-Klauseln können unter Umständen ihren Anteilswert schützen, was die Verwässerung für Gründer und nicht geschützte Aktionäre jedoch noch verstärkt. Eine Down Round ist oft ein Zeichen für verfehlte Ziele oder schwierige Marktbedingungen, die eine Neubewertung und Anpassung der Kapitalstruktur erzwingen, um das Überleben des Unternehmens zu sichern.",
-    "takeaway": "Eine Down Round ist eine schmerzhafte Realität, die zu starker Verwässerung führt und die Motivation beeinflussen kann. Ihre Dynamik und Auswirkungen auf die Cap Table sind für die Bewertung von Startups und die Verhandlung von Finanzierungsrunden entscheidend."
+    "topic": "Ablauf eines Short Squeeze",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist eine plötzliche und starke Preissteigerung eines Wertpapiers, die durch die erzwungene Deckung von Leerverkaufspositionen ausgelöst wird und Short-Seller zum Rückkauf zwingt.",
+    "details": "Wenn viele Anleger auf fallende Kurse wetten (Leerverkauf), indem sie Aktien leihen und verkaufen, müssen sie diese später zu einem niedrigeren Preis zurückkaufen, um Gewinn zu erzielen. Steigt der Kurs unerwartet stark an, geraten diese Leerverkäufer unter Druck. Um weitere Verluste zu vermeiden, müssen sie die geliehenen Aktien zu höheren Preisen zurückkaufen, was die Nachfrage und damit den Preis weiter in die Höhe treibt. Dies schafft eine sich selbst verstärkende Aufwärtsspirale, da immer mehr Leerverkäufer gezwungen sind, zu kaufen.",
+    "takeaway": "Ein Short Squeeze zeigt, wie die Notwendigkeit, Verluste bei Leerverkäufen zu begrenzen, eine explosive Preisbewegung auslösen kann, die oft fundamental nicht gerechtfertigt ist, aber erhebliche Marktchancen oder Risiken birgt."
   }
 }
