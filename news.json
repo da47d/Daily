@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Luftangriffe auf Kiew dauern an - Brücken gesperrt",
-      "summary": "Russland setzt seine Angriffe auf die ukrainische Infrastruktur fort, wobei eine wichtige Ost-West-Verbindung in Kiew von einer Drohne getroffen wurde. Mehrere Brücken wurden gesperrt, was die Logistik in der Hauptstadt beeinträchtigt."
+      "headline": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
+      "summary": "Angesichts hoher Kraftstoffpreise beschließen die G7-Staaten, auf Druck der USA, Diesel- und Rohöl-Reserven freizugeben. US-Präsident Trump sieht die hohen Preise als innenpolitisches Problem."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Zollverhandlungen Schweiz – USA: Donald Trump greift die Schweiz erneut an",
-      "summary": "Die Zollverhandlungen zwischen der Schweiz und den USA geraten erneut unter Druck, da Donald Trump Drohungen wegen des Handelsdefizits ausspricht. Er fordert, dass die USA nicht weiterhin Milliarden für Schweizer Uhren verlieren sollten."
+      "headline": "USA: Trumps Republikaner unter Druck vor den Midterms",
+      "summary": "Den Republikanern drohen bei den US-Zwischenwahlen herbe Verluste, was auch an Präsident Trump liegt. Erste Kandidaten beginnen, sich von ihm zu distanzieren, nur einen Monat vor der Wahl."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Inflation im Euroraum steigt stärker als erwartet - auf 3,8 Prozent",
-      "summary": "Die Inflationsrate in der Eurozone ist im September auf 3,8 Prozent gestiegen, die höchste Rate seit September 2023. Hauptursache für diesen Anstieg sind die hohen Energiepreise."
+      "headline": "Marktbericht: DAX geht versöhnlich ins Wochenende",
+      "summary": "Der DAX konnte angesichts schwacher US-Arbeitsmarktdaten zulegen. Dies nährt die Hoffnung, dass die US-Notenbank Fed von einer weiteren Erhöhung der Leitzinsen absehen könnte."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX wieder über 25.000 Punkten",
-      "summary": "Der DAX hat vor der Veröffentlichung wichtiger US-Arbeitsmarktdaten zugelegt und notiert wieder über 25.000 Punkten. Anleger erhoffen sich von den Zahlen neue Impulse für die Geldpolitik der US-Notenbank Federal Reserve."
+      "headline": "MELDUNGEN WIRTSCHAFT - Zurich schliesst Kauf des Spezialversicherers Beazley ab",
+      "summary": "Der Versicherungsriese Zurich hat den Kauf des Spezialversicherers Beazley erfolgreich abgeschlossen. Dies markiert eine bedeutende Konsolidierung im Versicherungssektor."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Copernicus: Sommer in Westeuropa war so heiß wie nie zuvor",
-      "summary": "Der Sommer in Westeuropa war laut dem EU-Klimadienst Copernicus der heißeste und trockenste seit Beginn der Aufzeichnungen. Dies führte zu einem neuen Höchststand an Hitzetagen mit ernsten gesundheitlichen Folgen."
+      "headline": "Open AI ist eine Billion Dollar wert – doch in Zürich hat sich der Konzern nun als Kleinfirma eingetragen",
+      "summary": "OpenAI erreicht eine Bewertung von einer Billion Dollar, hat sich aber in Zürich als Kleinfirma eingetragen. Die Expansion des KI-Giganten in der Schweiz ist bisher verhalten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "ChatGPT kann jetzt Kleidung virtuell anprobieren",
-      "summary": "OpenAI hat neue Shopping-Funktionen für ChatGPT eingeführt, die es Nutzern ermöglichen, Kleidung und Accessoires virtuell anzuprobieren. Produkte können zudem in einer Favoritenbibliothek gespeichert werden."
+      "headline": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "summary": "Das Weiße Haus hat 'Künstliche Intelligenz' offiziell zu 'Superintelligenz' umbenannt und führende Tech-CEOs zu einem KI-Sicherheitsversprechen versammelt. Dies unterstreicht die wachsende Bedeutung und Risikowahrnehmung von KI auf höchster Ebene."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Kevin Mandias neues Sicherheits-Startup Armadin erhält $255.5M",
-      "summary": "Kevin Mandia, Gründer von Mandiant, hat mit Armadin ein neues Sicherheits-Startup ins Leben gerufen, das 255,5 Millionen Dollar bei einer Bewertung von 2,5 Milliarden Dollar eingesammelt hat. Die Firma nutzt 'Agent Swarms' zur Prüfung und zum Schutz von Unternehmen."
+      "headline": "Infomaniak geht als erste Schweizer IT-Firma seit Jahren an die Börse",
+      "summary": "Infomaniak wird als erste Schweizer IT-Firma seit Langem an die Börse gehen und dabei auf chinesische Technologie setzen. Das Genfer Cloud-Anbieter will digitale Souveränität mit einem Open-Source-Modell vereinen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Startup will ungenutzte Auto-Bestände in Mieteinnahmen verwandeln",
-      "summary": "Das Startup MyMonthlyCar will ungenutzte Auto-Bestände von Händlern in Mieteinnahmen umwandeln. Es sieht in stehenden Fahrzeugen Millionen von Dollar ungenutztes Potenzial und stellt sich auf der TechCrunch Disrupt vor."
+      "headline": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "summary": "Jas Khaira von Blackstone wird bei TechCrunch Disrupt 2026 über den Aufbau der nächsten Generation von KI-Giganten sprechen. Dies bietet Einblicke in die Strategien führender Investmentfirmen im Tech-Sektor."
     }
   ],
   "learning": {
-    "topic": "Ablauf eines Short Squeeze",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist eine plötzliche und starke Preissteigerung eines Wertpapiers, die durch die erzwungene Deckung von Leerverkaufspositionen ausgelöst wird und Short-Seller zum Rückkauf zwingt.",
-    "details": "Wenn viele Anleger auf fallende Kurse wetten (Leerverkauf), indem sie Aktien leihen und verkaufen, müssen sie diese später zu einem niedrigeren Preis zurückkaufen, um Gewinn zu erzielen. Steigt der Kurs unerwartet stark an, geraten diese Leerverkäufer unter Druck. Um weitere Verluste zu vermeiden, müssen sie die geliehenen Aktien zu höheren Preisen zurückkaufen, was die Nachfrage und damit den Preis weiter in die Höhe treibt. Dies schafft eine sich selbst verstärkende Aufwärtsspirale, da immer mehr Leerverkäufer gezwungen sind, zu kaufen.",
-    "takeaway": "Ein Short Squeeze zeigt, wie die Notwendigkeit, Verluste bei Leerverkäufen zu begrenzen, eine explosive Preisbewegung auslösen kann, die oft fundamental nicht gerechtfertigt ist, aber erhebliche Marktchancen oder Risiken birgt."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe beschreiben, wie der Wert eines Startups vor (\"Pre-Money\") und nach (\"Post-Money\") einer Investition berechnet wird, um die Verteilung der Eigentumsanteile zu verstehen.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert, bevor neues Kapital von Investoren eingezahlt wird. Addiert man zu diesem Wert die frische Investition, erhält man die Post-Money-Bewertung, die den Wert des Unternehmens nach der Finanzierungsrunde darstellt. Dieser Unterschied ist entscheidend, da er bestimmt, wie viel Prozent des Unternehmens ein Investor für sein Kapital erhält und wie stark die Anteile der Bestandsgesellschafter verwässert werden.",
+    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist essenziell für Gründer, um die eigene Verwässerung zu kalkulieren, und für Investoren, um ihre Beteiligungsquote korrekt zu bestimmen."
   }
 }
