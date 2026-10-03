@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "G-7 gibt Dieselreserven auf Trumps Druck frei",
-      "summary": "Unter Druck von Donald Trump haben die G-7-Staaten beschlossen, ihre Dieselreserven freizugeben, um die hohen Preise zu senken. Trump hatte zuvor gedroht, Europa vom amerikanischen Diesel abzuhängen, falls keine Maßnahmen ergriffen würden."
+      "headline": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
+      "summary": "Russland hat seine Angriffe auf die Ukraine intensiviert und eine Brücke in Kiew beschossen, während in Charkiw mehrere Menschen getötet wurden. Diese Eskalation verdeutlicht die anhaltenden geopolitischen Spannungen und ihre Auswirkungen auf die internationale Stabilität."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump attackiert Schweiz wegen Zöllen",
-      "summary": "Donald Trump greift die Schweiz erneut wegen der Zollverhandlungen an und behauptet, er wolle nicht 40 Milliarden Dollar pro Jahr für Schweizer Uhren verlieren. Die Gespräche für ein definitives Abkommen zwischen den USA und der Schweiz laufen noch."
+      "headline": "Donald Trump greift Schweiz in Zollverhandlungen an",
+      "summary": "Donald Trump übt in den Zollverhandlungen Druck auf die Schweiz aus und droht, 40 Milliarden Dollar pro Jahr wegen Schweizer Uhren zu verlieren. Dies unterstreicht die anhaltenden Handelsspannungen und deren potenziellen Einfluss auf internationale Abkommen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "SNB verteidigt Gewinnausschüttungspolitik",
-      "summary": "Die Schweizerische Nationalbank (SNB) hat ihre vorsichtige Gewinnausschüttungspolitik in Verhandlungen mit dem Eidgenössischen Finanzdepartement verteidigt. Bern zeigte sich enttäuscht über die unnachgiebige Haltung der SNB, die nur eine marginale Änderung zuließ."
+      "headline": "Zurich schließt Kauf von Spezialversicherer Beazley ab",
+      "summary": "Zurich hat die Akquisition des Spezialversicherers Beazley erfolgreich abgeschlossen, was auf rege M&A-Aktivitäten im Versicherungssektor hindeutet. Parallel dazu hat der Rohstoffhändler Gunvor eine Namensänderung und Verlegung des Hauptsitzes bekannt gegeben."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Zurich schließt Übernahme ab, Gunvor benennt sich um",
-      "summary": "Zurich hat den Kauf des Spezialversicherers Beazley erfolgreich abgeschlossen, während der Rohstoffhändler Gunvor seinen Namen ändert und seinen Hauptsitz verlegt. Dies sind die neuesten Meldungen aus der Wirtschaftswelt."
+      "headline": "Schweizerische Nationalbank verteidigt vorsichtige Gewinnausschüttungspolitik",
+      "summary": "Die Schweizerische Nationalbank (SNB) hat ihre zurückhaltende Gewinnausschüttungspolitik gegenüber dem Eidgenössischen Finanzdepartement verteidigt und nur marginale Änderungen zugelassen. Dies führte in Bern zu Enttäuschung und spiegelt die konsequente Haltung der SNB in makroökonomischen Entscheidungen wider."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "White House prägt 'Super Intelligence'-Begriff",
-      "summary": "Das Weiße Haus hat Künstliche Intelligenz offiziell zu 'Super Intelligence' umbenannt, nachdem Tech-CEOs einen Sicherheitseid unterzeichneten. Präsident Donald Trump unterzeichnete dazu eine Executive Order."
+      "headline": "Apple verschärft macOS-Zugriffsrechte wegen KI-Risiken",
+      "summary": "Apple verschärft die 'Full Disk Access'-Kontrollen in macOS aufgrund neuer Risiken durch immer leistungsfähigere KI-Agenten. Dieser Schritt betont wachsende Bedenken hinsichtlich Datenschutz und Sicherheit im Zeitalter fortschrittlicher Künstlicher Intelligenz."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Frankreich: Über 5.000 Festnahmen bei Schülerprotesten",
-      "summary": "Bei den landesweiten Schülerprotesten in Frankreich sind diese Woche mehr als 5.000 Menschen festgenommen worden, die meisten davon minderjährig. Die Regierung berichtet von Angriffen auf Ordnungskräfte, Lehrer und Passanten."
+      "headline": "Neue KI-Agenten wollen Zugang zu persönlichen Daten",
+      "summary": "Neue KI-Agenten werden bewusst freundlich gestaltet, um Zugang zu den persönlichsten Daten der Nutzer zu erhalten, was erhebliche Datenschutzbedenken aufwirft. Technologieunternehmen treiben die Integration dieser Tools in den Alltag voran, wodurch Fragen zur Datensicherheit immer drängender werden."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI: Billionen-Bewertung, Schweizer 'Kleinfirma'",
-      "summary": "Trotz einer angeblichen Bewertung von einer Billion Dollar hat sich Open AI in Zürich als Kleinfirma eingetragen, was in der Schweiz Hoffnungen auf ein Wachstum wie bei Meta oder Google weckt. Eine Analyse von Handelsregistereinträgen und Stellenanzeigen zeigt jedoch bisher kaum Wachstum."
+      "headline": "OpenAI mit Billionen-Bewertung als Kleinfirma in Zürich registriert",
+      "summary": "OpenAI, ein Gigant mit einer Billionen-Dollar-Bewertung, hat sich in Zürich als Kleinfirma eintragen lassen, was Fragen zu seiner Wachstumsstrategie in der Schweiz aufwirft. Dieser Schritt zeigt die Diskrepanz zwischen globaler Bewertung und lokalem operativen Fußabdruck für Tech-Unternehmen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sean Parker baut Stability AI für Musik neu auf",
-      "summary": "Sean Parker, der die Musikindustrie einst prägte, konzentriert sich nun mit Stability AI auf den Musikbereich. Er kehrt mit dem Segen und den finanziellen Mitteln der Labels zurück, um das Unternehmen neu aufzustellen."
+      "headline": "Vessev entwickelt fast fliegende Elektrofähre",
+      "summary": "Vessev hat eine elektrische Tragflügel-Fähre entwickelt, die 'fast fliegt' und den städtischen Transport revolutionieren könnte. Dieser bahnbrechende Prototyp unterstreicht innovative Fortschritte in der nachhaltigen Transporttechnologie."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang entschlüsselt: SaaS, B2B, ARR, Burn Rate, Churn",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Begriffe sind Schlüsselkonzepte in der Startup- und Venture-Capital-Welt, die Geschäftsmodelle, Wachstum und finanzielle Gesundheit von jungen Unternehmen beschreiben.",
-    "details": "SaaS (Software as a Service) ist ein abonnementbasiertes Modell für Softwarebereitstellung, das wiederkehrende Einnahmen ermöglicht. B2B (Business-to-Business) beschreibt den Verkauf von Produkten/Dienstleistungen an andere Unternehmen. ARR (Annual Recurring Revenue) ist der jährliche, prognostizierbare Umsatz aus Abonnements, während die Burn Rate angibt, wie schnell ein Startup Kapital verbraucht. Churn (Rate) ist die Quote der Kunden, die ein Produkt oder einen Dienst kündigen und ist ein kritischer Indikator für Abonnentenmodelle.",
-    "takeaway": "Das Verständnis dieser Begriffe ist essenziell, um die Dynamik und das Potenzial von Startups zu bewerten und fundierte Entscheidungen im VC-Umfeld zu treffen, sei es als Investor oder Gründer."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Das Herzstück jeder Finanzierungsrunde",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer neuen Investition, während die Post-Money-Bewertung den Wert *nach* der Investition und dem Zufluss neuen Kapitals darstellt. Diese beiden Werte sind entscheidend, um den Anteil zu bestimmen, den Investoren für ihr Kapital erhalten.",
+    "details": "Stell dir vor, dein Startup ist ein Kuchen, den du vor der Party bewertest (Pre-Money). Wenn ein Investor neues Geld einbringt, wird dieser Kuchen größer, und der neue Wert inklusive des frischen Kapitals ist die Post-Money-Bewertung. Der Investor erhält einen Anteil am *neuen*, größeren Kuchen, basierend auf seinem Investment geteilt durch die Post-Money-Bewertung. Die Pre-Money-Bewertung ist also die Basis, auf der die neuen Anteile (und damit die Verwässerung der bestehenden Eigentümer) berechnet werden, wobei die Formel 'Post-Money = Pre-Money + Investment' gilt.",
+    "takeaway": "Die Post-Money-Bewertung ist der tatsächlich beobachtbare Preis, zu dem Anteile verkauft werden. Bei Verhandlungen fokussieren sich Gründer oft auf die Pre-Money-Bewertung, um ihren Unternehmenswert vor der neuen Finanzierung zu maximieren."
   }
 }
