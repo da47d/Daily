@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
-      "summary": "Angesichts hoher Kraftstoffpreise beschließen die G7-Staaten, auf Druck der USA, Diesel- und Rohöl-Reserven freizugeben. US-Präsident Trump sieht die hohen Preise als innenpolitisches Problem."
+      "headline": "G-7 gibt Dieselreserven auf Trumps Druck frei",
+      "summary": "Unter Druck von Donald Trump haben die G-7-Staaten beschlossen, ihre Dieselreserven freizugeben, um die hohen Preise zu senken. Trump hatte zuvor gedroht, Europa vom amerikanischen Diesel abzuhängen, falls keine Maßnahmen ergriffen würden."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA: Trumps Republikaner unter Druck vor den Midterms",
-      "summary": "Den Republikanern drohen bei den US-Zwischenwahlen herbe Verluste, was auch an Präsident Trump liegt. Erste Kandidaten beginnen, sich von ihm zu distanzieren, nur einen Monat vor der Wahl."
+      "headline": "Trump attackiert Schweiz wegen Zöllen",
+      "summary": "Donald Trump greift die Schweiz erneut wegen der Zollverhandlungen an und behauptet, er wolle nicht 40 Milliarden Dollar pro Jahr für Schweizer Uhren verlieren. Die Gespräche für ein definitives Abkommen zwischen den USA und der Schweiz laufen noch."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX geht versöhnlich ins Wochenende",
-      "summary": "Der DAX konnte angesichts schwacher US-Arbeitsmarktdaten zulegen. Dies nährt die Hoffnung, dass die US-Notenbank Fed von einer weiteren Erhöhung der Leitzinsen absehen könnte."
+      "headline": "SNB verteidigt Gewinnausschüttungspolitik",
+      "summary": "Die Schweizerische Nationalbank (SNB) hat ihre vorsichtige Gewinnausschüttungspolitik in Verhandlungen mit dem Eidgenössischen Finanzdepartement verteidigt. Bern zeigte sich enttäuscht über die unnachgiebige Haltung der SNB, die nur eine marginale Änderung zuließ."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "MELDUNGEN WIRTSCHAFT - Zurich schliesst Kauf des Spezialversicherers Beazley ab",
-      "summary": "Der Versicherungsriese Zurich hat den Kauf des Spezialversicherers Beazley erfolgreich abgeschlossen. Dies markiert eine bedeutende Konsolidierung im Versicherungssektor."
+      "headline": "Zurich schließt Übernahme ab, Gunvor benennt sich um",
+      "summary": "Zurich hat den Kauf des Spezialversicherers Beazley erfolgreich abgeschlossen, während der Rohstoffhändler Gunvor seinen Namen ändert und seinen Hauptsitz verlegt. Dies sind die neuesten Meldungen aus der Wirtschaftswelt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Open AI ist eine Billion Dollar wert – doch in Zürich hat sich der Konzern nun als Kleinfirma eingetragen",
-      "summary": "OpenAI erreicht eine Bewertung von einer Billion Dollar, hat sich aber in Zürich als Kleinfirma eingetragen. Die Expansion des KI-Giganten in der Schweiz ist bisher verhalten."
+      "headline": "White House prägt 'Super Intelligence'-Begriff",
+      "summary": "Das Weiße Haus hat Künstliche Intelligenz offiziell zu 'Super Intelligence' umbenannt, nachdem Tech-CEOs einen Sicherheitseid unterzeichneten. Präsident Donald Trump unterzeichnete dazu eine Executive Order."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "summary": "Das Weiße Haus hat 'Künstliche Intelligenz' offiziell zu 'Superintelligenz' umbenannt und führende Tech-CEOs zu einem KI-Sicherheitsversprechen versammelt. Dies unterstreicht die wachsende Bedeutung und Risikowahrnehmung von KI auf höchster Ebene."
+      "headline": "Frankreich: Über 5.000 Festnahmen bei Schülerprotesten",
+      "summary": "Bei den landesweiten Schülerprotesten in Frankreich sind diese Woche mehr als 5.000 Menschen festgenommen worden, die meisten davon minderjährig. Die Regierung berichtet von Angriffen auf Ordnungskräfte, Lehrer und Passanten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Infomaniak geht als erste Schweizer IT-Firma seit Jahren an die Börse",
-      "summary": "Infomaniak wird als erste Schweizer IT-Firma seit Langem an die Börse gehen und dabei auf chinesische Technologie setzen. Das Genfer Cloud-Anbieter will digitale Souveränität mit einem Open-Source-Modell vereinen."
+      "headline": "OpenAI: Billionen-Bewertung, Schweizer 'Kleinfirma'",
+      "summary": "Trotz einer angeblichen Bewertung von einer Billion Dollar hat sich Open AI in Zürich als Kleinfirma eingetragen, was in der Schweiz Hoffnungen auf ein Wachstum wie bei Meta oder Google weckt. Eine Analyse von Handelsregistereinträgen und Stellenanzeigen zeigt jedoch bisher kaum Wachstum."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Jas Khaira von Blackstone wird bei TechCrunch Disrupt 2026 über den Aufbau der nächsten Generation von KI-Giganten sprechen. Dies bietet Einblicke in die Strategien führender Investmentfirmen im Tech-Sektor."
+      "headline": "Sean Parker baut Stability AI für Musik neu auf",
+      "summary": "Sean Parker, der die Musikindustrie einst prägte, konzentriert sich nun mit Stability AI auf den Musikbereich. Er kehrt mit dem Segen und den finanziellen Mitteln der Labels zurück, um das Unternehmen neu aufzustellen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese Begriffe beschreiben, wie der Wert eines Startups vor (\"Pre-Money\") und nach (\"Post-Money\") einer Investition berechnet wird, um die Verteilung der Eigentumsanteile zu verstehen.",
-    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert, bevor neues Kapital von Investoren eingezahlt wird. Addiert man zu diesem Wert die frische Investition, erhält man die Post-Money-Bewertung, die den Wert des Unternehmens nach der Finanzierungsrunde darstellt. Dieser Unterschied ist entscheidend, da er bestimmt, wie viel Prozent des Unternehmens ein Investor für sein Kapital erhält und wie stark die Anteile der Bestandsgesellschafter verwässert werden.",
-    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist essenziell für Gründer, um die eigene Verwässerung zu kalkulieren, und für Investoren, um ihre Beteiligungsquote korrekt zu bestimmen."
+    "topic": "Startup-Slang entschlüsselt: SaaS, B2B, ARR, Burn Rate, Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese Begriffe sind Schlüsselkonzepte in der Startup- und Venture-Capital-Welt, die Geschäftsmodelle, Wachstum und finanzielle Gesundheit von jungen Unternehmen beschreiben.",
+    "details": "SaaS (Software as a Service) ist ein abonnementbasiertes Modell für Softwarebereitstellung, das wiederkehrende Einnahmen ermöglicht. B2B (Business-to-Business) beschreibt den Verkauf von Produkten/Dienstleistungen an andere Unternehmen. ARR (Annual Recurring Revenue) ist der jährliche, prognostizierbare Umsatz aus Abonnements, während die Burn Rate angibt, wie schnell ein Startup Kapital verbraucht. Churn (Rate) ist die Quote der Kunden, die ein Produkt oder einen Dienst kündigen und ist ein kritischer Indikator für Abonnentenmodelle.",
+    "takeaway": "Das Verständnis dieser Begriffe ist essenziell, um die Dynamik und das Potenzial von Startups zu bewerten und fundierte Entscheidungen im VC-Umfeld zu treffen, sei es als Investor oder Gründer."
   }
 }
