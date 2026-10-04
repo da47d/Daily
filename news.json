@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
-      "summary": "Russland hat seine Angriffe auf die Ukraine intensiviert und eine Brücke in Kiew beschossen, während in Charkiw mehrere Menschen getötet wurden. Diese Eskalation verdeutlicht die anhaltenden geopolitischen Spannungen und ihre Auswirkungen auf die internationale Stabilität."
+      "headline": "Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an",
+      "summary": "Während Kanzler Merz Kiew besucht, löste ein russischer Angriff auf eine Brücke Alarm aus. Merz sicherte der Ukraine weitere Unterstützung zu und traf sich mit Präsident Selenskyj."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Donald Trump greift Schweiz in Zollverhandlungen an",
-      "summary": "Donald Trump übt in den Zollverhandlungen Druck auf die Schweiz aus und droht, 40 Milliarden Dollar pro Jahr wegen Schweizer Uhren zu verlieren. Dies unterstreicht die anhaltenden Handelsspannungen und deren potenziellen Einfluss auf internationale Abkommen."
+      "headline": "Lula gegen Bolsonaro: Ein Duell bekannter Namen in Brasilien",
+      "summary": "Brasilien steht vor einer wichtigen Wahl, bei der Lula gegen den Sohn des Ex-Präsidenten Bolsonaro antritt. Der Ausgang dieser Wahl ist auch für US-Präsident Trump von großer Bedeutung und könnte sich auf Rohstoffmärkte auswirken."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Zurich schließt Kauf von Spezialversicherer Beazley ab",
-      "summary": "Zurich hat die Akquisition des Spezialversicherers Beazley erfolgreich abgeschlossen, was auf rege M&A-Aktivitäten im Versicherungssektor hindeutet. Parallel dazu hat der Rohstoffhändler Gunvor eine Namensänderung und Verlegung des Hauptsitzes bekannt gegeben."
+      "headline": "Auf Druck von Donald Trump: Die Staaten der G-7 wollen Dieselreserven freigeben und so die Preise senken",
+      "summary": "Unter Druck von Donald Trump planen die G-7-Staaten, Dieselreserven freizugeben, um die hohen Treibstoffpreise zu senken. Diese koordinierte Aktion zielt darauf ab, die globalen Energiemärkte zu beeinflussen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Schweizerische Nationalbank verteidigt vorsichtige Gewinnausschüttungspolitik",
-      "summary": "Die Schweizerische Nationalbank (SNB) hat ihre zurückhaltende Gewinnausschüttungspolitik gegenüber dem Eidgenössischen Finanzdepartement verteidigt und nur marginale Änderungen zugelassen. Dies führte in Bern zu Enttäuschung und spiegelt die konsequente Haltung der SNB in makroökonomischen Entscheidungen wider."
+      "headline": "MELDUNGEN WIRTSCHAFT - Zurich schliesst Kauf des Spezialversicherers Beazley ab",
+      "summary": "Zurich hat den Kauf des Spezialversicherers Beazley abgeschlossen, was einen bedeutenden M&A-Deal im Versicherungssektor darstellt. Diese Akquisition stärkt die Position von Zurich im Spezialversicherungsmarkt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Apple verschärft macOS-Zugriffsrechte wegen KI-Risiken",
-      "summary": "Apple verschärft die 'Full Disk Access'-Kontrollen in macOS aufgrund neuer Risiken durch immer leistungsfähigere KI-Agenten. Dieser Schritt betont wachsende Bedenken hinsichtlich Datenschutz und Sicherheit im Zeitalter fortschrittlicher Künstlicher Intelligenz."
+      "headline": "Axa-Chef warnt vor KI-gesteuerten Hacker-Attacken",
+      "summary": "Der Chef der Axa, Thomas Buberl, warnt vor einer neuen Welle KI-gesteuerter Cyberangriffe und vergleicht deren Risikopotenzial mit einer Pandemie. Er fordert die Politik auf, diese Bedrohung ernst zu nehmen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Neue KI-Agenten wollen Zugang zu persönlichen Daten",
-      "summary": "Neue KI-Agenten werden bewusst freundlich gestaltet, um Zugang zu den persönlichsten Daten der Nutzer zu erhalten, was erhebliche Datenschutzbedenken aufwirft. Technologieunternehmen treiben die Integration dieser Tools in den Alltag voran, wodurch Fragen zur Datensicherheit immer drängender werden."
+      "headline": "Neue KI-Agenten wollen Zugang zu Ihren persönlichsten Daten",
+      "summary": "Neue, \"herzig\" aussehende KI-Agenten drängen in den Markt und fordern Zugang zu persönlichen Daten, wobei Mark Zuckerberg mit Meta in diesem Bereich führend ist. Dies wirft wichtige Fragen bezüglich Datenschutz und der Organisation des Alltags durch KI auf."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI mit Billionen-Bewertung als Kleinfirma in Zürich registriert",
-      "summary": "OpenAI, ein Gigant mit einer Billionen-Dollar-Bewertung, hat sich in Zürich als Kleinfirma eintragen lassen, was Fragen zu seiner Wachstumsstrategie in der Schweiz aufwirft. Dieser Schritt zeigt die Diskrepanz zwischen globaler Bewertung und lokalem operativen Fußabdruck für Tech-Unternehmen."
+      "headline": "Vessev baut elektrische Fähre, die fast fliegt",
+      "summary": "Vessev hat eine elektrisch angetriebene Tragflügel-Fähre entwickelt, die \"fast fliegt\" und das Potenzial hat, den Transport auf dem Wasser zu revolutionieren. Das Startup hofft, die Denkweise über Boote in Städten zu verändern."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Vessev entwickelt fast fliegende Elektrofähre",
-      "summary": "Vessev hat eine elektrische Tragflügel-Fähre entwickelt, die 'fast fliegt' und den städtischen Transport revolutionieren könnte. Dieser bahnbrechende Prototyp unterstreicht innovative Fortschritte in der nachhaltigen Transporttechnologie."
+      "headline": "Spotify-Milliardärs Health-Startup expandiert nach Amerika",
+      "summary": "Neko Health, ein Health-Tech-Startup eines Spotify-Milliardärs, expandiert in die USA und erregt Aufmerksamkeit in der Branche. Das Unternehmen bietet innovative Körperscans an, die das Gesundheitswesen verändern könnten."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Das Herzstück jeder Finanzierungsrunde",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer neuen Investition, während die Post-Money-Bewertung den Wert *nach* der Investition und dem Zufluss neuen Kapitals darstellt. Diese beiden Werte sind entscheidend, um den Anteil zu bestimmen, den Investoren für ihr Kapital erhalten.",
-    "details": "Stell dir vor, dein Startup ist ein Kuchen, den du vor der Party bewertest (Pre-Money). Wenn ein Investor neues Geld einbringt, wird dieser Kuchen größer, und der neue Wert inklusive des frischen Kapitals ist die Post-Money-Bewertung. Der Investor erhält einen Anteil am *neuen*, größeren Kuchen, basierend auf seinem Investment geteilt durch die Post-Money-Bewertung. Die Pre-Money-Bewertung ist also die Basis, auf der die neuen Anteile (und damit die Verwässerung der bestehenden Eigentümer) berechnet werden, wobei die Formel 'Post-Money = Pre-Money + Investment' gilt.",
-    "takeaway": "Die Post-Money-Bewertung ist der tatsächlich beobachtbare Preis, zu dem Anteile verkauft werden. Bei Verhandlungen fokussieren sich Gründer oft auf die Pre-Money-Bewertung, um ihren Unternehmenswert vor der neuen Finanzierung zu maximieren."
+    "topic": "Die Logik hinter Hedgefonds: Wie sie Alpha suchen",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Hedgefonds sind aktive Investmentfonds, die eine breite Palette komplexer Strategien und Finanzinstrumente nutzen, um in jeder Marktlage absolute Renditen (Alpha) zu erzielen, unabhängig von der allgemeinen Marktentwicklung.",
+    "details": "Im Gegensatz zu traditionellen Fonds, die oft passiv einen Index abbilden oder nur long-Positionen halten, können Hedgefonds sowohl long (auf steigende Kurse) als auch short (auf fallende Kurse) gehen und Derivate sowie Leverage einsetzen. Ihre Strategien reichen von Long/Short Equity über Global Macro bis zu Event-Driven und Arbitrage, wodurch sie versuchen, Marktanomalien oder spezifische Ereignisse auszunutzen. Die Manager verfolgen das Ziel, eine Rendite zu erwirtschaften, die nicht direkt mit dem breiteren Markt korreliert und ihre Managementgebühren sowie Performance Fees rechtfertigt.",
+    "takeaway": "Hedgefonds sind flexibler und risikofreudiger als herkömmliche Investmentfonds, da sie darauf abzielen, in allen Marktphasen positive Renditen zu erzielen, anstatt nur einem Index zu folgen. Sie sind für Anleger gedacht, die eine Entkopplung vom Gesamtmarkt und potenziell höhere Renditen suchen, dabei aber auch höhere Risiken und Kosten in Kauf nehmen müssen."
   }
 }
