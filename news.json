@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Merz sagt Ukraine eine Milliarde Euro Militärhilfe zu",
-      "summary": "Bundeskanzler Merz hat der Ukraine bei seinem Kiew-Besuch eine Milliarde Euro an Militärhilfen zugesagt, flankiert von weiteren 350 Millionen für den Energiesektor. Dies soll die Stabilität Europas sichern und könnte Deutschland neue Rüstungsprojekte sowie Wissenstransfer ermöglichen."
+      "headline": "BND-Chef warnt vor 'gewaltsamem Konflikt mit Russland'",
+      "summary": "Nach Einschätzung des BND-Chefs befindet sich Deutschland in einem 'Schattenkrieg' mit Russland. Nachrichtendienste warnen bei ihrer Anhörung erneut vor einem Anschlagsrisiko."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "G-7 Staaten reagieren auf Trumps Diesel-Druck",
-      "summary": "Die G-7-Staaten planen, Dieselreserven freizugeben, um hohen Preisen entgegenzuwirken, nachdem Donald Trump mit einem Entzug amerikanischer Diesel-Lieferungen drohte. Dies unterstreicht den globalen politischen Einfluss auf wichtige Rohstoffmärkte."
+      "headline": "Auf Druck von Donald Trump: Die Staaten der G-7 wollen Dieselreserven freigeben und so die Preise senken",
+      "summary": "Die G-7-Staaten reagieren auf den Druck von Donald Trump und planen die Freigabe von Dieselreserven zur Preissenkung. Trump drohte zuvor mit der Abkopplung Europas vom amerikanischen Diesel."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "SNB trotzt Bern bei Gewinnausschüttung",
-      "summary": "Die Schweizerische Nationalbank (SNB) hat in Verhandlungen mit dem Eidgenössischen Finanzdepartement ihre vorsichtige Gewinnausschüttungspolitik verteidigt. Sie bot lediglich eine marginale Änderung an, was in Bern für Enttäuschung sorgt."
+      "headline": "Talfahrt geht weiter: Euro fällt unter 1,12 Dollar",
+      "summary": "Politische Unsicherheiten in Frankreich und Spanien haben den jüngsten Kursverfall des Euro beschleunigt. Dafür gibt es auch längerfristige Gründe, die den Euro unter 1,12 Dollar fallen lassen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Zurich schliesst Kauf von Beazley ab, Gunvor verlegt Hauptsitz",
-      "summary": "Der Versicherungsriese Zurich hat den Erwerb des Spezialversicherers Beazley abgeschlossen, während der Rohstoffhändler Gunvor seinen Namen ändert und den Hauptsitz verlegt. Diese Meldungen spiegeln wichtige Bewegungen im Finanz- und Rohstoffsektor wider."
+      "headline": "Hedge-Funds halten so viele US-Staatsanleihen wie noch nie: Bei einem Crash wirken sie als Brandbeschleuniger",
+      "summary": "Hedgefonds halten Rekordmengen an US-Staatsanleihen, während die Zinssätze auf ein fast zwei Jahrzehnt-Hoch steigen. Diese kurzfristige Spekulation könnte bei einem Marktzusammenbruch als Brandbeschleuniger wirken."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Axa-Chef warnt vor KI-gesteuerten Cyberangriffen",
-      "summary": "Der Axa-Chef Thomas Buberl vergleicht die Risiken durch Künstliche Intelligenz mit einer Pandemie und warnt vor einer Zunahme von KI-gesteuerten Hacker-Attacken als „industrielle Kriminalität“. Er kritisiert zudem die Reformschwäche der deutschen Regierung Merz als verantwortungslos."
+      "headline": "Der Stromhunger von Amazon, Google und Microsoft für Rechenzentren forciert den Bau von Mini-Atomkraftwerken in den USA",
+      "summary": "KI-Rechenzentren verbrauchen enorme Strommengen, was große Techkonzerne dazu antreibt, eigene Mini-Atomkraftwerke direkt neben ihren Datencentern zu bauen. In den USA schießen diese Lösungen zur Entlastung des Netzes wie Pilze aus dem Boden."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI-Mitarbeiter resigniert wegen \"kaputter Unternehmenskultur\"",
-      "summary": "Ein leitender Mitarbeiter des Sicherheitsteams von OpenAI hat resigniert und äußert scharfe Kritik an der \"kaputten Unternehmenskultur\" des führenden KI-Unternehmens. Dieser Vorfall wirft erneut Fragen zur internen Governance und den Sicherheitsstandards in der schnelllebigen KI-Branche auf."
+      "headline": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "Ein Sicherheitsexperte bei OpenAI hat seinen Rücktritt eingereicht und öffentlich behauptet, die Unternehmenskultur sei 'kaputt'. Dies wirft erneute Fragen zur internen Handhabung von Sicherheitsbedenken bei führenden KI-Firmen auf."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Spotify-Milliardär bringt Körperscan-Startup nach Amerika",
-      "summary": "Das Health-Tech-Startup Neko Health, an dem der Spotify-Milliardär Daniel Ek beteiligt ist, expandiert in die USA und erregt Aufsehen in der Investorenwelt. Das Unternehmen fokussiert sich auf präventive Gesundheitsanalysen mittels Körperscan-Technologie."
+      "headline": "Vessev built an electric ferry that almost flies",
+      "summary": "Vessev hat eine innovative elektrische Tragflügel-Fähre entwickelt, die fast fliegt und den maritimen Transport revolutionieren könnte. Das Unternehmen hofft, damit die Art und Weise zu verändern, wie Menschen und Städte über Boote denken."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Vessev revolutioniert Fährverkehr mit \"fliegender\" Elektrofähre",
-      "summary": "Das Unternehmen Vessev hat eine innovative elektrische Hydrofoil-Fähre entwickelt, die fast fliegt und den Personentransport auf dem Wasser grundlegend verändern soll. Diese Technologie verspricht höhere Geschwindigkeiten und Effizienz bei geringerem Energieverbrauch."
+      "headline": "Spotify billionaire’s body scan startup has come to America",
+      "summary": "Neko Health, ein Startup für Körper-Scans, an dem ein Spotify-Milliardär beteiligt ist, expandiert in die USA. Das 'Hot Health Tech Company' zieht weiterhin Investoreninteresse und Aufmerksamkeit im Gesundheitssektor auf sich."
     }
   ],
   "learning": {
-    "topic": "Cap-Table-Logik bei einer Down Round",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Eine 'Cap Table' (Capitalization Table) zeigt die Eigentümerstruktur eines Startups, während eine 'Down Round' eine Finanzierungsrunde zu einer geringeren Unternehmensbewertung als die vorherige bedeutet.",
-    "details": "Wenn ein Startup in einer Down Round neues Kapital aufnimmt, werden neue Anteile zu einem niedrigeren Preis pro Aktie ausgegeben, was die Anteile bestehender Investoren und Gründer effektiv verwässert. Stell dir vor, du besitzt 10% eines Kuchens, der 100€ wert ist (also 10€). Wenn in einer Down Round mehr Teig hinzugefügt wird und der Kuchen danach nur noch 80€ wert ist, sinkt der Wert deines 10%-Anteils proportional – und wenn mehr Anteile ausgegeben werden, könnte dein prozentualer Anteil weiter schrumpfen, selbst wenn der Kuchen größer wird. Dies kann die Motivation der Gründer und frühen Investoren stark beeinträchtigen.",
-    "takeaway": "Eine Down Round ist ein deutliches Signal für Schwierigkeiten und führt zu einer spürbaren Verwässerung für bestehende Anteilseigner, was deren Eigentumsanteile und potenziellen Profit reduziert."
+    "topic": "Arbeitsweise von Hedgefonds",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Hedgefonds sind spezialisierte Investmentfonds, die mit flexiblen Strategien und oft hohen Risiken versuchen, in jeder Marktlage absolute Renditen zu erzielen. Sie nutzen dabei eine breite Palette an Finanzinstrumenten und Techniken.",
+    "details": "Im Gegensatz zu traditionellen Fonds sind Hedgefonds weniger stark reguliert und können aggressive Strategien wie Leerverkäufe, den Einsatz von Derivaten und hohes Fremdkapital (Leverage) nutzen. Ihr Ziel ist es, von Marktbewegungen unabhängig zu sein und sowohl in steigenden als auch in fallenden Märkten zu profitieren. Sie richten sich primär an institutionelle und vermögende Anleger und erheben neben einer Verwaltungsgebühr auch eine Performance-Gebühr.",
+    "takeaway": "Hedgefonds sind für ihre Flexibilität und ihr hohes Risikoprofil bekannt, was sowohl überdurchschnittliche Renditechancen als auch erhebliche Verlustrisiken mit sich bringen kann. Ihre Arbeitsweise unterscheidet sich stark von klassischen Investmentfonds durch breitere Anlagemöglichkeiten und das Streben nach absoluter Rendite, unabhängig vom Gesamtmarkt."
   }
 }
