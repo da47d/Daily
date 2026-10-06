@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "BND-Chef warnt vor 'gewaltsamem Konflikt mit Russland'",
-      "summary": "Nach Einschätzung des BND-Chefs befindet sich Deutschland in einem 'Schattenkrieg' mit Russland. Nachrichtendienste warnen bei ihrer Anhörung erneut vor einem Anschlagsrisiko."
+      "headline": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
+      "summary": "Europas Wirtschaft leidet unter Exporten aus China, was vor dem Besuch des EU-Handelskommissars in Peking für hohe Erwartungen sorgt. Berlin und Paris fordern neue Instrumente, um dem wachsenden Handelsdefizit entgegenzuwirken."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Auf Druck von Donald Trump: Die Staaten der G-7 wollen Dieselreserven freigeben und so die Preise senken",
-      "summary": "Die G-7-Staaten reagieren auf den Druck von Donald Trump und planen die Freigabe von Dieselreserven zur Preissenkung. Trump drohte zuvor mit der Abkopplung Europas vom amerikanischen Diesel."
+      "headline": "Propaganda, Dementi und Unklarheit im Jemen-Krieg",
+      "summary": "Im Jemen-Krieg herrschen weiterhin Unklarheiten über militärische Erfolge der Konfliktparteien, die oft von Propaganda begleitet werden. Ein Ende des Konflikts ist trotz widersprüchlicher Meldungen nicht in Sicht."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Talfahrt geht weiter: Euro fällt unter 1,12 Dollar",
-      "summary": "Politische Unsicherheiten in Frankreich und Spanien haben den jüngsten Kursverfall des Euro beschleunigt. Dafür gibt es auch längerfristige Gründe, die den Euro unter 1,12 Dollar fallen lassen."
+      "headline": "Paramount schliesst Warner-Übernahme ab",
+      "summary": "Paramount hat die milliardenschwere Übernahme von Warner Brothers finalisiert, was Hollywood durch die Entstehung eines neuen Megakonzerns umkrempelt. Diese Fusion weckt Sorgen vor Jobabbau und potenzieller politischer Einflussnahme."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "Hedge-Funds halten so viele US-Staatsanleihen wie noch nie: Bei einem Crash wirken sie als Brandbeschleuniger",
-      "summary": "Hedgefonds halten Rekordmengen an US-Staatsanleihen, während die Zinssätze auf ein fast zwei Jahrzehnt-Hoch steigen. Diese kurzfristige Spekulation könnte bei einem Marktzusammenbruch als Brandbeschleuniger wirken."
+      "summary": "Hedgefonds haben ihre Bestände an US-Staatsanleihen auf ein Rekordhoch geschraubt, während der Zinssatz den höchsten Stand seit fast zwei Jahrzehnten erreicht. Diese kurzfristigen Spekulanten könnten bei einem Crash des Anleihemarktes als Brandbeschleuniger wirken."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Der Stromhunger von Amazon, Google und Microsoft für Rechenzentren forciert den Bau von Mini-Atomkraftwerken in den USA",
-      "summary": "KI-Rechenzentren verbrauchen enorme Strommengen, was große Techkonzerne dazu antreibt, eigene Mini-Atomkraftwerke direkt neben ihren Datencentern zu bauen. In den USA schießen diese Lösungen zur Entlastung des Netzes wie Pilze aus dem Boden."
+      "headline": "Nobelpreis für Physik: Auszeichnung für Nachweis von \"Geistern aus dem All\"",
+      "summary": "Francis Halzen erhält den Physik-Nobelpreis für den Nachweis von Neutrinos, auch \"Geisterteilchen\" genannt, mithilfe eines Observatoriums unter dem antarktischen Eis. Seine innovative Methode hat das Verständnis des Universums revolutioniert."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "summary": "Ein Sicherheitsexperte bei OpenAI hat seinen Rücktritt eingereicht und öffentlich behauptet, die Unternehmenskultur sei 'kaputt'. Dies wirft erneute Fragen zur internen Handhabung von Sicherheitsbedenken bei führenden KI-Firmen auf."
+      "headline": "Wie KI die Produktivität steigert – statt das Hamsterrad zu beschleunigen",
+      "summary": "Künstliche Intelligenz kann die Produktivität steigern, erfordert jedoch ein grundlegendes Neudenken von Prozessen, um nicht nur zu mehr Geschäftigkeit zu führen. Wer die Vorteile der neuen Technologie wirklich nutzen will, muss sie strategisch implementieren."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Vessev built an electric ferry that almost flies",
-      "summary": "Vessev hat eine innovative elektrische Tragflügel-Fähre entwickelt, die fast fliegt und den maritimen Transport revolutionieren könnte. Das Unternehmen hofft, damit die Art und Weise zu verändern, wie Menschen und Städte über Boote denken."
+      "headline": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "summary": "Das von Nvidia unterstützte KI-Computing-Startup Lambda plant, bis zu 4 Milliarden US-Dollar bei einer Pre-Money-Bewertung von 14,5 Milliarden US-Dollar aufzunehmen. Dies geschieht im Vorfeld eines für 2027 geplanten Börsengangs, angeführt von Coatue und Blackstone."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Spotify billionaire’s body scan startup has come to America",
-      "summary": "Neko Health, ein Startup für Körper-Scans, an dem ein Spotify-Milliardär beteiligt ist, expandiert in die USA. Das 'Hot Health Tech Company' zieht weiterhin Investoreninteresse und Aufmerksamkeit im Gesundheitssektor auf sich."
+      "headline": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
+      "summary": "Furientis hat 25 Millionen US-Dollar von Benchmark erhalten, um kostengünstige Raketenabfangsysteme in Massenproduktion herzustellen. Dies stellt Benchmarks erste reine Verteidigungsinvestition dar und signalisiert eine Verschiebung im VC-Fokus."
     }
   ],
   "learning": {
-    "topic": "Arbeitsweise von Hedgefonds",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Hedgefonds sind spezialisierte Investmentfonds, die mit flexiblen Strategien und oft hohen Risiken versuchen, in jeder Marktlage absolute Renditen zu erzielen. Sie nutzen dabei eine breite Palette an Finanzinstrumenten und Techniken.",
-    "details": "Im Gegensatz zu traditionellen Fonds sind Hedgefonds weniger stark reguliert und können aggressive Strategien wie Leerverkäufe, den Einsatz von Derivaten und hohes Fremdkapital (Leverage) nutzen. Ihr Ziel ist es, von Marktbewegungen unabhängig zu sein und sowohl in steigenden als auch in fallenden Märkten zu profitieren. Sie richten sich primär an institutionelle und vermögende Anleger und erheben neben einer Verwaltungsgebühr auch eine Performance-Gebühr.",
-    "takeaway": "Hedgefonds sind für ihre Flexibilität und ihr hohes Risikoprofil bekannt, was sowohl überdurchschnittliche Renditechancen als auch erhebliche Verlustrisiken mit sich bringen kann. Ihre Arbeitsweise unterscheidet sich stark von klassischen Investmentfonds durch breitere Anlagemöglichkeiten und das Streben nach absoluter Rendite, unabhängig vom Gesamtmarkt."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money und Post-Money Bewertungen sind grundlegende Kennzahlen im Venture Capital, die den Wert eines Startups vor bzw. nach einer Finanzierungsrunde definieren.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert, bevor frisches Kapital von Investoren hinzugefügt wird. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung, welche den Wert des Unternehmens nach der Finanzierungsrunde und der Ausgabe neuer Anteile widerspiegelt. Diese Unterscheidung ist entscheidend für die Berechnung der Anteile, die Investoren für ihr Kapital erhalten, und für die Verwässerung der bestehenden Eigentümer. Sie hilft Gründern und Investoren, ihre Beteiligungen und den Unternehmenswert nach einem Deal korrekt zu bestimmen.",
+    "takeaway": "Die Post-Money-Bewertung ist immer die Summe aus Pre-Money-Bewertung und dem neuen Investment. Das Verständnis dieser Begriffe ist zentral, um die Verteilung von Unternehmensanteilen und die Wertentwicklung bei Finanzierungsrunden korrekt zu erfassen."
   }
 }
