@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Drei Jahre nach Hamas-Überfall: Tiefer Schmerz und Enttäuschung in Israel",
-      "summary": "Drei Jahre nach dem Hamas-Überfall auf Israel bleibt der 7. Oktober ein Trauma. Viele Israelis empfinden nicht nur Trauer, sondern auch tiefe Enttäuschung gegenüber den eigenen Behörden und der Weltgemeinschaft."
+      "headline": "EU und China: Handelskommissar Sefcovic reist zu Gesprächen nach Peking",
+      "summary": "Die wirtschaftlichen Beziehungen zwischen der EU und China sind angespannt. Handelskommissar Sefcovic wird versuchen, den eskalierten Handelsstreit beizulegen, um die globalen Handelsbeziehungen zu stabilisieren."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU plant Beitritt in Stufen und Ende der Einstimmigkeit für mehr Handlungsfähigkeit",
-      "summary": "Die EU-Kommission plant eine Mitgliedschaft in Stufen, um den Beitrittsprozess zu vereinfachen. Zudem sollen zentrale Reformen wie das Ende des Einstimmigkeitsprinzips die Handlungsfähigkeit einer erweiterten Union sichern."
+      "headline": "Ukraine-Krieg: Russland greift Busse an, mindestens 30 Tote",
+      "summary": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet und 18 verletzt worden. Nach Attacken auf Kiew und andere Städte musste dort zudem der Strom abgeschaltet werden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Machtkampf an Finanzmärkten: Steigende Anleiherenditen bedrohen Aktienkurse",
-      "summary": "Die Finanzmärkte erleben einen Machtkampf, bei dem steigende Anleiherenditen die Aktienkurse unter Druck setzen könnten. Anleger fragen sich, welche Lehren aus der Historie für die aktuelle Entwicklung gezogen werden können."
+      "headline": "Anleiherenditen steigen: Machtkampf an den Finanzmärkten droht Aktienkurse zu belasten",
+      "summary": "Die steigenden Anleiherenditen üben zunehmend Druck auf die Aktienmärkte aus. Dies deutet auf einen potenziellen Machtkampf zwischen diesen Anlageklassen hin, der die Kurse in die Knie zwingen könnte."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Hollywood im Umbruch: Paramount schliesst Mega-Übernahme von Warner Brothers ab",
-      "summary": "Eine Megafusion krempelt Hollywood um, da Paramount den Rivalen Warner Brothers schluckt. Der neue Konzern startet mit Milliardenschulden und wirft Fragen nach politischem Einfluss eines Trump-Freundes auf."
+      "headline": "China geht gegen Reiche vor: Staatseinnahmen sinken, Unruhe bei Millionären wächst",
+      "summary": "Angesichts sinkender Staatseinnahmen verschärft die chinesische Regierung die Gangart gegenüber vermögenden Bürgern. Dies führt zu Unruhe bei Millionären, da die Maßnahmen als fragwürdig empfunden werden."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "KI greift Finanzbranche an: ChatGPT könnte Jobs von 'Finance Bros' gefährden",
-      "summary": "OpenAI hat einen neuen KI-Agenten vorgestellt, der zahlreiche Aufgaben von Finanzprofis übernehmen kann. Dies könnte insbesondere für Berufseinsteiger in der Finanzbranche schlechte Nachrichten bedeuten."
+      "headline": "KI in der Finanzwelt: Chat-GPT fordert 'Finance Bros' heraus – Jobs in Gefahr?",
+      "summary": "OpenAI hat einen neuen KI-Agenten vorgestellt, der viele Aufgaben von Finanzexperten automatisieren kann. Dies weckt Befürchtungen, dass insbesondere Berufseinsteiger ihre Jobs an Künstliche Intelligenz verlieren könnten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Microsoft launcht neue KI-PCs mit Nvidia-Chips und überarbeitetem Windows 11",
-      "summary": "Microsoft hat Spezifikationen und Preise für seine Surface Laptop Ultra AI-PCs enthüllt. Diese Geräte laufen auf Nvidia-Chips und sind speziell für die Ausführung von KI-Modellen und -Agenten konzipiert."
+      "headline": "Microsoft präsentiert AI-PCs mit Nvidia-Chips und überarbeitetem Windows 11",
+      "summary": "Microsoft hat neue Surface Laptop Ultra AI-PCs vorgestellt, die auf Nvidia-Chips für KI-Modelle laufen. Das Unternehmen untermauert damit seine Strategie, künstliche Intelligenz tief in Hardware und Betriebssystem zu integrieren."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Nous Research bestätigt 1,5 Mrd. USD Bewertung und launcht KI-Agenten für Unternehmen",
-      "summary": "Der Entwickler des Hermes-Agenten, Nous Research, bestätigte eine Series B Finanzierungsrunde von 90 Millionen US-Dollar und erreicht damit eine Bewertung von 1,5 Milliarden US-Dollar. Gleichzeitig werden neue KI-Agenten für Geschäftskunden eingeführt."
+      "headline": "Nous Research erreicht 1,5 Milliarden Dollar Bewertung und startet KI-Agenten für Unternehmen",
+      "summary": "Der Entwickler von Hermes Agent, Nous Research, bestätigt eine Series B Finanzierungsrunde von 90 Millionen Dollar, die das Unternehmen mit 1,5 Milliarden Dollar bewertet. Zeitgleich lancieren sie neue KI-Agenten für Geschäftskunden."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Healthleap sammelt 38 Mio. USD für KI-Tool zur Überwachung von Krankenhauspatienten",
-      "summary": "Healthleap hat insgesamt 38 Millionen US-Dollar in einer Seed-Runde (8 Mio. USD) und einer Series A (30 Mio. USD) eingesammelt. Ihre KI identifiziert Krankenhauspatienten, die eine genauere Beobachtung benötigen könnten."
+      "headline": "Robotik-Startup Mecka AI sichert sich 60 Millionen Dollar von Sequoia",
+      "summary": "Das Robotik-Daten-Startup Mecka AI hat 60 Millionen Dollar von dem renommierten VC Sequoia erhalten. Das Unternehmen sammelt und analysiert menschliche Bewegungsdaten, um humanoide Roboter zu trainieren."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Kern der Startup-Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money ist der Unternehmenswert vor einer Finanzierungsrunde; Post-Money ist der Wert nach dem Investorengeld. Die Differenz ist das neu investierte Kapital.",
-    "details": "Wenn ein Investor Kapital in ein Startup steckt, kauft er Anteile an der Firma. Der Pre-Money-Wert ist entscheidend für die Berechnung, wie viele Anteile der Investor für sein Geld erhält. Addiert man das investierte Kapital zum Pre-Money-Wert, ergibt sich der Post-Money-Wert, der den neuen Gesamtwert des Unternehmens widerspiegelt und die Basis für die prozentuale Beteiligung aller Gesellschafter bildet. Diese Werte sind fundamental für die Equity-Verteilung und spätere Bewertungsrunden.",
-    "takeaway": "Das Verständnis von Pre- und Post-Money-Bewertungen ist essenziell, um zu wissen, wie Investoren den Wert eines Startups bestimmen und wie sich die Anteile der Gründer nach einer Finanzierungsrunde verwässern."
+    "topic": "Der Short Squeeze: Wenn Leerverkäufer die Preise in die Höhe treiben",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze entsteht, wenn der Kurs einer Aktie unerwartet stark steigt und Leerverkäufer gezwungen sind, ihre Positionen zu schließen, was den Preis zusätzlich antreibt.",
+    "details": "Beim Leerverkauf (Short Selling) leiht sich ein Anleger Aktien, verkauft sie sofort und hofft, sie später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben und die Differenz als Gewinn einzustreichen. Steigt der Aktienkurs jedoch unerwartet stark an, geraten Leerverkäufer unter Druck. Um weitere Verluste zu vermeiden oder Nachschussforderungen (Margin Calls) ihrer Broker zu erfüllen, müssen sie die geliehenen Aktien zurückkaufen. Diese erzwungenen Käufe erhöhen die Nachfrage nach der Aktie massiv, was den Preis spiralförmig weiter in die Höhe treibt und einen 'Short Squeeze' auslöst.",
+    "takeaway": "Ein Short Squeeze zeigt die Risiken des Leerverkaufs und kann zu extremen Kursbewegungen führen. Für Leerverkäufer bedeutet dies die Notwendigkeit, Verluste schnell zu begrenzen, während spekulative Anleger versuchen können, davon zu profitieren."
   }
 }
