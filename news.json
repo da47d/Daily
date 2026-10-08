@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU und China: Handelskommissar Sefcovic reist zu Gesprächen nach Peking",
-      "summary": "Die wirtschaftlichen Beziehungen zwischen der EU und China sind angespannt. Handelskommissar Sefcovic wird versuchen, den eskalierten Handelsstreit beizulegen, um die globalen Handelsbeziehungen zu stabilisieren."
+      "headline": "Eritreische Truppen rücken offenbar in Äthiopien ein",
+      "summary": "Berichten zufolge sind Truppen aus Eritrea in die äthiopische Tigray-Region einmarschiert, wo ein alter Konflikt wieder aufgeflammt ist. Beide Länder machen sich gegenseitig Vorwürfe, was die regionale Instabilität erhöht und globale Märkte beunruhigen könnte."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine-Krieg: Russland greift Busse an, mindestens 30 Tote",
-      "summary": "Bei russischen Angriffen auf zwei Busse in der Ostukraine sind mindestens 30 Menschen getötet und 18 verletzt worden. Nach Attacken auf Kiew und andere Städte musste dort zudem der Strom abgeschaltet werden."
+      "headline": "Großbritannien: Burnham bietet Deutschland Kampfjet-Kooperation an",
+      "summary": "Der neue britische Premier Burnham signalisierte bei seinem Berlin-Besuch eine enge Zusammenarbeit mit Deutschland. Überraschend bot er dabei eine Kooperation im Verteidigungsbereich an, insbesondere bei der Entwicklung von Kampfjets."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Anleiherenditen steigen: Machtkampf an den Finanzmärkten droht Aktienkurse zu belasten",
-      "summary": "Die steigenden Anleiherenditen üben zunehmend Druck auf die Aktienmärkte aus. Dies deutet auf einen potenziellen Machtkampf zwischen diesen Anlageklassen hin, der die Kurse in die Knie zwingen könnte."
+      "headline": "Die deutsche Wirtschaft wächst stärker als erwartet, aber es gibt ein Problem",
+      "summary": "Die Bundesregierung prognostiziert für 2026 ein Wirtschaftswachstum von 1,3 Prozent, mehr als doppelt so viel wie zuvor angenommen. Wirtschaftsverbände fordern jedoch weiterhin dringende Reformen, um die langfristige Wettbewerbsfähigkeit zu sichern."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "China geht gegen Reiche vor: Staatseinnahmen sinken, Unruhe bei Millionären wächst",
-      "summary": "Angesichts sinkender Staatseinnahmen verschärft die chinesische Regierung die Gangart gegenüber vermögenden Bürgern. Dies führt zu Unruhe bei Millionären, da die Maßnahmen als fragwürdig empfunden werden."
+      "headline": "Steigende Anleiherenditen könnten Aktienkurse bedrohen",
+      "summary": "Die Finanzmärkte beobachten einen Machtkampf zwischen Anleihen und Aktien, da steigende Anleiherenditen die Attraktivität von Aktien mindern könnten. Anleger sollten die historischen Zusammenhänge verstehen, um potenzielle Korrekturen am Aktienmarkt zu antizipieren."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "KI in der Finanzwelt: Chat-GPT fordert 'Finance Bros' heraus – Jobs in Gefahr?",
-      "summary": "OpenAI hat einen neuen KI-Agenten vorgestellt, der viele Aufgaben von Finanzexperten automatisieren kann. Dies weckt Befürchtungen, dass insbesondere Berufseinsteiger ihre Jobs an Künstliche Intelligenz verlieren könnten."
+      "headline": "Chat-GPT fordert die Finanzbranche heraus",
+      "summary": "Open AI hat einen KI-Agenten vorgestellt, der viele Aufgaben von Finanzexperten übernehmen kann. Dies könnte insbesondere für Berufseinsteiger in der Finanzbranche einschneidende Veränderungen bedeuten und traditionelle Jobprofile transformieren."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Microsoft präsentiert AI-PCs mit Nvidia-Chips und überarbeitetem Windows 11",
-      "summary": "Microsoft hat neue Surface Laptop Ultra AI-PCs vorgestellt, die auf Nvidia-Chips für KI-Modelle laufen. Das Unternehmen untermauert damit seine Strategie, künstliche Intelligenz tief in Hardware und Betriebssystem zu integrieren."
+      "headline": "Paramount schließt Warner-Übernahme ab",
+      "summary": "Hollywood erlebt eine Megafusion: Paramount übernimmt den Rivalen Warner Brothers, was den Medienmarkt tiefgreifend umkrempelt. Der neue Konzern startet mit hohen Milliardenschulden und muss sich Fragen nach externem politischem Einfluss stellen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Nous Research erreicht 1,5 Milliarden Dollar Bewertung und startet KI-Agenten für Unternehmen",
-      "summary": "Der Entwickler von Hermes Agent, Nous Research, bestätigt eine Series B Finanzierungsrunde von 90 Millionen Dollar, die das Unternehmen mit 1,5 Milliarden Dollar bewertet. Zeitgleich lancieren sie neue KI-Agenten für Geschäftskunden."
+      "headline": "KI-Leaderboard Arena erreicht $3.1 Mrd. Bewertung",
+      "summary": "Das Unternehmen hinter dem beliebten KI-Leaderboard LMArena hat in nur zehn Monaten seine Bewertung auf 3,1 Milliarden Dollar verdoppelt, gestützt durch eine 200 Millionen Dollar schwere Finanzierungsrunde. Der Fokus liegt nun auch auf der Messung von Ausrichtungsproblemen bei KI-Modellen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Robotik-Startup Mecka AI sichert sich 60 Millionen Dollar von Sequoia",
-      "summary": "Das Robotik-Daten-Startup Mecka AI hat 60 Millionen Dollar von dem renommierten VC Sequoia erhalten. Das Unternehmen sammelt und analysiert menschliche Bewegungsdaten, um humanoide Roboter zu trainieren."
+      "headline": "OpenAI-Umsatz wohl deutlich unter Erwartungen",
+      "summary": "Die prognostizierten Jahreseinnahmen von OpenAI liegen Berichten zufolge 20 Milliarden Dollar unter den ursprünglich erwarteten 70 Milliarden Dollar. Diese Abweichung könnte wichtige Implikationen für die Investitionslandschaft und das Vertrauen im gesamten KI-Sektor haben."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Wenn Leerverkäufer die Preise in die Höhe treiben",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze entsteht, wenn der Kurs einer Aktie unerwartet stark steigt und Leerverkäufer gezwungen sind, ihre Positionen zu schließen, was den Preis zusätzlich antreibt.",
-    "details": "Beim Leerverkauf (Short Selling) leiht sich ein Anleger Aktien, verkauft sie sofort und hofft, sie später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben und die Differenz als Gewinn einzustreichen. Steigt der Aktienkurs jedoch unerwartet stark an, geraten Leerverkäufer unter Druck. Um weitere Verluste zu vermeiden oder Nachschussforderungen (Margin Calls) ihrer Broker zu erfüllen, müssen sie die geliehenen Aktien zurückkaufen. Diese erzwungenen Käufe erhöhen die Nachfrage nach der Aktie massiv, was den Preis spiralförmig weiter in die Höhe treibt und einen 'Short Squeeze' auslöst.",
-    "takeaway": "Ein Short Squeeze zeigt die Risiken des Leerverkaufs und kann zu extremen Kursbewegungen führen. Für Leerverkäufer bedeutet dies die Notwendigkeit, Verluste schnell zu begrenzen, während spekulative Anleger versuchen können, davon zu profitieren."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zu Startup-Deals",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die 'Pre-Money Bewertung' ist der Wert eines Startups VOR einer Finanzierungsrunde, während die 'Post-Money Bewertung' den Wert NACHdem das neue Kapital hinzugefügt wurde, darstellt.",
+    "details": "Stell dir vor, ein Startup ist vor einer neuen Investition 10 Millionen Euro wert (Pre-Money). Ein Investor investiert 2 Millionen Euro. Die Post-Money Bewertung ist dann die Pre-Money Bewertung plus die Investition, also 12 Millionen Euro. Die 2 Millionen Euro des Investors repräsentieren dann einen Anteil von 2/12 (ca. 16,67%) am Unternehmen. Diese Unterscheidung ist entscheidend, da sie direkt beeinflusst, welchen Anteil neue Investoren für ihr Kapital erhalten und wie stark die Anteile der Gründer und bestehenden Aktionäre verwässert werden. Eine höhere Pre-Money Bewertung bedeutet, dass die Gründer und bestehenden Aktionäre für das gleiche Investment prozentual weniger verwässert werden.",
+    "takeaway": "Die Pre-Money Bewertung definiert den Unternehmenswert vor der Kapitalzufuhr, die Post-Money Bewertung danach. Diese Unterscheidung ist essenziell für die präzise Berechnung der Anteilsverteilung in Finanzierungsrunden und damit für die Wertentwicklung aller Beteiligten."
   }
 }
