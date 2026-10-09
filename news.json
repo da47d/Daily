@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Eritreische Truppen rücken offenbar in Äthiopien ein",
-      "summary": "Berichten zufolge sind Truppen aus Eritrea in die äthiopische Tigray-Region einmarschiert, wo ein alter Konflikt wieder aufgeflammt ist. Beide Länder machen sich gegenseitig Vorwürfe, was die regionale Instabilität erhöht und globale Märkte beunruhigen könnte."
+      "headline": "Verhandlungen über Ukraine-Krieg in den USA",
+      "summary": "Während massiver russischer Angriffe in der Ukraine treffen sich Unterhändler aus den USA und der Ukraine zu Gesprächen. Außenminister Wadephul verschärft seinen Ton gegenüber Putin angesichts der vielen Toten."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Großbritannien: Burnham bietet Deutschland Kampfjet-Kooperation an",
-      "summary": "Der neue britische Premier Burnham signalisierte bei seinem Berlin-Besuch eine enge Zusammenarbeit mit Deutschland. Überraschend bot er dabei eine Kooperation im Verteidigungsbereich an, insbesondere bei der Entwicklung von Kampfjets."
+      "headline": "EU und China verhandeln über Handelsstreit",
+      "summary": "In Peking finden Gespräche zwischen China und der EU statt, um den Handelskonflikt zu lösen. Während die EU mit neuen Maßnahmen droht, sehen chinesische Experten noch Spielraum für Kompromisse."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die deutsche Wirtschaft wächst stärker als erwartet, aber es gibt ein Problem",
-      "summary": "Die Bundesregierung prognostiziert für 2026 ein Wirtschaftswachstum von 1,3 Prozent, mehr als doppelt so viel wie zuvor angenommen. Wirtschaftsverbände fordern jedoch weiterhin dringende Reformen, um die langfristige Wettbewerbsfähigkeit zu sichern."
+      "headline": "Asiatische Online-Plattformen verlieren Marktanteile",
+      "summary": "Die Umsätze von Shein, Temu und AliExpress sind in Deutschland stark zurückgegangen. Eine neue Zollgebühr für Warensendungen aus Nicht-EU-Staaten wird als Hauptgrund genannt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Steigende Anleiherenditen könnten Aktienkurse bedrohen",
-      "summary": "Die Finanzmärkte beobachten einen Machtkampf zwischen Anleihen und Aktien, da steigende Anleiherenditen die Attraktivität von Aktien mindern könnten. Anleger sollten die historischen Zusammenhänge verstehen, um potenzielle Korrekturen am Aktienmarkt zu antizipieren."
+      "headline": "DAX über 25.000 Punkten, Ölpreis sinkt",
+      "summary": "Der DAX hat die Marke von 25.000 Punkten wieder überschritten, doch Unsicherheitsfaktoren bleiben. Gleichzeitig verzeichnet der Rohölmarkt einen Rückgang der Preise."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Chat-GPT fordert die Finanzbranche heraus",
-      "summary": "Open AI hat einen KI-Agenten vorgestellt, der viele Aufgaben von Finanzexperten übernehmen kann. Dies könnte insbesondere für Berufseinsteiger in der Finanzbranche einschneidende Veränderungen bedeuten und traditionelle Jobprofile transformieren."
+      "headline": "SpaceX greift US-Mobilfunkmarkt an",
+      "summary": "Elon Musks Raumfahrtkonzern SpaceX plant mit einem Milliardendeal, das Oligopol im US-Mobilfunkmarkt aufzubrechen. Dies bedroht das Geschäft etablierter Anbieter wie T-Mobile US."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Paramount schließt Warner-Übernahme ab",
-      "summary": "Hollywood erlebt eine Megafusion: Paramount übernimmt den Rivalen Warner Brothers, was den Medienmarkt tiefgreifend umkrempelt. Der neue Konzern startet mit hohen Milliardenschulden und muss sich Fragen nach externem politischem Einfluss stellen."
+      "headline": "Google integriert Agenten-KI in Gemini für Unternehmen",
+      "summary": "Google erweitert Gemini um eine Agenten-KI, die Aufgaben planen und über verschiedene Business-Apps ausführen kann. Die neue Funktion ermöglicht Delegation an Subagenten und erhält sogar eine eigene digitale Identität."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "KI-Leaderboard Arena erreicht $3.1 Mrd. Bewertung",
-      "summary": "Das Unternehmen hinter dem beliebten KI-Leaderboard LMArena hat in nur zehn Monaten seine Bewertung auf 3,1 Milliarden Dollar verdoppelt, gestützt durch eine 200 Millionen Dollar schwere Finanzierungsrunde. Der Fokus liegt nun auch auf der Messung von Ausrichtungsproblemen bei KI-Modellen."
+      "headline": "Xona startet kommerziellen GPS-Alternative-Dienst",
+      "summary": "Nach dem Start von sechs Satelliten durch SpaceX bereitet sich Xona darauf vor, seinen präzisen Timing- und Navigationsdienst in der Beta-Phase einzuführen. Dies stellt eine vielversprechende Alternative zum bestehenden GPS dar."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI-Umsatz wohl deutlich unter Erwartungen",
-      "summary": "Die prognostizierten Jahreseinnahmen von OpenAI liegen Berichten zufolge 20 Milliarden Dollar unter den ursprünglich erwarteten 70 Milliarden Dollar. Diese Abweichung könnte wichtige Implikationen für die Investitionslandschaft und das Vertrauen im gesamten KI-Sektor haben."
+      "headline": "AI-Plattform Arena verdoppelt Bewertung auf $3,1 Mrd.",
+      "summary": "Das Unternehmen hinter dem KI-Leaderboard LMArena hat in nur zehn Monaten $200 Millionen eingesammelt und seine Bewertung auf $3,1 Milliarden gesteigert. Es fokussiert sich nun auch auf die Messung von KI-Modellen hinsichtlich Ausrichtungsfragen wie dem 'Lügen'."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zu Startup-Deals",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die 'Pre-Money Bewertung' ist der Wert eines Startups VOR einer Finanzierungsrunde, während die 'Post-Money Bewertung' den Wert NACHdem das neue Kapital hinzugefügt wurde, darstellt.",
-    "details": "Stell dir vor, ein Startup ist vor einer neuen Investition 10 Millionen Euro wert (Pre-Money). Ein Investor investiert 2 Millionen Euro. Die Post-Money Bewertung ist dann die Pre-Money Bewertung plus die Investition, also 12 Millionen Euro. Die 2 Millionen Euro des Investors repräsentieren dann einen Anteil von 2/12 (ca. 16,67%) am Unternehmen. Diese Unterscheidung ist entscheidend, da sie direkt beeinflusst, welchen Anteil neue Investoren für ihr Kapital erhalten und wie stark die Anteile der Gründer und bestehenden Aktionäre verwässert werden. Eine höhere Pre-Money Bewertung bedeutet, dass die Gründer und bestehenden Aktionäre für das gleiche Investment prozentual weniger verwässert werden.",
-    "takeaway": "Die Pre-Money Bewertung definiert den Unternehmenswert vor der Kapitalzufuhr, die Post-Money Bewertung danach. Diese Unterscheidung ist essenziell für die präzise Berechnung der Anteilsverteilung in Finanzierungsrunden und damit für die Wertentwicklung aller Beteiligten."
+    "topic": "Der Ablauf eines Short Squeeze: Mechanik eines Kursfeuerwerks",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein plötzlicher, starker Anstieg des Kurses eines Wertpapiers, der durch die massive Deckung von Leerverkaufspositionen ausgelöst wird. Leerverkäufer, die auf fallende Kurse wetten, werden hierbei zum Rückkauf der Aktie gezwungen.",
+    "details": "Wenn viele Anleger eine Aktie leerverkaufen, leihen sie diese aus und verkaufen sie in der Erwartung, sie später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Steigt der Kurs unerwartet stark an, geraten Leerverkäufer unter Druck, ihre Positionen zu schließen, um Verluste zu begrenzen. Dazu müssen sie die Aktie am Markt kaufen, was die Nachfrage und somit den Kurs weiter in die Höhe treibt – eine sich selbst verstärkende Spirale.",
+    "takeaway": "Ein Short Squeeze zeigt, wie Leerverkaufspositionen bei unerwarteter Kursentwicklung zu einem explosiven Anstieg führen können, da die Notwendigkeit des Zurückkaufens den Kaufdruck massiv erhöht. Für Finance-Studenten ist es wichtig, die Risiken und Chancen solcher Marktdynamiken zu verstehen."
   }
 }
