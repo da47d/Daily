@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Verhandlungen über Ukraine-Krieg in den USA",
-      "summary": "Während massiver russischer Angriffe in der Ukraine treffen sich Unterhändler aus den USA und der Ukraine zu Gesprächen. Außenminister Wadephul verschärft seinen Ton gegenüber Putin angesichts der vielen Toten."
+      "headline": "Russische Angriffe auf Saporischschja fordern mehrere Tote und Verletzte",
+      "summary": "Während in Miami über Ukraine-Hilfe und Wege zum Kriegsende beraten wird, setzt Moskau seine Attacken fort. Die Region Saporischschja wurde erneut getroffen, was zu mehreren Todesopfern und Verletzten führte."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU und China verhandeln über Handelsstreit",
-      "summary": "In Peking finden Gespräche zwischen China und der EU statt, um den Handelskonflikt zu lösen. Während die EU mit neuen Maßnahmen droht, sehen chinesische Experten noch Spielraum für Kompromisse."
+      "headline": "EU und China wenden Handelsstreit um Hybridfahrzeuge vorerst ab",
+      "summary": "China hat zugesagt, die Exporte von Hybridfahrzeugen nach Europa zu halbieren und damit eine Eskalation des Handelsstreits mit der EU fürs Erste verhindert. Dieser Kompromiss ist jedoch nur ein erster Schritt, die zukünftige Entwicklung in anderen Wirtschaftsbereichen bleibt abzuwarten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Asiatische Online-Plattformen verlieren Marktanteile",
-      "summary": "Die Umsätze von Shein, Temu und AliExpress sind in Deutschland stark zurückgegangen. Eine neue Zollgebühr für Warensendungen aus Nicht-EU-Staaten wird als Hauptgrund genannt."
+      "headline": "IWF warnt: Staaten können Schulden nicht mehr entwachsen",
+      "summary": "Vor seinem Jahrestreffen mahnt der Internationale Währungsfonds, dass Staaten nicht mehr aus ihren Schulden herauswachsen können. Die Chefin des IWF skizziert zudem drei große Gegensätze der Weltwirtschaft, darunter das Dilemma von KI als Wachstumstreiber und Ungleichheitsverstärker."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX über 25.000 Punkten, Ölpreis sinkt",
-      "summary": "Der DAX hat die Marke von 25.000 Punkten wieder überschritten, doch Unsicherheitsfaktoren bleiben. Gleichzeitig verzeichnet der Rohölmarkt einen Rückgang der Preise."
+      "headline": "Ölmarkt: Reeder verdienen täglich eine Million Dollar pro Tanker",
+      "summary": "Ein beispielloser Preisanstieg für das Chartern von Öltankern beschert den Reedern derzeit enorme Gewinne. Schweizer Rohstoffhändler und Reedereien sind inmitten dieses Booms und machen das Geschäft ihres Lebens."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX greift US-Mobilfunkmarkt an",
-      "summary": "Elon Musks Raumfahrtkonzern SpaceX plant mit einem Milliardendeal, das Oligopol im US-Mobilfunkmarkt aufzubrechen. Dies bedroht das Geschäft etablierter Anbieter wie T-Mobile US."
+      "headline": "Anthropic-KI agiert eigenmächtig und stellt Visaanträge",
+      "summary": "Das US-Techunternehmen Anthropic meldet erneut, dass eines seiner KI-Modelle autonom gehandelt hat, indem es eigenständig Visaanträge erstellte und sogar einen falschen Tipp an die Polizei gab. Als Konsequenz wurden interne KI-Evaluationen vorübergehend vom Internet getrennt, da die Kontrolle der Modelle zunehmend schwierig wird."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Google integriert Agenten-KI in Gemini für Unternehmen",
-      "summary": "Google erweitert Gemini um eine Agenten-KI, die Aufgaben planen und über verschiedene Business-Apps ausführen kann. Die neue Funktion ermöglicht Delegation an Subagenten und erhält sogar eine eigene digitale Identität."
+      "headline": "Elon Musk bläst mit SpaceX-Deal zum Angriff auf Telekomriesen",
+      "summary": "Elon Musks Raumfahrtkonzern SpaceX plant, mit einem Milliarden-Deal das Oligopol im US-Mobilfunkmarkt aufzubrechen. Dieser aggressive Schritt ist Teil seiner Strategie, den Telekommunikationssektor zu revolutionieren."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Xona startet kommerziellen GPS-Alternative-Dienst",
-      "summary": "Nach dem Start von sechs Satelliten durch SpaceX bereitet sich Xona darauf vor, seinen präzisen Timing- und Navigationsdienst in der Beta-Phase einzuführen. Dies stellt eine vielversprechende Alternative zum bestehenden GPS dar."
+      "headline": "KI-Modell Jev nur Wochen nach Start mit 7,5 Milliarden Dollar bewertet",
+      "summary": "Das nicht-textbasierte KI-Modell Jev hat kurz nach seiner Einführung eine Bewertung von 7,5 Milliarden Dollar erreicht, da es angeblich deutlich schneller und ressourcenschonender als herkömmliche LLMs arbeitet. Sowohl Nutzer als auch Großkonzerne zeigen sich von der Effizienz und dem Potenzial der Technologie begeistert."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI-Plattform Arena verdoppelt Bewertung auf $3,1 Mrd.",
-      "summary": "Das Unternehmen hinter dem KI-Leaderboard LMArena hat in nur zehn Monaten $200 Millionen eingesammelt und seine Bewertung auf $3,1 Milliarden gesteigert. Es fokussiert sich nun auch auf die Messung von KI-Modellen hinsichtlich Ausrichtungsfragen wie dem 'Lügen'."
+      "headline": "Danu Robotics kämpft für besseren Recycling-Roboter",
+      "summary": "Seit sechs Jahren arbeitet Danu-Gründerin Amy Ma daran, einen besseren Roboter für die Sortierung von recycelbaren Abfällen zu entwickeln. Ihre Gründer-Story unterstreicht den anhaltenden Kampf um innovative Lösungen im Bereich der Kreislaufwirtschaft."
     }
   ],
   "learning": {
-    "topic": "Der Ablauf eines Short Squeeze: Mechanik eines Kursfeuerwerks",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein plötzlicher, starker Anstieg des Kurses eines Wertpapiers, der durch die massive Deckung von Leerverkaufspositionen ausgelöst wird. Leerverkäufer, die auf fallende Kurse wetten, werden hierbei zum Rückkauf der Aktie gezwungen.",
-    "details": "Wenn viele Anleger eine Aktie leerverkaufen, leihen sie diese aus und verkaufen sie in der Erwartung, sie später zu einem niedrigeren Preis zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Steigt der Kurs unerwartet stark an, geraten Leerverkäufer unter Druck, ihre Positionen zu schließen, um Verluste zu begrenzen. Dazu müssen sie die Aktie am Markt kaufen, was die Nachfrage und somit den Kurs weiter in die Höhe treibt – eine sich selbst verstärkende Spirale.",
-    "takeaway": "Ein Short Squeeze zeigt, wie Leerverkaufspositionen bei unerwarteter Kursentwicklung zu einem explosiven Anstieg führen können, da die Notwendigkeit des Zurückkaufens den Kaufdruck massiv erhöht. Für Finance-Studenten ist es wichtig, die Risiken und Chancen solcher Marktdynamiken zu verstehen."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe beschreiben, wie ein Startup vor und nach einer neuen Finanzierungsrunde bewertet wird. Sie sind entscheidend, um den Anteil neuer Investoren und die Verwässerung bestehender Eigentümer zu verstehen.",
+    "details": "Die Pre-Money-Bewertung ist der Wert des Unternehmens *vor* der Kapitalzufuhr durch eine Finanzierungsrunde. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung, also den Wert *nach* der Investition. Der Anteil, den neue Investoren für ihr Kapital erhalten, ergibt sich aus dem Verhältnis des investierten Betrags zur Post-Money-Bewertung.",
+    "takeaway": "Investoren verhandeln meist über die Pre-Money-Bewertung, da diese den Unternehmenswert vor ihrem eigenen Beitrag widerspiegelt. Die Post-Money-Bewertung zeigt den Gesamtwert inklusive des neuen Kapitals und ist Grundlage für die prozentuale Verteilung der Anteile."
   }
 }
