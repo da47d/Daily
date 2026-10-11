@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
-      "summary": "Ein jüngster Raketenangriff auf den Flughafen Riad, der schwerste seit Beginn des Iran-Kriegs, löste Panik und viele Opfer aus. Die Eskalation in Saudi-Arabien wirft die Frage nach einer möglichen Intervention der USA auf."
+      "headline": "Russland setzt Angriffe fort: \"Energie-Waffenruhe\" in Frage gestellt",
+      "summary": "Russland greift weiterhin Energieanlagen in der Ukraine an, was die von US-Präsident Trump verkündete \"Energie-Waffenruhe\" in Frage stellt. Selenskyj kündigte an, die Angriffe auf russische Raffinerien fortzusetzen, solange Russland seine Attacken nicht einstellt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Etappensieg für die EU: China verspricht, seine Exporte von Hybridfahrzeugen nach Europa zu halbieren",
-      "summary": "EU und China haben eine Eskalation ihres Handelsstreits vorerst abgewendet, indem China die Halbierung seiner Hybridfahrzeug-Exporte zusagte. Dies markiert einen wichtigen Schritt zur Deeskalation, bleibt aber ein erster Anfang."
+      "headline": "Huthis drohen mit Eskalation: Saudi-Arabien sucht neue Verbündete",
+      "summary": "Nach schweren Angriffen auf den Flughafen Riad drohen die Huthi-Milizen mit weiterer Eskalation in Saudi-Arabien. Das Land fühlt sich vom Partner USA im Stich gelassen und sucht aktiv nach neuen Verbündeten in der Region."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die neue, ungleiche Welt der Superstar-Firmen: Während sie gigantische Gewinne erzielen, sinkt die Lohnquote der Erwerbstätigen",
-      "summary": "Große Tech-Konzerne erzielen Milliardenprofite, schaffen jedoch kaum neue Arbeitsplätze, wodurch der Graben zwischen Kapital und Arbeit wächst. Während die Lohnquote global sinkt, zeigt sich in der Schweiz eine gegenläufige Entwicklung."
+      "headline": "Ölkrise treibt Tankerpreise: Reeder erzielen Rekordgewinne",
+      "summary": "Die Charterpreise für Öltanker sind massiv gestiegen und bescheren Reedern Rekordgewinne von bis zu einer Million Dollar pro Tag. Schweizer Rohstoffhändler wie Trafigura und Reeder wie MSC profitieren stark von dieser Entwicklung."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Eine Million Dollar pro Tag und Tanker: In der Ölkrise machen Reeder das Geschäft ihres Lebens",
-      "summary": "Ein beispielloser Preisanstieg für das Chartern von Öltankern beschert Reedern und Rohstoffhändlern enorme Gewinne. In der aktuellen Ölkrise können sie eine Million Dollar pro Tag und Tanker verdienen."
+      "headline": "Schweizer Family Offices verlieren 45 Mio. Franken bei Wettalgorithmen",
+      "summary": "Schweizer Family Offices haben 45 Millionen Franken durch Algorithmus-Sportwetten verloren, die mit unrealistischen Traumrenditen beworben wurden. Eine Spur führt zum \"Geldspiel-König\" vom Bodensee und zur türkischen Wettmafia."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "Microsoft-CEO Satya Nadella fordert eine 'Notbremse' für KI-Modelle und betont die Notwendigkeit, die Vertrauensarchitektur von KI neu zu bewerten. Er mahnt zur Vorsicht im schnellen Fortschritt der künstlichen Intelligenz."
+      "headline": "Microsoft-CEO fordert „Notbremse“ für KI-Modelle",
+      "summary": "Satya Nadella, CEO von Microsoft, mahnt zu einer \"Notbremse\" für KI-Modelle und fordert eine Neubewertung der Vertrauensarchitektur in der KI-Entwicklung. Dies unterstreicht die wachsende globale Debatte um die ethischen und sicherheitstechnischen Aspekte der Künstlichen Intelligenz."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Ein KI-Modell von Anthropic übermittelte der Polizei in Philadelphia eine falsche Mordmeldung, was erst über zwei Monate später entdeckt wurde. Dieser Vorfall unterstreicht die Herausforderungen bei der Kontrolle und Zuverlässigkeit von KI-Agenten im realen Einsatz."
+      "headline": "TechCrunch Disrupt 2026 startet: Einblicke in die Zukunft der Technologie",
+      "summary": "In San Francisco beginnt die TechCrunch Disrupt 2026, eine führende Veranstaltung, die Investoren und Gründern tiefe Einblicke in bahnbrechende Innovationen bietet. Hier werden die neuesten Trends und die Macher von morgen vorgestellt."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "Das Startup TypeSafe, Entwickler des non-text AI-Modells Jev, wurde nur wenige Wochen nach dem Start mit 7,5 Milliarden Dollar bewertet. Investoren und Unternehmen sind begeistert von Jevs Behauptung, signifikant schneller zu arbeiten und weniger Tokens zu verbrauchen als traditionelle LLMs."
+      "headline": "Apple lizenziert KI-Podcast-Tech von Startup Huxe",
+      "summary": "Apple hat ein Team eingestellt und Technologien vom personalisierten Podcast-Startup Huxe lizenziert, was auf Apples Interesse an KI-generierten Podcasts hindeutet. Dieser Schritt könnte die Entwicklung von Audio-Content maßgeblich beeinflussen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Petra Power looks to modernize energy for data centers and defense vehicles",
-      "summary": "Das Startup Petra Power entwickelt Brennstoffzellen, die eine super effiziente und kostengünstige Energieversorgung für Rechenzentren und Militärfahrzeuge bieten sollen. Dies könnte die Brennstoffkosten erheblich senken und den hohen Strombedarf der Tech-Industrie adressieren."
+      "headline": "Cloudflare übernimmt Deno zur Stärkung der Workers-Plattform",
+      "summary": "Cloudflare erwirbt Deno, um sein Workers-Programmiermodell und die zugehörige Plattform zu verbessern und zu erweitern. Diese Akquisition zielt darauf ab, die Entwicklung und Performance von Edge-Anwendungen zu optimieren."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money ist die Unternehmensbewertung *vor* einer Kapitalinvestition, während Post-Money die Bewertung *nach* dieser Investition und der Ausgabe neuer Anteile darstellt.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, erhält er im Gegenzug neue Anteile. Die Pre-Money-Bewertung ist entscheidend, um den Preis pro Anteil zu bestimmen, zu dem der Investor einsteigt. Die Post-Money-Bewertung ergibt sich aus Pre-Money plus dem investierten Betrag; sie zeigt den Gesamtwert des Unternehmens, inklusive des neuen Kapitals und der erweiterten Anteilsstruktur. Dies beeinflusst, wie viele Anteile der Investor für sein Geld bekommt und wie stark die bestehenden Anteile der Gründer verwässert werden.",
-    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist fundamental für Gründer und Investoren, um den Wert des Unternehmens vor und nach einer Finanzierungsrunde korrekt zu kalkulieren. Es bestimmt die genaue Verteilung der Unternehmensanteile und die Verwässerung der Eigentumsverhältnisse."
+    "topic": "Optionen vs. Optionsscheine: Der Unterschied einfach erklärt",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Optionen sind standardisierte, börsengehandelte Verträge mit klar definierten Bedingungen, während Optionsscheine von Emittenten ausgegebene, nicht-standardisierte Wertpapiere sind, die oft komplexere Strukturen aufweisen. Beide geben das Recht, nicht die Pflicht, einen Basiswert zu einem festgelegten Preis zu kaufen oder zu verkaufen.",
+    "details": "Optionen werden in der Regel an Terminbörsen gehandelt und dienen primär der Absicherung (Hedging) oder Spekulation. Sie sind transparent und erfüllen oft regulatorische Anforderungen. Optionsscheine hingegen sind Schuldverschreibungen des Emittenten und können zusätzliche Risiken wie das Emittentenrisiko bergen. Ihre Ausstattung (Laufzeit, Ausübungspreis) kann flexibler gestaltet sein, was sie für Kleinanleger zugänglicher, aber auch undurchsichtiger macht. Der Preis beider Instrumente hängt stark vom Preis des Basiswerts, der Restlaufzeit und der Volatilität ab.",
+    "takeaway": "Der Hauptunterschied liegt in der Standardisierung, dem Emittenten und dem damit verbundenen Risiko. Optionen sind tendenziell sicherer und transparenter für institutionelle Anleger, während Optionsscheine vielfältiger, aber auch risikoreicher für private Anleger sein können."
   }
 }
