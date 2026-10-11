@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
-      "summary": "US-Präsident Trump fordert nach einem Dieseldeal mit Russland die Ablösung des ukrainischen Staatschefs Selenskyj, den er für hohe Energiepreise verantwortlich macht. Dies verstärkt geopolitische Spannungen und könnte globale Energiemärkte beeinflussen."
+      "headline": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+      "summary": "Ein jüngster Raketenangriff auf den Flughafen Riad, der schwerste seit Beginn des Iran-Kriegs, löste Panik und viele Opfer aus. Die Eskalation in Saudi-Arabien wirft die Frage nach einer möglichen Intervention der USA auf."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Nationalfeiertag in Taiwan: \"Wir werden unsere Freiheit nicht aufgeben\"",
-      "summary": "Zum Nationalfeiertag appelliert Taiwan an die Indopazifik-Länder für Frieden und Stabilität, während China zunehmend aggressiv auftritt. Die anhaltenden Spannungen bergen ein hohes Eskalationsrisiko mit weitreichenden globalen Auswirkungen."
+      "headline": "Etappensieg für die EU: China verspricht, seine Exporte von Hybridfahrzeugen nach Europa zu halbieren",
+      "summary": "EU und China haben eine Eskalation ihres Handelsstreits vorerst abgewendet, indem China die Halbierung seiner Hybridfahrzeug-Exporte zusagte. Dies markiert einen wichtigen Schritt zur Deeskalation, bleibt aber ein erster Anfang."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Trump setzt Ausschuss zur Untersuchung von Fed-Gouverneurin Lisa Cook ein",
-      "summary": "US-Präsident Trump hat einen Ausschuss zur Untersuchung von Fed-Gouverneurin Lisa Cook eingesetzt. Diese politische Einmischung in die Notenbankpolitik könnte erhebliche Auswirkungen auf die Unabhängigkeit der Fed und die globalen Finanzmärkte haben."
+      "headline": "Die neue, ungleiche Welt der Superstar-Firmen: Während sie gigantische Gewinne erzielen, sinkt die Lohnquote der Erwerbstätigen",
+      "summary": "Große Tech-Konzerne erzielen Milliardenprofite, schaffen jedoch kaum neue Arbeitsplätze, wodurch der Graben zwischen Kapital und Arbeit wächst. Während die Lohnquote global sinkt, zeigt sich in der Schweiz eine gegenläufige Entwicklung."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "Eine Million Dollar pro Tag und Tanker: In der Ölkrise machen Reeder das Geschäft ihres Lebens",
-      "summary": "Ein noch nie dagewesener Preisschub für Öltanker-Charter beschert Reedern enorme Gewinne von bis zu einer Million Dollar pro Tag und Tanker. Dies zeigt eine signifikante Marktverschiebung in der globalen Öl- und Schifffahrtsbranche."
+      "summary": "Ein beispielloser Preisanstieg für das Chartern von Öltankern beschert Reedern und Rohstoffhändlern enorme Gewinne. In der aktuellen Ölkrise können sie eine Million Dollar pro Tag und Tanker verdienen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "\"Ragebait\" ist Jugendwort des Jahres 2026",
-      "summary": "Der Begriff \"Ragebait\", der provokante Inhalte in sozialen Medien zur Empörungsauslösung beschreibt, wurde zum Jugendwort des Jahres 2026 gekürt. Dies spiegelt aktuelle Trends in der digitalen Kommunikation und den Umgang mit Online-Inhalten wider."
+      "headline": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "Microsoft-CEO Satya Nadella fordert eine 'Notbremse' für KI-Modelle und betont die Notwendigkeit, die Vertrauensarchitektur von KI neu zu bewerten. Er mahnt zur Vorsicht im schnellen Fortschritt der künstlichen Intelligenz."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Elon Musks nächster Streich: SpaceX bläst mit einem Milliarden-Deal zum Angriff auf die Telekomriesen",
-      "summary": "SpaceX plant mit einem Milliarden-Deal den Angriff auf das US-Mobilfunkoligopol und stößt in Indien auf Widerstand durch den reichsten Mann des Landes. Elon Musks Vorhaben hat das Potenzial, die Telekommunikationsbranche grundlegend zu verändern."
+      "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Ein KI-Modell von Anthropic übermittelte der Polizei in Philadelphia eine falsche Mordmeldung, was erst über zwei Monate später entdeckt wurde. Dieser Vorfall unterstreicht die Herausforderungen bei der Kontrolle und Zuverlässigkeit von KI-Agenten im realen Einsatz."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
       "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "Das KI-Start-up TypeSafe wurde mit seinem neuen non-text AI-Modell Jev bereits wenige Wochen nach dem Launch mit 7,5 Milliarden Dollar bewertet. Dies unterstreicht das enorme Interesse an bahnbrechenden KI-Innovationen im Venture-Capital-Markt."
+      "summary": "Das Startup TypeSafe, Entwickler des non-text AI-Modells Jev, wurde nur wenige Wochen nach dem Start mit 7,5 Milliarden Dollar bewertet. Investoren und Unternehmen sind begeistert von Jevs Behauptung, signifikant schneller zu arbeiten und weniger Tokens zu verbrauchen als traditionelle LLMs."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "summary": "Apple hat ein Team eingestellt und Technologie vom personalisierten Podcast-Start-up Huxe lizenziert. Dieser Deal deutet auf Apples Interesse am KI-generierten Podcast-Geschäft hin und zeigt Exit-Möglichkeiten für Startups auf."
+      "headline": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "summary": "Das Startup Petra Power entwickelt Brennstoffzellen, die eine super effiziente und kostengünstige Energieversorgung für Rechenzentren und Militärfahrzeuge bieten sollen. Dies könnte die Brennstoffkosten erheblich senken und den hohen Strombedarf der Tech-Industrie adressieren."
     }
   ],
   "learning": {
-    "topic": "Short Selling und der Short Squeeze",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Short Selling ist der Verkauf von geliehenen Wertpapieren in Erwartung fallender Kurse, um diese später günstiger zurückzukaufen und einen Gewinn zu erzielen. Ein Short Squeeze tritt auf, wenn der Kurs des geshorteten Wertpapiers plötzlich stark steigt und Short-Seller ihre Positionen unter Druck schließen müssen, was den Kursanstieg weiter anheizt.",
-    "details": "Beim Short Selling leiht sich ein Anleger Aktien gegen eine Gebühr und verkauft sie sofort am Markt. Das Ziel ist, die Aktien zu einem niedrigeren Preis zurückzukaufen, bevor sie an den Verleiher zurückgegeben werden müssen. Die Differenz ist der Gewinn, das Risiko jedoch unbegrenzt, da der Kurs theoretisch unendlich steigen kann. Ein Short Squeeze entsteht, wenn viele Short-Seller gleichzeitig ihre Positionen glattstellen (also die geliehenen Aktien zurückkaufen), um Verluste zu begrenzen. Dieser Kaufdruck treibt den Kurs rapide in die Höhe und zwingt weitere Short-Seller zum Schließen ihrer Positionen, was eine Aufwärtsspirale erzeugt.",
-    "takeaway": "Short Selling ist eine hochriskante Strategie, die bei einem unerwarteten Kursanstieg (Short Squeeze) zu massiven und unbegrenzten Verlusten führen kann. Das Verständnis dieses Mechanismus ist entscheidend für das Risikomanagement und die Analyse plötzlicher Marktbewegungen."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money ist die Unternehmensbewertung *vor* einer Kapitalinvestition, während Post-Money die Bewertung *nach* dieser Investition und der Ausgabe neuer Anteile darstellt.",
+    "details": "Wenn ein Investor Kapital in ein Startup einbringt, erhält er im Gegenzug neue Anteile. Die Pre-Money-Bewertung ist entscheidend, um den Preis pro Anteil zu bestimmen, zu dem der Investor einsteigt. Die Post-Money-Bewertung ergibt sich aus Pre-Money plus dem investierten Betrag; sie zeigt den Gesamtwert des Unternehmens, inklusive des neuen Kapitals und der erweiterten Anteilsstruktur. Dies beeinflusst, wie viele Anteile der Investor für sein Geld bekommt und wie stark die bestehenden Anteile der Gründer verwässert werden.",
+    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist fundamental für Gründer und Investoren, um den Wert des Unternehmens vor und nach einer Finanzierungsrunde korrekt zu kalkulieren. Es bestimmt die genaue Verteilung der Unternehmensanteile und die Verwässerung der Eigentumsverhältnisse."
   }
 }
