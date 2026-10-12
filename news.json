@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russland setzt Angriffe fort: \"Energie-Waffenruhe\" in Frage gestellt",
-      "summary": "Russland greift weiterhin Energieanlagen in der Ukraine an, was die von US-Präsident Trump verkündete \"Energie-Waffenruhe\" in Frage stellt. Selenskyj kündigte an, die Angriffe auf russische Raffinerien fortzusetzen, solange Russland seine Attacken nicht einstellt."
+      "headline": "Brexit: Premier Burnham wirft Russland Einmischung vor",
+      "summary": "Zehn Jahre nach dem Brexit-Votum beschuldigt Großbritanniens Premier Russland der Einmischung. Er warnt zudem vor russischer Einflussnahme in Deutschland und Frankreich."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Huthis drohen mit Eskalation: Saudi-Arabien sucht neue Verbündete",
-      "summary": "Nach schweren Angriffen auf den Flughafen Riad drohen die Huthi-Milizen mit weiterer Eskalation in Saudi-Arabien. Das Land fühlt sich vom Partner USA im Stich gelassen und sucht aktiv nach neuen Verbündeten in der Region."
+      "headline": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
+      "summary": "Nachdem chinesische Hersteller trotz EU-Zöllen auf E-Autos den Hybrid-Export steigerten, zieht die EU nun Grenzen. Sie limitiert die jährlichen Importe auf 350.000 Fahrzeuge."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Ölkrise treibt Tankerpreise: Reeder erzielen Rekordgewinne",
-      "summary": "Die Charterpreise für Öltanker sind massiv gestiegen und bescheren Reedern Rekordgewinne von bis zu einer Million Dollar pro Tag. Schweizer Rohstoffhändler wie Trafigura und Reeder wie MSC profitieren stark von dieser Entwicklung."
+      "headline": "Was hinter der aktuellen Euro-Schwäche steckt",
+      "summary": "Politische Unsicherheiten in Frankreich und Spanien sowie Sorgen um hohe Staatsschulden belasten den Euro. Dies setzt die Gemeinschaftswährung unter erheblichen Druck."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Schweizer Family Offices verlieren 45 Mio. Franken bei Wettalgorithmen",
-      "summary": "Schweizer Family Offices haben 45 Millionen Franken durch Algorithmus-Sportwetten verloren, die mit unrealistischen Traumrenditen beworben wurden. Eine Spur führt zum \"Geldspiel-König\" vom Bodensee und zur türkischen Wettmafia."
+      "headline": "Landmark Warner Bros. Discovery Sale im Wert von 111 Mrd. USD",
+      "summary": "Paramount plant die Übernahme von Warner Bros. Discovery in einem historischen Hollywood-Megadeal im Wert von 111 Milliarden US-Dollar. Die Transaktion entwickelt sich weiter und prägt die Medienlandschaft neu."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Microsoft-CEO fordert „Notbremse“ für KI-Modelle",
-      "summary": "Satya Nadella, CEO von Microsoft, mahnt zu einer \"Notbremse\" für KI-Modelle und fordert eine Neubewertung der Vertrauensarchitektur in der KI-Entwicklung. Dies unterstreicht die wachsende globale Debatte um die ethischen und sicherheitstechnischen Aspekte der Künstlichen Intelligenz."
+      "headline": "Open AI schockiert Anleger mit geringerem Umsatzausblick",
+      "summary": "Der hochgerechnete Jahresumsatz von Sam Altmans KI-Firma soll 50 Milliarden Dollar betragen, nicht die kolportierten 70 Milliarden. Diese Neuigkeit ließ die Aktienkurse zahlreicher Techfirmen fallen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "TechCrunch Disrupt 2026 startet: Einblicke in die Zukunft der Technologie",
-      "summary": "In San Francisco beginnt die TechCrunch Disrupt 2026, eine führende Veranstaltung, die Investoren und Gründern tiefe Einblicke in bahnbrechende Innovationen bietet. Hier werden die neuesten Trends und die Macher von morgen vorgestellt."
+      "headline": "Europa sucht seinen «Elon Musk» für die Raumfahrt",
+      "summary": "Die EU vergibt einen Vertrauensvorschuss an die Firma eines belgischen Ingenieurs zum Bau von über zweihundert Satelliten. Ziel ist es, Europas Kommunikationsunabhängigkeit von den USA zu stärken."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Apple lizenziert KI-Podcast-Tech von Startup Huxe",
-      "summary": "Apple hat ein Team eingestellt und Technologien vom personalisierten Podcast-Startup Huxe lizenziert, was auf Apples Interesse an KI-generierten Podcasts hindeutet. Dieser Schritt könnte die Entwicklung von Audio-Content maßgeblich beeinflussen."
+      "headline": "Ehemaliger Plaud-Manager sammelt 26 Mio. Dollar für KI-App",
+      "summary": "Ein ehemaliger Plaud-Manager hat 26 Millionen Dollar für seine neue KI-App Ambi eingesammelt. Diese Apps für iPhone, Mac und Apple Watch ermöglichen die 'Ambient Capture'."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Cloudflare übernimmt Deno zur Stärkung der Workers-Plattform",
-      "summary": "Cloudflare erwirbt Deno, um sein Workers-Programmiermodell und die zugehörige Plattform zu verbessern und zu erweitern. Diese Akquisition zielt darauf ab, die Entwicklung und Performance von Edge-Anwendungen zu optimieren."
+      "headline": "St. Galler Medtech-KMU mischt den Markt auf – IPO möglich",
+      "summary": "Icotec stellt Wirbelsäulen-Implantate für Krebspatienten her und erzielt reißenden Absatz in den USA. Trotz Kaufinteressenten pocht die Besitzerfamilie auf Eigenständigkeit, ein Börsengang könnte der nächste große Schritt sein."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine: Der Unterschied einfach erklärt",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Optionen sind standardisierte, börsengehandelte Verträge mit klar definierten Bedingungen, während Optionsscheine von Emittenten ausgegebene, nicht-standardisierte Wertpapiere sind, die oft komplexere Strukturen aufweisen. Beide geben das Recht, nicht die Pflicht, einen Basiswert zu einem festgelegten Preis zu kaufen oder zu verkaufen.",
-    "details": "Optionen werden in der Regel an Terminbörsen gehandelt und dienen primär der Absicherung (Hedging) oder Spekulation. Sie sind transparent und erfüllen oft regulatorische Anforderungen. Optionsscheine hingegen sind Schuldverschreibungen des Emittenten und können zusätzliche Risiken wie das Emittentenrisiko bergen. Ihre Ausstattung (Laufzeit, Ausübungspreis) kann flexibler gestaltet sein, was sie für Kleinanleger zugänglicher, aber auch undurchsichtiger macht. Der Preis beider Instrumente hängt stark vom Preis des Basiswerts, der Restlaufzeit und der Volatilität ab.",
-    "takeaway": "Der Hauptunterschied liegt in der Standardisierung, dem Emittenten und dem damit verbundenen Risiko. Optionen sind tendenziell sicherer und transparenter für institutionelle Anleger, während Optionsscheine vielfältiger, aber auch risikoreicher für private Anleger sein können."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Was ist der Unterschied?",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe beschreiben die Bewertung eines Startups vor und nach einer Finanzierungsrunde und sind entscheidend für die Aufteilung der Eigentumsanteile.",
+    "details": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens, bevor es neues Kapital von Investoren erhält. Addiert man das neu investierte Geld zur Pre-Money-Bewertung, ergibt sich die Post-Money-Bewertung. Diese repräsentiert den Unternehmenswert nach der Finanzierungsrunde und dient als Basis für die Berechnung, wie viele Anteile die neuen Investoren für ihr Kapital erhalten und wie sich die Anteile der Bestandsaktionäre verwässern.",
+    "takeaway": "Die Pre-Money-Bewertung ist entscheidend für den Preis pro Anteil und damit den prozentualen Anteil der Investoren. Die Post-Money-Bewertung zeigt den Gesamtwert nach der Finanzierung und die daraus resultierende Verwässerung für Gründer und frühe Investoren."
   }
 }
