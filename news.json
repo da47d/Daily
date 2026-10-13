@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Riad erneut von Explosionen erschüttert - Abschuss von Rakete gemeldet",
-      "summary": "Die saudische Hauptstadt Riad wurde erneut von Explosionen erschüttert, offenbar durch den Abschuss einer Rakete der Huthi-Miliz. Die Bewohner waren zuvor vor einer 'feindlichen Bedrohung' gewarnt worden, was die regionale Instabilität unterstreicht."
+      "headline": "Türkische Regierung erhöht Druck auf Medien im Internet",
+      "summary": "Die türkische Regierung intensiviert den Druck auf Online-Medien und ordnete allein im September Sperren für fast 1.300 X-Accounts an. Betroffene Redaktionen kämpfen darum, ihre Leserschaft weiterhin zu erreichen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
-      "summary": "Nach einem Brand in einer wichtigen Starlink-Station in Polen wurden in Deutschland zwei Verdächtige festgenommen. Die polnische Regierung vermutet Russland hinter dem Vorfall, was Fragen der Energiesicherheit und Sabotage aufwirft."
+      "headline": "Schwarzes Meer: Erneut Frachter vor bulgarischer Küste gesunken",
+      "summary": "Vor der bulgarischen Küste wurde erneut ein Frachter durch Drohnenangriffe versenkt, wobei mehrere Seeleute vermisst werden. Die bulgarische Regierung macht Russland verantwortlich und schaltete die NATO ein, was die geopolitischen Spannungen verstärkt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die EU begrenzt chinesische Autoimporte, für die Konsumenten könnte es teurer werden",
-      "summary": "Die EU und China haben sich auf Importbeschränkungen für Hybrid- und Plug-in-Hybrid-Autos geeinigt, was den freien Welthandel weiter einschränkt. Diese Maßnahmen könnten zu höheren Preisen für Konsumenten in Europa führen und die Wettbewerbslandschaft verändern."
+      "headline": "Frankreich wird zum wirtschaftlichen und politischen Krisenherd: Droht anderen Ländern der Euro-Zone eine Ansteckung?",
+      "summary": "Frankreichs Rekordschulden von über 3,5 Billionen Euro, Reformunfähigkeit und politische Instabilität verunsichern Anleger. Dies weckt Sorgen vor einer Ansteckung für andere Länder der Eurozone."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Open AI schockiert die Anleger: Macht das Unternehmen viel weniger Umsatz, als die Börse glaubte?",
-      "summary": "Der hochgerechnete Jahresumsatz von OpenAI soll deutlich unter den von der Börse erwarteten 70 Milliarden US-Dollar liegen, mit aktuellen Schätzungen um 50 Milliarden Dollar. Diese Nachricht ließ die Aktienkurse zahlreicher Techfirmen fallen und beeinflusste die Anlegerstimmung im gesamten Technologiesektor."
+      "headline": "Währungsfonds blickt deutlich optimistischer auf deutsche Wirtschaft",
+      "summary": "Der Internationale Währungsfonds (IWF) hat seine Prognose für die deutsche Wirtschaft deutlich verbessert. Diese optimistische Einschätzung deutet auf eine stabilere Entwicklung hin."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Meta hat sein erstes 'Frontier'-Modell, Muse Wonder, veröffentlicht, das als größer und leistungsfähiger gilt als frühere Versionen. Es verspricht bessere Ergebnisse bei komplexen Aufgaben und demonstriert Metas Ambitionen im Bereich der fortschrittlichen KI-Entwicklung."
+      "headline": "Robert E. Hall und Michael Woodford erhalten den Wirtschaftsnobelpreis",
+      "summary": "Die Ökonomen Robert E. Hall und Michael Woodford wurden mit dem Wirtschaftsnobelpreis ausgezeichnet. Ihre Forschungen zeigen, wie Zentralbanken und Finanzministerien auf Wirtschaftsschocks besser reagieren können."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Europa sucht seinen «Elon Musk» für die Raumfahrt und glaubt, ihn in einem belgischen Ingenieur gefunden zu haben",
-      "summary": "Die EU setzt auf den belgischen Ingenieur Benoît Deper und seine Firma, um über 200 Satelliten zu bauen und Europa in der Kommunikation unabhängig von den USA zu machen. Dieses millionenschwere Vertrauensvorschuss soll Europas Rolle in der globalen Raumfahrt stärken und eine strategische Autonomie ermöglichen."
+      "headline": "Open AI schockiert die Anleger: Macht das Unternehmen viel weniger Umsatz, als die Börse glaubte?",
+      "summary": "Berichte deuten darauf hin, dass der hochgerechnete Jahresumsatz von Open AI mit 50 Milliarden Dollar deutlich unter den erwarteten 70 Milliarden Dollar liegen könnte. Diese Nachricht ließ die Aktienkurse zahlreicher Techfirmen fallen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "summary": "Ein Startup aus dem Silicon Valley, WindBorne, hat einen fast 50 Millionen Dollar schweren Vertrag mit der US Air Force gewonnen. Das Unternehmen nutzt Wetterballons und KI, um präzise Wettervorhersagen zu erstellen, was eine signifikante Validierung ihrer Technologie darstellt."
+      "headline": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
+      "summary": "Angesichts steigender Kupfernachfrage durch KI-Rechenzentren und Elektrofahrzeuge hat Giraffe Bio eine Seed-Finanzierungsrunde von 6,4 Millionen Dollar erhalten. Das Unternehmen will Bergbauunternehmen dabei unterstützen, mehr Kupfer zu gewinnen."
     },
     {
       "tag": "STARTUPS & VC",
       "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "Ein ehemaliger Plaud-Manager hat 26 Millionen Dollar für eine KI-App eingesammelt, die im Hintergrund Nutzeraktivitäten aufzeichnet und analysiert. Das Finanzierungsziel ist es, die App zu entwickeln, die auf Basis dieser Daten personalisierte Unterstützung und Vorschläge bietet."
+      "summary": "Ein ehemaliger Plaud-Manager hat 26 Millionen Dollar für eine KI-App eingesammelt, die im Hintergrund zuhört, um Nutzer besser zu unterstützen. Dies verdeutlicht den Trend zu umfassenderen, kontextsensitiven KI-Assistenten."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine: Der feine, aber entscheidende Unterschied",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Obwohl beide Instrumente das Recht, aber nicht die Pflicht zum Kauf oder Verkauf eines Basiswertes verbriefen, unterscheiden sich Optionen und Optionsscheine fundamental in ihrer Struktur und ihren Merkmalen.",
-    "details": "Echte Optionen sind standardisierte, börsengehandelte Termingeschäfte mit festen Parametern wie Basiswert, Ausübungspreis und Verfallsdatum; sie dienen oft professionellen Anlegern zur Absicherung oder Spekulation. Optionsscheine hingegen sind von Banken ausgegebene Wertpapiere, die oft weniger standardisiert sind und außerbörslich gehandelt werden, was zu höheren Spreads und einem Emittentenrisiko führen kann, da ihre Wertentwicklung von der Solvenz des emittierenden Finanzinstituts abhängt. Während Optionen durch Clearingsysteme abgesichert sind, tragen Optionsscheine das Kreditrisiko des Herausgebers.",
-    "takeaway": "Für Anleger ist der wesentliche Unterschied das Emittentenrisiko bei Optionsscheinen, das bei echten Optionen durch die Börsenabwicklung entfällt. Achte also genau auf die Herkunft und Standardisierung des Produkts, um Risiken besser einschätzen zu können."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money ist der Wert eines Startups *vor* einer Finanzierungsrunde, Post-Money der Wert *nach* dem Investorengeld. Diese Unterscheidung ist entscheidend, um den Anteil zu bestimmen, den Investoren für ihr Kapital erhalten.",
+    "details": "Die Pre-Money Bewertung ist der Unternehmenswert, den Gründer und Bestandsinvestoren vor dem Einstieg neuer Investoren für angemessen halten. Wenn ein Investor beispielsweise 1 Million Euro für 20% der Anteile investiert, bedeutet dies, dass das Startup vor der Investition (Pre-Money) 4 Millionen Euro wert war (1 Mio. € / 0,20 = 5 Mio. € Gesamtwert nach Investition, abzgl. 1 Mio. € Investment = 4 Mio. € Pre-Money). Die Post-Money Bewertung hingegen ist der Pre-Money-Wert plus das investierte Kapital. Sie repräsentiert den neuen Gesamtwert des Unternehmens nach der Finanzierungsrunde und dient als Basis für die Berechung des prozentualen Anteils der neuen Investoren.",
+    "takeaway": "Pre-Money ist der Wert vor dem frischen Kapital, Post-Money der Wert danach. Dies ist essentiell für Gründer, um zu wissen, wie viel ihres Unternehmens sie abgeben, und für Investoren, um ihren Anteil zu kalkulieren."
   }
 }
