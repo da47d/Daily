@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Türkische Regierung erhöht Druck auf Medien im Internet",
-      "summary": "Die türkische Regierung intensiviert den Druck auf Online-Medien und ordnete allein im September Sperren für fast 1.300 X-Accounts an. Betroffene Redaktionen kämpfen darum, ihre Leserschaft weiterhin zu erreichen."
+      "headline": "EU begrenzt Hybrid-Importe: Handelskonflikt mit China eskaliert",
+      "summary": "Die EU hat Importbeschränkungen für chinesische Hybrid- und Plug-in-Hybrid-Autos vereinbart, um heimische Hersteller zu stützen. Diese Maßnahme schränkt den freien Welthandel ein und könnte zu höheren Preisen für Konsumenten führen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Schwarzes Meer: Erneut Frachter vor bulgarischer Küste gesunken",
-      "summary": "Vor der bulgarischen Küste wurde erneut ein Frachter durch Drohnenangriffe versenkt, wobei mehrere Seeleute vermisst werden. Die bulgarische Regierung macht Russland verantwortlich und schaltete die NATO ein, was die geopolitischen Spannungen verstärkt."
+      "headline": "Geopolitischer Brennpunkt Jemen: Krieg bedroht globale Handelsrouten",
+      "summary": "Der andauernde Konflikt im Jemen gefährdet eine der weltweit wichtigsten Handelsrouten und zerstört die lokale Wirtschaft. Die Diskussion um eine mögliche Teilung des Landes in Nord und Süd nimmt zu."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Frankreich wird zum wirtschaftlichen und politischen Krisenherd: Droht anderen Ländern der Euro-Zone eine Ansteckung?",
-      "summary": "Frankreichs Rekordschulden von über 3,5 Billionen Euro, Reformunfähigkeit und politische Instabilität verunsichern Anleger. Dies weckt Sorgen vor einer Ansteckung für andere Länder der Eurozone."
+      "headline": "DAX im Minus: Chipsektor-Sorgen und enttäuschender Start in die Berichtssaison",
+      "summary": "Der deutsche Leitindex DAX konnte sein anfängliches Plus nicht halten und driftete ins Minus. Belastend wirkten neue Sorgen im Chipsektor und ein enttäuschter Start in die aktuelle Berichtssaison."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Währungsfonds blickt deutlich optimistischer auf deutsche Wirtschaft",
-      "summary": "Der Internationale Währungsfonds (IWF) hat seine Prognose für die deutsche Wirtschaft deutlich verbessert. Diese optimistische Einschätzung deutet auf eine stabilere Entwicklung hin."
+      "headline": "Frankreichs Wirtschaft am Scheideweg: Hohe Schulden wecken Eurozonen-Sorgen",
+      "summary": "Frankreichs Rekordschulden von über 3,5 Billionen Euro und politische Instabilität verunsichern Anleger zunehmend. Es wächst die Sorge vor einer Ansteckung anderer Länder der Euro-Zone durch die wirtschaftlichen Probleme des Landes."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Robert E. Hall und Michael Woodford erhalten den Wirtschaftsnobelpreis",
-      "summary": "Die Ökonomen Robert E. Hall und Michael Woodford wurden mit dem Wirtschaftsnobelpreis ausgezeichnet. Ihre Forschungen zeigen, wie Zentralbanken und Finanzministerien auf Wirtschaftsschocks besser reagieren können."
+      "headline": "Massiver Cyberangriff legt hunderte französische Supermärkte lahm",
+      "summary": "Eine koordinierte Cyberattacke hat die Tiefkühlsysteme hunderter französischer Supermärkte außer Gefecht gesetzt. Frankreichs Finanzminister bezeichnete den Vorfall als 'Weckruf' für die digitale Sicherheit Europas."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Open AI schockiert die Anleger: Macht das Unternehmen viel weniger Umsatz, als die Börse glaubte?",
-      "summary": "Berichte deuten darauf hin, dass der hochgerechnete Jahresumsatz von Open AI mit 50 Milliarden Dollar deutlich unter den erwarteten 70 Milliarden Dollar liegen könnte. Diese Nachricht ließ die Aktienkurse zahlreicher Techfirmen fallen."
+      "headline": "OpenAI-Umsatzschock: KI-Gigant enttäuscht Anlegererwartungen",
+      "summary": "Gerüchte über einen deutlich geringeren Jahresumsatz von OpenAI als erwartet haben Anleger schockiert. Die Neuigkeit, dass die Einnahmen 50 statt 70 Milliarden Dollar betragen könnten, ließ die Aktienkurse zahlreicher Techfirmen fallen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
-      "summary": "Angesichts steigender Kupfernachfrage durch KI-Rechenzentren und Elektrofahrzeuge hat Giraffe Bio eine Seed-Finanzierungsrunde von 6,4 Millionen Dollar erhalten. Das Unternehmen will Bergbauunternehmen dabei unterstützen, mehr Kupfer zu gewinnen."
+      "headline": "Europa investiert Milliarden in Raumfahrt-Startup: Unabhängigkeit von den USA als Ziel",
+      "summary": "Die EU fördert ein belgisches Ingenieurunternehmen massiv, um über zweihundert Satelliten zu bauen. Ziel ist es, Europa bei der Kommunikation von den USA unabhängig zu machen und eine eigene Raumfahrtkompetenz aufzubauen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "Ein ehemaliger Plaud-Manager hat 26 Millionen Dollar für eine KI-App eingesammelt, die im Hintergrund zuhört, um Nutzer besser zu unterstützen. Dies verdeutlicht den Trend zu umfassenderen, kontextsensitiven KI-Assistenten."
+      "headline": "Pluto Security sichert 42 Millionen Dollar für KI-gestützte Unternehmenssicherheit",
+      "summary": "Das Startup Pluto Security hat 42 Millionen Dollar in einer Finanzierungsrunde erhalten, um Unternehmen bei neuen Sicherheitslücken durch den Einsatz von KI-Tools zu helfen. Die steigende Nutzung von KI in Unternehmen schafft neue Herausforderungen für IT-Sicherheitsteams."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money ist der Wert eines Startups *vor* einer Finanzierungsrunde, Post-Money der Wert *nach* dem Investorengeld. Diese Unterscheidung ist entscheidend, um den Anteil zu bestimmen, den Investoren für ihr Kapital erhalten.",
-    "details": "Die Pre-Money Bewertung ist der Unternehmenswert, den Gründer und Bestandsinvestoren vor dem Einstieg neuer Investoren für angemessen halten. Wenn ein Investor beispielsweise 1 Million Euro für 20% der Anteile investiert, bedeutet dies, dass das Startup vor der Investition (Pre-Money) 4 Millionen Euro wert war (1 Mio. € / 0,20 = 5 Mio. € Gesamtwert nach Investition, abzgl. 1 Mio. € Investment = 4 Mio. € Pre-Money). Die Post-Money Bewertung hingegen ist der Pre-Money-Wert plus das investierte Kapital. Sie repräsentiert den neuen Gesamtwert des Unternehmens nach der Finanzierungsrunde und dient als Basis für die Berechung des prozentualen Anteils der neuen Investoren.",
-    "takeaway": "Pre-Money ist der Wert vor dem frischen Kapital, Post-Money der Wert danach. Dies ist essentiell für Gründer, um zu wissen, wie viel ihres Unternehmens sie abgeben, und für Investoren, um ihren Anteil zu kalkulieren."
+    "topic": "Derivate: Bauernregel für Finanzprodukte (Futures & Optionen)",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzprodukte, deren Wert von einem zugrundeliegenden Gut (Basiswert) abgeleitet wird, ähnlich wie ein Versprechen auf eine zukünftige Ernte. Sie erlauben es, Risiken abzusichern oder auf Preisentwicklungen zu spekulieren.",
+    "details": "Stell dir vor, du bist ein Bauer und möchtest deine Weizenernte absichern. Du könntest einen Future-Kontrakt eingehen: Du vereinbarst heute mit einem Bäcker, deinen Weizen in sechs Monaten zu einem festen Preis zu verkaufen. So weißt du genau, was du bekommst, egal ob der Weizenpreis steigt oder fällt – du gibst die Chance auf höhere Gewinne ab, vermeidest aber das Risiko von Preisverlusten. Eine Option ist flexibler: Du zahlst eine kleine Prämie, um das Recht zu kaufen, aber nicht die Pflicht, den Weizen in sechs Monaten zu einem bestimmten Preis zu verkaufen (Verkaufsoption) oder zu kaufen (Kaufoption). Fällt der Preis, lässt du die Verkaufsoption verfallen und verkaufst teurer am Markt. Steigt er, nutzt du die Kaufoption und kaufst billiger.",
+    "takeaway": "Derivate sind mächtige Instrumente zum Hedging (Absicherung) oder zur Spekulation. Futures verpflichten beide Parteien zur Lieferung/Abnahme, während Optionen dem Käufer ein Recht, aber keine Pflicht geben – daher sind Optionen für ihre Flexibilität geschätzter, kosten aber eine Prämie."
   }
 }
