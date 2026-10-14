@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU begrenzt Hybrid-Importe: Handelskonflikt mit China eskaliert",
-      "summary": "Die EU hat Importbeschränkungen für chinesische Hybrid- und Plug-in-Hybrid-Autos vereinbart, um heimische Hersteller zu stützen. Diese Maßnahme schränkt den freien Welthandel ein und könnte zu höheren Preisen für Konsumenten führen."
+      "headline": "Frankreich wird zum wirtschaftlichen und politischen Krisenherd",
+      "summary": "Frankreichs hohe Schulden und politische Instabilität verunsichern Anleger und könnten andere Euro-Länder gefährden. Das Land kämpft mit Rekordschulden von über 3,5 Billionen Euro und Reformunfähigkeit."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Geopolitischer Brennpunkt Jemen: Krieg bedroht globale Handelsrouten",
-      "summary": "Der andauernde Konflikt im Jemen gefährdet eine der weltweit wichtigsten Handelsrouten und zerstört die lokale Wirtschaft. Die Diskussion um eine mögliche Teilung des Landes in Nord und Süd nimmt zu."
+      "headline": "Die EU begrenzt chinesische Autoimporte",
+      "summary": "Die EU und China haben sich auf Importbeschränkungen für Hybrid- und Plug-in-Hybrid-Autos geeinigt. Diese Massnahme verteuert potenziell Autos für europäische Konsumenten und stellt einen Rückschlag für den freien Welthandel dar."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX im Minus: Chipsektor-Sorgen und enttäuschender Start in die Berichtssaison",
-      "summary": "Der deutsche Leitindex DAX konnte sein anfängliches Plus nicht halten und driftete ins Minus. Belastend wirkten neue Sorgen im Chipsektor und ein enttäuschter Start in die aktuelle Berichtssaison."
+      "headline": "Chinas Handelsüberschuss nähert sich der Billionen-Dollar-Marke",
+      "summary": "Chinas Exporte sind im September überraschend stark gestiegen und treiben den Handelsüberschuss auf einen Rekordwert. Vor allem Halbleiter und Autos sind die Wachstumstreiber für die Volksrepublik."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Frankreichs Wirtschaft am Scheideweg: Hohe Schulden wecken Eurozonen-Sorgen",
-      "summary": "Frankreichs Rekordschulden von über 3,5 Billionen Euro und politische Instabilität verunsichern Anleger zunehmend. Es wächst die Sorge vor einer Ansteckung anderer Länder der Euro-Zone durch die wirtschaftlichen Probleme des Landes."
+      "headline": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
+      "summary": "Die Renditen von US-Staatsanleihen sind auf dem höchsten Stand seit 24 Jahren, was historische Chancen für Kursgewinne eröffnen könnte. Ähnliche Hochs in der Vergangenheit führten zu jahrzehntelangen Rallyes am Anleihemarkt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Massiver Cyberangriff legt hunderte französische Supermärkte lahm",
-      "summary": "Eine koordinierte Cyberattacke hat die Tiefkühlsysteme hunderter französischer Supermärkte außer Gefecht gesetzt. Frankreichs Finanzminister bezeichnete den Vorfall als 'Weckruf' für die digitale Sicherheit Europas."
+      "headline": "Was über die Krebs-Erkrankung von Papst Leo XIV. bekannt ist",
+      "summary": "Nach einer Operation wurde bekannt, dass Papst Leo XIV. an Lungenkrebs leidet. Die Meldung über den Gesundheitszustand des Oberhaupts der Katholischen Kirche sorgt weltweit für grosse Aufmerksamkeit."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI-Umsatzschock: KI-Gigant enttäuscht Anlegererwartungen",
-      "summary": "Gerüchte über einen deutlich geringeren Jahresumsatz von OpenAI als erwartet haben Anleger schockiert. Die Neuigkeit, dass die Einnahmen 50 statt 70 Milliarden Dollar betragen könnten, ließ die Aktienkurse zahlreicher Techfirmen fallen."
+      "headline": "OpenAI schockiert Anleger mit Umsatzprognose",
+      "summary": "Der prognostizierte Jahresumsatz von Sam Altmans KI-Firma OpenAI soll 50 Milliarden Dollar betragen, was deutlich unter den zuvor kolportierten 70 Milliarden Dollar liegt. Diese Neuigkeit liess die Aktienkurse zahlreicher Techfirmen fallen und schockierte die Anleger."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Europa investiert Milliarden in Raumfahrt-Startup: Unabhängigkeit von den USA als Ziel",
-      "summary": "Die EU fördert ein belgisches Ingenieurunternehmen massiv, um über zweihundert Satelliten zu bauen. Ziel ist es, Europa bei der Kommunikation von den USA unabhängig zu machen und eine eigene Raumfahrtkompetenz aufzubauen."
+      "headline": "Cambridge Heavy Industries baut Desktop-Fusionsgerät",
+      "summary": "Das Startup Cambridge Heavy Industries entwickelt im Stillen ein kleines, laserbasiertes Fusionsgerät. Dieses soll die Grundlage für die kommende Generation von Fusionskraftwerken legen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Pluto Security sichert 42 Millionen Dollar für KI-gestützte Unternehmenssicherheit",
-      "summary": "Das Startup Pluto Security hat 42 Millionen Dollar in einer Finanzierungsrunde erhalten, um Unternehmen bei neuen Sicherheitslücken durch den Einsatz von KI-Tools zu helfen. Die steigende Nutzung von KI in Unternehmen schafft neue Herausforderungen für IT-Sicherheitsteams."
+      "headline": "Science Corporation implantiert Sehchip bei Stargardt-Patient",
+      "summary": "Science Corporation hat erstmals ihren sehkraftwiederherstellenden Chip bei einem Patienten mit Stargardt-Krankheit implantiert. Das Unternehmen des Neuralink-Mitbegründers Max Hodak arbeitet an einer neuartigen Gehirn-Computer-Schnittstelle (BCI)."
     }
   ],
   "learning": {
-    "topic": "Derivate: Bauernregel für Finanzprodukte (Futures & Optionen)",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzprodukte, deren Wert von einem zugrundeliegenden Gut (Basiswert) abgeleitet wird, ähnlich wie ein Versprechen auf eine zukünftige Ernte. Sie erlauben es, Risiken abzusichern oder auf Preisentwicklungen zu spekulieren.",
-    "details": "Stell dir vor, du bist ein Bauer und möchtest deine Weizenernte absichern. Du könntest einen Future-Kontrakt eingehen: Du vereinbarst heute mit einem Bäcker, deinen Weizen in sechs Monaten zu einem festen Preis zu verkaufen. So weißt du genau, was du bekommst, egal ob der Weizenpreis steigt oder fällt – du gibst die Chance auf höhere Gewinne ab, vermeidest aber das Risiko von Preisverlusten. Eine Option ist flexibler: Du zahlst eine kleine Prämie, um das Recht zu kaufen, aber nicht die Pflicht, den Weizen in sechs Monaten zu einem bestimmten Preis zu verkaufen (Verkaufsoption) oder zu kaufen (Kaufoption). Fällt der Preis, lässt du die Verkaufsoption verfallen und verkaufst teurer am Markt. Steigt er, nutzt du die Kaufoption und kaufst billiger.",
-    "takeaway": "Derivate sind mächtige Instrumente zum Hedging (Absicherung) oder zur Spekulation. Futures verpflichten beide Parteien zur Lieferung/Abnahme, während Optionen dem Käufer ein Recht, aber keine Pflicht geben – daher sind Optionen für ihre Flexibilität geschätzter, kosten aber eine Prämie."
+    "topic": "Pre-Money vs. Post-Money Bewertung in VC-Deals",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money Bewertung ist der Wert eines Startups vor einer Investition, während die Post-Money Bewertung seinen Wert nach dem Erhalt des Kapitals beschreibt.",
+    "details": "Bei einer Finanzierungsrunde bewertet ein Investor ein Startup. Die Pre-Money Bewertung ist die Grundlage für die Kapitalbeteiligung des Investors: Sie bestimmt, wie viele Anteile er für sein Investment erhält. Addiert man das Investment zur Pre-Money Bewertung, erhält man die Post-Money Bewertung. Diese ist entscheidend, um den Verwässerungsgrad bestehender Anteilseigner und den prozentualen Anteil des neuen Investors zu verstehen. Vereinfacht ausgedrückt, teilt der Gründer den 'Kuchen' auf Basis der Pre-Money Bewertung und der Investor bringt einen neuen 'Belag' hinzu, der den Gesamtwert (Post-Money) erhöht.",
+    "takeaway": "Die Pre-Money Bewertung ist der entscheidende Referenzpunkt für Gründer und Investoren, um den Wert des Unternehmens vor frischem Kapital und damit die prozentuale Aufteilung der Anteile zu definieren. Die Post-Money Bewertung zeigt den Gesamtwert nach der Finanzierung."
   }
 }
