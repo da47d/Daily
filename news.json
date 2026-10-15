@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine kritisiert fehlende US-Unterstützung",
-      "summary": "Die Ukraine bemängelt, dass wichtige US-Geheimdienstinformationen vor neuen russischen Angriffen ausgeblieben sind, was zu Kritik von Präsident Selenskyj führt. EU und NATO versuchen, die Situation zu beschwichtigen und die Unterstützung zu betonen."
+      "headline": "Frankreich wird zum wirtschaftlichen und politischen Krisenherd: Droht anderen Ländern der Euro-Zone eine Ansteckung?",
+      "summary": "Frankreich kämpft mit Rekordschulden und politischer Instabilität, was die Anleger nervös macht. Es bestehen Sorgen vor einer Ansteckungsgefahr für andere Länder der Euro-Zone."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Frankreich als Krisenherd in der Euro-Zone",
-      "summary": "Frankreichs hohe Staatsschulden von über 3,5 Billionen Euro und politische Instabilität sorgen bei Anlegern für Nervosität. Es wachsen Bedenken, dass die Probleme des Landes auf andere Länder der Euro-Zone übergreifen könnten."
+      "headline": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
+      "summary": "Unter Premierminister Fico erneuert die Slowakei ihre Militärkontakte mit Russland, was als besorgniserregend für Putins Einfluss in der EU gilt. Dies könnte weitreichende geopolitische Implikationen haben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "IWF warnt vor steigenden Staatsschulden",
-      "summary": "Der Internationale Währungsfonds fordert Industrieländer eindringlich auf, ihre Haushaltsdefizite zu reduzieren und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränken den finanziellen Spielraum der Staaten zunehmend ein."
+      "headline": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
+      "summary": "Der DAX startet schwach, da die hohe US-Inflation Ängste vor weiteren Zinserhöhungen schürt und Chipwerte weltweit unter Druck setzt. Dies führt zu einem anhaltenden Ausverkauf an den Börsen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "IWF warnt vor 'gespaltener Weltwirtschaft'",
-      "summary": "Der Währungsfonds prognostiziert eine 'gespaltene Weltwirtschaft', in der nur ein Teil der Länder vom KI-Boom profitieren kann. Zudem kritisiert er Tankrabatte, da diese primär den Reichen zugutekämen und die Ungleichheit verstärkten."
+      "headline": "Der Währungsfonds warnt vor einer «gespaltenen Weltwirtschaft»: Nur ein Teil der Länder könne vom KI-Boom profitieren",
+      "summary": "Der IWF warnt vor einer zunehmend gespaltenen Weltwirtschaft, in der nur wenige Länder vom KI-Boom profitieren werden. Zugleich kritisiert er Tankrabatte, da diese hauptsächlich reichen Bevölkerungsschichten zugutekommen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "YouTube Music führt Labels für KI-Musik ein",
-      "summary": "Angesichts der Flut von KI-generierter Musik auf Streaming-Plattformen lanciert YouTube Music neue Labels. Diese Kennzeichnung soll auf der Player-Seite erscheinen und Stücke ausweisen, die ganz oder teilweise durch KI entstanden sind."
+      "headline": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "summary": "Colossal Biosciences hat eine neue KI-Plattform vorgestellt, um die Bemühungen zur Wiederbelebung ausgestorbener Arten zu beschleunigen. Dieses Projekt treibt die Grenzen der Gen- und Biotechnologie erheblich voran."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Deezer ermöglicht Filtern von KI-Musik",
-      "summary": "Der Streaming-Dienst Deezer kündigte an, seinen Nutzern bis Ende des Jahres eine Funktion anzubieten, um KI-generierte Musik herauszufiltern. Dies reagiert auf die wachsende Präsenz von künstlich erzeugten Titeln auf der Plattform."
+      "headline": "Signa-Insolvenz: René Benko wechselt vom Gefängnis in den Hausarrest",
+      "summary": "René Benko, Gründer des insolventen Immobilienkonzerns Signa, wurde im Zuge des Insolvenzverfahrens vom Gefängnis in den Hausarrest verlegt. Der Zusammenbruch seines Reiches bleibt eine bedeutende Finanzgeschichte und zieht weiterhin öffentliche Aufmerksamkeit auf sich."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Zenzap erhält 44 Millionen Dollar für KI-Chat-App",
-      "summary": "Das Startup Zenzap hat eine Series A Finanzierungsrunde von 44 Millionen Dollar abgeschlossen und entwickelt eine KI-gestützte Chat-App. Ziel ist es, WhatsApp im Geschäftsumfeld zu ersetzen, und wird bereits von Starbucks und Taco Bell genutzt."
+      "headline": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary": "Ricursive Intelligence entwickelt KI-gesteuerte Chipdesigns, um die globale Rechenleistungskrise zu bewältigen. Das Startup zielt darauf ab, den Chipdesign-Prozess durch künstliche Intelligenz zu automatisieren und zu beschleunigen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Ambrosia Energy baut Batterie-Fabrik in Texas",
-      "summary": "Das Startup Ambrosia Energy plant den Bau einer riesigen 10 GWh Fabrik in Texas zur Herstellung von Batterien für netzunabhängige Rechenzentren. Damit soll eine rund um die Uhr funktionierende, saubere Stromversorgung ermöglicht werden."
+      "headline": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "summary": "Intero Biosystems bietet pharmazeutischen Unternehmen laborgezüchtete menschliche Därme als Alternative zu Tierversuchen an. Dies unterstützt den regulatorischen Druck für ethischere Testmethoden und skaliert die Organoid-Technologie."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang entschlüsselt: ARR, Burn Rate & Churn",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Kennzahlen sind entscheidend, um das Wachstumspotenzial, die finanzielle Gesundheit und das Risiko eines Startups zu bewerten.",
-    "details": "ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements, ein Schlüsselindikator für skalierbare Geschäftsmodelle wie SaaS. Die Burn Rate beziffert, wie viel Kapital ein Startup pro Monat verbraucht, um seine Betriebskosten zu decken, und gibt an, wie lange das verbleibende Kapital (Runway) noch reicht. Churn Rate (Kundenabwanderungsrate) misst den Prozentsatz der Kunden, die in einem bestimmten Zeitraum ihre Abonnements kündigen; eine hohe Churn Rate kann das Wachstum erheblich bremsen und erfordert intensive Kundenakquise, um dies auszugleichen. Investoren nutzen diese Metriken, um die Effizienz und Nachhaltigkeit des Geschäftsmodells zu beurteilen und die Kapitalallokation zu planen.",
-    "takeaway": "Verstehe diese Begriffe, um schnell zu erfassen, wie effizient ein Startup wächst, wie lange es ohne neue Finanzierung überleben kann und wie gut es seine Kunden bindet – essenziell für jede Investment-Analyse."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Schlüssel zur Startup-Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money Bewertung ist der Wert eines Startups vor einer Investition, während die Post-Money Bewertung den Wert nach der Investition, inklusive des frischen Kapitals, darstellt.",
+    "details": "Die Pre-Money Bewertung bildet die Basis für die Berechnung, wie viel Prozent der Unternehmensanteile ein neuer Investor für sein Kapital erhält. Addiert man den Investitionsbetrag zur Pre-Money Bewertung, erhält man die Post-Money Bewertung. Diese Unterscheidung ist entscheidend, um die prozentuale Beteiligung des Investors und die daraus resultierende Verwässerung der bestehenden Anteile korrekt zu bestimmen. Zum Beispiel erhält ein Investor, der 1 Million Euro bei einer Pre-Money Bewertung von 9 Millionen Euro investiert, 10% des Unternehmens (1 Million geteilt durch die Post-Money Bewertung von 10 Millionen Euro).",
+    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist unerlässlich, um die Eigentumsanteile und den effektiven Preis pro Aktie einer Finanzierungsrunde zu verstehen. Es bietet Klarheit über Deal-Bedingungen und die Auswirkungen von Verwässerung."
   }
 }
