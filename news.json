@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
-      "summary": "Im Ringen um den neuen EU-Haushalt zeigt sich eine Spaltung unter den Mitgliedstaaten, da einige Länder Sparvorschläge befürworten, während andere dagegen sind. Trotz klarer Fronten fehlt ein konsensfähiges Ergebnis, was die Entscheidungsfindung verzögert."
+      "headline": "EU-Spitzen stärken Selenskyj den Rücken",
+      "summary": "Präsident Selenskyj wurde auf dem EU-Gipfel in Brüssel Zusagen für Hilfen und Sanktionen zugesichert, während US-Präsident Trump auf Konfrontation geht. Dies unterstreicht die anhaltende geopolitische Unterstützung für die Ukraine und Spannungen mit den USA."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Warum sich die Ukraine ohne die Aufklärungsdaten der USA kaum verteidigen kann",
-      "summary": "Die Ukraine ist für ihre Verteidigung stark auf Aufklärungsdaten aus den USA angewiesen, wobei es hier offenbar zu Problemen kommt. Auch der Satellitendienst Starlink bereitet Schwierigkeiten, was die Verteidigungsfähigkeit beeinträchtigt und geopolitische Abhängigkeiten verdeutlicht."
+      "headline": "Blockade statt Stärke: Der EU-Gipfel zeigt, wie gespalten die Europäer bei wichtigen Fragen sind",
+      "summary": "Der EU-Gipfel offenbarte tiefe Spaltungen unter den Regierungschefs, die wichtige Wirtschaftsthemen wie hohe Energiepreise nicht angehen konnten. Dies unterstreicht eine Blockade statt geeinter Stärke in entscheidenden europäischen Fragen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
-      "summary": "Die italienische Großbank UniCredit hat von der EZB grünes Licht für die Übernahme der Commerzbank erhalten. Dies ist ein entscheidender Schritt nach zweijährigen Bemühungen und könnte die europäische Bankenlandschaft maßgeblich verändern."
+      "headline": "Enttäuschende Rendite bei grünen Anlagen: Erste Pensionskassen haben begonnen, ihre ESG-Fonds wieder zu verkaufen",
+      "summary": "Aufgrund enttäuschender Renditen bei grünen Anlagen beginnen erste Pensionskassen, ihre ESG-Fonds wieder zu verkaufen. Professionelle Investoren überprüfen ihre Nachhaltigkeitsstrategien angesichts der Performance-Rückstände."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
-      "summary": "Der DAX bleibt stabil um 25.000 Punkte, kaum beeinflusst vom weltweiten Ausverkauf der Tech-Aktien. Dies liegt daran, dass große Technologiewerte im deutschen Leitindex gering vertreten sind und er eine andere Branchenstruktur aufweist."
+      "headline": "Signa-Insolvenz: René Benko wechselt vom Gefängnis in den Hausarrest",
+      "summary": "Nach dem Zusammenbruch des Immobilienreichs Signa und dem Insolvenzverfahren ist René Benko vom Gefängnis in den Hausarrest gewechselt. Dies markiert eine weitere Entwicklung im Fall des österreichischen Investors."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
-      "summary": "Acht US-Bundesstaaten verklagen OpenAI wegen erheblicher Risiken im Umgang mit KI-Chatbots wie ChatGPT. Sie sehen Gefahren in der aktuellen Nutzung der Technologie und fordern strengere Sicherheitsmaßnahmen."
+      "headline": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+      "summary": "Tesla hat einen SpaceX-betriebenen Roadster vorgestellt, der mit Schubdüsen in die Luft steigt und elegant landet. Bei einer Demo in Texas sprang das neue Auto über mehrere andere Tesla-Fahrzeuge hinweg."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Meta launches an open-weight AI model that runs on Macs",
-      "summary": "Meta hat in Zusammenarbeit mit Apple das neue offene KI-Modell Muse Spark Open eingeführt, das lokal auf Apple Silicon läuft. Dies ist ein wichtiger Schritt in der Verfügbarkeit von leistungsstarken KI-Modellen für private Nutzer und Entwickler."
+      "headline": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "summary": "Amazon-Gerätechef Panos Panay skizziert eine Zukunft, in der Umgebungs-KI-Geräte die Notwendigkeit von Apps ersetzen. Diese Geräte sollen im Hintergrund agieren und Benutzerbedürfnisse antizipieren."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Ramp reaches $60B valuation as it pushes deeper into AI",
-      "summary": "Ramp hat eine Bewertung von 60 Milliarden Dollar erreicht und treibt seine Expansion in den KI-Bereich voran. Das Unternehmen verzeichnet ein jährliches Umsatzplus von über 2 Milliarden Dollar und zählt 85.000 Kunden, was seinen Erfolg im Fintech-Sektor unterstreicht."
+      "headline": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "summary": "Benchmark stellt fest, dass die Venture-Capital-Branche aufgrund von KI-Entwicklungen Schwierigkeiten hat, das traditionelle Abkommen gegen die Finanzierung von Konkurrenten einzuhalten. Dies könnte die Landschaft der Tech-Finanzierungen verändern."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Startup-Szene befürchtet, dass Berlin Status als Gründermetropole verspielt",
-      "summary": "Die Startup-Szene in Berlin befürchtet, ihren Status als Gründermetropole wegen der aktuellen Politik zu verlieren. Eine mögliche Regierung, die den Kapitalismus bekämpft, alarmiert manche Gründer und könnte den Zuzug von Talenten beeinträchtigen."
+      "headline": "«Kenne mehrere Leute, die weggezogen sind»: Die Startup-Szene befürchtet, dass Berlin wegen der Politik gerade seinen Status als Gründermetropole verspielt",
+      "summary": "Die Berliner Startup-Szene ist besorgt, ihren Status als Gründermetropole aufgrund der aktuellen Politik zu verlieren. Viele Gründer äußern Alarm über eine potenziell kapitalismusfeindliche Regierung."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang: ARR, Churn, Burn Rate & Co. entschlüsseln",
+    "topic": "ETF-Namenszusätze: Acc, Dist, UCITS & Physisch/Swap verstehen",
     "category": "Finanz-Dechiffrierung",
-    "concept": "Dieser Abschnitt erklärt zentrale Begriffe aus der Startup- und VC-Welt, die für die Bewertung und das Verständnis der Geschäftsentwicklung entscheidend sind. Das Wissen um diese Kennzahlen hilft, die finanzielle Gesundheit und das Wachstumspotenzial junger Unternehmen richtig einzuschätzen.",
-    "details": "Begriffe wie 'Annual Recurring Revenue (ARR)' bezeichnen den jährlichen wiederkehrenden Umsatz, der für Abo-Modelle essentiell ist, während 'Churn Rate' den Prozentsatz der Kunden oder Umsätze misst, die in einem Zeitraum verloren gehen. Die 'Burn Rate' gibt an, wie schnell ein Startup seine liquiden Mittel verbraucht, typischerweise ausgedrückt in monatlichen Ausgaben, die über den Einnahmen liegen. Ein 'B2B'-Modell (Business-to-Business) adressiert andere Unternehmen, während 'SaaS' (Software as a Service) ein abonnementbasiertes Softwaremodell ist. Das Verständnis dieser Begriffe ist unerlässlich, um Finanzberichte und Präsentationen von Startups zu interpretieren und deren Wachstumskurs zu bewerten.",
-    "takeaway": "Für Investitionen in Startups oder Analysen des Tech-Sektors ist es entscheidend, diesen spezifischen Jargon zu beherrschen. Er gibt schnell Aufschluss über das Geschäftsmodell, die Kundenbindung und die Kapitalverzehrrate eines Unternehmens und hilft bei der Einschätzung von Risiken und Chancen."
+    "concept": "ETF-Namen enthalten oft Abkürzungen, die wichtige Hinweise auf die Ertragsverwendung, die rechtliche Struktur und die Replikationsmethode des Fonds geben. Das Verstehen dieser Zusätze ist entscheidend für die Auswahl des passenden ETFs.",
+    "details": "Acc (Accumulating) bedeutet, dass erzielte Erträge (Dividenden, Zinsen) direkt im Fonds reinvestiert werden, was den Zinseszinseffekt maximiert. Dist (Distributing) hingegen schüttet diese Erträge regelmäßig an die Anleger aus. UCITS steht für \"Undertakings for Collective Investment in Transferable Securities\" und ist ein EU-Standard, der hohe Anlegerschutz- und Diversifikationskriterien garantiert. Physisch (Physical) replizierende ETFs kaufen die im Index enthaltenen Wertpapiere direkt. Swap (Synthetic) replizierende ETFs nutzen Derivate (Swaps), um die Indexperformance abzubilden, ohne alle Wertpapiere halten zu müssen, was steuerliche oder Kostenvorteile bieten kann.",
+    "takeaway": "Die Kürzel in ETF-Namen sind keine bloßen Details, sondern essenzielle Informationen, die Anlegern helfen, ihre Anlageziele – sei es Vermögensaufbau durch Reinvestition oder regelmäßiges Einkommen – optimal zu verfolgen und Risiken zu verstehen."
   }
 }
