@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU-Spitzen stärken Selenskyj den Rücken",
-      "summary": "Präsident Selenskyj wurde auf dem EU-Gipfel in Brüssel Zusagen für Hilfen und Sanktionen zugesichert, während US-Präsident Trump auf Konfrontation geht. Dies unterstreicht die anhaltende geopolitische Unterstützung für die Ukraine und Spannungen mit den USA."
+      "headline": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
+      "summary": "Angesichts wachsender Spannungen mit den USA wendet sich Selenskyj mit einer entscheidenden Frage an die EU-Staaten bezüglich weiterer Unterstützung. Die EU-Länder stehen selbst vor militärischen, finanziellen und politischen Herausforderungen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Blockade statt Stärke: Der EU-Gipfel zeigt, wie gespalten die Europäer bei wichtigen Fragen sind",
-      "summary": "Der EU-Gipfel offenbarte tiefe Spaltungen unter den Regierungschefs, die wichtige Wirtschaftsthemen wie hohe Energiepreise nicht angehen konnten. Dies unterstreicht eine Blockade statt geeinter Stärke in entscheidenden europäischen Fragen."
+      "headline": "Papst bittet Putin um Waffenruhe in Oleschky",
+      "summary": "Papst Leo XIV. hat Putin in einem Telefonat dringend zu einem Waffenstillstand in der ukrainischen Frontstadt Oleschky aufgerufen. Der Papst äußerte sich kurz nach seiner Lungen-OP besorgt über die dramatische Lage."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Enttäuschende Rendite bei grünen Anlagen: Erste Pensionskassen haben begonnen, ihre ESG-Fonds wieder zu verkaufen",
-      "summary": "Aufgrund enttäuschender Renditen bei grünen Anlagen beginnen erste Pensionskassen, ihre ESG-Fonds wieder zu verkaufen. Professionelle Investoren überprüfen ihre Nachhaltigkeitsstrategien angesichts der Performance-Rückstände."
+      "headline": "Die EZB erlaubt Unicredit die Übernahme der Commerzbank. Jetzt kann es ganz schnell gehen",
+      "summary": "Die EZB hat grünes Licht für die Übernahme der Commerzbank durch die italienische Grossbank Unicredit gegeben. Dies ebnet den Weg für Unicredit-Chef Andrea Orcel, Anfang 2027 die Kontrolle in Frankfurt zu übernehmen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Signa-Insolvenz: René Benko wechselt vom Gefängnis in den Hausarrest",
-      "summary": "Nach dem Zusammenbruch des Immobilienreichs Signa und dem Insolvenzverfahren ist René Benko vom Gefängnis in den Hausarrest gewechselt. Dies markiert eine weitere Entwicklung im Fall des österreichischen Investors."
+      "headline": "MELDUNGEN WIRTSCHAFT - Deutsche Regierung plant Kooperation mit US-Chiphersteller Nvidia +++ Inflation in der Euro-Zone steigt wegen Energiekosten",
+      "summary": "Die Inflation in der Euro-Zone ist erneut wegen gestiegener Energiekosten angestiegen. Parallel dazu plant die deutsche Regierung eine Kooperation mit dem US-Chiphersteller Nvidia, um die Wirtschaft zu stärken."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "summary": "Tesla hat einen SpaceX-betriebenen Roadster vorgestellt, der mit Schubdüsen in die Luft steigt und elegant landet. Bei einer Demo in Texas sprang das neue Auto über mehrere andere Tesla-Fahrzeuge hinweg."
+      "headline": "Starlink-Anschlag: Hat Russland die türkische Mafia beauftragt?",
+      "summary": "Nach einem Brandanschlag auf eine Starlink-Station in Polen wurden Tatverdächtige aus der türkischen Organisierten Kriminalität in Deutschland festgenommen. Recherchen deuten auf eine mögliche Beauftragung durch Russland hin."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "summary": "Amazon-Gerätechef Panos Panay skizziert eine Zukunft, in der Umgebungs-KI-Geräte die Notwendigkeit von Apps ersetzen. Diese Geräte sollen im Hintergrund agieren und Benutzerbedürfnisse antizipieren."
+      "headline": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
+      "summary": "Ein internationales Gremium hat entschieden, die Schaltsekunde künftig nicht mehr zu nutzen, die bisher 27 Mal zur Synchronisation der Uhren diente. Ein neues System zur Angleichung der astronomischen Zeit ist erst für das Jahr 3000 geplant."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-      "summary": "Benchmark stellt fest, dass die Venture-Capital-Branche aufgrund von KI-Entwicklungen Schwierigkeiten hat, das traditionelle Abkommen gegen die Finanzierung von Konkurrenten einzuhalten. Dies könnte die Landschaft der Tech-Finanzierungen verändern."
+      "headline": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "Elorian hat ein KI-Modell namens Glimpse vorgestellt, das nicht nur Bilder beschreiben, sondern auch mit ihnen 'argumentieren' kann. Es übertrifft laut Evaluationen sogar GPT-6 Astra in der wissenschaftlichen Diagramm-Logik."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "«Kenne mehrere Leute, die weggezogen sind»: Die Startup-Szene befürchtet, dass Berlin wegen der Politik gerade seinen Status als Gründermetropole verspielt",
-      "summary": "Die Berliner Startup-Szene ist besorgt, ihren Status als Gründermetropole aufgrund der aktuellen Politik zu verlieren. Viele Gründer äußern Alarm über eine potenziell kapitalismusfeindliche Regierung."
+      "headline": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Ein ehemaliger NVIDIA-Insider und nun Venture Capitalist erklärt, warum die Robotik-Branche noch nicht ihren 'ChatGPT-Moment' erlebt hat. Er sieht die Branche noch in einer 'Lego-Ära', in der grundlegende Bausteine neu aufgebaut werden."
     }
   ],
   "learning": {
-    "topic": "ETF-Namenszusätze: Acc, Dist, UCITS & Physisch/Swap verstehen",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "ETF-Namen enthalten oft Abkürzungen, die wichtige Hinweise auf die Ertragsverwendung, die rechtliche Struktur und die Replikationsmethode des Fonds geben. Das Verstehen dieser Zusätze ist entscheidend für die Auswahl des passenden ETFs.",
-    "details": "Acc (Accumulating) bedeutet, dass erzielte Erträge (Dividenden, Zinsen) direkt im Fonds reinvestiert werden, was den Zinseszinseffekt maximiert. Dist (Distributing) hingegen schüttet diese Erträge regelmäßig an die Anleger aus. UCITS steht für \"Undertakings for Collective Investment in Transferable Securities\" und ist ein EU-Standard, der hohe Anlegerschutz- und Diversifikationskriterien garantiert. Physisch (Physical) replizierende ETFs kaufen die im Index enthaltenen Wertpapiere direkt. Swap (Synthetic) replizierende ETFs nutzen Derivate (Swaps), um die Indexperformance abzubilden, ohne alle Wertpapiere halten zu müssen, was steuerliche oder Kostenvorteile bieten kann.",
-    "takeaway": "Die Kürzel in ETF-Namen sind keine bloßen Details, sondern essenzielle Informationen, die Anlegern helfen, ihre Anlageziele – sei es Vermögensaufbau durch Reinvestition oder regelmäßiges Einkommen – optimal zu verfolgen und Risiken zu verstehen."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* einer neuen Kapitalinvestition, während die Post-Money-Bewertung der Wert *nach* dem Erhalt dieser Investition ist.",
+    "details": "Wenn ein Startup neues Kapital von Investoren erhält, erhöht sich sein Wert. Die Pre-Money-Bewertung repräsentiert, was das Unternehmen vor dem Eintreffen des neuen Geldes 'wert' war. Sobald die Investition getätigt wurde, addiert sich dieser Betrag zum bisherigen Unternehmenswert, was zur Post-Money-Bewertung führt. Diese Kennzahlen sind entscheidend, um den prozentualen Anteil zu bestimmen, den Investoren für ihr Kapital erhalten, da ihr Anteil am Post-Money-Wert des Unternehmens berechnet wird. Sie helfen, die Dilution der bestehenden Anteilseigner zu verstehen.",
+    "takeaway": "Die Post-Money-Bewertung ist immer die Summe aus Pre-Money-Bewertung und der neuen Investition. Sie ist essentiell, um den Anteil neuer Investoren und die Verwässerung bestehender Anteilseigner korrekt zu berechnen."
   }
 }
