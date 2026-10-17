@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
-      "summary": "Angesichts wachsender Spannungen mit den USA wendet sich Selenskyj mit einer entscheidenden Frage an die EU-Staaten bezüglich weiterer Unterstützung. Die EU-Länder stehen selbst vor militärischen, finanziellen und politischen Herausforderungen."
+      "headline": "Trumps Migrationspolitik verunsichert Unternehmen",
+      "summary": "Trumps rigide Migrationspolitik, die 2024 Wähler anzog, verunsichert nun vor den Zwischenwahlen 2026 Unternehmen und Bürger. Das harte Vorgehen der Einwanderungsbehörde ICE stößt zunehmend auf Kritik."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Papst bittet Putin um Waffenruhe in Oleschky",
-      "summary": "Papst Leo XIV. hat Putin in einem Telefonat dringend zu einem Waffenstillstand in der ukrainischen Frontstadt Oleschky aufgerufen. Der Papst äußerte sich kurz nach seiner Lungen-OP besorgt über die dramatische Lage."
+      "headline": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
+      "summary": "US-Präsident Trump setzt geplante Russland-Sanktionen aus, während die Angriffe auf die ukrainische Infrastruktur zunehmen. Präsident Selenskyj warnt, dies werde Moskau in seinem Vorgehen bestärken."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die EZB erlaubt Unicredit die Übernahme der Commerzbank. Jetzt kann es ganz schnell gehen",
-      "summary": "Die EZB hat grünes Licht für die Übernahme der Commerzbank durch die italienische Grossbank Unicredit gegeben. Dies ebnet den Weg für Unicredit-Chef Andrea Orcel, Anfang 2027 die Kontrolle in Frankfurt zu übernehmen."
+      "headline": "Inflation in Euro-Zone steigt wegen Energiekosten",
+      "summary": "Die Inflation in der Euro-Zone steigt erneut, hauptsächlich getrieben durch höhere Energiekosten. Dies könnte die Zinspolitik der EZB weiterhin beeinflussen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "MELDUNGEN WIRTSCHAFT - Deutsche Regierung plant Kooperation mit US-Chiphersteller Nvidia +++ Inflation in der Euro-Zone steigt wegen Energiekosten",
-      "summary": "Die Inflation in der Euro-Zone ist erneut wegen gestiegener Energiekosten angestiegen. Parallel dazu plant die deutsche Regierung eine Kooperation mit dem US-Chiphersteller Nvidia, um die Wirtschaft zu stärken."
+      "headline": "EZB erlaubt Unicredit Übernahme der Commerzbank",
+      "summary": "Die EZB hat der italienischen Unicredit grünes Licht für die Übernahme der Commerzbank gegeben. CEO Andrea Orcel will Anfang 2027 die Kontrolle in Frankfurt übernehmen, was die Bundesregierung kaum bremsen kann."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Starlink-Anschlag: Hat Russland die türkische Mafia beauftragt?",
-      "summary": "Nach einem Brandanschlag auf eine Starlink-Station in Polen wurden Tatverdächtige aus der türkischen Organisierten Kriminalität in Deutschland festgenommen. Recherchen deuten auf eine mögliche Beauftragung durch Russland hin."
+      "headline": "Visa und OpenAI wollen KI-Agenten selbständig einkaufen lassen",
+      "summary": "Visa und OpenAI planen, KI-Agenten zu ermöglichen, selbstständig Produkte einzukaufen und zu bezahlen. Dies könnte jedoch dazu führen, dass KI-Agenten Angebote wählen, die den Zahlungsanbietern die höchsten Provisionen einbringen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
-      "summary": "Ein internationales Gremium hat entschieden, die Schaltsekunde künftig nicht mehr zu nutzen, die bisher 27 Mal zur Synchronisation der Uhren diente. Ein neues System zur Angleichung der astronomischen Zeit ist erst für das Jahr 3000 geplant."
+      "headline": "Elorian's KI-Modell kann mit Bildern argumentieren",
+      "summary": "Elorian hat ein neues KI-Modell namens Glimpse vorgestellt, das nicht nur über Bilder, sondern mit ihnen 'argumentieren' kann. Laut Evaluierungen übertrifft Glimpse sogar GPT-6 Astra in der wissenschaftlichen Diagramm-Analyse und Kurzvideo-Unterschrift."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary": "Elorian hat ein KI-Modell namens Glimpse vorgestellt, das nicht nur Bilder beschreiben, sondern auch mit ihnen 'argumentieren' kann. Es übertrifft laut Evaluationen sogar GPT-6 Astra in der wissenschaftlichen Diagramm-Logik."
+      "headline": "Rechenzentren-Entwickler Coreweave in Schwierigkeiten",
+      "summary": "Der Rechenzentren-Entwickler Coreweave, eng mit Nvidia verbunden, steht vor finanziellen Schwierigkeiten, da steigende Zinsen und Widerstand gegen Datenzentren wachsen. Kritiker sehen dies als frühes Warnsignal für die gesamte KI-Industrie."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "summary": "Ein ehemaliger NVIDIA-Insider und nun Venture Capitalist erklärt, warum die Robotik-Branche noch nicht ihren 'ChatGPT-Moment' erlebt hat. Er sieht die Branche noch in einer 'Lego-Ära', in der grundlegende Bausteine neu aufgebaut werden."
+      "headline": "VC-Experte erklärt fehlenden 'ChatGPT-Moment' der Robotik",
+      "summary": "Ein ehemaliger Nvidia-Insider und heutiger VC, Amulya Vishwanath, erklärt, warum die Robotik-Branche ihren 'ChatGPT-Moment' noch nicht erlebt hat. Er beschreibt die aktuelle Phase als 'Lego-Ära', in der die grundlegenden Bausteine noch neu aufgebaut werden."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* einer neuen Kapitalinvestition, während die Post-Money-Bewertung der Wert *nach* dem Erhalt dieser Investition ist.",
-    "details": "Wenn ein Startup neues Kapital von Investoren erhält, erhöht sich sein Wert. Die Pre-Money-Bewertung repräsentiert, was das Unternehmen vor dem Eintreffen des neuen Geldes 'wert' war. Sobald die Investition getätigt wurde, addiert sich dieser Betrag zum bisherigen Unternehmenswert, was zur Post-Money-Bewertung führt. Diese Kennzahlen sind entscheidend, um den prozentualen Anteil zu bestimmen, den Investoren für ihr Kapital erhalten, da ihr Anteil am Post-Money-Wert des Unternehmens berechnet wird. Sie helfen, die Dilution der bestehenden Anteilseigner zu verstehen.",
-    "takeaway": "Die Post-Money-Bewertung ist immer die Summe aus Pre-Money-Bewertung und der neuen Investition. Sie ist essentiell, um den Anteil neuer Investoren und die Verwässerung bestehender Anteilseigner korrekt zu berechnen."
+    "topic": "Startup-Metriken: Burn Rate und Runway",
+    "category": "Finanz-Dechiffrierung: Abkürzungen und Produktbezeichnungen zerlegen",
+    "concept": "Die 'Burn Rate' misst, wie schnell ein Startup sein Kapital aufbraucht, während die 'Runway' angibt, wie viele Monate es bei dieser Rate noch überleben kann.",
+    "details": "Die Burn Rate wird typischerweise als monatlicher Netto-Cash-Abfluss berechnet. Sie zeigt an, wie viel Geld das Unternehmen jeden Monat verliert, um seinen Betrieb aufrechtzuerhalten. Die Runway ergibt sich aus der Division des gesamten verfügbaren Kapitals (Cash-Bestand) durch die monatliche Burn Rate und wird in Monaten ausgedrückt. Beide Metriken sind entscheidend, da sie Aufschluss über die finanzielle Gesundheit und Überlebensfähigkeit eines jungen Unternehmens geben, insbesondere vor dem Erreichen der Profitabilität.",
+    "takeaway": "Für Gründer und Investoren sind Burn Rate und Runway essenziell, um den Kapitalbedarf zu planen und den Zeitpunkt für die nächste Finanzierungsrunde strategisch festzulegen. Eine zu hohe Burn Rate bei kurzer Runway ist ein Alarmsignal."
   }
 }
