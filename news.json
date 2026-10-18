@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
-      "summary": "US-Präsident Trump setzt geplante Russland-Sanktionen aus, was der ukrainische Staatschef Selenskyj scharf kritisiert. Er warnt, diese Entscheidung werde Moskau nur weiter in seinen Angriffen bestärken."
+      "headline": "Iran-Krieg steht vor neuer Eskalation: Benzinpreise in der Schweiz ziehen an",
+      "summary": "Die Treibstoffpreise in der Schweiz steigen aufgrund des Nahostkonflikts und Trumps «Diesel-Deal» stark. Konsumenten sollten sich langfristig auf hohe Energiepreise einstellen, was globale Märkte beeinflusst."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran-Krieg steht vor neuer Eskalation: Benzinpreise in der Schweiz ziehen an",
-      "summary": "Die Treibstoffpreise in der Schweiz steigen aufgrund des eskalierenden Nahost-Konflikts und Trumps «Diesel-Deal» stark an. Konsumenten sollten sich langfristig auf erhöhte Energiepreise einstellen, was direkte Auswirkungen auf die Wirtschaft hat."
+      "headline": "Drohne in Litauens Luftraum eingedrungen und abgestürzt",
+      "summary": "Eine Drohne sorgte in Litauen für Alarm, löste NATO-Kampfjet-Starts aus und stürzte ab. Kiew entschuldigte sich und vermutet eine russische Störaktion, was die Spannungen in der Region erhöht."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "MELDUNGEN WIRTSCHAFT - Deutsche Regierung plant Kooperation mit US-Chiphersteller Nvidia +++ Inflation in der Euro-Zone steigt wegen Energiekosten",
-      "summary": "Die Inflation in der Euro-Zone steigt aufgrund erhöhter Energiekosten weiter an, was die EZB unter Druck setzt. Gleichzeitig plant die deutsche Regierung eine strategische Kooperation mit dem Chiphersteller Nvidia."
+      "headline": "Inflation in der Euro-Zone steigt wegen Energiekosten",
+      "summary": "Die Inflation in der Euro-Zone zieht aufgrund steigender Energiekosten erneut an. Gleichzeitig plant die deutsche Regierung eine Kooperation mit dem US-Chiphersteller Nvidia."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "Die EZB erlaubt Unicredit die Übernahme der Commerzbank. Jetzt kann es ganz schnell gehen",
-      "summary": "Die EZB hat der italienischen Großbank Unicredit die Übernahme der Commerzbank genehmigt, was einen der größten M&A-Deals im europäischen Bankensektor ermöglicht. Unicredit-Chef Andrea Orcel strebt an, Anfang 2027 die Kontrolle in Frankfurt zu übernehmen."
+      "summary": "Die EZB hat die Übernahme der Commerzbank durch die italienische Großbank Unicredit genehmigt. Der Unicredit-Chef Andrea Orcel strebt die Übernahme der Kontrolle Anfang 2027 an, was einen großen Deal im europäischen Bankensektor darstellt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Hacker werden immer schneller: «Heute kann eine KI innert Sekunden eine Schwachstelle finden»",
-      "summary": "Die Cyberkriminalität wird durch den Einsatz von Künstlicher Intelligenz rasant beschleunigt, wodurch Hacker Schwachstellen in Sekunden finden können. Dies wirft dringende Fragen nach der Sicherheit unserer Daten bei Pensionskassen und Online-Plattformen auf."
+      "headline": "KI beschleunigt die Cyberkriminalität. Wo sind unsere Daten noch sicher?",
+      "summary": "Cyberangriffe auf Pensionskassen, Plattformen und Supermärkte nehmen rasant zu, befeuert durch KI. Dies löst wachsende Sorgen um Datensicherheit in der Finanzbranche und darüber hinaus aus."
     },
     {
       "tag": "TOP STORIES",
       "headline": "Ein fliegender Raketen-Tesla: Warum Elon Musks neuste Ankündigung ein genialer Marketing-Gag ist",
-      "summary": "Elon Musk hat einen 'fliegenden Raketen-Tesla' für 250.000 Dollar zur Reservierung angekündigt, der 2028 in Produktion gehen soll. Kritiker sehen darin jedoch vor allem einen genialen Marketing-Gag, da die Fahrzeuge auch künftig im Stau stehen werden."
+      "summary": "Elon Musks Ankündigung eines fliegenden Raketen-Teslas für 250.000 Dollar ist ein cleverer Marketing-Gag. Obwohl das Auto erst 2028 in Produktion gehen soll, sorgt es bereits für viel Gesprächsstoff."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Coreweave, ein Entwickler von Rechenzentren, steckt in Schwierigkeiten – Kritiker sehen darin ein Frühwarnzeichen für die ganze KI-Industrie",
-      "summary": "Coreweave, ein wichtiger Entwickler von Rechenzentren, kämpft mit steigenden Zinsen und Widerstand gegen Datenzentren. Diese Schwierigkeiten werden von Finanzmärkten und Kritikern als potenzielles Frühwarnzeichen für die gesamte KI-Industrie interpretiert."
+      "headline": "Coreweave, ein Entwickler von Rechenzentren, steckt in Schwierigkeiten",
+      "summary": "Steigende Zinsen und Widerstand gegen Datenzentren führen bei Coreweave, eng verbunden mit Nvidia, zu Überlebenszweifeln. Kritiker sehen darin ein potenzielles Frühwarnzeichen für die gesamte KI-Industrie."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary": "Elorian hat sein erstes KI-Modell namens Glimpse vorgestellt, das nicht nur über Bilder, sondern mit ihnen 'resonieren' kann. Es übertrifft laut Bewertungen sogar GPT-6 Astra in der wissenschaftlichen Diagramm-Analyse und Kurzvideo-Unterschriftenerstellung."
+      "headline": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary": "Ein ehemaliger Nvidia-Manager und heutiger VC erklärt, dass die Robotik noch in ihrer 'Lego-Ära' steckt. Die grundlegenden Bausteine fehlen noch, um einen Durchbruch wie ChatGPT zu erleben."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese Begriffe beschreiben, wie ein Startup vor und nach einer neuen Investitionsrunde finanziell bewertet wird. Sie sind entscheidend für die Berechnung der Anteile, die Investoren erhalten.",
-    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* dem Eingang neuer Investitionsgelder. Kommt ein Investor hinzu und pumpt Kapital in das Unternehmen, erhöht sich der Gesamtwert. Die Post-Money-Bewertung ist dann die Pre-Money-Bewertung *plus* das neu investierte Kapital. Wenn ein Startup beispielsweise eine Pre-Money-Bewertung von 10 Millionen Euro hat und ein Investor 2 Millionen Euro investiert, beträgt die Post-Money-Bewertung 12 Millionen Euro. Aus diesen Werten ergibt sich, wie viele Anteile der Investor für sein Geld erhält, basierend auf der Annahme, dass der Preis pro Anteil nach der Investition (Post-Money) berechnet wird.",
-    "takeaway": "Investoren verhandeln meist basierend auf der Pre-Money-Bewertung, um ihren prozentualen Anteil am Unternehmen nach der Kapitalerhöhung zu bestimmen. Ein höheres Pre-Money bedeutet, dass Gründer weniger Anteile abgeben müssen."
+    "topic": "Wie Hedgefonds agieren: Risiko & Rendite optimieren",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Hedgefonds sind Investmentfonds, die flexible und oft aggressive Strategien nutzen, um unabhängig von der Marktentwicklung hohe Renditen zu erzielen, indem sie sowohl Long- als auch Short-Positionen eingehen.",
+    "details": "Im Gegensatz zu traditionellen Fonds, die meist nur auf steigende Kurse setzen, können Hedgefonds diverse Finanzinstrumente wie Derivate nutzen und in verschiedenen Märkten aktiv sein. Ihre Strategien reichen von globalen Makro-Wetten über Event-Driven-Investitionen bis hin zu Arbitrage. Durch den Einsatz von Hebeln (Leverage) können sie potenziell höhere Gewinne, aber auch größere Verluste generieren. Ihr Ziel ist die absolute Rendite, ungeachtet der allgemeinen Marktbewegung.",
+    "takeaway": "Hedgefonds sind keine herkömmlichen Investmentfonds; sie verfolgen unkonventionelle Strategien mit hoher Flexibilität und Risikobereitschaft, um überdurchschnittliche Renditen zu erzielen, und sind daher oft nur für institutionelle Anleger oder sehr vermögende Privatpersonen zugänglich."
   }
 }
