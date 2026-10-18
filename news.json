@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trumps Migrationspolitik verunsichert Unternehmen",
-      "summary": "Trumps rigide Migrationspolitik, die 2024 Wähler anzog, verunsichert nun vor den Zwischenwahlen 2026 Unternehmen und Bürger. Das harte Vorgehen der Einwanderungsbehörde ICE stößt zunehmend auf Kritik."
+      "headline": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
+      "summary": "US-Präsident Trump setzt geplante Russland-Sanktionen aus, was der ukrainische Staatschef Selenskyj scharf kritisiert. Er warnt, diese Entscheidung werde Moskau nur weiter in seinen Angriffen bestärken."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
-      "summary": "US-Präsident Trump setzt geplante Russland-Sanktionen aus, während die Angriffe auf die ukrainische Infrastruktur zunehmen. Präsident Selenskyj warnt, dies werde Moskau in seinem Vorgehen bestärken."
+      "headline": "Iran-Krieg steht vor neuer Eskalation: Benzinpreise in der Schweiz ziehen an",
+      "summary": "Die Treibstoffpreise in der Schweiz steigen aufgrund des eskalierenden Nahost-Konflikts und Trumps «Diesel-Deal» stark an. Konsumenten sollten sich langfristig auf erhöhte Energiepreise einstellen, was direkte Auswirkungen auf die Wirtschaft hat."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Inflation in Euro-Zone steigt wegen Energiekosten",
-      "summary": "Die Inflation in der Euro-Zone steigt erneut, hauptsächlich getrieben durch höhere Energiekosten. Dies könnte die Zinspolitik der EZB weiterhin beeinflussen."
+      "headline": "MELDUNGEN WIRTSCHAFT - Deutsche Regierung plant Kooperation mit US-Chiphersteller Nvidia +++ Inflation in der Euro-Zone steigt wegen Energiekosten",
+      "summary": "Die Inflation in der Euro-Zone steigt aufgrund erhöhter Energiekosten weiter an, was die EZB unter Druck setzt. Gleichzeitig plant die deutsche Regierung eine strategische Kooperation mit dem Chiphersteller Nvidia."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EZB erlaubt Unicredit Übernahme der Commerzbank",
-      "summary": "Die EZB hat der italienischen Unicredit grünes Licht für die Übernahme der Commerzbank gegeben. CEO Andrea Orcel will Anfang 2027 die Kontrolle in Frankfurt übernehmen, was die Bundesregierung kaum bremsen kann."
+      "headline": "Die EZB erlaubt Unicredit die Übernahme der Commerzbank. Jetzt kann es ganz schnell gehen",
+      "summary": "Die EZB hat der italienischen Großbank Unicredit die Übernahme der Commerzbank genehmigt, was einen der größten M&A-Deals im europäischen Bankensektor ermöglicht. Unicredit-Chef Andrea Orcel strebt an, Anfang 2027 die Kontrolle in Frankfurt zu übernehmen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Visa und OpenAI wollen KI-Agenten selbständig einkaufen lassen",
-      "summary": "Visa und OpenAI planen, KI-Agenten zu ermöglichen, selbstständig Produkte einzukaufen und zu bezahlen. Dies könnte jedoch dazu führen, dass KI-Agenten Angebote wählen, die den Zahlungsanbietern die höchsten Provisionen einbringen."
+      "headline": "Hacker werden immer schneller: «Heute kann eine KI innert Sekunden eine Schwachstelle finden»",
+      "summary": "Die Cyberkriminalität wird durch den Einsatz von Künstlicher Intelligenz rasant beschleunigt, wodurch Hacker Schwachstellen in Sekunden finden können. Dies wirft dringende Fragen nach der Sicherheit unserer Daten bei Pensionskassen und Online-Plattformen auf."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Elorian's KI-Modell kann mit Bildern argumentieren",
-      "summary": "Elorian hat ein neues KI-Modell namens Glimpse vorgestellt, das nicht nur über Bilder, sondern mit ihnen 'argumentieren' kann. Laut Evaluierungen übertrifft Glimpse sogar GPT-6 Astra in der wissenschaftlichen Diagramm-Analyse und Kurzvideo-Unterschrift."
+      "headline": "Ein fliegender Raketen-Tesla: Warum Elon Musks neuste Ankündigung ein genialer Marketing-Gag ist",
+      "summary": "Elon Musk hat einen 'fliegenden Raketen-Tesla' für 250.000 Dollar zur Reservierung angekündigt, der 2028 in Produktion gehen soll. Kritiker sehen darin jedoch vor allem einen genialen Marketing-Gag, da die Fahrzeuge auch künftig im Stau stehen werden."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Rechenzentren-Entwickler Coreweave in Schwierigkeiten",
-      "summary": "Der Rechenzentren-Entwickler Coreweave, eng mit Nvidia verbunden, steht vor finanziellen Schwierigkeiten, da steigende Zinsen und Widerstand gegen Datenzentren wachsen. Kritiker sehen dies als frühes Warnsignal für die gesamte KI-Industrie."
+      "headline": "Coreweave, ein Entwickler von Rechenzentren, steckt in Schwierigkeiten – Kritiker sehen darin ein Frühwarnzeichen für die ganze KI-Industrie",
+      "summary": "Coreweave, ein wichtiger Entwickler von Rechenzentren, kämpft mit steigenden Zinsen und Widerstand gegen Datenzentren. Diese Schwierigkeiten werden von Finanzmärkten und Kritikern als potenzielles Frühwarnzeichen für die gesamte KI-Industrie interpretiert."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "VC-Experte erklärt fehlenden 'ChatGPT-Moment' der Robotik",
-      "summary": "Ein ehemaliger Nvidia-Insider und heutiger VC, Amulya Vishwanath, erklärt, warum die Robotik-Branche ihren 'ChatGPT-Moment' noch nicht erlebt hat. Er beschreibt die aktuelle Phase als 'Lego-Ära', in der die grundlegenden Bausteine noch neu aufgebaut werden."
+      "headline": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "Elorian hat sein erstes KI-Modell namens Glimpse vorgestellt, das nicht nur über Bilder, sondern mit ihnen 'resonieren' kann. Es übertrifft laut Bewertungen sogar GPT-6 Astra in der wissenschaftlichen Diagramm-Analyse und Kurzvideo-Unterschriftenerstellung."
     }
   ],
   "learning": {
-    "topic": "Startup-Metriken: Burn Rate und Runway",
-    "category": "Finanz-Dechiffrierung: Abkürzungen und Produktbezeichnungen zerlegen",
-    "concept": "Die 'Burn Rate' misst, wie schnell ein Startup sein Kapital aufbraucht, während die 'Runway' angibt, wie viele Monate es bei dieser Rate noch überleben kann.",
-    "details": "Die Burn Rate wird typischerweise als monatlicher Netto-Cash-Abfluss berechnet. Sie zeigt an, wie viel Geld das Unternehmen jeden Monat verliert, um seinen Betrieb aufrechtzuerhalten. Die Runway ergibt sich aus der Division des gesamten verfügbaren Kapitals (Cash-Bestand) durch die monatliche Burn Rate und wird in Monaten ausgedrückt. Beide Metriken sind entscheidend, da sie Aufschluss über die finanzielle Gesundheit und Überlebensfähigkeit eines jungen Unternehmens geben, insbesondere vor dem Erreichen der Profitabilität.",
-    "takeaway": "Für Gründer und Investoren sind Burn Rate und Runway essenziell, um den Kapitalbedarf zu planen und den Zeitpunkt für die nächste Finanzierungsrunde strategisch festzulegen. Eine zu hohe Burn Rate bei kurzer Runway ist ein Alarmsignal."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe beschreiben, wie ein Startup vor und nach einer neuen Investitionsrunde finanziell bewertet wird. Sie sind entscheidend für die Berechnung der Anteile, die Investoren erhalten.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert *vor* dem Eingang neuer Investitionsgelder. Kommt ein Investor hinzu und pumpt Kapital in das Unternehmen, erhöht sich der Gesamtwert. Die Post-Money-Bewertung ist dann die Pre-Money-Bewertung *plus* das neu investierte Kapital. Wenn ein Startup beispielsweise eine Pre-Money-Bewertung von 10 Millionen Euro hat und ein Investor 2 Millionen Euro investiert, beträgt die Post-Money-Bewertung 12 Millionen Euro. Aus diesen Werten ergibt sich, wie viele Anteile der Investor für sein Geld erhält, basierend auf der Annahme, dass der Preis pro Anteil nach der Investition (Post-Money) berechnet wird.",
+    "takeaway": "Investoren verhandeln meist basierend auf der Pre-Money-Bewertung, um ihren prozentualen Anteil am Unternehmen nach der Kapitalerhöhung zu bestimmen. Ein höheres Pre-Money bedeutet, dass Gründer weniger Anteile abgeben müssen."
   }
 }
