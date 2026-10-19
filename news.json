@@ -2,56 +2,51 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russland greift Kiew offenbar erneut mit Raketen an",
-      "summary": "Russland hat die Ukraine abermals mit Raketen und Drohnen angegriffen, wobei Kiew laut ukrainischem Präsident Selenskyj keine frühzeitige Warnung erhielt. US-Außenminister Rubio widerspricht dieser Darstellung der Geschehnisse."
-    },
-    {
-      "tag": "POLITIK & GLOBAL",
-      "headline": "Alberta stimmt über mögliche Abspaltung von Kanada ab",
-      "summary": "In der ölreichen kanadischen Provinz Alberta wird heute über ein Unabhängigkeitsreferendum abgestimmt, unterstützt von einer erstarkten Separatistenbewegung und US-Präsident Trump. Das Ergebnis könnte die politische und wirtschaftliche Landschaft Kanadas stark verändern."
+      "headline": "Iran-Krieg steht vor neuer Eskalation: Benzinpreise in der Schweiz ziehen an",
+      "summary": "Der Konflikt im Nahen Osten scheint sich zu verschärfen, was direkt zu einem starken Anstieg der Benzinpreise in der Schweiz führt. Konsumenten sollten sich langfristig auf hohe Energiepreise einstellen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX fällt unter 25.500 Punkten",
-      "summary": "Meldungen aus China und den USA sowie sinkende Ölpreise belasten zum Wochenauftakt die Börsen, wodurch der DAX unter 25.500 Punkte fällt. Positive Daten reichen als Gegengewicht nicht aus, um den Handelsauftakt zu stützen."
+      "headline": "Wirtschaft der zwei Geschwindigkeiten: Chinas Exporte gehen durch die Decke, die Konsumenten üben Zurückhaltung",
+      "summary": "Chinas Wirtschaft wuchs im letzten Quartal stärker als erwartet, hauptsächlich getrieben durch hohe Exporte von Tech-Komponenten. Dies kontrastiert mit der anhaltenden Kaufzurückhaltung chinesischer Konsumenten und wirft Fragen zur Nachhaltigkeit auf, falls der globale KI-Boom abebbt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "«Wirtschaftlich inaktiv»: Immer mehr Briten scheiden aus dem Arbeitsleben aus",
-      "summary": "Großbritannien verzeichnet einen starken Anstieg der \"wirtschaftlich Inaktiven\", hauptsächlich durch psychische Erkrankungen, was die Sozialkosten explodieren lässt. Die Regierung versucht mit Präventivmaßnahmen gegenzusteuern, aber die leere Staatskasse erschwert die Lage."
+      "headline": "Merz lädt zu Investitionsgipfel in Berlin",
+      "summary": "Bundeskanzler Merz veranstaltet in Berlin einen Gipfel, um mehr ausländische Investoren für Deutschland zu gewinnen. Dies soll den Wirtschaftsstandort stärken und die deutsche Wettbewerbsfähigkeit verbessern."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Japan schickt Raumsonde zum Marsmond Phobos",
-      "summary": "Japan startet eine Mission zum Marsmond Phobos, um erstmals Proben zur Erde zu holen, und demonstriert damit seine führende Rolle im boomenden Weltraum-Ökosystem. Ein deutsch-französischer Rover symbolisiert die starke Partnerschaft mit Europas Weltraumindustrie."
+      "headline": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen / Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
+      "summary": "Gewalttätige Proteste erschüttern Frankreich und weitere europäische Länder aufgrund ähnlicher gesellschaftlicher Unzufriedenheit. Die französische Regierung reagiert mit der Ankündigung lokaler Ausgangssperren, während Rufe zu weiteren Demonstrationen kursieren."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Hohe Investitionen in KI geplant: Merz will mit Nvidia zusammenarbeiten",
-      "summary": "Deutschland plant massive Investitionen in Künstliche Intelligenz, wobei Friedrich Merz eine Zusammenarbeit mit dem führenden Chipshersteller Nvidia anstrebt. Dies unterstreicht die wachsende Bedeutung von KI als zentraler Wirtschaftsfaktor."
+      "headline": "Eine japanische Raumsonde soll heute zum Mars aufbrechen",
+      "summary": "Japan startet eine Raumsonde zum Marsmond Phobos, um erstmals Proben zur Erde zurückzuholen und damit das Weltraum-Ökosystem zu beleben. Mit an Bord ist ein deutsch-französischer Rover, der Japans Rolle als Partner der europäischen Weltraumindustrie symbolisiert."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Khosla Ventures investiert erneut in Even Healthcare",
-      "summary": "Khosla Ventures leitet eine Finanzierungsrunde für Even Healthcare, die das Unternehmen auf 300 Millionen US-Dollar bewertet, um dessen Krankenhausnetzwerk in Indien auszubauen. Dies unterstreicht das Vertrauen in das Potenzial des indischen Gesundheitsmarktes."
+      "headline": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "summary": "Die KI-Begleiter-App Tolan hat nach dem Gewinn von über 250.000 aktiven Nutzern weitere 30 Millionen Dollar an Finanzierung erhalten. Dies unterstreicht das wachsende Interesse an personalisierten KI-Lösungen und deren Marktpotenzial."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic verpflichtet 5% der Anteile einem „Public Benefit Fund“",
-      "summary": "Das führende KI-Startup Anthropic gab bekannt, 5% seiner Unternehmensanteile einem \"Public Benefit Fund\" zuzuführen, was ein einzigartiges Modell zur ethischen Entwicklung und Nutzung von Künstlicher Intelligenz darstellt. Diese Entscheidung hebt die Priorität auf gemeinnützige Ziele hervor."
+      "headline": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "summary": "Das KI-Assistenten-Startup Town erreichte nur vier Monate nach seinem Start eine Einhorn-Bewertung. Eine Series-B-Finanzierungsrunde über 108 Millionen Dollar wurde von Forerunner Ventures und Menlo Ventures angeführt."
     }
   ],
   "learning": {
-    "topic": "Cap Table Logik: Die Tücken einer Down Round",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Eine Down Round tritt auf, wenn ein Startup in einer neuen Finanzierungsrunde zu einer niedrigeren Bewertung als in der vorherigen Runde Kapital aufnimmt. Dies hat signifikante Auswirkungen auf die Beteiligungsverhältnisse aller bestehenden Investoren und Gründer, die im Cap Table abgebildet sind.",
-    "details": "Wenn ein Startup eine Down Round durchführen muss, sinkt der Wert der Anteile der früheren Investoren und Gründer. Um diese zu schützen, gibt es oft \"Anti-Dilution\"-Klauseln (Verwässerungsschutz) in den Investmentverträgen. Diese Klauseln passen die Anzahl der Anteile früherer Investoren an, sodass ihr prozentualer Anteil oder der Wert ihrer Investition trotz niedrigerer Bewertung gewahrt bleibt. Der gängigste Schutz ist der \"Full Ratchet\", der ihnen bei einer Down Round so viele neue Anteile gibt, als hätten sie zu der niedrigeren Bewertung investiert. Der \"Weighted Average\" ist milder und berücksichtigt den Durchschnitt der alten und neuen Bewertung. Ohne Schutz verlieren frühere Investoren und Gründer deutlich an Wert.",
-    "takeaway": "Down Rounds sind schmerzhaft, aber der Schutz bestehender Investoren durch Anti-Dilution-Klauseln ist entscheidend für das Vertrauen zukünftiger Finanzierungen. Für Gründer bedeutet eine Down Round meist einen hohen prozentualen Eigentumsverlust und eine deutliche Wertminderung ihrer Anteile."
+    "topic": "Startup-Slang: Das ABC der Tech-Finanzwelt",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Im Startup- und Tech-Umfeld existiert eine eigene Fachsprache aus Abkürzungen, die für das Verständnis von Geschäftsmodellen und deren finanzieller Gesundheit unerlässlich ist.",
+    "details": "Diese Begriffe beschreiben oft Umsatzmodelle, Kundenbeziehungen und die finanzielle Verfassung eines jungen Unternehmens. So steht 'SaaS' für Software as a Service, ein Abonnement-Modell. 'B2B' definiert den Verkauf von Produkten an andere Unternehmen. 'ARR' (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz, entscheidend für die Bewertung von Abo-Firmen. Die 'Burn Rate' gibt an, wie schnell ein Startup seine Liquiditätsreserven verbraucht, während 'Churn' die Rate der Kundenabwanderung bezeichnet – ein wichtiger Indikator für die Kundenzufriedenheit und das Geschäftsmodell.",
+    "takeaway": "Das Verstehen dieser Kernbegriffe ermöglicht es dir, nicht nur in der Startup-Szene mitzureden, sondern auch die tatsächliche Wirtschaftlichkeit und das Wachstumspotenzial von Tech-Unternehmen präzise zu bewerten und Finanzierungsrunden zu analysieren."
   }
 }
