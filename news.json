@@ -2,51 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran-Krieg steht vor neuer Eskalation: Benzinpreise in der Schweiz ziehen an",
-      "summary": "Der Konflikt im Nahen Osten scheint sich zu verschärfen, was direkt zu einem starken Anstieg der Benzinpreise in der Schweiz führt. Konsumenten sollten sich langfristig auf hohe Energiepreise einstellen."
+      "headline": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+      "summary": "Präsident Selenskyj verlangt Kiews Beteiligung an einem von Trump vorgeschlagenen Treffen mit den Staatschefs Russlands und Chinas zur Ukraine. Diese Forderung unterstreicht die Notwendigkeit einer umfassenden diplomatischen Lösung für den Konflikt."
+    },
+    {
+      "tag": "POLITIK & GLOBAL",
+      "headline": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
+      "summary": "Die EU plant, ihre Präsenz in der Arktis deutlich auszubauen, da die Region als Schnittstelle geopolitischer Interessen gilt. Dies beinhaltet eine Verstärkung der militärischen Aktivitäten, um den strategischen Einfluss der Union zu sichern."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Wirtschaft der zwei Geschwindigkeiten: Chinas Exporte gehen durch die Decke, die Konsumenten üben Zurückhaltung",
-      "summary": "Chinas Wirtschaft wuchs im letzten Quartal stärker als erwartet, hauptsächlich getrieben durch hohe Exporte von Tech-Komponenten. Dies kontrastiert mit der anhaltenden Kaufzurückhaltung chinesischer Konsumenten und wirft Fragen zur Nachhaltigkeit auf, falls der globale KI-Boom abebbt."
+      "headline": "Strassenschlachten und rekordhohe Schulden: Die Märkte verlieren das Vertrauen in Frankreich",
+      "summary": "Internationale Investoren bewerten Frankreich aufgrund von Unruhen und Rekordschulden kritischer als Italien oder Griechenland. Die Renditen französischer Staatsanleihen erreichen den höchsten Stand seit 2002 und signalisieren wachsendes Misstrauen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Merz lädt zu Investitionsgipfel in Berlin",
-      "summary": "Bundeskanzler Merz veranstaltet in Berlin einen Gipfel, um mehr ausländische Investoren für Deutschland zu gewinnen. Dies soll den Wirtschaftsstandort stärken und die deutsche Wettbewerbsfähigkeit verbessern."
+      "headline": "Wirtschaft der zwei Geschwindigkeiten: Chinas Exporte gehen durch die Decke, die Konsumenten üben Zurückhaltung",
+      "summary": "Chinas Wirtschaft wuchs stark durch Tech-Exporte, doch die Binnenkonsumenten zeigen weiterhin Zurückhaltung. Dieser Spagat birgt Risiken, falls der globale KI-Boom nachlässt und die Exportnachfrage sinkt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen / Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
-      "summary": "Gewalttätige Proteste erschüttern Frankreich und weitere europäische Länder aufgrund ähnlicher gesellschaftlicher Unzufriedenheit. Die französische Regierung reagiert mit der Ankündigung lokaler Ausgangssperren, während Rufe zu weiteren Demonstrationen kursieren."
+      "headline": "Eine japanische Raumsonde ist zum Mars aufgebrochen – rund um das Programm ist ein boomendes Weltraum-Ökosystem entstanden",
+      "summary": "Japan hat eine Raumsonde zum Marsmond Phobos entsandt, um erstmals Proben zur Erde zurückzubringen. Das Programm stärkt Japans Rolle in der Weltraumforschung und fördert ein wachsendes Weltraum-Ökosystem."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Eine japanische Raumsonde soll heute zum Mars aufbrechen",
-      "summary": "Japan startet eine Raumsonde zum Marsmond Phobos, um erstmals Proben zur Erde zurückzuholen und damit das Weltraum-Ökosystem zu beleben. Mit an Bord ist ein deutsch-französischer Rover, der Japans Rolle als Partner der europäischen Weltraumindustrie symbolisiert."
+      "headline": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "summary": "Metas KI-Begleiter 'Muse' hat in nur 40 Tagen über 10 Millionen Downloads in den USA erreicht, ein Meilenstein für eine neue App. Dies deutet auf eine hohe Nutzerakzeptanz und das Potenzial hin, den Markt für KI-Assistenten zu prägen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "summary": "Die KI-Begleiter-App Tolan hat nach dem Gewinn von über 250.000 aktiven Nutzern weitere 30 Millionen Dollar an Finanzierung erhalten. Dies unterstreicht das wachsende Interesse an personalisierten KI-Lösungen und deren Marktpotenzial."
+      "headline": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "summary": "Der frühere Google-CEO Eric Schmidt hält Berichten zufolge einen erheblichen Anteil von etwa 1% an Anthropic, einem führenden KI-Labor. Dies unterstreicht das große Interesse namhafter Investoren an wegweisenden Startups im Bereich der Künstlichen Intelligenz."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-      "summary": "Das KI-Assistenten-Startup Town erreichte nur vier Monate nach seinem Start eine Einhorn-Bewertung. Eine Series-B-Finanzierungsrunde über 108 Millionen Dollar wurde von Forerunner Ventures und Menlo Ventures angeführt."
+      "headline": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "summary": "Das Luftfahrt-Startup Reliable Robotics, gegründet von einem SpaceX-Veteranen, hat eine Finanzierungsrunde von 115 Millionen US-Dollar abgeschlossen und erreicht damit eine Bewertung von über 1 Milliarde US-Dollar. Die Firma konzentriert sich auf Technologien für autonome Flugzeuge."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang: Das ABC der Tech-Finanzwelt",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Im Startup- und Tech-Umfeld existiert eine eigene Fachsprache aus Abkürzungen, die für das Verständnis von Geschäftsmodellen und deren finanzieller Gesundheit unerlässlich ist.",
-    "details": "Diese Begriffe beschreiben oft Umsatzmodelle, Kundenbeziehungen und die finanzielle Verfassung eines jungen Unternehmens. So steht 'SaaS' für Software as a Service, ein Abonnement-Modell. 'B2B' definiert den Verkauf von Produkten an andere Unternehmen. 'ARR' (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz, entscheidend für die Bewertung von Abo-Firmen. Die 'Burn Rate' gibt an, wie schnell ein Startup seine Liquiditätsreserven verbraucht, während 'Churn' die Rate der Kundenabwanderung bezeichnet – ein wichtiger Indikator für die Kundenzufriedenheit und das Geschäftsmodell.",
-    "takeaway": "Das Verstehen dieser Kernbegriffe ermöglicht es dir, nicht nur in der Startup-Szene mitzureden, sondern auch die tatsächliche Wirtschaftlichkeit und das Wachstumspotenzial von Tech-Unternehmen präzise zu bewerten und Finanzierungsrunden zu analysieren."
+    "topic": "Optionen vs. Optionsscheine: Die feinen Unterschiede",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Optionen sind standardisierte, börsengehandelte Kontrakte, die ein Recht auf Kauf oder Verkauf eines Basiswerts verbriefen, während Optionsscheine von Banken emittierte Hebelprodukte sind, die eine ähnliche Funktionsweise haben, aber keine echten Optionen darstellen.",
+    "details": "Echte Optionen sind vertragliche Rechte, einen Basiswert (z.B. Aktie) zu einem festgelegten Preis (Strike) bis zu einem bestimmten Datum (Verfall) zu kaufen (Call) oder zu verkaufen (Put). Sie sind hoch standardisiert, werden an Terminbörsen gehandelt und primär zur Absicherung von Portfolios oder für komplexe Spekulationsstrategien genutzt. Optionsscheine hingegen sind von Banken ausgegebene Schuldverschreibungen. Sie ahmen die Preisentwicklung von Optionen nach, sind jedoch nicht standardisiert, unterliegen dem Emittentenrisiko und werden oft mit höherem Hebel und geringerer Transparenz als eigentliche 'Spekulationsprodukte' für Privatanleger vermarktet. Sie sind im Grunde eine Wette auf die Kursentwicklung mit begrenzter Laufzeit.",
+    "takeaway": "Für einen Finance-Studenten ist es entscheidend zu wissen, dass Optionen primär ein flexibles Instrument für Profis zur Risikoabsicherung oder komplexen Strategien sind. Optionsscheine sind hingegen hochspekulative Derivate mit Emittentenrisiko, die eher dem Wetten auf Kursbewegungen dienen und nicht die gleichen Sicherheiten oder Standardisierungen bieten wie echte Optionen."
   }
 }
