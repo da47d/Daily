@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Vermittler Witkoff berät mit Putin über Ukraine",
-      "summary": "US-Unterhändler Witkoff führt nach Gesprächen in Oslo Verhandlungen mit der russischen Führung in St. Petersburg über die Ukraine. US-Präsident Trump hatte zuvor zu einem 'Deal' in dem Konflikt aufgerufen."
+      "headline": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu",
+      "summary": "Russlands Präsident Putin hat sich zur Wiederaufnahme von Gesprächen mit den USA und der Ukraine bereit erklärt. Ein Ende des Krieges steht dabei jedoch nicht im Vordergrund, was die Hoffnungen auf schnelle Fortschritte dämpft."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iranisches Finanznetzwerk: Eine deutsche Bank im Visier Teherans",
-      "summary": "Das iranische Regime nutzt ein Netzwerk von Tarnfirmen, um internationale Sanktionen zu umgehen und wollte eine Bank in Bayern übernehmen. Dies wurde durch Recherchen von Report Mainz und dem Spiegel aufgedeckt."
+      "headline": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
+      "summary": "Huthi-Attacken auf Saudi-Arabien bedrohen Kronprinz Mohammed bin Salmans \"Vision 2030\" und das Image von Sicherheit und Stabilität. Dies könnte Investitionen und Tourismus in der Region stark beeinträchtigen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
-      "summary": "Elon Musk bestätigte, dass Tesla und SpaceX einen möglichen Zusammenschluss prüfen, was die größte Fusion zweier Firmen wäre. Die potenzielle Kombination der Konzerne im Billionen-Wert würde Musks Einfluss weiter festigen."
+      "headline": "Märkte verlieren Vertrauen in Frankreich",
+      "summary": "Internationale Investoren sehen Frankreich aufgrund von Unruhen und Rekordschulden kritischer als Italien oder Griechenland. Dies spiegelt sich in den höchsten Renditen französischer Staatsanleihen seit 2002 wider und deutet auf wachsende Stabilitätsbedenken hin."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Strassenschlachten und rekordhohe Schulden: Die Märkte verlieren das Vertrauen in Frankreich",
-      "summary": "Die anhaltende Gewalt und rekordhohe Schulden belasten das Vertrauen internationaler Investoren in Frankreich. Die Renditen französischer Staatsanleihen sind auf den höchsten Stand seit 2002 gestiegen und signalisieren ein erhöhtes Risiko."
+      "headline": "Meta zu Milliardenstrafe verurteilt",
+      "summary": "Meta wurde wegen des Cambridge-Analytica-Datenschutzskandals zu einer historischen Strafe von 25 Milliarden Dollar verurteilt. Dies unterstreicht die wachsenden regulatorischen und finanziellen Risiken für große Tech-Konzerne."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu",
-      "summary": "Ein UN-Bericht warnt, dass die Erde auf eine Erwärmung von 2,8 Grad zusteuert und das 1,5-Grad-Limit sicher reißen wird. Trotz Fortschritten beim Klimaschutz drängt die Zeit für weitere Maßnahmen."
+      "headline": "Gravierende Sicherheitslücke in PHP bedroht Millionen Webseiten",
+      "summary": "Eine von OpenAI und Google entdeckte gravierende Sicherheitslücke in der weitverbreiteten Programmiersprache PHP versetzt das Internet in Panik. Zahlreiche Städte in Deutschland haben bereits vorsorglich Webseiten abgeschaltet."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Eine japanische Raumsonde ist zum Mars aufgebrochen – rund um das Programm ist ein boomendes Weltraum-Ökosystem entstanden",
-      "summary": "Japan hat eine Raumsonde zum Marsmond Phobos geschickt, um erstmals Proben zur Erde zu holen, mit einem deutsch-französischen Rover an Bord. Das Projekt symbolisiert Japans wachsende Rolle in der europäischen Weltraumindustrie und fördert ein boomendes Ökosystem."
+      "headline": "Elon Musk plant Mega-Fusion von SpaceX und Tesla",
+      "summary": "Elon Musk will seine Tech-Giganten SpaceX und Tesla zu einem der größten Konglomerate der Welt verschmelzen. Dieses Vorhaben würde die größte Fusion überhaupt darstellen und verspricht Synergien im Bereich KI, Weltraum und Mobilität."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "summary": "OpenAI hat das Startup Orchestra Bio akquiriert, um sein Biotech-Geschäft zu stärken und das Team in die Entwicklung des KI-Modells Rosalind zu integrieren. Die Akquisition zielt darauf ab, die Forschung in den Biowissenschaften zu verbessern und Experimente zu planen."
+      "headline": "Legal AI Startup Legora erhält 550 Mio. USD Series E",
+      "summary": "Das Legal-AI-Startup Legora schloss eine Series E Finanzierungsrunde über 550 Millionen Dollar ab, die das Unternehmen mit 8,8 Milliarden Dollar bewertet. Dies zeigt das enorme Investorenvertrauen in den schnell wachsenden Sektor der KI-gestützten Rechtsdienstleistungen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic’s cloud partnerships are getting messy",
-      "summary": "Anthropic kämpft Berichten zufolge um ausreichend Rechenleistung von Cloud-Anbietern, die das Unternehmen zunehmend als Konkurrenten sehen. Dies geschieht, während die Infrastrukturausgaben vor einem geplanten November-IPO stark ansteigen."
+      "headline": "Blacksmith erreicht Einhorn-Status nach Sequoia-Investition",
+      "summary": "Die Plattform Blacksmith, die Unternehmen beim Bau und Testen von KI-Code unterstützt, hat nach einer Series C Runde unter Führung von Sequoia eine Bewertung von 1 Milliarde Dollar erreicht. Damit reiht sich Blacksmith in die Riege der Tech-Einhörner ein."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Was ist der Unterschied?",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer neuen Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach Erhalt des neuen Kapitals darstellt. Sie sind entscheidend für die Bestimmung der Anteile, die Investoren für ihre Einlage erhalten.",
-    "details": "Wenn ein Investor Kapital in ein Startup steckt, muss festgelegt werden, welchen Anteil am Unternehmen er dafür erhält. Die Pre-Money-Bewertung gibt an, wie viel das Unternehmen vor dieser Investition wert ist. Wird beispielsweise ein Startup mit 10 Millionen Euro (Pre-Money) bewertet und ein Investor bringt 2 Millionen Euro ein, dann beträgt der Gesamtwert des Unternehmens nach der Investition (Post-Money) 12 Millionen Euro. Der Investor erhält dann seinen Anteil basierend auf der Post-Money-Bewertung (hier: 2 Mio. / 12 Mio. = 16,67%). Dieser Mechanismus ist grundlegend, um die Verwässerung der bestehenden Eigentümeranteile zu verstehen.",
-    "takeaway": "Die Post-Money-Bewertung ist immer die Summe aus Pre-Money-Bewertung und dem investierten Kapital. Sie ist der zentrale Wert, um zu berechnen, welchen prozentualen Anteil ein neuer Investor am Unternehmen hält und ist somit essenziell für die Cap-Table-Analyse."
+    "topic": "Asset Deal vs. Share Deal: Die Grundlagen im M&A",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Bei einem Asset Deal werden einzelne Vermögenswerte und Schulden eines Unternehmens übertragen, während bei einem Share Deal die Anteile des gesamten Unternehmens den Besitzer wechseln.",
+    "details": "Ein Asset Deal ist wie ein Einkaufskorb: Man wählt spezifische Vermögenswerte (Maschinen, Markenrechte, Kundenbeziehungen) und manchmal auch ausgewählte Verbindlichkeiten aus. Der Käufer erwirbt keine Altlasten des Unternehmens, muss aber jeden Vertrag und jede Genehmigung einzeln prüfen und neu verhandeln. Bei einem Share Deal kauft man das Unternehmen als Ganzes, inklusive aller Verträge, Mitarbeiter und (bekannten wie unbekannten) Verbindlichkeiten, indem man die Anteile von den bisherigen Eigentümern erwirbt. Die Unternehmenshülle bleibt bestehen, was oft zu weniger Bürokratie führt, birgt aber höhere Risiken durch mögliche versteckte Altlasten.",
+    "takeaway": "Der Asset Deal bietet Flexibilität und Risikominimierung, erfordert aber mehr Transaktionsaufwand. Der Share Deal ist einfacher in der Abwicklung, birgt jedoch höhere Risiken, da man das gesamte Paket mit allen bestehenden Verbindlichkeiten übernimmt. Die Wahl beeinflusst maßgeblich Haftung, Steuern und Genehmigungsprozesse."
   }
 }
