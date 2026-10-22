@@ -2,56 +2,51 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israels Wahlkampf unter Kriegslasten",
-      "summary": "Israels Wirtschaft leidet schwer unter drei Jahren Krieg, was die Stimmung im Wahlkampf vor dem 27. Oktober stark prägt. Für viele Wähler steht die Frage nach der wirtschaftlichen Zukunft des Landes im Vordergrund."
-    },
-    {
-      "tag": "POLITIK & GLOBAL",
-      "headline": "Raketenangriffe in Ukraine trotz US-Vermittlung",
-      "summary": "Ungeachtet der US-Vermittlungsbemühungen setzen sich die gegenseitigen Angriffe fort: Russland griff Kiew mit Raketen an, während aus Moskau Drohnenangriffe gemeldet wurden."
+      "headline": "Internationaler Strafgerichtshof erhält Sacharow-Preis – Zeichen gegen Trump",
+      "summary": "Der Internationale Strafgerichtshof wurde für seinen Einsatz für das Völkerrecht mit dem Sacharow-Preis des EU-Parlaments ausgezeichnet. Dies ist auch als klares Signal gegen die Sanktionen von US-Präsident Trump zu verstehen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Anleger zweifeln an KI-Rally: DAX gibt nach",
-      "summary": "Trotz starker SAP-Zahlen verzeichnet der DAX deutliche Verluste, da Bilanzen von Meta und Tesla die hohen Erwartungen der Anleger an die KI-Rally nicht erfüllen. Die Schwäche bei Technologiewerten setzt sich fort."
+      "headline": "Ministerpräsidenten fordern Entlastungen bei Energiepreisen",
+      "summary": "Die Länderchefs drängen die Bundesregierung, angesichts der hohen Energiepreise umgehend spürbare Entlastungen für die Bürger zu schaffen. Sie sehen Spielräume für Maßnahmen wie eine gesenkte Stromsteuer oder gedeckelte Kraftstoffkosten."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Märkte verlieren Vertrauen in Frankreich wegen hoher Schulden",
-      "summary": "Internationale Investoren bewerten Frankreich aufgrund rekordhoher Schulden kritischer als Italien oder Griechenland. Die Renditen französischer Staatsanleihen erreichen den höchsten Stand seit 2002, was die Skepsis am Markt widerspiegelt."
+      "headline": "Höhere Steuereinnahmen, aber keine neuen Spielräume im Haushalt erwartet",
+      "summary": "Der Bund kann im kommenden Jahr mit mehr Steuereinnahmen rechnen als ursprünglich prognostiziert, trotz aktueller Krisen. Finanzminister Klingbeil betont jedoch, dass diese Mehreinnahmen keine zusätzlichen Spielräume für den Haushalt eröffnen werden."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Elon Musk plant Mega-Fusion von SpaceX und Tesla",
-      "summary": "Elon Musk will seine Unternehmen SpaceX und Tesla zu einem gigantischen Konzern verschmelzen, was die größte Fusion aller Zeiten wäre. Die Ankündigung sorgte bei den Aktionären beider Firmen für positive Reaktionen."
+      "headline": "Klimawandel bedroht fast alle Korallenriffe weltweit",
+      "summary": "Eine neue Studie offenbart das dramatische Ausmaß der Bedrohung: Durch die Erhitzung der Meere sind fast alle Korallenriffe weltweit vom Absterben bedroht. Dies gefährdet die immense Artenvielfalt, für die Korallen ein essenzielles Zuhause bieten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Meta muss Rekordstrafe von 25 Mrd. US-Dollar zahlen",
-      "summary": "Meta wurde wegen irreführender Aussagen im Zusammenhang mit dem Cambridge-Analytica-Skandal zu einer Rekordstrafe von 25 Milliarden US-Dollar verurteilt. Der Fall von 2018 betraf das Abgreifen von Daten zur Erstellung von Wählerprofilen."
+      "headline": "Elon Musk plant größte Fusion aller Zeiten: SpaceX und Tesla sollen verschmelzen",
+      "summary": "Elon Musk strebt eine Fusion seiner Firmen SpaceX und Tesla an, was die größte Unternehmenszusammenführung überhaupt wäre. Die Aktionäre beider Technologiegiganten reagierten positiv auf dieses ambitionierte Vorhaben."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI-Startup Flapping Airplanes sichert $1 Mrd. Finanzierung",
-      "summary": "Das einjährige AI-Labor Flapping Airplanes hat nur neun Monate nach seiner Seed-Runde eine Serie A-Finanzierung von 1 Milliarde Dollar erhalten. Die Bewertung des Unternehmens liegt nun bei 6 Milliarden Dollar."
+      "headline": "Ehemaliger OpenAI-Wissenschaftler gründet Warp Science zur Laborautomatisierung",
+      "summary": "Ein ehemaliger Wissenschaftsleiter von OpenAI hat Warp Science ins Leben gerufen, ein Startup, das nasse Labore mit Robotern automatisieren will. Menschliche Chemiker werden die Roboter mithilfe von Kameras und Sensorhandschuhen für verschiedene Laboraufgaben trainieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Recursive stellt KI-generiertes Laptop-Coding-Modell Flint vor",
-      "summary": "Das Startup Recursive hat 'Flint' veröffentlicht, ein kostenloses Coding-Modell für Laptops, das größtenteils von einem eigenen KI-Forschungssystem entwickelt wurde. Dies ist ein früher Test für sich selbst verbessernde KI."
+      "headline": "Tech-Experten enthüllen Geheimnis für schnelles Startup-Wachstum: Nicht frühe Verkäufe",
+      "summary": "Führende Persönlichkeiten der Tech-Branche diskutierten bei Disrupt, dass der Schlüssel zu schnellem Startup-Wachstum nicht primär in frühen Verkäufen liegt. Stattdessen gaben sie Gründern Tipps, wie echter Verkaufserfolg in den ersten 90 Tagen erzielt werden kann."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Eine Marktdynamik verstehen",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein Phänomen, bei dem der Preis einer Aktie plötzlich und stark ansteigt, was Leerverkäufer dazu zwingt, ihre Positionen zu schließen und dadurch den Preis weiter in die Höhe treibt.",
-    "details": "Leerverkäufer (Short Seller) wetten auf fallende Kurse, indem sie sich Aktien leihen, diese verkaufen und hoffen, sie später günstiger zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Wenn der Aktienkurs unerwartet stark steigt, geraten diese Leerverkäufer unter Druck, da ihre potenziellen Verluste unbegrenzt sind. Um Verluste zu begrenzen oder Margin Calls zu vermeiden, müssen sie die geliehenen Aktien zurückkaufen – diese Käufe treiben den Preis weiter nach oben und zwingen weitere Leerverkäufer zum Handeln, wodurch eine Aufwärtsspirale entsteht.",
-    "takeaway": "Ein Short Squeeze zeigt, wie die Angst vor unbegrenzten Verlusten bei Leerverkäufern zu einer kurzfristig explosiven Preisrallye führen kann, selbst bei einem Unternehmen mit schwachen Fundamentaldaten. Es ist ein Beispiel für psychologische und technische Marktdynamik."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese beiden Begriffe beschreiben, wie der Wert eines Startups vor und nach einer Finanzierungsrunde berechnet wird. Sie sind entscheidend, um den Wert der Anteile der alten und neuen Investoren zu bestimmen.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert, den das Startup hat, BEVOR neues Kapital von Investoren eingebracht wird. Die Post-Money-Bewertung hingegen ist der Wert des Unternehmens NACHDEM die Investition erfolgt ist, also der Pre-Money-Wert plus das neu eingesammelte Kapital. Wenn ein Startup zum Beispiel eine Pre-Money-Bewertung von 10 Millionen Euro hat und 2 Millionen Euro von einem Investor erhält, beträgt die Post-Money-Bewertung 12 Millionen Euro. Basierend auf der Post-Money-Bewertung und dem investierten Betrag wird dann der Anteil des Investors am Unternehmen berechnet, was wiederum die Verwässerung der Anteile der Bestandsaktionäre bestimmt.",
+    "takeaway": "Das Verständnis von Pre- und Post-Money ist essenziell, um die Verwässerung der Anteile zu kalkulieren und den tatsächlichen Wert, den ein Investor für seine Beteiligung bezahlt, korrekt einzuordnen. Es ist eine der Grundlagen, um VC-Deals zu entschlüsseln."
   }
 }
