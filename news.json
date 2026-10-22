@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu",
-      "summary": "Russlands Präsident Putin hat sich zur Wiederaufnahme von Gesprächen mit den USA und der Ukraine bereit erklärt. Ein Ende des Krieges steht dabei jedoch nicht im Vordergrund, was die Hoffnungen auf schnelle Fortschritte dämpft."
+      "headline": "Israels Wahlkampf unter Kriegslasten",
+      "summary": "Israels Wirtschaft leidet schwer unter drei Jahren Krieg, was die Stimmung im Wahlkampf vor dem 27. Oktober stark prägt. Für viele Wähler steht die Frage nach der wirtschaftlichen Zukunft des Landes im Vordergrund."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
-      "summary": "Huthi-Attacken auf Saudi-Arabien bedrohen Kronprinz Mohammed bin Salmans \"Vision 2030\" und das Image von Sicherheit und Stabilität. Dies könnte Investitionen und Tourismus in der Region stark beeinträchtigen."
+      "headline": "Raketenangriffe in Ukraine trotz US-Vermittlung",
+      "summary": "Ungeachtet der US-Vermittlungsbemühungen setzen sich die gegenseitigen Angriffe fort: Russland griff Kiew mit Raketen an, während aus Moskau Drohnenangriffe gemeldet wurden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Märkte verlieren Vertrauen in Frankreich",
-      "summary": "Internationale Investoren sehen Frankreich aufgrund von Unruhen und Rekordschulden kritischer als Italien oder Griechenland. Dies spiegelt sich in den höchsten Renditen französischer Staatsanleihen seit 2002 wider und deutet auf wachsende Stabilitätsbedenken hin."
+      "headline": "Anleger zweifeln an KI-Rally: DAX gibt nach",
+      "summary": "Trotz starker SAP-Zahlen verzeichnet der DAX deutliche Verluste, da Bilanzen von Meta und Tesla die hohen Erwartungen der Anleger an die KI-Rally nicht erfüllen. Die Schwäche bei Technologiewerten setzt sich fort."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Meta zu Milliardenstrafe verurteilt",
-      "summary": "Meta wurde wegen des Cambridge-Analytica-Datenschutzskandals zu einer historischen Strafe von 25 Milliarden Dollar verurteilt. Dies unterstreicht die wachsenden regulatorischen und finanziellen Risiken für große Tech-Konzerne."
+      "headline": "Märkte verlieren Vertrauen in Frankreich wegen hoher Schulden",
+      "summary": "Internationale Investoren bewerten Frankreich aufgrund rekordhoher Schulden kritischer als Italien oder Griechenland. Die Renditen französischer Staatsanleihen erreichen den höchsten Stand seit 2002, was die Skepsis am Markt widerspiegelt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Gravierende Sicherheitslücke in PHP bedroht Millionen Webseiten",
-      "summary": "Eine von OpenAI und Google entdeckte gravierende Sicherheitslücke in der weitverbreiteten Programmiersprache PHP versetzt das Internet in Panik. Zahlreiche Städte in Deutschland haben bereits vorsorglich Webseiten abgeschaltet."
+      "headline": "Elon Musk plant Mega-Fusion von SpaceX und Tesla",
+      "summary": "Elon Musk will seine Unternehmen SpaceX und Tesla zu einem gigantischen Konzern verschmelzen, was die größte Fusion aller Zeiten wäre. Die Ankündigung sorgte bei den Aktionären beider Firmen für positive Reaktionen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Elon Musk plant Mega-Fusion von SpaceX und Tesla",
-      "summary": "Elon Musk will seine Tech-Giganten SpaceX und Tesla zu einem der größten Konglomerate der Welt verschmelzen. Dieses Vorhaben würde die größte Fusion überhaupt darstellen und verspricht Synergien im Bereich KI, Weltraum und Mobilität."
+      "headline": "Meta muss Rekordstrafe von 25 Mrd. US-Dollar zahlen",
+      "summary": "Meta wurde wegen irreführender Aussagen im Zusammenhang mit dem Cambridge-Analytica-Skandal zu einer Rekordstrafe von 25 Milliarden US-Dollar verurteilt. Der Fall von 2018 betraf das Abgreifen von Daten zur Erstellung von Wählerprofilen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Legal AI Startup Legora erhält 550 Mio. USD Series E",
-      "summary": "Das Legal-AI-Startup Legora schloss eine Series E Finanzierungsrunde über 550 Millionen Dollar ab, die das Unternehmen mit 8,8 Milliarden Dollar bewertet. Dies zeigt das enorme Investorenvertrauen in den schnell wachsenden Sektor der KI-gestützten Rechtsdienstleistungen."
+      "headline": "AI-Startup Flapping Airplanes sichert $1 Mrd. Finanzierung",
+      "summary": "Das einjährige AI-Labor Flapping Airplanes hat nur neun Monate nach seiner Seed-Runde eine Serie A-Finanzierung von 1 Milliarde Dollar erhalten. Die Bewertung des Unternehmens liegt nun bei 6 Milliarden Dollar."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Blacksmith erreicht Einhorn-Status nach Sequoia-Investition",
-      "summary": "Die Plattform Blacksmith, die Unternehmen beim Bau und Testen von KI-Code unterstützt, hat nach einer Series C Runde unter Führung von Sequoia eine Bewertung von 1 Milliarde Dollar erreicht. Damit reiht sich Blacksmith in die Riege der Tech-Einhörner ein."
+      "headline": "Recursive stellt KI-generiertes Laptop-Coding-Modell Flint vor",
+      "summary": "Das Startup Recursive hat 'Flint' veröffentlicht, ein kostenloses Coding-Modell für Laptops, das größtenteils von einem eigenen KI-Forschungssystem entwickelt wurde. Dies ist ein früher Test für sich selbst verbessernde KI."
     }
   ],
   "learning": {
-    "topic": "Asset Deal vs. Share Deal: Die Grundlagen im M&A",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Bei einem Asset Deal werden einzelne Vermögenswerte und Schulden eines Unternehmens übertragen, während bei einem Share Deal die Anteile des gesamten Unternehmens den Besitzer wechseln.",
-    "details": "Ein Asset Deal ist wie ein Einkaufskorb: Man wählt spezifische Vermögenswerte (Maschinen, Markenrechte, Kundenbeziehungen) und manchmal auch ausgewählte Verbindlichkeiten aus. Der Käufer erwirbt keine Altlasten des Unternehmens, muss aber jeden Vertrag und jede Genehmigung einzeln prüfen und neu verhandeln. Bei einem Share Deal kauft man das Unternehmen als Ganzes, inklusive aller Verträge, Mitarbeiter und (bekannten wie unbekannten) Verbindlichkeiten, indem man die Anteile von den bisherigen Eigentümern erwirbt. Die Unternehmenshülle bleibt bestehen, was oft zu weniger Bürokratie führt, birgt aber höhere Risiken durch mögliche versteckte Altlasten.",
-    "takeaway": "Der Asset Deal bietet Flexibilität und Risikominimierung, erfordert aber mehr Transaktionsaufwand. Der Share Deal ist einfacher in der Abwicklung, birgt jedoch höhere Risiken, da man das gesamte Paket mit allen bestehenden Verbindlichkeiten übernimmt. Die Wahl beeinflusst maßgeblich Haftung, Steuern und Genehmigungsprozesse."
+    "topic": "Der Short Squeeze: Eine Marktdynamik verstehen",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein Phänomen, bei dem der Preis einer Aktie plötzlich und stark ansteigt, was Leerverkäufer dazu zwingt, ihre Positionen zu schließen und dadurch den Preis weiter in die Höhe treibt.",
+    "details": "Leerverkäufer (Short Seller) wetten auf fallende Kurse, indem sie sich Aktien leihen, diese verkaufen und hoffen, sie später günstiger zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Wenn der Aktienkurs unerwartet stark steigt, geraten diese Leerverkäufer unter Druck, da ihre potenziellen Verluste unbegrenzt sind. Um Verluste zu begrenzen oder Margin Calls zu vermeiden, müssen sie die geliehenen Aktien zurückkaufen – diese Käufe treiben den Preis weiter nach oben und zwingen weitere Leerverkäufer zum Handeln, wodurch eine Aufwärtsspirale entsteht.",
+    "takeaway": "Ein Short Squeeze zeigt, wie die Angst vor unbegrenzten Verlusten bei Leerverkäufern zu einer kurzfristig explosiven Preisrallye führen kann, selbst bei einem Unternehmen mit schwachen Fundamentaldaten. Es ist ein Beispiel für psychologische und technische Marktdynamik."
   }
 }
