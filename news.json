@@ -2,51 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Internationaler Strafgerichtshof erhält Sacharow-Preis – Zeichen gegen Trump",
-      "summary": "Der Internationale Strafgerichtshof wurde für seinen Einsatz für das Völkerrecht mit dem Sacharow-Preis des EU-Parlaments ausgezeichnet. Dies ist auch als klares Signal gegen die Sanktionen von US-Präsident Trump zu verstehen."
+      "headline": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
+      "summary": "Vor der Knesset-Wahl beeinflussen der Terrorangriff der Hamas und Zukunftsängste junge israelische Wähler. Sicherheit und nationale Identität sind zentrale Themen bei ihrer Wahlentscheidung."
+    },
+    {
+      "tag": "POLITIK & GLOBAL",
+      "headline": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
+      "summary": "Nach einem tödlichen Angriff bereitet Israel eine vollständige Abriegelung des Westjordanlands vor. Die Anweisung an das Militär folgt auf den Tod zweier mutmaßlicher Attentäter."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Ministerpräsidenten fordern Entlastungen bei Energiepreisen",
-      "summary": "Die Länderchefs drängen die Bundesregierung, angesichts der hohen Energiepreise umgehend spürbare Entlastungen für die Bürger zu schaffen. Sie sehen Spielräume für Maßnahmen wie eine gesenkte Stromsteuer oder gedeckelte Kraftstoffkosten."
+      "headline": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
+      "summary": "Frankreichs Anleiherenditen erreichen den höchsten Stand seit 2002, was Sorgen um eine neue Eurokrise aufwirft. Die Ansteckungsgefahr für andere hochverschuldete Euroländer und mögliche EZB-Maßnahmen werden diskutiert."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Höhere Steuereinnahmen, aber keine neuen Spielräume im Haushalt erwartet",
-      "summary": "Der Bund kann im kommenden Jahr mit mehr Steuereinnahmen rechnen als ursprünglich prognostiziert, trotz aktueller Krisen. Finanzminister Klingbeil betont jedoch, dass diese Mehreinnahmen keine zusätzlichen Spielräume für den Haushalt eröffnen werden."
+      "headline": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
+      "summary": "Sorgen um den Technologiesektor und erhöhte Ölpreise belasten die Stimmung am DAX. Die Angst vor einer Eskalation im Nahen Osten treibt den Ölpreis und damit die Inflationsgefahren nach oben."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Klimawandel bedroht fast alle Korallenriffe weltweit",
-      "summary": "Eine neue Studie offenbart das dramatische Ausmaß der Bedrohung: Durch die Erhitzung der Meere sind fast alle Korallenriffe weltweit vom Absterben bedroht. Dies gefährdet die immense Artenvielfalt, für die Korallen ein essenzielles Zuhause bieten."
+      "headline": "Elon Musk will SpaceX und Tesla verschmelzen – es wäre die grösste Fusion überhaupt",
+      "summary": "Elon Musk plant eine gigantische Fusion seiner Unternehmen SpaceX und Tesla, die zur größten Unternehmenszusammenführung aller Zeiten werden könnte. Aktionäre beider Firmen reagierten positiv auf das visionäre Vorhaben."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Elon Musk plant größte Fusion aller Zeiten: SpaceX und Tesla sollen verschmelzen",
-      "summary": "Elon Musk strebt eine Fusion seiner Firmen SpaceX und Tesla an, was die größte Unternehmenszusammenführung überhaupt wäre. Die Aktionäre beider Technologiegiganten reagierten positiv auf dieses ambitionierte Vorhaben."
+      "headline": "Canva releases its first image generation model",
+      "summary": "Canva hat sein erstes eigenes Bildgenerierungsmodell vorgestellt und macht es allen Nutzern zugänglich. Das Unternehmen verspricht bessere, anpassbare Ergebnisse zu niedrigeren Kosten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Ehemaliger OpenAI-Wissenschaftler gründet Warp Science zur Laborautomatisierung",
-      "summary": "Ein ehemaliger Wissenschaftsleiter von OpenAI hat Warp Science ins Leben gerufen, ein Startup, das nasse Labore mit Robotern automatisieren will. Menschliche Chemiker werden die Roboter mithilfe von Kameras und Sensorhandschuhen für verschiedene Laboraufgaben trainieren."
+      "headline": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "summary": "Das Startup Warhound kommt aus der Stealth-Phase und hat 200 Millionen US-Dollar für die Entwicklung von genetisch modifizierten Kriegshunden gesammelt. Diese sollen mit Anduril-Ausrüstung für Militär und Strafverfolgung ausgestattet werden."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Tech-Experten enthüllen Geheimnis für schnelles Startup-Wachstum: Nicht frühe Verkäufe",
-      "summary": "Führende Persönlichkeiten der Tech-Branche diskutierten bei Disrupt, dass der Schlüssel zu schnellem Startup-Wachstum nicht primär in frühen Verkäufen liegt. Stattdessen gaben sie Gründern Tipps, wie echter Verkaufserfolg in den ersten 90 Tagen erzielt werden kann."
+      "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "summary": "OpenAI strebt eine neue Finanzierungsrunde von 30 Milliarden US-Dollar an, die das Unternehmen mit 1,25 Billionen US-Dollar bewerten würde. Dies könnte OpenAI zum wertvollsten Privatunternehmen aller Zeiten machen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese beiden Begriffe beschreiben, wie der Wert eines Startups vor und nach einer Finanzierungsrunde berechnet wird. Sie sind entscheidend, um den Wert der Anteile der alten und neuen Investoren zu bestimmen.",
-    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert, den das Startup hat, BEVOR neues Kapital von Investoren eingebracht wird. Die Post-Money-Bewertung hingegen ist der Wert des Unternehmens NACHDEM die Investition erfolgt ist, also der Pre-Money-Wert plus das neu eingesammelte Kapital. Wenn ein Startup zum Beispiel eine Pre-Money-Bewertung von 10 Millionen Euro hat und 2 Millionen Euro von einem Investor erhält, beträgt die Post-Money-Bewertung 12 Millionen Euro. Basierend auf der Post-Money-Bewertung und dem investierten Betrag wird dann der Anteil des Investors am Unternehmen berechnet, was wiederum die Verwässerung der Anteile der Bestandsaktionäre bestimmt.",
-    "takeaway": "Das Verständnis von Pre- und Post-Money ist essenziell, um die Verwässerung der Anteile zu kalkulieren und den tatsächlichen Wert, den ein Investor für seine Beteiligung bezahlt, korrekt einzuordnen. Es ist eine der Grundlagen, um VC-Deals zu entschlüsseln."
+    "topic": "Der Short Squeeze: Eine explosive Marktbewegung",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist eine plötzliche und schnelle Kurssteigerung einer Aktie, die durch das erzwungene Eindecken vieler Leerverkäufer ausgelöst wird.",
+    "details": "Leerverkäufer (Shortseller) wetten auf fallende Kurse, indem sie sich Aktien leihen, verkaufen und später günstiger zurückkaufen wollen. Wenn der Kurs stattdessen steigt, geraten sie unter Druck, die Aktien zurückzukaufen, um Verluste zu begrenzen (sogenanntes 'Eindecken'). Dieses erzwungene Eindecken verstärkt die Nachfrage, treibt den Kurs weiter in die Höhe und löst eine Kettenreaktion aus, bei der immer mehr Shortseller panisch kaufen müssen.",
+    "takeaway": "Short Squeezes können zu extremen Kursausschlägen führen und sind ein Risiko für Leerverkäufer, bieten aber Chancen für Investoren, die auf den Kursanstieg spekulieren."
   }
 }
