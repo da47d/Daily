@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
-      "summary": "Vor der Knesset-Wahl beeinflussen der Terrorangriff der Hamas und Zukunftsängste junge israelische Wähler. Sicherheit und nationale Identität sind zentrale Themen bei ihrer Wahlentscheidung."
+      "headline": "Israel riegelt Westjordanland nach Angriff ab",
+      "summary": "Nach einem tödlichen Angriff nahe Hebron hat Israels Militär die Abriegelung des Westjordanlandes angekündigt. Diese Eskalation der Sicherheitsmaßnahmen folgt auf den Tod zweier Soldaten und könnte die Lage in der Region weiter verschärfen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
-      "summary": "Nach einem tödlichen Angriff bereitet Israel eine vollständige Abriegelung des Westjordanlands vor. Die Anweisung an das Militär folgt auf den Tod zweier mutmaßlicher Attentäter."
+      "headline": "Melania Trump vermittelt Waffenruhe für ukrainische Stadt",
+      "summary": "Eine lokale Waffenruhe wurde für die von Russland besetzte ukrainische Stadt Oleschky vereinbart, um eine Evakuierung der notleidenden Bevölkerung zu ermöglichen. Die Vereinbarung, die vom Weißen Haus bekannt gegeben wurde, kam durch die Vermittlung von First Lady Melania Trump zustande."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
-      "summary": "Frankreichs Anleiherenditen erreichen den höchsten Stand seit 2002, was Sorgen um eine neue Eurokrise aufwirft. Die Ansteckungsgefahr für andere hochverschuldete Euroländer und mögliche EZB-Maßnahmen werden diskutiert."
+      "headline": "DAX-Anleger meiden Risiko wegen globaler Sorgen",
+      "summary": "Angesichts hoher Ölpreise, anhaltender Sorgen um Frankreichs Staatsfinanzen und neuer Bedenken bei der Künstlichen Intelligenz zeigten sich DAX-Anleger risikoscheu. Der deutsche Leitindex verzeichnete daraufhin Rückgänge, da zu viele Probleme gleichzeitig die Investoren verunsichern."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
-      "summary": "Sorgen um den Technologiesektor und erhöhte Ölpreise belasten die Stimmung am DAX. Die Angst vor einer Eskalation im Nahen Osten treibt den Ölpreis und damit die Inflationsgefahren nach oben."
+      "headline": "Indiens größter Börsengang durch Ambanis Telekomriesen Jio",
+      "summary": "Der indische Telekomriese Jio, aufgebaut von der Familie Ambani, hat den größten Börsengang in der Geschichte Indiens realisiert. Innerhalb eines Jahrzehnts stieg das Unternehmen zur Nummer eins unter den Mobilfunkanbietern auf, obwohl der Markt als gesättigt gilt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Elon Musk will SpaceX und Tesla verschmelzen – es wäre die grösste Fusion überhaupt",
-      "summary": "Elon Musk plant eine gigantische Fusion seiner Unternehmen SpaceX und Tesla, die zur größten Unternehmenszusammenführung aller Zeiten werden könnte. Aktionäre beider Firmen reagierten positiv auf das visionäre Vorhaben."
+      "headline": "Nvidia-Chef Jensen Huang kultiviert KI-Hype und Eigenmarke",
+      "summary": "Jensen Huang, CEO von Nvidia, inszeniert sich als Optimist der KI-Revolution und kultiviert den Hype um seine Person und die Zukunft der KI. Er nutzt die Entwicklerkonferenz, um diesen Optimismus zu verbreiten, bis hin zum Verkauf personalisierter Fan-Artikel."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Canva releases its first image generation model",
-      "summary": "Canva hat sein erstes eigenes Bildgenerierungsmodell vorgestellt und macht es allen Nutzern zugänglich. Das Unternehmen verspricht bessere, anpassbare Ergebnisse zu niedrigeren Kosten."
+      "headline": "Elektroautos boomen weltweit, Tesla-Absatz stagniert",
+      "summary": "Obwohl der globale Markt für Elektroautos stark wächst, stagniert der Absatz von Tesla-Fahrzeugen. Das Unternehmen verkündet zwar Fortschritte bei Zukunftsprojekten, doch CEO Elon Musk äußerte sich nicht zu möglichen Fusionsplänen mit SpaceX."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "summary": "Das Startup Warhound kommt aus der Stealth-Phase und hat 200 Millionen US-Dollar für die Entwicklung von genetisch modifizierten Kriegshunden gesammelt. Diese sollen mit Anduril-Ausrüstung für Militär und Strafverfolgung ausgestattet werden."
+      "headline": "Agent-Cloud-Startup Daytona erreicht $1B Bewertung",
+      "summary": "Das Agent-Cloud-Startup Daytona hat eine Bewertung von einer Milliarde Dollar erreicht, unterstützt von FirstMark und namhaften Angel-Investoren. Die Firma entwickelt eine Cloud-Infrastruktur, die jedem Agenten einen eigenen virtuellen Computer bereitstellt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary": "OpenAI strebt eine neue Finanzierungsrunde von 30 Milliarden US-Dollar an, die das Unternehmen mit 1,25 Billionen US-Dollar bewerten würde. Dies könnte OpenAI zum wertvollsten Privatunternehmen aller Zeiten machen."
+      "headline": "Commonwealth Fusion Systems erhält $85M für Fusions-Halbleiter",
+      "summary": "Commonwealth Fusion Systems, ein führendes Fusionsenergie-Startup, hat eine 85-Millionen-Dollar-Förderung von der US-Regierung erhalten. Das Kapital soll die Entwicklung von Hochleistungshalbleitern für Fusionskraftwerke vorantreiben."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Eine explosive Marktbewegung",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist eine plötzliche und schnelle Kurssteigerung einer Aktie, die durch das erzwungene Eindecken vieler Leerverkäufer ausgelöst wird.",
-    "details": "Leerverkäufer (Shortseller) wetten auf fallende Kurse, indem sie sich Aktien leihen, verkaufen und später günstiger zurückkaufen wollen. Wenn der Kurs stattdessen steigt, geraten sie unter Druck, die Aktien zurückzukaufen, um Verluste zu begrenzen (sogenanntes 'Eindecken'). Dieses erzwungene Eindecken verstärkt die Nachfrage, treibt den Kurs weiter in die Höhe und löst eine Kettenreaktion aus, bei der immer mehr Shortseller panisch kaufen müssen.",
-    "takeaway": "Short Squeezes können zu extremen Kursausschlägen führen und sind ein Risiko für Leerverkäufer, bieten aber Chancen für Investoren, die auf den Kursanstieg spekulieren."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Wert deines Startups vor und nach der Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money Bewertung ist der Wert eines Startups *vor* einer Finanzierungsrunde, während die Post-Money Bewertung den Wert *nach* dem Erhalt neuer Investitionen und der Ausgabe neuer Anteile darstellt.",
+    "details": "Wenn ein Startup Kapital von Investoren aufnimmt, wird der Wert des Unternehmens vor dem Investment als Pre-Money Bewertung festgelegt. Die Investitionssumme wird dann zu diesem Wert addiert, um die Post-Money Bewertung zu ermitteln. Aus der Post-Money Bewertung und der Investitionssumme lässt sich der prozentuale Anteil berechnen, den die neuen Investoren am Unternehmen halten, wodurch die Anteile der Gründer und bestehender Investoren entsprechend verwässert werden. Vereinfacht ausgedrückt: Pre-Money + Investment = Post-Money. Die neuen Anteile werden auf Basis der Post-Money Bewertung ausgegeben.",
+    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist für Gründer essenziell, um die Verwässerung ihrer Anteile genau zu kalkulieren und faire Konditionen in Finanzierungsrunden zu verhandeln. Für Investoren ist es die Basis, um ihre Eigentumsquote am Unternehmen zu bestimmen."
   }
 }
