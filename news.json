@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
-      "summary": "Europa hat nach dem Angriff auf die Ukraine versucht, sich von russischer Energie zu entkoppeln, was teilweise gelang. Bei Öl und Uran bleiben jedoch weiterhin alte Abhängigkeiten bestehen."
+      "headline": "Frankreich wird zu einer Gefahr für die Finanzmärkte",
+      "summary": "Ein Ex-Nationalbankchef warnt, dass Frankreich aufgrund der jüngsten Unruhen zu einer Gefahr für die Euro-Finanzmärkte werden könnte. Er sieht Anzeichen dafür, dass die Regierung teilweise die Kontrolle verloren hat, was eine neue Krise der Euro-Zone begünstigen könnte."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "INTERVIEW - Frankreich wird zu einer Gefahr für die Finanzmärkte",
-      "summary": "Ein Interview warnt, dass Frankreich eine Gefahr für die Finanzmärkte darstellt und die Regierung teilweise die Kontrolle verloren zu haben scheint. Es wird betont, dass Wachstum die einzige Chance sei, einen Kollaps in Europa und den USA zu verhindern."
+      "headline": "Handelsstreit: USA passen Kanada-Zölle an",
+      "summary": "Unter Druck aus grenznahen US-Gliedstaaten hat die amerikanische Regierung einige umstrittene Zölle für Kanada angepasst. Diese Maßnahme zeigt die anhaltenden Turbulenzen im globalen Handelsstreit, die durch Trumps Zollpolitik ausgelöst wurden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Wie sieht die Zukunft der Raffinerien aus?",
-      "summary": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel weg von fossilen Rohstoffen hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen, doch Experten äußern sich skeptisch."
+      "headline": "Steht Südamerika vor neuem Rohstoff-Superzyklus?",
+      "summary": "Der weltweite Rohstoffhunger und wirtschaftsfreundliche Regierungen in Südamerika wecken Hoffnungen auf einen neuen Boom in der Region. Schweizer Unternehmen wittern bereits grosse Chancen in diesem potenziellen Superzyklus."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Steht Südamerika vor einem neuen Rohstoff-Superzyklus?",
-      "summary": "Der weltweite Rohstoffhunger und wirtschaftsfreundliche Regierungen wecken in Südamerika Hoffnungen auf einen neuen Boom. Auch Schweizer Unternehmen wittern große Chancen in einem möglichen Rohstoff-Superzyklus."
+      "headline": "Krise bei Volkswagen: Massiver Stellenabbau geplant",
+      "summary": "Der Volkswagen-Konzern plant einen einschneidenden Umbau und will bis 2030 weitere 50.000 Stellen abbauen. Im Zuge dessen sollen auch Verhandlungen über die Eröffnung von Transfergesellschaften geführt werden, was weitreichende Auswirkungen auf den Arbeitsmarkt hat."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Wird der Berufseinstieg wegen KI immer schwieriger? «Nein», sagt die Microsoft-Expertin",
-      "summary": "Eine Microsoft-Expertin widerspricht der Sorge vor Jobverlust durch KI und erklärt, dass gerade Berufsanfänger ihre Karriere mit KI schneller aufbauen könnten. Sie betont das Potenzial der Technologie für den Karrierestart."
+      "headline": "KI verändert den Berufseinstieg",
+      "summary": "Eine Microsoft-Expertin erwartet eine Trendwende beim Berufseinstieg durch Künstliche Intelligenz, die jungen Fachkräften schnellere Karrierewege ermöglichen könnte. Viele befürchten zwar Jobverluste durch KI, doch die Expertin sieht darin vor allem Chancen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "summary": "OpenAI hat angekündigt, ihre führenden KI-Modelle aufgrund \"erheblicher Risiken\" nicht länger mit Daten aus dem Live-Internet zu trainieren. Diese Entscheidung markiert eine bedeutende Richtungsänderung in der Entwicklung von Künstlicher Intelligenz."
+      "headline": "Gefährliche Web-Bugs bedrohten das Internet",
+      "summary": "Zwei kritische Sicherheitslücken in der Programmiersprache PHP, die von einem Großteil des Internets genutzt wird, hätten beinahe das Netz lahmgelegt. Dieser Vorfall verdeutlicht die ständige Bedrohung durch Software-Schwachstellen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "summary": "Das Agent-Cloud-Startup Daytona hat eine Bewertung von 1 Milliarde US-Dollar erreicht, unterstützt von FirstMark und namhaften Angel-Investoren, darunter Gründer von Stripe und Datadog. Daytona entwickelt eine Cloud-Lösung, die jedem Agenten einen eigenen virtuellen Computer bereitstellt."
+      "headline": "Das Scheitern von KI-Startups im 'AI Graveyard'",
+      "summary": "Eine laufende Liste dokumentiert gescheiterte KI-Projekte und Startups, die entweder eingestellt wurden oder Erwartungen nicht erfüllen konnten. Dies gibt Aufschluss über die Risiken und Herausforderungen in der schnelllebigen KI-Branche."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "summary": "Das hochfinanzierte Fusions-Startup Commonwealth Fusion Systems erhielt 85 Millionen US-Dollar von der US-Regierung zur Weiterentwicklung von Leitern für Fusionskraftwerke. Diese Mittel sollen die Entwicklung besserer fusionstauglicher Halbleiter beschleunigen."
+      "headline": "VCs und Gründer teilen Red Flags bei Produkt-Markt-Fit",
+      "summary": "Top-Investoren und der Gründer von Superhuman Mail diskutieren wichtige Warnsignale beim Erreichen des Product-Market-Fits. Sie geben Ratschläge, wie Startups erfolgreich Produkte entwickeln und eine frühe Kundenbasis halten können."
     }
   ],
   "learning": {
-    "topic": "Derivate: Bauernregel für komplexe Finanzinstrumente",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem zugrunde liegenden Vermögenswert (Basiswert) abgeleitet wird, ähnlich wie der Wert einer zukünftigen Ernte vom Wetter abhängt. Sie dienen primär der Absicherung oder Spekulation.",
-    "details": "Stell dir vor, ein Bauer möchte seine zukünftige Weizenernte gegen fallende Preise absichern. Er kann mit einem Käufer einen Vertrag abschließen, der ihm einen festen Preis pro Tonne Weizen in sechs Monaten garantiert – das ist ein Termingeschäft (ein Derivat). Egal, ob der Weizenpreis steigt oder fällt, der Bauer erhält den vereinbarten Preis und hat Planungssicherheit. Der Käufer spekuliert darauf, dass der Preis bis dahin höher ist. Es gibt viele Arten von Derivaten wie Futures, Optionen oder Swaps, aber das Grundprinzip ist immer, dass man heute einen Vertrag über eine zukünftige Lieferung oder Zahlung abschließt, dessen Wert vom Basiswert abhängt.",
-    "takeaway": "Derivate sind keine selbstständigen Werte, sondern Verträge, die von der Preisentwicklung eines anderen Assets profitieren oder schützen. Sie sind mächtige Werkzeuge für Risikomanagement und Spekulation, erfordern aber ein tiefes Verständnis ihrer Funktionsweise."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Wert deines Startups vor und nach der Finanzierungsrunde",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese beiden Begriffe beschreiben die Bewertung eines Startups zu unterschiedlichen Zeitpunkten einer Finanzierungsrunde: Pre-Money ist der Wert vor der Investition, Post-Money der Wert danach, inklusive des neuen Kapitals.",
+    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird der Unternehmenswert neu festgelegt. Die 'Pre-Money'-Bewertung ist der Wert, auf den sich Gründer und Investor *vor* dem Geldfluss einigen. Die 'Post-Money'-Bewertung ergibt sich, indem man die Investitionssumme zur Pre-Money-Bewertung addiert. Sie repräsentiert den Unternehmenswert *nach* Abschluss der Runde und bestimmt, welchen prozentualen Anteil der Investor für sein Kapital erhält. Das neue Kapital führt zu einer Dilution der bestehenden Anteile, da die Gesamtzahl der Aktien steigt.",
+    "takeaway": "Die Kenntnis beider Bewertungen ist entscheidend, um den tatsächlichen Wertzuwachs und die prozentualen Beteiligungen nach einer Finanzierungsrunde korrekt zu verstehen und den Dilution-Effekt für Altaktionäre zu kalkulieren."
   }
 }
