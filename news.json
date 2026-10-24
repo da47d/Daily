@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israel riegelt Westjordanland nach Angriff ab",
-      "summary": "Nach einem tödlichen Angriff nahe Hebron hat Israels Militär die Abriegelung des Westjordanlandes angekündigt. Diese Eskalation der Sicherheitsmaßnahmen folgt auf den Tod zweier Soldaten und könnte die Lage in der Region weiter verschärfen."
+      "headline": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
+      "summary": "Europa hat nach dem Angriff auf die Ukraine versucht, sich von russischer Energie zu entkoppeln, was teilweise gelang. Bei Öl und Uran bleiben jedoch weiterhin alte Abhängigkeiten bestehen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Melania Trump vermittelt Waffenruhe für ukrainische Stadt",
-      "summary": "Eine lokale Waffenruhe wurde für die von Russland besetzte ukrainische Stadt Oleschky vereinbart, um eine Evakuierung der notleidenden Bevölkerung zu ermöglichen. Die Vereinbarung, die vom Weißen Haus bekannt gegeben wurde, kam durch die Vermittlung von First Lady Melania Trump zustande."
+      "headline": "INTERVIEW - Frankreich wird zu einer Gefahr für die Finanzmärkte",
+      "summary": "Ein Interview warnt, dass Frankreich eine Gefahr für die Finanzmärkte darstellt und die Regierung teilweise die Kontrolle verloren zu haben scheint. Es wird betont, dass Wachstum die einzige Chance sei, einen Kollaps in Europa und den USA zu verhindern."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX-Anleger meiden Risiko wegen globaler Sorgen",
-      "summary": "Angesichts hoher Ölpreise, anhaltender Sorgen um Frankreichs Staatsfinanzen und neuer Bedenken bei der Künstlichen Intelligenz zeigten sich DAX-Anleger risikoscheu. Der deutsche Leitindex verzeichnete daraufhin Rückgänge, da zu viele Probleme gleichzeitig die Investoren verunsichern."
+      "headline": "Wie sieht die Zukunft der Raffinerien aus?",
+      "summary": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel weg von fossilen Rohstoffen hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen, doch Experten äußern sich skeptisch."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Indiens größter Börsengang durch Ambanis Telekomriesen Jio",
-      "summary": "Der indische Telekomriese Jio, aufgebaut von der Familie Ambani, hat den größten Börsengang in der Geschichte Indiens realisiert. Innerhalb eines Jahrzehnts stieg das Unternehmen zur Nummer eins unter den Mobilfunkanbietern auf, obwohl der Markt als gesättigt gilt."
+      "headline": "Steht Südamerika vor einem neuen Rohstoff-Superzyklus?",
+      "summary": "Der weltweite Rohstoffhunger und wirtschaftsfreundliche Regierungen wecken in Südamerika Hoffnungen auf einen neuen Boom. Auch Schweizer Unternehmen wittern große Chancen in einem möglichen Rohstoff-Superzyklus."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia-Chef Jensen Huang kultiviert KI-Hype und Eigenmarke",
-      "summary": "Jensen Huang, CEO von Nvidia, inszeniert sich als Optimist der KI-Revolution und kultiviert den Hype um seine Person und die Zukunft der KI. Er nutzt die Entwicklerkonferenz, um diesen Optimismus zu verbreiten, bis hin zum Verkauf personalisierter Fan-Artikel."
+      "headline": "Wird der Berufseinstieg wegen KI immer schwieriger? «Nein», sagt die Microsoft-Expertin",
+      "summary": "Eine Microsoft-Expertin widerspricht der Sorge vor Jobverlust durch KI und erklärt, dass gerade Berufsanfänger ihre Karriere mit KI schneller aufbauen könnten. Sie betont das Potenzial der Technologie für den Karrierestart."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Elektroautos boomen weltweit, Tesla-Absatz stagniert",
-      "summary": "Obwohl der globale Markt für Elektroautos stark wächst, stagniert der Absatz von Tesla-Fahrzeugen. Das Unternehmen verkündet zwar Fortschritte bei Zukunftsprojekten, doch CEO Elon Musk äußerte sich nicht zu möglichen Fusionsplänen mit SpaceX."
+      "headline": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary": "OpenAI hat angekündigt, ihre führenden KI-Modelle aufgrund \"erheblicher Risiken\" nicht länger mit Daten aus dem Live-Internet zu trainieren. Diese Entscheidung markiert eine bedeutende Richtungsänderung in der Entwicklung von Künstlicher Intelligenz."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Agent-Cloud-Startup Daytona erreicht $1B Bewertung",
-      "summary": "Das Agent-Cloud-Startup Daytona hat eine Bewertung von einer Milliarde Dollar erreicht, unterstützt von FirstMark und namhaften Angel-Investoren. Die Firma entwickelt eine Cloud-Infrastruktur, die jedem Agenten einen eigenen virtuellen Computer bereitstellt."
+      "headline": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "summary": "Das Agent-Cloud-Startup Daytona hat eine Bewertung von 1 Milliarde US-Dollar erreicht, unterstützt von FirstMark und namhaften Angel-Investoren, darunter Gründer von Stripe und Datadog. Daytona entwickelt eine Cloud-Lösung, die jedem Agenten einen eigenen virtuellen Computer bereitstellt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Commonwealth Fusion Systems erhält $85M für Fusions-Halbleiter",
-      "summary": "Commonwealth Fusion Systems, ein führendes Fusionsenergie-Startup, hat eine 85-Millionen-Dollar-Förderung von der US-Regierung erhalten. Das Kapital soll die Entwicklung von Hochleistungshalbleitern für Fusionskraftwerke vorantreiben."
+      "headline": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "summary": "Das hochfinanzierte Fusions-Startup Commonwealth Fusion Systems erhielt 85 Millionen US-Dollar von der US-Regierung zur Weiterentwicklung von Leitern für Fusionskraftwerke. Diese Mittel sollen die Entwicklung besserer fusionstauglicher Halbleiter beschleunigen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Wert deines Startups vor und nach der Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money Bewertung ist der Wert eines Startups *vor* einer Finanzierungsrunde, während die Post-Money Bewertung den Wert *nach* dem Erhalt neuer Investitionen und der Ausgabe neuer Anteile darstellt.",
-    "details": "Wenn ein Startup Kapital von Investoren aufnimmt, wird der Wert des Unternehmens vor dem Investment als Pre-Money Bewertung festgelegt. Die Investitionssumme wird dann zu diesem Wert addiert, um die Post-Money Bewertung zu ermitteln. Aus der Post-Money Bewertung und der Investitionssumme lässt sich der prozentuale Anteil berechnen, den die neuen Investoren am Unternehmen halten, wodurch die Anteile der Gründer und bestehender Investoren entsprechend verwässert werden. Vereinfacht ausgedrückt: Pre-Money + Investment = Post-Money. Die neuen Anteile werden auf Basis der Post-Money Bewertung ausgegeben.",
-    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist für Gründer essenziell, um die Verwässerung ihrer Anteile genau zu kalkulieren und faire Konditionen in Finanzierungsrunden zu verhandeln. Für Investoren ist es die Basis, um ihre Eigentumsquote am Unternehmen zu bestimmen."
+    "topic": "Derivate: Bauernregel für komplexe Finanzinstrumente",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem zugrunde liegenden Vermögenswert (Basiswert) abgeleitet wird, ähnlich wie der Wert einer zukünftigen Ernte vom Wetter abhängt. Sie dienen primär der Absicherung oder Spekulation.",
+    "details": "Stell dir vor, ein Bauer möchte seine zukünftige Weizenernte gegen fallende Preise absichern. Er kann mit einem Käufer einen Vertrag abschließen, der ihm einen festen Preis pro Tonne Weizen in sechs Monaten garantiert – das ist ein Termingeschäft (ein Derivat). Egal, ob der Weizenpreis steigt oder fällt, der Bauer erhält den vereinbarten Preis und hat Planungssicherheit. Der Käufer spekuliert darauf, dass der Preis bis dahin höher ist. Es gibt viele Arten von Derivaten wie Futures, Optionen oder Swaps, aber das Grundprinzip ist immer, dass man heute einen Vertrag über eine zukünftige Lieferung oder Zahlung abschließt, dessen Wert vom Basiswert abhängt.",
+    "takeaway": "Derivate sind keine selbstständigen Werte, sondern Verträge, die von der Preisentwicklung eines anderen Assets profitieren oder schützen. Sie sind mächtige Werkzeuge für Risikomanagement und Spekulation, erfordern aber ein tiefes Verständnis ihrer Funktionsweise."
   }
 }
