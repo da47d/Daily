@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Brasilien vor der Stichwahl: Lula oder Bolsonaro",
-      "summary": "Brasilien steht vor einer polarisierenden Stichwahl zwischen Lula und Bolsonaro, wobei beide Kandidaten in Umfragen gleichauf liegen. Das tief gespaltene Land blickt gespannt auf die Unentschlossenen, die zum Zünglein an der Waage werden könnten."
+      "headline": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
+      "summary": "Kurz vor den US-Zwischenwahlen mischt sich Ex-Präsident Obama mit scharfer Kritik an Trump in den Wahlkampf ein. Er wirft Trump Korruption vor und hofft auf einen Sieg der Demokraten."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Musk wirft Ukraine Starlink-Missbrauch vor",
-      "summary": "Elon Musk beschuldigt die Ukraine, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Er betonte, das System sei kein 'Mittel zum Töten', und die Sicherheitslücke sei inzwischen geschlossen worden."
+      "headline": "«Nur ein toter Bandit ist ein guter Bandit» - Wahlkampf in Brasilien",
+      "summary": "Gewalt und Kriminalität dominieren den brasilianischen Wahlkampf, wo die Macht der Banden stetig wächst. Die Präsidentschaftskandidaten der heutigen Stichwahl bieten dafür grundverschiedene Lösungsansätze."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Audi kündigt erstes US-Werk an",
-      "summary": "Audi hat den Bau seines ersten Werks in den USA angekündigt, eine strategische Investition, die auch von Ex-Präsident Trump auf Wahlkampftouren instrumentalisiert wurde. Dies zeigt den Einfluss von Handelspolitik auf globale Investitionsentscheidungen großer Konzerne."
+      "headline": "Platzt die Blase am Finanzmarkt? Vier Gründe zur Sorge",
+      "summary": "Steigende Zinsen, hohe Verschuldung und spekulative Anleger lassen Sorgen um eine drohende Finanzmarktblase aufkommen. Der jüngste Milliardenverlust eines «KI-Wunderkinds» könnte ein Vorbote für weitere Turbulenzen sein."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "UBS-Wegzug könnte Tausende Banker Jobs kosten",
-      "summary": "Der Bankpersonalverband warnt vor einem möglichen Wegzug der UBS und damit verbundenen Jobverlusten für bis zu 12.000 Banker, falls die Kapitalregeln verschärft werden. Dies unterstreicht die Sensibilität des Finanzsektors für regulatorische Änderungen und deren makroökonomische Arbeitsmarktauswirkungen."
+      "headline": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "Ein Apollo-Ökonom kritisiert, dass trotz massiver Investitionen und Hypes die KI-Technologie den meisten Unternehmen außerhalb des Tech-Sektors keinen finanziellen Nutzen gebracht hat. Dies deutet auf eine mögliche Überbewertung von KI-Investitionen im breiteren Markt hin."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "KI fordert Internet-Infrastruktur heraus",
-      "summary": "Es wächst die Sorge, dass die schnell fortschreitende Künstliche Intelligenz die oft als 'billig und provisorisch' beschriebene Infrastruktur des Internets überfordern könnte. Dies wirft Fragen zur zukünftigen Stabilität des globalen Netzwerks auf."
+      "headline": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "summary": "Zwei kritische Bugs in der weit verbreiteten Web-Programmiersprache PHP hätten beinahe das Internet lahmgelegt und offenbaren die Fragilität digitaler Infrastrukturen. Experten befürchten, dass dies nicht der letzte große Software-Schreck bleiben wird."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "PHP-Sicherheitslücken bedrohten das Internet",
-      "summary": "Zwei kritische Sicherheitslücken in der Programmiersprache PHP, die einen Großteil des Internets antreibt, hätten beinahe zu einem globalen Ausfall geführt. Der Vorfall zeigt die anhaltende Verwundbarkeit wesentlicher digitaler Infrastrukturen auf."
+      "headline": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "Eine neue Studie zeigt, dass X's Grok-KI überwiegend republikanische Kandidaten empfiehlt, während OpenAI's GPT die Demokraten bevorzugt. Die Modelle widersprachen sich in über 90% der Fälle, was Fragen zur politischen Neutralität von KI aufwirft."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Instacart erwägt Verkauf an DoorDash oder Uber",
-      "summary": "Der Lebensmittel-Lieferdienst Instacart soll Berichten zufolge Gespräche über einen möglichen Verkauf an größere Konkurrenten wie DoorDash oder Uber geführt haben. Dies deutet auf eine mögliche Konsolidierung im hart umkämpften Liefermarkt hin."
+      "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "Eine fortlaufende Liste dokumentiert gescheiterte KI-Projekte und Startups, von Apples verzögerter Siri-KI bis zu OpenAIs chaotischem «Super-App»-Launch. Dies beleuchtet die hohen Risiken und Herausforderungen im schnelllebigen KI-Sektor."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI stoppt KI-Training mit Live-Internetdaten",
-      "summary": "OpenAI hat angekündigt, seine neuen KI-Modelle nicht mehr mit Live-Internetdaten zu trainieren, da erhebliche Risiken identifiziert wurden. Diese strategische Kursänderung beeinflusst die Entwicklung künftiger KI-Systeme und deren Datenquellen."
+      "headline": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "summary": "Instacart hat Berichten zufolge Gespräche über einen möglichen Verkauf an größere Konkurrenten wie DoorDash oder Uber geführt. Dies deutet auf Konsolidierungstendenzen im hart umkämpften Lieferdienst-Sektor hin."
     }
   ],
   "learning": {
-    "topic": "Optionen und Futures: Wetten auf die Zukunft mit festen Regeln",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Optionen und Futures sind Finanzderivate, die ihren Wert von einem Basiswert ableiten und es Anlegern ermöglichen, auf zukünftige Preisbewegungen zu spekulieren oder sich abzusichern.",
-    "details": "Stell dir vor, du bist Landwirt und erwartest im Herbst eine riesige Ernte, befürchtest aber fallende Weizenpreise. Ein Future-Kontrakt ermöglicht es dir, den Weizenpreis für deine Ernte schon heute festzulegen. Du verkaufst den Weizen gedanklich schon jetzt zu einem vereinbarten Preis für die Lieferung in drei Monaten. So bist du gegen Preisschwankungen abgesichert. Ein Käufer wiederum spekuliert vielleicht auf steigende Preise oder benötigt den Weizen zu diesem Termin. Optionen sind ähnliche 'Wetten auf die Zukunft', geben dir aber die Wahl: Du erwirbst das Recht, Weizen zu einem bestimmten Preis zu kaufen (Call-Option) oder zu verkaufen (Put-Option), bist aber nicht dazu verpflichtet. Du zahlst dafür eine Prämie, verlierst aber maximal diese Prämie, falls sich der Preis ungünstig entwickelt. Dieses 'Recht, aber nicht die Pflicht' ist der entscheidende Unterschied zu Futures.",
-    "takeaway": "Derivate wie Optionen und Futures sind Werkzeuge zur Risikosteuerung und Spekulation, die es ermöglichen, auf zukünftige Preisentwicklungen zu reagieren, ohne den Basiswert sofort besitzen zu müssen. Sie bieten Flexibilität, bergen aber auch spezifische Risiken."
+    "topic": "Startup-Slang im VC-Bereich: Die wichtigsten Abkürzungen",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Im Venture Capital werden zahlreiche Akronyme genutzt, um Geschäftsmodelle und Metriken von Startups schnell zu bewerten.",
+    "details": "SaaS (Software as a Service) beschreibt ein abonnementbasiertes Software-Modell, während B2B (Business-to-Business) den Verkauf an Unternehmen meint. ARR (Annual Recurring Revenue) misst den stabilen Jahresumsatz aus Abonnements. Die Burn Rate zeigt, wie schnell ein Startup seine liquiden Mittel aufbraucht. Die Churn Rate wiederum beziffert den Anteil der Kunden, die ein Produkt oder einen Dienst nicht mehr nutzen, und ist entscheidend für langfristigen Erfolg.",
+    "takeaway": "Das Beherrschen dieser Begriffe ist essentiell, um Gespräche mit Gründern und Investoren zu verstehen und die Dynamik junger Unternehmen korrekt einzuschätzen."
   }
 }
