@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Frankreich wird zu einer Gefahr für die Finanzmärkte",
-      "summary": "Ein Ex-Nationalbankchef warnt, dass Frankreich aufgrund der jüngsten Unruhen zu einer Gefahr für die Euro-Finanzmärkte werden könnte. Er sieht Anzeichen dafür, dass die Regierung teilweise die Kontrolle verloren hat, was eine neue Krise der Euro-Zone begünstigen könnte."
+      "headline": "Brasilien vor der Stichwahl: Lula oder Bolsonaro",
+      "summary": "Brasilien steht vor einer polarisierenden Stichwahl zwischen Lula und Bolsonaro, wobei beide Kandidaten in Umfragen gleichauf liegen. Das tief gespaltene Land blickt gespannt auf die Unentschlossenen, die zum Zünglein an der Waage werden könnten."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Handelsstreit: USA passen Kanada-Zölle an",
-      "summary": "Unter Druck aus grenznahen US-Gliedstaaten hat die amerikanische Regierung einige umstrittene Zölle für Kanada angepasst. Diese Maßnahme zeigt die anhaltenden Turbulenzen im globalen Handelsstreit, die durch Trumps Zollpolitik ausgelöst wurden."
+      "headline": "Musk wirft Ukraine Starlink-Missbrauch vor",
+      "summary": "Elon Musk beschuldigt die Ukraine, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Er betonte, das System sei kein 'Mittel zum Töten', und die Sicherheitslücke sei inzwischen geschlossen worden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Steht Südamerika vor neuem Rohstoff-Superzyklus?",
-      "summary": "Der weltweite Rohstoffhunger und wirtschaftsfreundliche Regierungen in Südamerika wecken Hoffnungen auf einen neuen Boom in der Region. Schweizer Unternehmen wittern bereits grosse Chancen in diesem potenziellen Superzyklus."
+      "headline": "Audi kündigt erstes US-Werk an",
+      "summary": "Audi hat den Bau seines ersten Werks in den USA angekündigt, eine strategische Investition, die auch von Ex-Präsident Trump auf Wahlkampftouren instrumentalisiert wurde. Dies zeigt den Einfluss von Handelspolitik auf globale Investitionsentscheidungen großer Konzerne."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Krise bei Volkswagen: Massiver Stellenabbau geplant",
-      "summary": "Der Volkswagen-Konzern plant einen einschneidenden Umbau und will bis 2030 weitere 50.000 Stellen abbauen. Im Zuge dessen sollen auch Verhandlungen über die Eröffnung von Transfergesellschaften geführt werden, was weitreichende Auswirkungen auf den Arbeitsmarkt hat."
+      "headline": "UBS-Wegzug könnte Tausende Banker Jobs kosten",
+      "summary": "Der Bankpersonalverband warnt vor einem möglichen Wegzug der UBS und damit verbundenen Jobverlusten für bis zu 12.000 Banker, falls die Kapitalregeln verschärft werden. Dies unterstreicht die Sensibilität des Finanzsektors für regulatorische Änderungen und deren makroökonomische Arbeitsmarktauswirkungen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "KI verändert den Berufseinstieg",
-      "summary": "Eine Microsoft-Expertin erwartet eine Trendwende beim Berufseinstieg durch Künstliche Intelligenz, die jungen Fachkräften schnellere Karrierewege ermöglichen könnte. Viele befürchten zwar Jobverluste durch KI, doch die Expertin sieht darin vor allem Chancen."
+      "headline": "KI fordert Internet-Infrastruktur heraus",
+      "summary": "Es wächst die Sorge, dass die schnell fortschreitende Künstliche Intelligenz die oft als 'billig und provisorisch' beschriebene Infrastruktur des Internets überfordern könnte. Dies wirft Fragen zur zukünftigen Stabilität des globalen Netzwerks auf."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Gefährliche Web-Bugs bedrohten das Internet",
-      "summary": "Zwei kritische Sicherheitslücken in der Programmiersprache PHP, die von einem Großteil des Internets genutzt wird, hätten beinahe das Netz lahmgelegt. Dieser Vorfall verdeutlicht die ständige Bedrohung durch Software-Schwachstellen."
+      "headline": "PHP-Sicherheitslücken bedrohten das Internet",
+      "summary": "Zwei kritische Sicherheitslücken in der Programmiersprache PHP, die einen Großteil des Internets antreibt, hätten beinahe zu einem globalen Ausfall geführt. Der Vorfall zeigt die anhaltende Verwundbarkeit wesentlicher digitaler Infrastrukturen auf."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Das Scheitern von KI-Startups im 'AI Graveyard'",
-      "summary": "Eine laufende Liste dokumentiert gescheiterte KI-Projekte und Startups, die entweder eingestellt wurden oder Erwartungen nicht erfüllen konnten. Dies gibt Aufschluss über die Risiken und Herausforderungen in der schnelllebigen KI-Branche."
+      "headline": "Instacart erwägt Verkauf an DoorDash oder Uber",
+      "summary": "Der Lebensmittel-Lieferdienst Instacart soll Berichten zufolge Gespräche über einen möglichen Verkauf an größere Konkurrenten wie DoorDash oder Uber geführt haben. Dies deutet auf eine mögliche Konsolidierung im hart umkämpften Liefermarkt hin."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "VCs und Gründer teilen Red Flags bei Produkt-Markt-Fit",
-      "summary": "Top-Investoren und der Gründer von Superhuman Mail diskutieren wichtige Warnsignale beim Erreichen des Product-Market-Fits. Sie geben Ratschläge, wie Startups erfolgreich Produkte entwickeln und eine frühe Kundenbasis halten können."
+      "headline": "OpenAI stoppt KI-Training mit Live-Internetdaten",
+      "summary": "OpenAI hat angekündigt, seine neuen KI-Modelle nicht mehr mit Live-Internetdaten zu trainieren, da erhebliche Risiken identifiziert wurden. Diese strategische Kursänderung beeinflusst die Entwicklung künftiger KI-Systeme und deren Datenquellen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Wert deines Startups vor und nach der Finanzierungsrunde",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese beiden Begriffe beschreiben die Bewertung eines Startups zu unterschiedlichen Zeitpunkten einer Finanzierungsrunde: Pre-Money ist der Wert vor der Investition, Post-Money der Wert danach, inklusive des neuen Kapitals.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird der Unternehmenswert neu festgelegt. Die 'Pre-Money'-Bewertung ist der Wert, auf den sich Gründer und Investor *vor* dem Geldfluss einigen. Die 'Post-Money'-Bewertung ergibt sich, indem man die Investitionssumme zur Pre-Money-Bewertung addiert. Sie repräsentiert den Unternehmenswert *nach* Abschluss der Runde und bestimmt, welchen prozentualen Anteil der Investor für sein Kapital erhält. Das neue Kapital führt zu einer Dilution der bestehenden Anteile, da die Gesamtzahl der Aktien steigt.",
-    "takeaway": "Die Kenntnis beider Bewertungen ist entscheidend, um den tatsächlichen Wertzuwachs und die prozentualen Beteiligungen nach einer Finanzierungsrunde korrekt zu verstehen und den Dilution-Effekt für Altaktionäre zu kalkulieren."
+    "topic": "Optionen und Futures: Wetten auf die Zukunft mit festen Regeln",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Optionen und Futures sind Finanzderivate, die ihren Wert von einem Basiswert ableiten und es Anlegern ermöglichen, auf zukünftige Preisbewegungen zu spekulieren oder sich abzusichern.",
+    "details": "Stell dir vor, du bist Landwirt und erwartest im Herbst eine riesige Ernte, befürchtest aber fallende Weizenpreise. Ein Future-Kontrakt ermöglicht es dir, den Weizenpreis für deine Ernte schon heute festzulegen. Du verkaufst den Weizen gedanklich schon jetzt zu einem vereinbarten Preis für die Lieferung in drei Monaten. So bist du gegen Preisschwankungen abgesichert. Ein Käufer wiederum spekuliert vielleicht auf steigende Preise oder benötigt den Weizen zu diesem Termin. Optionen sind ähnliche 'Wetten auf die Zukunft', geben dir aber die Wahl: Du erwirbst das Recht, Weizen zu einem bestimmten Preis zu kaufen (Call-Option) oder zu verkaufen (Put-Option), bist aber nicht dazu verpflichtet. Du zahlst dafür eine Prämie, verlierst aber maximal diese Prämie, falls sich der Preis ungünstig entwickelt. Dieses 'Recht, aber nicht die Pflicht' ist der entscheidende Unterschied zu Futures.",
+    "takeaway": "Derivate wie Optionen und Futures sind Werkzeuge zur Risikosteuerung und Spekulation, die es ermöglichen, auf zukünftige Preisentwicklungen zu reagieren, ohne den Basiswert sofort besitzen zu müssen. Sie bieten Flexibilität, bergen aber auch spezifische Risiken."
   }
 }
