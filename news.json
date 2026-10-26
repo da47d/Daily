@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
-      "summary": "Kurz vor den US-Zwischenwahlen mischt sich Ex-Präsident Obama mit scharfer Kritik an Trump in den Wahlkampf ein. Er wirft Trump Korruption vor und hofft auf einen Sieg der Demokraten."
+      "headline": "Israel-Wahl: Netanjahus Gegner formieren sich für Neuanfang",
+      "summary": "Israel steht vor einer wegweisenden Wahl, die über die Zukunft von Premier Netanjahu entscheidet. Ein 'Anti-Netanjahu-Bündnis' hofft auf einen Neuanfang, trotz unterschiedlicher politischer Visionen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "«Nur ein toter Bandit ist ein guter Bandit» - Wahlkampf in Brasilien",
-      "summary": "Gewalt und Kriminalität dominieren den brasilianischen Wahlkampf, wo die Macht der Banden stetig wächst. Die Präsidentschaftskandidaten der heutigen Stichwahl bieten dafür grundverschiedene Lösungsansätze."
+      "headline": "US-Midterms: Trumps frühere Wähler zeigen sich enttäuscht",
+      "summary": "Kurz vor den US-Zwischenwahlen zeigen Umfragen, dass viele frühere Wähler von Präsident Trump enttäuscht sind. Dies könnte die Republikaner bei den Midterms unter Druck setzen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Platzt die Blase am Finanzmarkt? Vier Gründe zur Sorge",
-      "summary": "Steigende Zinsen, hohe Verschuldung und spekulative Anleger lassen Sorgen um eine drohende Finanzmarktblase aufkommen. Der jüngste Milliardenverlust eines «KI-Wunderkinds» könnte ein Vorbote für weitere Turbulenzen sein."
+      "headline": "Ifo-Index: Konjunkturbelebung setzt sich fort",
+      "summary": "Der ifo-Geschäftsklimaindex ist im Oktober zum sechsten Mal in Folge gestiegen, was auf eine fortgesetzte Konjunkturbelebung in Deutschland hindeutet. Dies geschieht trotz anhaltend hoher Energiepreise."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summary": "Ein Apollo-Ökonom kritisiert, dass trotz massiver Investitionen und Hypes die KI-Technologie den meisten Unternehmen außerhalb des Tech-Sektors keinen finanziellen Nutzen gebracht hat. Dies deutet auf eine mögliche Überbewertung von KI-Investitionen im breiteren Markt hin."
+      "headline": "Platzt die Blase am Finanzmarkt? Vier Gründe zur Sorge",
+      "summary": "Experten warnen vor einer möglichen Blase am Finanzmarkt, getrieben durch steigende Zinsen, hohe Verschuldung und spekulative Anlagen. Der jüngste Milliardenverlust eines 'KI-Wunderkinds' könnte ein Vorbote für weitere Schwierigkeiten sein."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-      "summary": "Zwei kritische Bugs in der weit verbreiteten Web-Programmiersprache PHP hätten beinahe das Internet lahmgelegt und offenbaren die Fragilität digitaler Infrastrukturen. Experten befürchten, dass dies nicht der letzte große Software-Schreck bleiben wird."
+      "headline": "Versicherer rüsten sich gegen KI-gestützte Cyberattacken",
+      "summary": "Angesichts des Risikos KI-gestützter Cyberattacken rüsten sich Versicherer für Schäden, die ganze Branchen treffen könnten. Eine einzige Sicherheitslücke kann enorme finanzielle Kettenreaktionen auslösen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "Eine neue Studie zeigt, dass X's Grok-KI überwiegend republikanische Kandidaten empfiehlt, während OpenAI's GPT die Demokraten bevorzugt. Die Modelle widersprachen sich in über 90% der Fälle, was Fragen zur politischen Neutralität von KI aufwirft."
+      "headline": "PHP-ocalypse: Kritische Web-Bugs bedrohen Internet-Infrastruktur",
+      "summary": "Zwei kritische Sicherheitslücken in der Programmiersprache PHP, die von einem Großteil des Internets genutzt wird, drohten das Netz lahmzulegen. Solche Schwachstellen verdeutlichen die fragile Infrastruktur des Internets."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "Eine fortlaufende Liste dokumentiert gescheiterte KI-Projekte und Startups, von Apples verzögerter Siri-KI bis zu OpenAIs chaotischem «Super-App»-Launch. Dies beleuchtet die hohen Risiken und Herausforderungen im schnelllebigen KI-Sektor."
+      "headline": "Grok veröffentlicht erste KI-generierte 'Odyssey'-Szenen",
+      "summary": "Grok hat die ersten sieben Minuten seiner KI-generierten 'Odyssey' veröffentlicht, was einen weiteren Schritt in der Entwicklung von KI-Inhalten darstellt. Die Qualität der generierten Bilder wird jedoch noch kritisch diskutiert."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-      "summary": "Instacart hat Berichten zufolge Gespräche über einen möglichen Verkauf an größere Konkurrenten wie DoorDash oder Uber geführt. Dies deutet auf Konsolidierungstendenzen im hart umkämpften Lieferdienst-Sektor hin."
+      "headline": "Instacart erwägt Verkauf an DoorDash oder Uber",
+      "summary": "Instacart soll Berichten zufolge Gespräche über einen möglichen Verkauf an größere Konkurrenten wie DoorDash oder Uber geführt haben. Dies deutet auf Konsolidierungsbestrebungen im hart umkämpften Lieferdienstmarkt hin."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang im VC-Bereich: Die wichtigsten Abkürzungen",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Im Venture Capital werden zahlreiche Akronyme genutzt, um Geschäftsmodelle und Metriken von Startups schnell zu bewerten.",
-    "details": "SaaS (Software as a Service) beschreibt ein abonnementbasiertes Software-Modell, während B2B (Business-to-Business) den Verkauf an Unternehmen meint. ARR (Annual Recurring Revenue) misst den stabilen Jahresumsatz aus Abonnements. Die Burn Rate zeigt, wie schnell ein Startup seine liquiden Mittel aufbraucht. Die Churn Rate wiederum beziffert den Anteil der Kunden, die ein Produkt oder einen Dienst nicht mehr nutzen, und ist entscheidend für langfristigen Erfolg.",
-    "takeaway": "Das Beherrschen dieser Begriffe ist essentiell, um Gespräche mit Gründern und Investoren zu verstehen und die Dynamik junger Unternehmen korrekt einzuschätzen."
+    "topic": "Pre-Money vs. Post-Money: Die Bewertung von Startups verstehen",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Dieses Konzept erklärt, wie der Wert eines Startups vor und nach einer Finanzierungsrunde definiert wird und ist entscheidend für die Berechnung der Anteile neuer Investoren.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert VOR der Kapitalzufuhr durch neue Investoren. Sie reflektiert den Wert, den das Startup auf Basis seiner bisherigen Entwicklung und Aussichten hat. Die Post-Money-Bewertung hingegen ist die Pre-Money-Bewertung PLUS das neu eingebrachte Kapital. Sie stellt den Wert des Unternehmens direkt NACH der Finanzierungsrunde dar. Wenn ein Investor beispielsweise 1 Million Euro für 20% der Anteile investiert, bedeutet dies, dass die Post-Money-Bewertung des Unternehmens 5 Millionen Euro beträgt (1 Mio. / 20%). Daraus ergibt sich eine Pre-Money-Bewertung von 4 Millionen Euro (5 Mio. - 1 Mio.). Die Unterscheidung ist fundamental für Gründer, um zu verstehen, wie viel Anteil sie nach einer Finanzierungsrunde abgeben und für Investoren, um den Wert ihrer Beteiligung korrekt zu kalkulieren.",
+    "takeaway": "Pre-Money ist der Wert vor dem frischen Kapital, Post-Money der Wert inklusive des neuen Geldes. Investorenanteile werden immer auf Basis der Post-Money-Bewertung berechnet, was die tatsächliche Verwässerung für Gründer anzeigt."
   }
 }
