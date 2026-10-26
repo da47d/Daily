@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israel-Wahl: Netanjahus Gegner formieren sich für Neuanfang",
-      "summary": "Israel steht vor einer wegweisenden Wahl, die über die Zukunft von Premier Netanjahu entscheidet. Ein 'Anti-Netanjahu-Bündnis' hofft auf einen Neuanfang, trotz unterschiedlicher politischer Visionen."
+      "headline": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
+      "summary": "Russland hat angekündigt, seine Angriffe in der Ukraine trotz geplanter Gespräche unter US-Vermittlung fortzusetzen. Bei einer Attacke in Charkiw wurden bereits zwei Menschen getötet, was die geopolitische Lage weiter zuspitzt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Midterms: Trumps frühere Wähler zeigen sich enttäuscht",
-      "summary": "Kurz vor den US-Zwischenwahlen zeigen Umfragen, dass viele frühere Wähler von Präsident Trump enttäuscht sind. Dies könnte die Republikaner bei den Midterms unter Druck setzen."
+      "headline": "Welche Folgen das Wahlergebnis für Brasilien haben könnte",
+      "summary": "Brasiliens rechter Präsidentschaftskandidat Bolsonaro akzeptiert seine Wahlniederlage nicht, was Erinnerungen an seinen Vater weckt. Diese politische Unsicherheit könnte weitreichende Folgen für das Land haben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Ifo-Index: Konjunkturbelebung setzt sich fort",
-      "summary": "Der ifo-Geschäftsklimaindex ist im Oktober zum sechsten Mal in Folge gestiegen, was auf eine fortgesetzte Konjunkturbelebung in Deutschland hindeutet. Dies geschieht trotz anhaltend hoher Energiepreise."
+      "headline": "Marktbericht: Klare Gewinne zum Wochenstart",
+      "summary": "Der DAX konnte sich dank eines robusten ifo-Geschäftsklimas zum Wochenstart deutlich erholen, eine Trendwende ist jedoch noch nicht in Sicht. Für diese Woche stehen weitere gewichtige Wirtschaftsdaten an, die die Märkte beeinflussen könnten."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "Platzt die Blase am Finanzmarkt? Vier Gründe zur Sorge",
-      "summary": "Experten warnen vor einer möglichen Blase am Finanzmarkt, getrieben durch steigende Zinsen, hohe Verschuldung und spekulative Anlagen. Der jüngste Milliardenverlust eines 'KI-Wunderkinds' könnte ein Vorbote für weitere Schwierigkeiten sein."
+      "summary": "Steigende Zinsen, hohe Verschuldung und spekulative Anleger könnten eine gefährliche Mischung bilden, die eine Blase am Finanzmarkt platzen lässt. Der jüngste Milliardenverlust eines «KI-Wunderkinds» wird hierbei voraussichtlich kein Einzelfall bleiben."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Versicherer rüsten sich gegen KI-gestützte Cyberattacken",
-      "summary": "Angesichts des Risikos KI-gestützter Cyberattacken rüsten sich Versicherer für Schäden, die ganze Branchen treffen könnten. Eine einzige Sicherheitslücke kann enorme finanzielle Kettenreaktionen auslösen."
+      "headline": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
+      "summary": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für heftige Kritik und wird als fatales Signal gewertet. VW wird zu Konsequenzen aufgefordert, während Audi den Auftritt verteidigt."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "PHP-ocalypse: Kritische Web-Bugs bedrohen Internet-Infrastruktur",
-      "summary": "Zwei kritische Sicherheitslücken in der Programmiersprache PHP, die von einem Großteil des Internets genutzt wird, drohten das Netz lahmzulegen. Solche Schwachstellen verdeutlichen die fragile Infrastruktur des Internets."
+      "headline": "Die EU will SpaceX aus strategischen Gründen ausbremsen – die USA reagieren mit Drohungen",
+      "summary": "Die EU strebt an, SpaceX aus strategischen Gründen auszubremsen und Frequenzen für satellitengestützte Mobilfunkdienste zu reservieren. Dies führt zu Drohungen der USA und einem Wettbewerb um technologische Unabhängigkeit."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Grok veröffentlicht erste KI-generierte 'Odyssey'-Szenen",
-      "summary": "Grok hat die ersten sieben Minuten seiner KI-generierten 'Odyssey' veröffentlicht, was einen weiteren Schritt in der Entwicklung von KI-Inhalten darstellt. Die Qualität der generierten Bilder wird jedoch noch kritisch diskutiert."
+      "headline": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
+      "summary": "Das amerikanische KI-Unternehmen Anthropic hat seinen Börsengang für November beantragt, was einer der größten IPOs überhaupt werden könnte. Die eingereichten Unterlagen offenbaren starkes Wachstum, aber auch hohe Ausgaben und Risiken."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Instacart erwägt Verkauf an DoorDash oder Uber",
-      "summary": "Instacart soll Berichten zufolge Gespräche über einen möglichen Verkauf an größere Konkurrenten wie DoorDash oder Uber geführt haben. Dies deutet auf Konsolidierungsbestrebungen im hart umkämpften Lieferdienstmarkt hin."
+      "headline": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "summary": "SpaceX hat eine riesige Finanzierungsvereinbarung über 40 Milliarden US-Dollar für GPUs mit Apollo abgeschlossen. Dies ermöglicht es dem Unternehmen, seine expandierenden KI-Ambitionen ohne alleinige Abhängigkeit von traditionellen Schuldenmärkten zu finanzieren."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money: Die Bewertung von Startups verstehen",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Dieses Konzept erklärt, wie der Wert eines Startups vor und nach einer Finanzierungsrunde definiert wird und ist entscheidend für die Berechnung der Anteile neuer Investoren.",
-    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert VOR der Kapitalzufuhr durch neue Investoren. Sie reflektiert den Wert, den das Startup auf Basis seiner bisherigen Entwicklung und Aussichten hat. Die Post-Money-Bewertung hingegen ist die Pre-Money-Bewertung PLUS das neu eingebrachte Kapital. Sie stellt den Wert des Unternehmens direkt NACH der Finanzierungsrunde dar. Wenn ein Investor beispielsweise 1 Million Euro für 20% der Anteile investiert, bedeutet dies, dass die Post-Money-Bewertung des Unternehmens 5 Millionen Euro beträgt (1 Mio. / 20%). Daraus ergibt sich eine Pre-Money-Bewertung von 4 Millionen Euro (5 Mio. - 1 Mio.). Die Unterscheidung ist fundamental für Gründer, um zu verstehen, wie viel Anteil sie nach einer Finanzierungsrunde abgeben und für Investoren, um den Wert ihrer Beteiligung korrekt zu kalkulieren.",
-    "takeaway": "Pre-Money ist der Wert vor dem frischen Kapital, Post-Money der Wert inklusive des neuen Geldes. Investorenanteile werden immer auf Basis der Post-Money-Bewertung berechnet, was die tatsächliche Verwässerung für Gründer anzeigt."
+    "topic": "Derivate: Die Logik hinter komplexen Finanzwetten verstehen",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von der Wertentwicklung eines anderen Basiswerts wie Aktien, Anleihen, Rohstoffen oder Währungen abgeleitet wird. Sie ermöglichen es, auf zukünftige Preisentwicklungen zu wetten oder sich gegen Risiken abzusichern.",
+    "details": "Stelle dir vor, ein Bauer will im Herbst Weizen ernten, weiß aber nicht, wie hoch der Preis dann sein wird. Ein Bäcker braucht im Herbst Weizen und fürchtet steigende Preise. Sie können einen Derivatevertrag abschließen (z.B. ein Terminkontrakt): Der Bauer verpflichtet sich, im Herbst Weizen zu einem heute vereinbarten Preis an den Bäcker zu liefern. Der Bauer sichert sich gegen fallende Preise ab, der Bäcker gegen steigende. Keiner muss den Weizen sofort bezahlen oder liefern. Der Wert dieses 'Wettvertrags' ist das Derivat, das sich vom Preis des realen Weizens (Basiswert) ableitet.",
+    "takeaway": "Derivate sind im Kern Absprachen über zukünftige Transaktionen zu festgelegten Bedingungen. Sie dienen der Absicherung (Hedging) von Risiken oder der Spekulation auf Preisbewegungen, ohne den Basiswert direkt besitzen zu müssen."
   }
 }
