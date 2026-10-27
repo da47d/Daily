@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
-      "summary": "Russland hat angekündigt, seine Angriffe in der Ukraine trotz geplanter Gespräche unter US-Vermittlung fortzusetzen. Bei einer Attacke in Charkiw wurden bereits zwei Menschen getötet, was die geopolitische Lage weiter zuspitzt."
+      "headline": "Kanzler Merz setzt auf Handel mit Asien – offenbar als Reaktion auf Trump",
+      "summary": "Kanzler Merz strebt auf seiner Asienreise ein großes Freihandelsabkommen mit der Pazifik-Region an. Dies wird als Kontrapunkt zur protektionistischen Haltung der USA unter Trump interpretiert, um globale Handelsbeziehungen zu stärken."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Welche Folgen das Wahlergebnis für Brasilien haben könnte",
-      "summary": "Brasiliens rechter Präsidentschaftskandidat Bolsonaro akzeptiert seine Wahlniederlage nicht, was Erinnerungen an seinen Vater weckt. Diese politische Unsicherheit könnte weitreichende Folgen für das Land haben."
+      "headline": "Jordanische Luftwaffe greift Ziele in Syrien an",
+      "summary": "Nach einem tödlichen Anschlag auf eine Kirche in Jordanien hat die jordanische Luftwaffe Ziele der IS-Terrormiliz im Nachbarland Syrien angegriffen. Berichten zufolge wurden dabei mehrere IS-Mitglieder getötet."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Klare Gewinne zum Wochenstart",
-      "summary": "Der DAX konnte sich dank eines robusten ifo-Geschäftsklimas zum Wochenstart deutlich erholen, eine Trendwende ist jedoch noch nicht in Sicht. Für diese Woche stehen weitere gewichtige Wirtschaftsdaten an, die die Märkte beeinflussen könnten."
+      "headline": "Platzt die Blase am Finanzmarkt? Vier Gründe zur Sorge",
+      "summary": "Experten warnen vor einer möglichen Finanzmarktblase, ausgelöst durch das Zusammenspiel von steigenden Zinsen, hoher Verschuldung und spekulativen Anlegern. Der jüngste Milliardenverlust eines «KI-Wunderkinds» könnte ein Vorbote weiterer Probleme sein."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Platzt die Blase am Finanzmarkt? Vier Gründe zur Sorge",
-      "summary": "Steigende Zinsen, hohe Verschuldung und spekulative Anleger könnten eine gefährliche Mischung bilden, die eine Blase am Finanzmarkt platzen lässt. Der jüngste Milliardenverlust eines «KI-Wunderkinds» wird hierbei voraussichtlich kein Einzelfall bleiben."
+      "headline": "Deutsche sparen weniger – aber immer noch viel",
+      "summary": "Die Deutschen haben 2025 zwar etwas weniger gespart als im Vorjahr, ihre Sparquote liegt jedoch weiterhin deutlich über dem EU-Durchschnitt. Nur ein europäisches Land weist aktuell eine noch höhere Sparquote auf."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-      "summary": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für heftige Kritik und wird als fatales Signal gewertet. VW wird zu Konsequenzen aufgefordert, während Audi den Auftritt verteidigt."
+      "headline": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "OpenAI hat seine Coding-Tools in «Dots» weiterentwickelt, einen intelligenten, stets verfügbaren persönlichen Assistenten. Dieser Schritt soll die Interaktion mit KI im Alltag revolutionieren und neue Maßstäbe setzen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Die EU will SpaceX aus strategischen Gründen ausbremsen – die USA reagieren mit Drohungen",
-      "summary": "Die EU strebt an, SpaceX aus strategischen Gründen auszubremsen und Frequenzen für satellitengestützte Mobilfunkdienste zu reservieren. Dies führt zu Drohungen der USA und einem Wettbewerb um technologische Unabhängigkeit."
+      "headline": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "summary": "Apples vielbeachtetes faltbares Telefon, das iPhone Duo, sorgt bei ersten Nutzern für Frustration, da Berichte über Rissbildung auf den Bildschirmen zunehmen. Dies könnte den Ruf des Tech-Riesen bei innovativen Produkten beeinträchtigen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
-      "summary": "Das amerikanische KI-Unternehmen Anthropic hat seinen Börsengang für November beantragt, was einer der größten IPOs überhaupt werden könnte. Die eingereichten Unterlagen offenbaren starkes Wachstum, aber auch hohe Ausgaben und Risiken."
+      "headline": "Starkes Wachstum und gewaltige Ausgaben bei Anthropic: Das KI-Unternehmen veröffentlicht seinen Antrag auf den Börsengang",
+      "summary": "Das KI-Unternehmen Anthropic, ein Hauptkonkurrent von OpenAI, hat seinen lang erwarteten Antrag für einen Börsengang veröffentlicht. Das Dokument zeigt starkes Wachstum und erhebliche Ausgaben im Wettlauf um die Führung im KI-Sektor."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "SpaceX hat eine riesige Finanzierungsvereinbarung über 40 Milliarden US-Dollar für GPUs mit Apollo abgeschlossen. Dies ermöglicht es dem Unternehmen, seine expandierenden KI-Ambitionen ohne alleinige Abhängigkeit von traditionellen Schuldenmärkten zu finanzieren."
+      "headline": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "summary": "Bedrock Robotics, ein Startup für autonome Bagger, sicherte sich 600 Millionen Dollar in einer neuen Finanzierungsrunde, wodurch seine Bewertung auf 4,1 Milliarden Dollar steigt. Das Unternehmen adressiert damit den wachsenden Mangel an qualifizierten Maschinenführern."
     }
   ],
   "learning": {
-    "topic": "Derivate: Die Logik hinter komplexen Finanzwetten verstehen",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert von der Wertentwicklung eines anderen Basiswerts wie Aktien, Anleihen, Rohstoffen oder Währungen abgeleitet wird. Sie ermöglichen es, auf zukünftige Preisentwicklungen zu wetten oder sich gegen Risiken abzusichern.",
-    "details": "Stelle dir vor, ein Bauer will im Herbst Weizen ernten, weiß aber nicht, wie hoch der Preis dann sein wird. Ein Bäcker braucht im Herbst Weizen und fürchtet steigende Preise. Sie können einen Derivatevertrag abschließen (z.B. ein Terminkontrakt): Der Bauer verpflichtet sich, im Herbst Weizen zu einem heute vereinbarten Preis an den Bäcker zu liefern. Der Bauer sichert sich gegen fallende Preise ab, der Bäcker gegen steigende. Keiner muss den Weizen sofort bezahlen oder liefern. Der Wert dieses 'Wettvertrags' ist das Derivat, das sich vom Preis des realen Weizens (Basiswert) ableitet.",
-    "takeaway": "Derivate sind im Kern Absprachen über zukünftige Transaktionen zu festgelegten Bedingungen. Sie dienen der Absicherung (Hedging) von Risiken oder der Spekulation auf Preisbewegungen, ohne den Basiswert direkt besitzen zu müssen."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Was eine Finanzierungsrunde wirklich verändert",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Bei Startup-Finanzierungsrunden ist die Pre-Money-Bewertung der Wert eines Unternehmens *vor* dem Eingang neuer Investitionen, während die Post-Money-Bewertung der Wert *danach* ist. Die Differenz ist der Betrag, den die Investoren einbringen.",
+    "details": "Wenn ein Startup Kapital von Investoren erhält, wird sein Wert durch diese Transaktion beeinflusst. Die Pre-Money-Bewertung ist entscheidend für die Berechnung des prozentualen Anteils, den neue Investoren für ihre Einlage erhalten, da sie auf dem Wert vor der Kapitalerhöhung basiert. Die Post-Money-Bewertung hingegen ergibt sich aus der Summe von Pre-Money-Bewertung und dem investierten Kapital und repräsentiert den neuen, höheren Unternehmenswert nach der Finanzierungsrunde. Sie ist somit der Referenzpunkt für alle weiteren Berechnungen und die Darstellung des Cap Tables.",
+    "takeaway": "Investoren verhandeln über die Pre-Money-Bewertung, um ihren Eigentumsanteil zu bestimmen; die Post-Money-Bewertung zeigt den Gesamtwert des Unternehmens nach Abschluss der Finanzierungsrunde. Beide sind Schlüsselmetriken, um den Wert und die Eigentumsstruktur eines Startups zu verstehen."
   }
 }
