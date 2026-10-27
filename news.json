@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Kanzler Merz setzt auf Handel mit Asien – offenbar als Reaktion auf Trump",
-      "summary": "Kanzler Merz strebt auf seiner Asienreise ein großes Freihandelsabkommen mit der Pazifik-Region an. Dies wird als Kontrapunkt zur protektionistischen Haltung der USA unter Trump interpretiert, um globale Handelsbeziehungen zu stärken."
+      "headline": "Keine klare Mehrheit bei Parlamentswahl in Israel",
+      "summary": "Die Parlamentswahl in Israel hat laut ersten Prognosen keinen klaren Sieger hervorgebracht. Weder Premierminister Netanjahu noch sein Herausforderer Eisenkot haben eine Mehrheit in der 120 Sitze zählenden Knesset."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Jordanische Luftwaffe greift Ziele in Syrien an",
-      "summary": "Nach einem tödlichen Anschlag auf eine Kirche in Jordanien hat die jordanische Luftwaffe Ziele der IS-Terrormiliz im Nachbarland Syrien angegriffen. Berichten zufolge wurden dabei mehrere IS-Mitglieder getötet."
+      "headline": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
+      "summary": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro hat Brasilien offenbar trotz eines Ausreiseverbots verlassen und ist auf dem Weg in die USA. Dies verstößt gegen eine Entscheidung des Obersten Gerichts."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
       "headline": "Platzt die Blase am Finanzmarkt? Vier Gründe zur Sorge",
-      "summary": "Experten warnen vor einer möglichen Finanzmarktblase, ausgelöst durch das Zusammenspiel von steigenden Zinsen, hoher Verschuldung und spekulativen Anlegern. Der jüngste Milliardenverlust eines «KI-Wunderkinds» könnte ein Vorbote weiterer Probleme sein."
+      "summary": "Ein Zusammenspiel aus steigenden Zinsen, hoher Verschuldung und spekulativen Anlegern nährt Sorgen vor einer Finanzmarktblase. Der Milliardenverlust eines «KI-Wunderkinds» wird als mögliches Frühwarnzeichen gewertet."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Deutsche sparen weniger – aber immer noch viel",
-      "summary": "Die Deutschen haben 2025 zwar etwas weniger gespart als im Vorjahr, ihre Sparquote liegt jedoch weiterhin deutlich über dem EU-Durchschnitt. Nur ein europäisches Land weist aktuell eine noch höhere Sparquote auf."
+      "headline": "Neuer China-Schock für Mercedes: Autobauer korrigiert Prognose nach unten",
+      "summary": "Mercedes-Benz muss seine Prognose aufgrund eines Rückgangs der Absatzzahlen in China um rund 30 Prozent korrigieren. Dies drückt den Aktienkurs und gefährdet die Ziele des Sanierungsplans von Konzernchef Ola Källenius."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "summary": "OpenAI hat seine Coding-Tools in «Dots» weiterentwickelt, einen intelligenten, stets verfügbaren persönlichen Assistenten. Dieser Schritt soll die Interaktion mit KI im Alltag revolutionieren und neue Maßstäbe setzen."
+      "headline": "Google’s Genie 4 Weltmodell mit Audio und realistischeren Welten",
+      "summary": "Googles KI-Weltmodell \"Genie 4\" bietet erweiterte Funktionen wie Audio, realistischere Welten und Echtzeitsteuerung. Es kann eine konsistente Szene nun bis zu zwei Minuten aufrechterhalten und zeigt verbesserte Physik sowie menschlichere Charaktere."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "summary": "Apples vielbeachtetes faltbares Telefon, das iPhone Duo, sorgt bei ersten Nutzern für Frustration, da Berichte über Rissbildung auf den Bildschirmen zunehmen. Dies könnte den Ruf des Tech-Riesen bei innovativen Produkten beeinträchtigen."
+      "headline": "Apple stellt neues 14-Zoll MacBook Pro mit M6 Chip vor",
+      "summary": "Apple hat ein neues 14-Zoll MacBook Pro vorgestellt, das mit dem M6-Chip ausgestattet ist. Das Gerät bietet eine Batterielaufzeit von 24 Stunden und unterstützt nun Wi-Fi 7 sowie Bluetooth 6 Konnektivität."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Starkes Wachstum und gewaltige Ausgaben bei Anthropic: Das KI-Unternehmen veröffentlicht seinen Antrag auf den Börsengang",
-      "summary": "Das KI-Unternehmen Anthropic, ein Hauptkonkurrent von OpenAI, hat seinen lang erwarteten Antrag für einen Börsengang veröffentlicht. Das Dokument zeigt starkes Wachstum und erhebliche Ausgaben im Wettlauf um die Führung im KI-Sektor."
+      "headline": "Anthropic veröffentlicht Antrag auf Börsengang inmitten starken Wachstums",
+      "summary": "Das KI-Unternehmen Anthropic, ein Hauptkonkurrent von OpenAI, hat seinen Antrag auf Börsengang veröffentlicht. Der Börsengang wird von starkem Wachstum und gewaltigen Ausgaben begleitet."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "summary": "Bedrock Robotics, ein Startup für autonome Bagger, sicherte sich 600 Millionen Dollar in einer neuen Finanzierungsrunde, wodurch seine Bewertung auf 4,1 Milliarden Dollar steigt. Das Unternehmen adressiert damit den wachsenden Mangel an qualifizierten Maschinenführern."
+      "headline": "Disruptive legt 10 Milliarden Dollar Fonds für Großinvestitionen auf",
+      "summary": "Disruptive hat einen neuen Fonds in Höhe von 10 Milliarden Dollar aufgelegt, um große Investitionen in mindestens zehn Unternehmen zu tätigen. Der VC-Fonds ist bekannt für seine Beteiligungen an Startups wie Groq und ElevenLabs."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Was eine Finanzierungsrunde wirklich verändert",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Bei Startup-Finanzierungsrunden ist die Pre-Money-Bewertung der Wert eines Unternehmens *vor* dem Eingang neuer Investitionen, während die Post-Money-Bewertung der Wert *danach* ist. Die Differenz ist der Betrag, den die Investoren einbringen.",
-    "details": "Wenn ein Startup Kapital von Investoren erhält, wird sein Wert durch diese Transaktion beeinflusst. Die Pre-Money-Bewertung ist entscheidend für die Berechnung des prozentualen Anteils, den neue Investoren für ihre Einlage erhalten, da sie auf dem Wert vor der Kapitalerhöhung basiert. Die Post-Money-Bewertung hingegen ergibt sich aus der Summe von Pre-Money-Bewertung und dem investierten Kapital und repräsentiert den neuen, höheren Unternehmenswert nach der Finanzierungsrunde. Sie ist somit der Referenzpunkt für alle weiteren Berechnungen und die Darstellung des Cap Tables.",
-    "takeaway": "Investoren verhandeln über die Pre-Money-Bewertung, um ihren Eigentumsanteil zu bestimmen; die Post-Money-Bewertung zeigt den Gesamtwert des Unternehmens nach Abschluss der Finanzierungsrunde. Beide sind Schlüsselmetriken, um den Wert und die Eigentumsstruktur eines Startups zu verstehen."
+    "topic": "Startup-Slang verstehen: SaaS, B2B, ARR, Burn Rate & Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese Begriffe sind Schlüsselindikatoren in der Startup- und Tech-Welt, die helfen, Geschäftsmodelle und finanzielle Gesundheit schnell zu bewerten. Sie beschreiben den Vertriebsweg, das Erlösmodell und die Effizienz des Wachstums.",
+    "details": "SaaS (Software as a Service) bezeichnet ein Abonnement-basiertes Softwaremodell, bei dem Anwendungen über das Internet bereitgestellt werden. B2B (Business-to-Business) beschreibt Unternehmen, die ihre Produkte oder Dienstleistungen an andere Unternehmen verkaufen, im Gegensatz zu B2C (Business-to-Consumer). ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements, ein entscheidender Wert für SaaS-Unternehmen. Die Burn Rate ist der monatliche Geldbetrag, den ein Startup verbrennt, um seine Betriebskosten zu decken, bevor es profitabel ist oder neues Kapital aufnimmt. Churn misst die Rate, mit der Kunden oder Abonnenten abwandern und ist ein wichtiger Indikator für Kundenzufriedenheit und Produktattraktivität.",
+    "takeaway": "Das Verständnis dieser Begriffe ermöglicht es, die wirtschaftliche Dynamik von Startups schnell zu erfassen und deren Wachstumspotenzial sowie finanzielle Risiken besser einzuschätzen. Sie sind fundamental für Investoren und Analysten im Tech-Sektor."
   }
 }
