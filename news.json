@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Keine klare Mehrheit bei Parlamentswahl in Israel",
-      "summary": "Die Parlamentswahl in Israel hat laut ersten Prognosen keinen klaren Sieger hervorgebracht. Weder Premierminister Netanjahu noch sein Herausforderer Eisenkot haben eine Mehrheit in der 120 Sitze zählenden Knesset."
+      "headline": "Diskussion vor US-Wahlen: Demokratie unter Druck?",
+      "summary": "Vor den US-Zwischenwahlen wird kontrovers diskutiert, ob die USA unter der aktuellen Regierung noch eine Demokratie sind, was dem Thema neue Brisanz verleiht. Diese innenpolitische Debatte könnte die Stimmung an den globalen Märkten beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
-      "summary": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro hat Brasilien offenbar trotz eines Ausreiseverbots verlassen und ist auf dem Weg in die USA. Dies verstößt gegen eine Entscheidung des Obersten Gerichts."
+      "headline": "Israel-Wahl: Droht eine unauflösbare Patt-Situation?",
+      "summary": "Nach der Parlamentswahl in Israel könnte es erneut zu Neuwahlen kommen, da eine Patt-Situation droht, die kaum auflösbar scheint. Zugleich sind neue Konflikte im Iran-Krieg nicht auszuschließen, wovon Premier Netanjahu auch profitieren könnte."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Platzt die Blase am Finanzmarkt? Vier Gründe zur Sorge",
-      "summary": "Ein Zusammenspiel aus steigenden Zinsen, hoher Verschuldung und spekulativen Anlegern nährt Sorgen vor einer Finanzmarktblase. Der Milliardenverlust eines «KI-Wunderkinds» wird als mögliches Frühwarnzeichen gewertet."
+      "headline": "Frankreichs Schuldendienstkrise nervt Finanzmärkte",
+      "summary": "Frankreichs hohe Kosten für den Schuldendienst machen die Finanzmärkte nervös, was die Frage aufwirft, ob die EZB zu Hilfe eilen wird. Die Währungshüter könnten wie in der Vergangenheit hochverschuldeten Staaten unter die Arme greifen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Neuer China-Schock für Mercedes: Autobauer korrigiert Prognose nach unten",
-      "summary": "Mercedes-Benz muss seine Prognose aufgrund eines Rückgangs der Absatzzahlen in China um rund 30 Prozent korrigieren. Dies drückt den Aktienkurs und gefährdet die Ziele des Sanierungsplans von Konzernchef Ola Källenius."
+      "headline": "Europäische Energiepreise explodieren, Schweizer Industrie leidet",
+      "summary": "Die Preise für Strom und Erdgas auf dem europäischen Markt haben sich fast verdoppelt, was Schweizer Unternehmen stark belastet. Experten sehen keine Entspannung, und die Industrie fordert Entlastung bei den Netzkosten."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Google’s Genie 4 Weltmodell mit Audio und realistischeren Welten",
-      "summary": "Googles KI-Weltmodell \"Genie 4\" bietet erweiterte Funktionen wie Audio, realistischere Welten und Echtzeitsteuerung. Es kann eine konsistente Szene nun bis zu zwei Minuten aufrechterhalten und zeigt verbesserte Physik sowie menschlichere Charaktere."
+      "headline": "KI-Skandal: Eltern verklagen OpenAI nach tödlicher Fehlinformation",
+      "summary": "Eltern verklagen OpenAI, da der GPT-4o-Chatbot ihre Tochter angeblich dazu anleitete, ihre Medikamente abzusetzen, woraufhin sie verstarb. Dieser Fall wirft ernste Fragen zur Sicherheit und den ethischen Grenzen von KI-Anwendungen auf und sorgt global für Schlagzeilen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Apple stellt neues 14-Zoll MacBook Pro mit M6 Chip vor",
-      "summary": "Apple hat ein neues 14-Zoll MacBook Pro vorgestellt, das mit dem M6-Chip ausgestattet ist. Das Gerät bietet eine Batterielaufzeit von 24 Stunden und unterstützt nun Wi-Fi 7 sowie Bluetooth 6 Konnektivität."
+      "headline": "Mercedes mit China-Schock: Prognose nach unten korrigiert",
+      "summary": "Mercedes muss seine Prognose nach einem deutlichen Absatzrückgang in China um rund 30 Prozent korrigieren. Der starke Kursverfall der Aktie stellt die Ziele des Konzernchefs in Frage und dominiert die Wirtschaftsnachrichten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic veröffentlicht Antrag auf Börsengang inmitten starken Wachstums",
-      "summary": "Das KI-Unternehmen Anthropic, ein Hauptkonkurrent von OpenAI, hat seinen Antrag auf Börsengang veröffentlicht. Der Börsengang wird von starkem Wachstum und gewaltigen Ausgaben begleitet."
+      "headline": "Disruptive VC legt 10 Mrd. Dollar Mega-Fonds auf",
+      "summary": "Die Venture-Capital-Firma Disruptive hat einen riesigen Fonds in Höhe von 10 Milliarden Dollar aufgelegt, um große Investitionen in mindestens zehn Unternehmen zu tätigen. Dies unterstreicht den Trend zu kapitalstarken Fonds im Tech-Bereich."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Disruptive legt 10 Milliarden Dollar Fonds für Großinvestitionen auf",
-      "summary": "Disruptive hat einen neuen Fonds in Höhe von 10 Milliarden Dollar aufgelegt, um große Investitionen in mindestens zehn Unternehmen zu tätigen. Der VC-Fonds ist bekannt für seine Beteiligungen an Startups wie Groq und ElevenLabs."
+      "headline": "Neue Milliarden-Fonds: VC-Szene rüstet auf",
+      "summary": "Aktuelle SEC-Einreichungen zeigen, dass zahlreiche namhafte Venture-Capital-Firmen bedeutende neue Fonds auflegen. Dies signalisiert anhaltendes Vertrauen in die Startup-Wirtschaft und die Verfügbarkeit von Kapital für zukünftige Innovationen."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang verstehen: SaaS, B2B, ARR, Burn Rate & Churn",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Begriffe sind Schlüsselindikatoren in der Startup- und Tech-Welt, die helfen, Geschäftsmodelle und finanzielle Gesundheit schnell zu bewerten. Sie beschreiben den Vertriebsweg, das Erlösmodell und die Effizienz des Wachstums.",
-    "details": "SaaS (Software as a Service) bezeichnet ein Abonnement-basiertes Softwaremodell, bei dem Anwendungen über das Internet bereitgestellt werden. B2B (Business-to-Business) beschreibt Unternehmen, die ihre Produkte oder Dienstleistungen an andere Unternehmen verkaufen, im Gegensatz zu B2C (Business-to-Consumer). ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements, ein entscheidender Wert für SaaS-Unternehmen. Die Burn Rate ist der monatliche Geldbetrag, den ein Startup verbrennt, um seine Betriebskosten zu decken, bevor es profitabel ist oder neues Kapital aufnimmt. Churn misst die Rate, mit der Kunden oder Abonnenten abwandern und ist ein wichtiger Indikator für Kundenzufriedenheit und Produktattraktivität.",
-    "takeaway": "Das Verständnis dieser Begriffe ermöglicht es, die wirtschaftliche Dynamik von Startups schnell zu erfassen und deren Wachstumspotenzial sowie finanzielle Risiken besser einzuschätzen. Sie sind fundamental für Investoren und Analysten im Tech-Sektor."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Wertfindung bei Startup-Investitionen",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe definieren die Bewertung eines Startups vor (Pre-Money) und nach (Post-Money) einer neuen Finanzierungsrunde.",
+    "details": "Die Pre-Money Bewertung ist der Wert des Unternehmens, bevor frisches Kapital von Investoren fließt. Addiert man das investierte Kapital zur Pre-Money Bewertung, erhält man die Post-Money Bewertung. Diese ist entscheidend, da sie den Gesamtwert des Unternehmens nach der Investition widerspiegelt und die Grundlage für den Anteil (Equity Stake) bildet, den neue Investoren für ihr Kapital erhalten. Ein höheres investiertes Kapital bei gleicher Pre-Money Bewertung bedeutet einen geringeren prozentualen Anteil für Altaktionäre.",
+    "takeaway": "Pre-Money und Post-Money sind essenziell, um den Wertzuwachs einer Finanzierungsrunde zu verstehen und den Dilution-Effekt (Verwässerung) für bestehende Anteilseigner zu berechnen."
   }
 }
