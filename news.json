@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Steinmeier-Rede in China: 'Mit Größe und Macht kommt große Verantwortung'",
-      "summary": "Bundespräsident Steinmeier forderte in einer Rede an der Peking-Universität klare Verantwortungsübernahme von China, bekundete aber auch Respekt für die Volksrepublik. Diese Rede hat das Potenzial, die geopolitische Stimmung und damit die Märkte zu beeinflussen."
+      "headline": "Afrika-Gipfel in Russland: Putin umwirbt einen ganzen Kontinent",
+      "summary": "Russland intensiviert seine Bemühungen, den Einfluss in Afrika auszubauen, indem es fast alle afrikanischen Länder zu einem Gipfel versammelte. Dies zielt darauf ab, den Rückstand gegenüber China und der EU im Handel und politisch zu verringern."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Frankreichs Krise macht die Finanzmärkte nervös. Eilt die EZB zu Hilfe?",
-      "summary": "Frankreichs hohe Schuldendienstkosten machen die Finanzmärkte nervös und werfen die Frage auf, ob die EZB eingreifen wird. Die Situation in Paris könnte die Stabilität der Eurozone beeinflussen und die Geldpolitik unter Druck setzen."
+      "headline": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "summary": "Die USA untersuchten einen mutmaßlichen chinesischen Spionageversuch, der auf den CEO von Nvidia abzielte. Ein Top-Manager einer singapurischen AI-Cloud-Firma, die Nvidia-Chips illegal nach China verkaufte, soll dabei als chinesischer Spion agiert haben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
-      "summary": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück, was Spekulationen über ihre Nachfolge vor der französischen Präsidentschaftswahl auslöst. Dieser Wechsel könnte die zukünftige Geldpolitik der Eurozone erheblich beeinflussen."
+      "headline": "Der vorzeitige Abschied von Christine Lagarde beschleunigt den Poker um die EZB-Spitze",
+      "summary": "Die Suche nach einem Nachfolger für EZB-Chefin Christine Lagarde tritt früher als erwartet in eine entscheidende Phase, da die Französin ihr Amt vorzeitig niederlegt. Die Wahl des neuen Präsidenten der Europäischen Zentralbank wird eine wichtige Richtungsentscheidung für die europäische Geldpolitik sein."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der Fed-Chef Kevin Warsh hält sich aus dem Wahlkampf heraus und lässt den Leitzins, wo er ist",
-      "summary": "Trotz hoher Inflation in den USA hält die Fed das Zinsniveau vorerst für angemessen, und Fed-Chef Kevin Warsh bleibt aus dem Wahlkampf heraus. Dies deutet auf eine konstante Geldpolitik der US-Zentralbank in naher Zukunft hin."
+      "headline": "Marktbericht: DAX setzt Klettertour fort",
+      "summary": "Die Stabilität der großen Notenbanken beflügelt die Anleger, was den DAX mit einem Plus in den Handelstag schließen ließ. Auch der anfängliche Schock um VW-Verluste wurde vom Markt gut verkraftet."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-      "summary": "Apples neues Touchscreen MacBook Pro setzt neue Maßstäbe bei den Laptop-Preisen, mit einer vollausgestatteten Version für bis zu 14.549 US-Dollar. Dieser Produktlaunch unterstreicht Apples Premium-Strategie im Tech-Markt."
+      "headline": "GM reaches $220M settlement over selling drivers’ private data",
+      "summary": "General Motors hat sich auf eine Vergleichszahlung von 220 Millionen US-Dollar geeinigt, weil es private Daten von Fahrern ohne deren Zustimmung verkauft hatte. Das Unternehmen muss nun die ausdrückliche Einwilligung der Fahrer einholen, bevor es deren Fahr- und Standortdaten sammelt oder teilt."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "summary": "Microsoft hat erstmals den genauen Umsatz von Azure offengelegt, der bei 33,2 Milliarden US-Dollar liegt. Diese Veröffentlichung zeigt, wie nah Azure dem größten Konkurrenten AWS kommt und ist ein wichtiger Indikator im Cloud-Markt."
+      "headline": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "summary": "Angesichts schwindenden Suchmaschinen-Traffics durch KI-Entwicklungen plant Reddit eine Umstellung auf eine vorrangig eingeloggte Nutzererfahrung. Diese Strategie soll die Community und das Geschäftsmodell der Plattform im sich wandelnden Online-Informationsraum schützen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Upwind raises $400M after walking away from Datadog acquisition offer",
-      "summary": "Das Cloud-Security-Startup Upwind sicherte sich eine Series C Finanzierungsrunde über 400 Millionen US-Dollar bei einer Bewertung von 3,8 Milliarden US-Dollar. Zuvor lehnte es ein gleichwertiges Übernahmeangebot von Datadog ab, was den Glauben an das Wachstumspotenzial des Unternehmens unterstreicht."
+      "headline": "OpenAI-backed Thrive Holdings acquires ADT",
+      "summary": "Das von OpenAI unterstützte Unternehmen Thrive Holdings übernimmt ADT für 15,3 Milliarden US-Dollar, um künstliche Intelligenz ins Heimischerheitsgeschäft zu integrieren. Dieser Deal markiert eine signifikante Expansion von KI-Technologien in traditionelle Sektoren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary": "Das KI-Startup Anthropic hat neue Tools eingeführt, die Unternehmen zeigen, wofür ihre KI-Ausgaben verwendet werden, im Vorfeld eines geplanten Börsengangs. Dies erhöht die Transparenz bei KI-Investitionen und könnte ein wichtiges Signal für den Markt sein."
+      "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "summary": "Mistral hat die Gewichte für sein neues Billionen-Parameter-AI-Modell veröffentlicht, das speziell auf Cybersicherheit abzielt. Dies soll Unternehmen eine verbesserte Kontrolle über ihre Cyberabwehr bieten, die geschlossene Modelle nicht leisten können."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine: Der Unterschied bei Derivaten",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Obwohl oft verwechselt, sind Optionen und Optionsscheine zwei unterschiedliche derivative Finanzinstrumente, die Anlegern das Recht, aber nicht die Pflicht geben, einen Basiswert zu einem festgelegten Preis zu kaufen oder zu verkaufen. Der Hauptunterschied liegt im Emittenten und der Standardisierung.",
-    "details": "Optionen sind standardisierte Kontrakte, die an Terminbörsen gehandelt werden. Sie sind bilateral (zwischen Käufer und Verkäufer) und werden von Clearinghäusern garantiert, was das Gegenparteirisiko minimiert. Optionsscheine hingegen werden von Finanzinstituten (Banken) emittiert, verbriefen ebenfalls ein Recht auf den Basiswert, sind aber nicht standardisiert und unterliegen dem Emittentenrisiko der ausgebenden Bank. Sie sind oft für Privatanleger einfacher zugänglich und können exotischere Basiswerte oder Ausübungsprofile haben.",
-    "takeaway": "Optionen bieten aufgrund ihrer Standardisierung und des Börsenhandels mehr Sicherheit und Liquidität. Optionsscheine sind flexibler und oft mit geringeren Beträgen zugänglich, bergen jedoch ein zusätzliches Emittentenrisiko, das Anleger unbedingt beachten sollten."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money ist der Wert eines Startups vor einer Finanzierungsrunde, Post-Money der Wert danach, inklusive des neu investierten Kapitals.",
+    "details": "Stell dir vor, ein Startup hat bereits einen bestimmten Wert (Pre-Money). Wenn ein Investor nun Kapital hinzufügt, erhöht sich der Unternehmenswert um genau diesen Betrag, was zum Post-Money-Wert führt. Der Investor erhält für sein Geld einen bestimmten Anteil am Unternehmen, der sich auf Basis des Post-Money-Wertes berechnet. Der Pre-Money-Wert ist entscheidend für die Festlegung der Anteile des Investors und die Verwässerung der bestehenden Eigentümer.",
+    "takeaway": "Der Pre-Money-Wert bestimmt den Preis pro Anteil und somit, wie viele neue Anteile für das Investment ausgegeben werden. Post-Money ist einfach Pre-Money plus das frische Kapital."
   }
 }
