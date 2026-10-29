@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Diskussion vor US-Wahlen: Demokratie unter Druck?",
-      "summary": "Vor den US-Zwischenwahlen wird kontrovers diskutiert, ob die USA unter der aktuellen Regierung noch eine Demokratie sind, was dem Thema neue Brisanz verleiht. Diese innenpolitische Debatte könnte die Stimmung an den globalen Märkten beeinflussen."
+      "headline": "Steinmeier-Rede in China: 'Mit Größe und Macht kommt große Verantwortung'",
+      "summary": "Bundespräsident Steinmeier forderte in einer Rede an der Peking-Universität klare Verantwortungsübernahme von China, bekundete aber auch Respekt für die Volksrepublik. Diese Rede hat das Potenzial, die geopolitische Stimmung und damit die Märkte zu beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israel-Wahl: Droht eine unauflösbare Patt-Situation?",
-      "summary": "Nach der Parlamentswahl in Israel könnte es erneut zu Neuwahlen kommen, da eine Patt-Situation droht, die kaum auflösbar scheint. Zugleich sind neue Konflikte im Iran-Krieg nicht auszuschließen, wovon Premier Netanjahu auch profitieren könnte."
+      "headline": "Frankreichs Krise macht die Finanzmärkte nervös. Eilt die EZB zu Hilfe?",
+      "summary": "Frankreichs hohe Schuldendienstkosten machen die Finanzmärkte nervös und werfen die Frage auf, ob die EZB eingreifen wird. Die Situation in Paris könnte die Stabilität der Eurozone beeinflussen und die Geldpolitik unter Druck setzen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Frankreichs Schuldendienstkrise nervt Finanzmärkte",
-      "summary": "Frankreichs hohe Kosten für den Schuldendienst machen die Finanzmärkte nervös, was die Frage aufwirft, ob die EZB zu Hilfe eilen wird. Die Währungshüter könnten wie in der Vergangenheit hochverschuldeten Staaten unter die Arme greifen."
+      "headline": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+      "summary": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück, was Spekulationen über ihre Nachfolge vor der französischen Präsidentschaftswahl auslöst. Dieser Wechsel könnte die zukünftige Geldpolitik der Eurozone erheblich beeinflussen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Europäische Energiepreise explodieren, Schweizer Industrie leidet",
-      "summary": "Die Preise für Strom und Erdgas auf dem europäischen Markt haben sich fast verdoppelt, was Schweizer Unternehmen stark belastet. Experten sehen keine Entspannung, und die Industrie fordert Entlastung bei den Netzkosten."
+      "headline": "Der Fed-Chef Kevin Warsh hält sich aus dem Wahlkampf heraus und lässt den Leitzins, wo er ist",
+      "summary": "Trotz hoher Inflation in den USA hält die Fed das Zinsniveau vorerst für angemessen, und Fed-Chef Kevin Warsh bleibt aus dem Wahlkampf heraus. Dies deutet auf eine konstante Geldpolitik der US-Zentralbank in naher Zukunft hin."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "KI-Skandal: Eltern verklagen OpenAI nach tödlicher Fehlinformation",
-      "summary": "Eltern verklagen OpenAI, da der GPT-4o-Chatbot ihre Tochter angeblich dazu anleitete, ihre Medikamente abzusetzen, woraufhin sie verstarb. Dieser Fall wirft ernste Fragen zur Sicherheit und den ethischen Grenzen von KI-Anwendungen auf und sorgt global für Schlagzeilen."
+      "headline": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "summary": "Apples neues Touchscreen MacBook Pro setzt neue Maßstäbe bei den Laptop-Preisen, mit einer vollausgestatteten Version für bis zu 14.549 US-Dollar. Dieser Produktlaunch unterstreicht Apples Premium-Strategie im Tech-Markt."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Mercedes mit China-Schock: Prognose nach unten korrigiert",
-      "summary": "Mercedes muss seine Prognose nach einem deutlichen Absatzrückgang in China um rund 30 Prozent korrigieren. Der starke Kursverfall der Aktie stellt die Ziele des Konzernchefs in Frage und dominiert die Wirtschaftsnachrichten."
+      "headline": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "summary": "Microsoft hat erstmals den genauen Umsatz von Azure offengelegt, der bei 33,2 Milliarden US-Dollar liegt. Diese Veröffentlichung zeigt, wie nah Azure dem größten Konkurrenten AWS kommt und ist ein wichtiger Indikator im Cloud-Markt."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Disruptive VC legt 10 Mrd. Dollar Mega-Fonds auf",
-      "summary": "Die Venture-Capital-Firma Disruptive hat einen riesigen Fonds in Höhe von 10 Milliarden Dollar aufgelegt, um große Investitionen in mindestens zehn Unternehmen zu tätigen. Dies unterstreicht den Trend zu kapitalstarken Fonds im Tech-Bereich."
+      "headline": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "summary": "Das Cloud-Security-Startup Upwind sicherte sich eine Series C Finanzierungsrunde über 400 Millionen US-Dollar bei einer Bewertung von 3,8 Milliarden US-Dollar. Zuvor lehnte es ein gleichwertiges Übernahmeangebot von Datadog ab, was den Glauben an das Wachstumspotenzial des Unternehmens unterstreicht."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Neue Milliarden-Fonds: VC-Szene rüstet auf",
-      "summary": "Aktuelle SEC-Einreichungen zeigen, dass zahlreiche namhafte Venture-Capital-Firmen bedeutende neue Fonds auflegen. Dies signalisiert anhaltendes Vertrauen in die Startup-Wirtschaft und die Verfügbarkeit von Kapital für zukünftige Innovationen."
+      "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "summary": "Das KI-Startup Anthropic hat neue Tools eingeführt, die Unternehmen zeigen, wofür ihre KI-Ausgaben verwendet werden, im Vorfeld eines geplanten Börsengangs. Dies erhöht die Transparenz bei KI-Investitionen und könnte ein wichtiges Signal für den Markt sein."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Wertfindung bei Startup-Investitionen",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese Begriffe definieren die Bewertung eines Startups vor (Pre-Money) und nach (Post-Money) einer neuen Finanzierungsrunde.",
-    "details": "Die Pre-Money Bewertung ist der Wert des Unternehmens, bevor frisches Kapital von Investoren fließt. Addiert man das investierte Kapital zur Pre-Money Bewertung, erhält man die Post-Money Bewertung. Diese ist entscheidend, da sie den Gesamtwert des Unternehmens nach der Investition widerspiegelt und die Grundlage für den Anteil (Equity Stake) bildet, den neue Investoren für ihr Kapital erhalten. Ein höheres investiertes Kapital bei gleicher Pre-Money Bewertung bedeutet einen geringeren prozentualen Anteil für Altaktionäre.",
-    "takeaway": "Pre-Money und Post-Money sind essenziell, um den Wertzuwachs einer Finanzierungsrunde zu verstehen und den Dilution-Effekt (Verwässerung) für bestehende Anteilseigner zu berechnen."
+    "topic": "Optionen vs. Optionsscheine: Der Unterschied bei Derivaten",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Obwohl oft verwechselt, sind Optionen und Optionsscheine zwei unterschiedliche derivative Finanzinstrumente, die Anlegern das Recht, aber nicht die Pflicht geben, einen Basiswert zu einem festgelegten Preis zu kaufen oder zu verkaufen. Der Hauptunterschied liegt im Emittenten und der Standardisierung.",
+    "details": "Optionen sind standardisierte Kontrakte, die an Terminbörsen gehandelt werden. Sie sind bilateral (zwischen Käufer und Verkäufer) und werden von Clearinghäusern garantiert, was das Gegenparteirisiko minimiert. Optionsscheine hingegen werden von Finanzinstituten (Banken) emittiert, verbriefen ebenfalls ein Recht auf den Basiswert, sind aber nicht standardisiert und unterliegen dem Emittentenrisiko der ausgebenden Bank. Sie sind oft für Privatanleger einfacher zugänglich und können exotischere Basiswerte oder Ausübungsprofile haben.",
+    "takeaway": "Optionen bieten aufgrund ihrer Standardisierung und des Börsenhandels mehr Sicherheit und Liquidität. Optionsscheine sind flexibler und oft mit geringeren Beträgen zugänglich, bergen jedoch ein zusätzliches Emittentenrisiko, das Anleger unbedingt beachten sollten."
   }
 }
