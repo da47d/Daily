@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Afrika-Gipfel in Russland: Putin umwirbt einen ganzen Kontinent",
-      "summary": "Russland intensiviert seine Bemühungen, den Einfluss in Afrika auszubauen, indem es fast alle afrikanischen Länder zu einem Gipfel versammelte. Dies zielt darauf ab, den Rückstand gegenüber China und der EU im Handel und politisch zu verringern."
+      "headline": "Merz hofft auf friedliche Wiedervereinigung Koreas",
+      "summary": "Kanzler Merz äußerte an der südkoreanischen Grenze Hoffnung auf eine friedliche Wiedervereinigung Koreas, was angesichts Nordkoreas Abschottung in weiter Ferne liegt. Laut Merz birgt die Situation auch Gefahren für Europa."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "summary": "Die USA untersuchten einen mutmaßlichen chinesischen Spionageversuch, der auf den CEO von Nvidia abzielte. Ein Top-Manager einer singapurischen AI-Cloud-Firma, die Nvidia-Chips illegal nach China verkaufte, soll dabei als chinesischer Spion agiert haben."
+      "headline": "G20-Außenministertreffen mit Lawrow und Wadephul in Atlanta",
+      "summary": "Die G20-Außenminister treffen sich in den USA, unter Beteiligung von Russlands Lawrow und Deutschlands Wadephul. Das Treffen wird als wichtige Generalprobe für den Umgang mit Russland beim G20-Gipfel gesehen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der vorzeitige Abschied von Christine Lagarde beschleunigt den Poker um die EZB-Spitze",
-      "summary": "Die Suche nach einem Nachfolger für EZB-Chefin Christine Lagarde tritt früher als erwartet in eine entscheidende Phase, da die Französin ihr Amt vorzeitig niederlegt. Die Wahl des neuen Präsidenten der Europäischen Zentralbank wird eine wichtige Richtungsentscheidung für die europäische Geldpolitik sein."
+      "headline": "Deutsche Wirtschaft wächst überraschend im Sommer",
+      "summary": "Die deutsche Wirtschaft zeigte im Sommer ein überraschendes Wachstum und setzte ihre Erholung fort, entgegen vieler Expertenprognosen einer Stagnation. Allerdings bleiben die privaten Ausgaben weiterhin verhalten."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX setzt Klettertour fort",
-      "summary": "Die Stabilität der großen Notenbanken beflügelt die Anleger, was den DAX mit einem Plus in den Handelstag schließen ließ. Auch der anfängliche Schock um VW-Verluste wurde vom Markt gut verkraftet."
+      "headline": "Der vorzeitige Abschied von Christine Lagarde beschleunigt den Poker um die EZB-Spitze",
+      "summary": "Der vorzeitige Abschied von Christine Lagarde als EZB-Präsidentin beschleunigt die Diskussion um ihre Nachfolge, was eine wichtige Richtungsentscheidung für die europäische Geldpolitik bedeuten könnte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "GM reaches $220M settlement over selling drivers’ private data",
-      "summary": "General Motors hat sich auf eine Vergleichszahlung von 220 Millionen US-Dollar geeinigt, weil es private Daten von Fahrern ohne deren Zustimmung verkauft hatte. Das Unternehmen muss nun die ausdrückliche Einwilligung der Fahrer einholen, bevor es deren Fahr- und Standortdaten sammelt oder teilt."
+      "headline": "Hacker lancieren bisher grössten Angriff auf Krypto-Börse Binance",
+      "summary": "Die Krypto-Börse Binance erlebte den bisher größten Hackerangriff, bei dem über 6 Milliarden Dollar gestohlen wurden, wovon etwa die Hälfte eingefroren werden konnte. Die Spuren der Attacke führen nach Nordkorea."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summary": "Angesichts schwindenden Suchmaschinen-Traffics durch KI-Entwicklungen plant Reddit eine Umstellung auf eine vorrangig eingeloggte Nutzererfahrung. Diese Strategie soll die Community und das Geschäftsmodell der Plattform im sich wandelnden Online-Informationsraum schützen."
+      "headline": "Amazon und Alphabet enttäuschen Anleger im KI-Zeitalter",
+      "summary": "Amazon und Alphabet enttäuschten Anleger mit unerwarteten Schwächen im traditionellen Geschäft, was Kritiker des starken KI-Infrastruktur-Ausbaus bestärkt. Amazon verfehlte zudem die Erwartungen und zeigte negativen freien Cashflow."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "Das von OpenAI unterstützte Unternehmen Thrive Holdings übernimmt ADT für 15,3 Milliarden US-Dollar, um künstliche Intelligenz ins Heimischerheitsgeschäft zu integrieren. Dieser Deal markiert eine signifikante Expansion von KI-Technologien in traditionelle Sektoren."
+      "headline": "Waymo kooperiert mit Toyota für Robotaxis in Japan und UK",
+      "summary": "Waymo wird nächstes Jahr in Japan mit Tests selbstfahrender Toyota bZ4X-Elektrofahrzeuge beginnen, als Teil einer erweiterten Partnerschaft. Diese Kooperation soll die Entwicklung von Robotaxis für Japan und Großbritannien vorantreiben."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "summary": "Mistral hat die Gewichte für sein neues Billionen-Parameter-AI-Modell veröffentlicht, das speziell auf Cybersicherheit abzielt. Dies soll Unternehmen eine verbesserte Kontrolle über ihre Cyberabwehr bieten, die geschlossene Modelle nicht leisten können."
+      "headline": "Rivian erweitert Joint Venture mit VW um KI-Assistenten",
+      "summary": "Rivian erweitert sein Joint Venture mit Volkswagen um die Entwicklung eines KI-Assistenten. Es ist noch unklar, ob dies den Wert des 5,8 Milliarden Dollar schweren Joint Ventures beeinflussen wird."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money ist der Wert eines Startups vor einer Finanzierungsrunde, Post-Money der Wert danach, inklusive des neu investierten Kapitals.",
-    "details": "Stell dir vor, ein Startup hat bereits einen bestimmten Wert (Pre-Money). Wenn ein Investor nun Kapital hinzufügt, erhöht sich der Unternehmenswert um genau diesen Betrag, was zum Post-Money-Wert führt. Der Investor erhält für sein Geld einen bestimmten Anteil am Unternehmen, der sich auf Basis des Post-Money-Wertes berechnet. Der Pre-Money-Wert ist entscheidend für die Festlegung der Anteile des Investors und die Verwässerung der bestehenden Eigentümer.",
-    "takeaway": "Der Pre-Money-Wert bestimmt den Preis pro Anteil und somit, wie viele neue Anteile für das Investment ausgegeben werden. Post-Money ist einfach Pre-Money plus das frische Kapital."
+    "topic": "Der Short Squeeze: Mechanismus und Auswirkungen",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist eine plötzliche, starke Kursbewegung eines Wertpapiers nach oben, die durch massives Eindecken von Leerverkäufen ausgelöst wird.",
+    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie geliehene Aktien verkaufen und später günstiger zurückkaufen wollen. Wenn der Kurs stattdessen steigt, müssen sie diese Aktien zu höheren Preisen zurückkaufen, um Verluste zu begrenzen. Dieser Zwangskauf erhöht die Nachfrage, treibt den Kurs weiter in die Höhe und zwingt weitere Leerverkäufer zum Eindecken – eine sich selbst verstärkende Spirale.",
+    "takeaway": "Ein Short Squeeze zeigt die Risiken des Leerverkaufs auf und kann selbst bei Unternehmen mit schwachen Fundamentaldaten zu extremen Kursanstiegen führen, was für Anleger sowohl Chancen als auch erhebliche Risiken birgt."
   }
 }
