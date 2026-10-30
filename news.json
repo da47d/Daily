@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Merz hofft auf friedliche Wiedervereinigung Koreas",
-      "summary": "Kanzler Merz äußerte an der südkoreanischen Grenze Hoffnung auf eine friedliche Wiedervereinigung Koreas, was angesichts Nordkoreas Abschottung in weiter Ferne liegt. Laut Merz birgt die Situation auch Gefahren für Europa."
+      "headline": "„Allianz für die Zukunft“: Kanada und Europa gründen Bündnis",
+      "summary": "Die EU und Kanada gründen eine \"Allianz für die Zukunft\", um mehr Unabhängigkeit zu erlangen und die Zusammenarbeit in Schlüsselbereichen wie KI und Raumfahrt zu vertiefen. Dieses Bündnis soll globale Partnerschaften stärken und die Rolle beider Akteure auf der Weltbühne festigen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "G20-Außenministertreffen mit Lawrow und Wadephul in Atlanta",
-      "summary": "Die G20-Außenminister treffen sich in den USA, unter Beteiligung von Russlands Lawrow und Deutschlands Wadephul. Das Treffen wird als wichtige Generalprobe für den Umgang mit Russland beim G20-Gipfel gesehen."
+      "headline": "Steinmeier in China: Handelsüberschuss im Fokus",
+      "summary": "Bundespräsident Steinmeier hat China aufgefordert, sein hohes Handelsdefizit mit Deutschland abzubauen und betonte die gemeinsame Verantwortung für die Aufrechterhaltung der internationalen Ordnung. Das Treffen unterstreicht die wirtschaftlichen und politischen Spannungen in den bilateralen Beziehungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Deutsche Wirtschaft wächst überraschend im Sommer",
-      "summary": "Die deutsche Wirtschaft zeigte im Sommer ein überraschendes Wachstum und setzte ihre Erholung fort, entgegen vieler Expertenprognosen einer Stagnation. Allerdings bleiben die privaten Ausgaben weiterhin verhalten."
+      "headline": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
+      "summary": "Der DAX schwächelte zum Wochenschluss, beeinflusst durch hohe Ölpreise und schwache Tech-Vorgaben aus Übersee, nach zuvor vier aufeinanderfolgenden Handelstagen mit Kursgewinnen. Dies spiegelt eine fragile Marktstimmung und die Sensibilität gegenüber globalen Wirtschaftsdaten wider."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der vorzeitige Abschied von Christine Lagarde beschleunigt den Poker um die EZB-Spitze",
-      "summary": "Der vorzeitige Abschied von Christine Lagarde als EZB-Präsidentin beschleunigt die Diskussion um ihre Nachfolge, was eine wichtige Richtungsentscheidung für die europäische Geldpolitik bedeuten könnte."
+      "headline": "Der Gaspreis knackt die 100-Euro-Marke: Europa droht ein ungemütlicher Winter",
+      "summary": "Der Gaspreis hat die 100-Euro-Marke überschritten, da Europa mit einem harten Konkurrenzkampf um wenige Frachten und der Ächtung russischer Lieferungen konfrontiert ist. Ein weiterer Preisschub droht, was die Inflation anheizen und die Wirtschaft belasten könnte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Hacker lancieren bisher grössten Angriff auf Krypto-Börse Binance",
-      "summary": "Die Krypto-Börse Binance erlebte den bisher größten Hackerangriff, bei dem über 6 Milliarden Dollar gestohlen wurden, wovon etwa die Hälfte eingefroren werden konnte. Die Spuren der Attacke führen nach Nordkorea."
+      "headline": "Binance will alle Verluste nach Hackerangriff ersetzen",
+      "summary": "Die Krypto-Börse Binance wurde Ziel des größten Hackerangriffs ihrer Geschichte mit über 6 Milliarden Dollar Schaden, wovon die Hälfte eingefroren werden konnte. Binance versprach, alle Verluste zu ersetzen, was Fragen zur Sicherheit digitaler Anlagen aufwirft."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Amazon und Alphabet enttäuschen Anleger im KI-Zeitalter",
-      "summary": "Amazon und Alphabet enttäuschten Anleger mit unerwarteten Schwächen im traditionellen Geschäft, was Kritiker des starken KI-Infrastruktur-Ausbaus bestärkt. Amazon verfehlte zudem die Erwartungen und zeigte negativen freien Cashflow."
+      "headline": "Google’s first data center satellite is online and writing poetry",
+      "summary": "Google hat seinen ersten Satelliten mit einer TPU (Tensor Processing Unit) erfolgreich in Betrieb genommen, der als Datenzentrum im All dient und sogar Poesie generiert. Dieser Meilenstein markiert einen bedeutenden Fortschritt in der Weltraumtechnologie und der globalen KI-Infrastruktur."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Waymo kooperiert mit Toyota für Robotaxis in Japan und UK",
-      "summary": "Waymo wird nächstes Jahr in Japan mit Tests selbstfahrender Toyota bZ4X-Elektrofahrzeuge beginnen, als Teil einer erweiterten Partnerschaft. Diese Kooperation soll die Entwicklung von Robotaxis für Japan und Großbritannien vorantreiben."
+      "headline": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "summary": "Das Startup Runware entwickelt eine Fabrik zur serienmäßigen Produktion vorgefertigter KI-Rechenzentren nach dem Fließbandprinzip. Der innovative Ansatz könnte die Skalierung der KI-Infrastruktur revolutionieren, muss sich aber im großindustriellen Maßstab bewähren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Rivian erweitert Joint Venture mit VW um KI-Assistenten",
-      "summary": "Rivian erweitert sein Joint Venture mit Volkswagen um die Entwicklung eines KI-Assistenten. Es ist noch unklar, ob dies den Wert des 5,8 Milliarden Dollar schweren Joint Ventures beeinflussen wird."
+      "headline": "Satlyt takes another step toward turning satellites into space data centers",
+      "summary": "Satlyt hat einen erfolgreichen Test durchgeführt, der das Unternehmen dem Ziel näherbringt, Raumfahrzeuge, insbesondere Satelliten, in virtuelle Datenzentren zu verwandeln. Dieser bahnbrechende Tech-Prototyp ebnet den Weg für dezentrale Datenverarbeitung im All und neue Geschäftsmodelle."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Mechanismus und Auswirkungen",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist eine plötzliche, starke Kursbewegung eines Wertpapiers nach oben, die durch massives Eindecken von Leerverkäufen ausgelöst wird.",
-    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie geliehene Aktien verkaufen und später günstiger zurückkaufen wollen. Wenn der Kurs stattdessen steigt, müssen sie diese Aktien zu höheren Preisen zurückkaufen, um Verluste zu begrenzen. Dieser Zwangskauf erhöht die Nachfrage, treibt den Kurs weiter in die Höhe und zwingt weitere Leerverkäufer zum Eindecken – eine sich selbst verstärkende Spirale.",
-    "takeaway": "Ein Short Squeeze zeigt die Risiken des Leerverkaufs auf und kann selbst bei Unternehmen mit schwachen Fundamentaldaten zu extremen Kursanstiegen führen, was für Anleger sowohl Chancen als auch erhebliche Risiken birgt."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Finanzierungsrunden",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe beschreiben die Bewertung eines Startups vor bzw. nach einer Finanzierungsrunde und sind entscheidend für die Berechnung der Anteile der Investoren.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert, bevor neues Kapital von Investoren zugeschossen wird. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese Post-Money-Bewertung repräsentiert den Gesamtwert des Unternehmens inklusive des frischen Kapitals und dient als Basis, um zu bestimmen, welchen prozentualen Anteil die neuen Investoren für ihr Geld erhalten. Wenn ein Investor beispielsweise 1 Million Euro in ein Startup mit einer Pre-Money-Bewertung von 4 Millionen Euro investiert, beträgt die Post-Money-Bewertung 5 Millionen Euro. Der Investor erhält dann 20% der Anteile (1 Mio. € / 5 Mio. €).",
+    "takeaway": "Das Verständnis dieser Begriffe ist essenziell, um die Eigentumsverhältnisse und die Kapitalverwässerung bei Finanzierungsrunden korrekt zu beurteilen und faire Deal-Strukturen zu verhandeln."
   }
 }
