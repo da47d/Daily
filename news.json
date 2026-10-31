@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "„Allianz für die Zukunft“: Kanada und Europa gründen Bündnis",
-      "summary": "Die EU und Kanada gründen eine \"Allianz für die Zukunft\", um mehr Unabhängigkeit zu erlangen und die Zusammenarbeit in Schlüsselbereichen wie KI und Raumfahrt zu vertiefen. Dieses Bündnis soll globale Partnerschaften stärken und die Rolle beider Akteure auf der Weltbühne festigen."
+      "headline": "Zwei Sullivans in Alaska - wollen Demokraten die Wahl manipulieren?",
+      "summary": "Bei den US-Zwischenwahlen in Alaska sorgt namensgleiche Konkurrenz um den Senatsposten für Aufsehen. Das Justizministerium klagt nun wegen möglicher Wahlmanipulation, die den republikanischen Amtsinhaber Sullivan treffen könnte."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Steinmeier in China: Handelsüberschuss im Fokus",
-      "summary": "Bundespräsident Steinmeier hat China aufgefordert, sein hohes Handelsdefizit mit Deutschland abzubauen und betonte die gemeinsame Verantwortung für die Aufrechterhaltung der internationalen Ordnung. Das Treffen unterstreicht die wirtschaftlichen und politischen Spannungen in den bilateralen Beziehungen."
+      "headline": "Doch eine Art «assoziiertes Mitglied»: Der Gipfel EU-Kanada endet mit einer Überraschung",
+      "summary": "Nach langen internen Debatten setzte sich Ursula von der Leyen mit ihrer Vision durch, Kanada zum ersten \"assoziierten Mitglied\" der EU zu machen. Diese Entwicklung könnte Auswirkungen auf die Beziehungen zu Nicht-EU-Ländern wie der Schweiz haben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
-      "summary": "Der DAX schwächelte zum Wochenschluss, beeinflusst durch hohe Ölpreise und schwache Tech-Vorgaben aus Übersee, nach zuvor vier aufeinanderfolgenden Handelstagen mit Kursgewinnen. Dies spiegelt eine fragile Marktstimmung und die Sensibilität gegenüber globalen Wirtschaftsdaten wider."
+      "headline": "Bei der EZB wird die Lagarde-Nachfolge wohl zum Duell Falke gegen Taube, Niederländer gegen Spanier",
+      "summary": "Die Nachfolge von Christine Lagarde an der EZB-Spitze zeichnet sich als politisches Ringen zwischen Kandidaten ab, die für unterschiedliche geldpolitische Ansätze stehen. Die Euro-Länder müssen sich auf einen ausgewiesenen Experten einigen, der die zukünftige Ausrichtung maßgeblich prägen wird."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "Der Gaspreis knackt die 100-Euro-Marke: Europa droht ein ungemütlicher Winter",
-      "summary": "Der Gaspreis hat die 100-Euro-Marke überschritten, da Europa mit einem harten Konkurrenzkampf um wenige Frachten und der Ächtung russischer Lieferungen konfrontiert ist. Ein weiterer Preisschub droht, was die Inflation anheizen und die Wirtschaft belasten könnte."
+      "summary": "Der Gaspreis überschreitet die 100-Euro-Marke, was Europa vor einen potenziell ungemütlichen Winter stellt. Ein harter Konkurrenzkampf um begrenzte Lieferungen aus Nahost und die Ächtung Russlands als Lieferant treiben die Preise in die Höhe."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Binance will alle Verluste nach Hackerangriff ersetzen",
-      "summary": "Die Krypto-Börse Binance wurde Ziel des größten Hackerangriffs ihrer Geschichte mit über 6 Milliarden Dollar Schaden, wovon die Hälfte eingefroren werden konnte. Binance versprach, alle Verluste zu ersetzen, was Fragen zur Sicherheit digitaler Anlagen aufwirft."
+      "headline": "Chip im Kopf: Wenn Computer Gedanken verstehen lernen",
+      "summary": "Was lange Science-Fiction war, ist Realität geworden: Chips im Gehirn ermöglichen es gelähmten Menschen, Computer durch Gedanken zu steuern. Forscher erhoffen sich neue Therapien, während Ethiker vor potenziellen Risiken warnen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Google’s first data center satellite is online and writing poetry",
-      "summary": "Google hat seinen ersten Satelliten mit einer TPU (Tensor Processing Unit) erfolgreich in Betrieb genommen, der als Datenzentrum im All dient und sogar Poesie generiert. Dieser Meilenstein markiert einen bedeutenden Fortschritt in der Weltraumtechnologie und der globalen KI-Infrastruktur."
+      "headline": "Hacker lancieren bisher grössten Angriff auf Krypto-Börse Binance: Mehr als 6 Milliarden Dollar sind betroffen",
+      "summary": "Die weltgrößte Kryptobörse Binance wurde Opfer des größten Hackerangriffs ihrer Geschichte, bei dem über 6 Milliarden Dollar gestohlen wurden. Rund die Hälfte der Gelder konnte eingefroren werden, wobei die Spuren des Angriffs nach Nordkorea führen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "summary": "Das Startup Runware entwickelt eine Fabrik zur serienmäßigen Produktion vorgefertigter KI-Rechenzentren nach dem Fließbandprinzip. Der innovative Ansatz könnte die Skalierung der KI-Infrastruktur revolutionieren, muss sich aber im großindustriellen Maßstab bewähren."
+      "headline": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+      "summary": "Salesforce setzt seine Akquisitionsstrategie fort und übernimmt das Verteidigungs-Tech-Startup Rune für geschätzte 375 Millionen US-Dollar. Diese Übernahme soll die \"Missionforce\"-Verteidigungsplattform des CRM-Riesen stärken."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Satlyt takes another step toward turning satellites into space data centers",
-      "summary": "Satlyt hat einen erfolgreichen Test durchgeführt, der das Unternehmen dem Ziel näherbringt, Raumfahrzeuge, insbesondere Satelliten, in virtuelle Datenzentren zu verwandeln. Dieser bahnbrechende Tech-Prototyp ebnet den Weg für dezentrale Datenverarbeitung im All und neue Geschäftsmodelle."
+      "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary": "Nvidia erwägt, als Bürge für Nscale’s KI-Rechenzentrum in West Virginia aufzutreten, was Investoren beruhigen könnte. In Zeiten, in denen Investoren wegen der KI-Ausgaben nervös werden, hilft die Unterstützung des führenden Chipherstellers, die Finanzierung zu sichern."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Finanzierungsrunden",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese Begriffe beschreiben die Bewertung eines Startups vor bzw. nach einer Finanzierungsrunde und sind entscheidend für die Berechnung der Anteile der Investoren.",
-    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert, bevor neues Kapital von Investoren zugeschossen wird. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese Post-Money-Bewertung repräsentiert den Gesamtwert des Unternehmens inklusive des frischen Kapitals und dient als Basis, um zu bestimmen, welchen prozentualen Anteil die neuen Investoren für ihr Geld erhalten. Wenn ein Investor beispielsweise 1 Million Euro in ein Startup mit einer Pre-Money-Bewertung von 4 Millionen Euro investiert, beträgt die Post-Money-Bewertung 5 Millionen Euro. Der Investor erhält dann 20% der Anteile (1 Mio. € / 5 Mio. €).",
-    "takeaway": "Das Verständnis dieser Begriffe ist essenziell, um die Eigentumsverhältnisse und die Kapitalverwässerung bei Finanzierungsrunden korrekt zu beurteilen und faire Deal-Strukturen zu verhandeln."
+    "topic": "Startup-Metriken verstehen: ARR, Burn Rate & Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese Kennzahlen sind entscheidend, um die finanzielle Gesundheit und das Wachstumspotenzial eines Startups zu beurteilen und werden von Investoren genau analysiert.",
+    "details": "ARR (Annual Recurring Revenue) ist der vorhersehbare Umsatz, den ein Unternehmen aus wiederkehrenden Verträgen über 12 Monate generiert, und zeigt die Skalierbarkeit des Geschäftsmodells. Die Burn Rate beziffert den monatlichen Cashflow-Verlust eines Startups, um die Geschäftstätigkeit aufrechtzuerhalten, und bestimmt die verbleibende \"Runway\". Churn (Kundenabwanderung) ist der Prozentsatz der Kunden oder des Umsatzes, der in einem Zeitraum verloren geht, und indiziert Probleme bei der Kundenbindung oder im Produkt-Markt-Fit. Diese Metriken helfen, die Effizienz der Kapitalnutzung und die Attraktivität für potenzielle Investoren zu bewerten.",
+    "takeaway": "ARR gibt Aufschluss über den wiederkehrenden Erfolg, die Burn Rate über die Überlebensfähigkeit und Churn über die Kundenbindung eines Startups. Ein tiefes Verständnis dieser Kennzahlen ist für jede fundierte Investitionsentscheidung unerlässlich."
   }
 }
