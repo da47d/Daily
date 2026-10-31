@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Zwei Sullivans in Alaska - wollen Demokraten die Wahl manipulieren?",
-      "summary": "Bei den US-Zwischenwahlen in Alaska sorgt namensgleiche Konkurrenz um den Senatsposten für Aufsehen. Das Justizministerium klagt nun wegen möglicher Wahlmanipulation, die den republikanischen Amtsinhaber Sullivan treffen könnte."
+      "headline": "US-Midterms: Kippt ausgerechnet Texas?",
+      "summary": "Die Zwischenwahlen in den USA am Dienstag könnten mit einem überraschenden Sieg für einen Demokraten in Texas enden, einem Bundesstaat, der traditionell von Republikanern dominiert wird. Dies könnte das politische Gleichgewicht im US-Senat verschieben."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Doch eine Art «assoziiertes Mitglied»: Der Gipfel EU-Kanada endet mit einer Überraschung",
-      "summary": "Nach langen internen Debatten setzte sich Ursula von der Leyen mit ihrer Vision durch, Kanada zum ersten \"assoziierten Mitglied\" der EU zu machen. Diese Entwicklung könnte Auswirkungen auf die Beziehungen zu Nicht-EU-Ländern wie der Schweiz haben."
+      "headline": "EU will Kanada als 'assoziiertes Mitglied' trotz Widerstand",
+      "summary": "EU-Kommissionspräsidentin Ursula von der Leyen setzt sich dafür ein, Kanada trotz Widerstands aus Deutschland und anderen Mitgliedstaaten als \"erstes assoziiertes Mitglied\" der EU aufzunehmen. Dies könnte weitreichende Auswirkungen auf die Beziehungen zu Nicht-EU-Ländern wie der Schweiz haben."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Bei der EZB wird die Lagarde-Nachfolge wohl zum Duell Falke gegen Taube, Niederländer gegen Spanier",
-      "summary": "Die Nachfolge von Christine Lagarde an der EZB-Spitze zeichnet sich als politisches Ringen zwischen Kandidaten ab, die für unterschiedliche geldpolitische Ansätze stehen. Die Euro-Länder müssen sich auf einen ausgewiesenen Experten einigen, der die zukünftige Ausrichtung maßgeblich prägen wird."
+      "headline": "EZB-Lagarde-Nachfolge: Duell Falke gegen Taube",
+      "summary": "Die Nachfolge von EZB-Chefin Christine Lagarde könnte zu einem politischen Tauziehen zwischen einem 'Falken' und einer 'Taube' aus den Niederlanden und Spanien werden. Die Euro-Länder müssen sich auf einen ausgewiesenen Geldpolitik-Experten einigen, was die künftige Zinspolitik beeinflusst."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der Gaspreis knackt die 100-Euro-Marke: Europa droht ein ungemütlicher Winter",
-      "summary": "Der Gaspreis überschreitet die 100-Euro-Marke, was Europa vor einen potenziell ungemütlichen Winter stellt. Ein harter Konkurrenzkampf um begrenzte Lieferungen aus Nahost und die Ächtung Russlands als Lieferant treiben die Preise in die Höhe."
+      "headline": "Gaspreis knackt 100-Euro-Marke: Ungemütlicher Winter droht",
+      "summary": "Der Gaspreis hat die 100-Euro-Marke überschritten, da ein harter Konkurrenzkampf um wenige Frachten aus Nahost tobt und Russland als Lieferant ausfällt. Europa muss sich auf einen weiteren Preisschub und einen potenziell ungemütlichen Winter einstellen, der die Inflation befeuern könnte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Chip im Kopf: Wenn Computer Gedanken verstehen lernen",
-      "summary": "Was lange Science-Fiction war, ist Realität geworden: Chips im Gehirn ermöglichen es gelähmten Menschen, Computer durch Gedanken zu steuern. Forscher erhoffen sich neue Therapien, während Ethiker vor potenziellen Risiken warnen."
+      "headline": "Grösster Hackerangriff auf Krypto-Börse Binance",
+      "summary": "Die weltweit größte Krypto-Börse Binance wurde Opfer des bisher größten Hackerangriffs, bei dem über 6 Milliarden Dollar entwendet wurden. Rund die Hälfte der gestohlenen Gelder konnte eingefroren werden, Spuren führen nach Nordkorea."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Hacker lancieren bisher grössten Angriff auf Krypto-Börse Binance: Mehr als 6 Milliarden Dollar sind betroffen",
-      "summary": "Die weltgrößte Kryptobörse Binance wurde Opfer des größten Hackerangriffs ihrer Geschichte, bei dem über 6 Milliarden Dollar gestohlen wurden. Rund die Hälfte der Gelder konnte eingefroren werden, wobei die Spuren des Angriffs nach Nordkorea führen."
+      "headline": "Amazon und Alphabet enttäuschen Anleger im KI-Zeitalter",
+      "summary": "Tech-Riesen wie Amazon und Alphabet zeigen in ihrem traditionellen Geschäft unerwartete Schwächen, was die Anleger enttäuscht. Kritiker hinterfragen die Nachhaltigkeit des starken Ausbaus der KI-Infrastruktur angesichts der Ergebnisse."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "summary": "Salesforce setzt seine Akquisitionsstrategie fort und übernimmt das Verteidigungs-Tech-Startup Rune für geschätzte 375 Millionen US-Dollar. Diese Übernahme soll die \"Missionforce\"-Verteidigungsplattform des CRM-Riesen stärken."
+      "headline": "OpenAI senkt Finanzierungsziel für neue Runde",
+      "summary": "OpenAI hat Berichten zufolge sein Finanzierungsziel für die aktuelle Runde gesenkt, was auf gedämpfte Erwartungen hindeutet. Dies könnte die Bewertung des führenden KI-Startups und die Stimmung im Tech-VC-Markt beeinflussen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "summary": "Nvidia erwägt, als Bürge für Nscale’s KI-Rechenzentrum in West Virginia aufzutreten, was Investoren beruhigen könnte. In Zeiten, in denen Investoren wegen der KI-Ausgaben nervös werden, hilft die Unterstützung des führenden Chipherstellers, die Finanzierung zu sichern."
+      "headline": "Salesforce kauft Tech-Startup Rune für 375 Mio. USD",
+      "summary": "Salesforce setzt seine M&A-Strategie fort und erwirbt Berichten zufolge das Verteidigungs-Tech-Startup Rune für 375 Millionen US-Dollar. Die KI-Logistiklösung von Rune soll die 'Missionforce'-Verteidigungsplattform des CRM-Giganten stärken."
     }
   ],
   "learning": {
-    "topic": "Startup-Metriken verstehen: ARR, Burn Rate & Churn",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Kennzahlen sind entscheidend, um die finanzielle Gesundheit und das Wachstumspotenzial eines Startups zu beurteilen und werden von Investoren genau analysiert.",
-    "details": "ARR (Annual Recurring Revenue) ist der vorhersehbare Umsatz, den ein Unternehmen aus wiederkehrenden Verträgen über 12 Monate generiert, und zeigt die Skalierbarkeit des Geschäftsmodells. Die Burn Rate beziffert den monatlichen Cashflow-Verlust eines Startups, um die Geschäftstätigkeit aufrechtzuerhalten, und bestimmt die verbleibende \"Runway\". Churn (Kundenabwanderung) ist der Prozentsatz der Kunden oder des Umsatzes, der in einem Zeitraum verloren geht, und indiziert Probleme bei der Kundenbindung oder im Produkt-Markt-Fit. Diese Metriken helfen, die Effizienz der Kapitalnutzung und die Attraktivität für potenzielle Investoren zu bewerten.",
-    "takeaway": "ARR gibt Aufschluss über den wiederkehrenden Erfolg, die Burn Rate über die Überlebensfähigkeit und Churn über die Kundenbindung eines Startups. Ein tiefes Verständnis dieser Kennzahlen ist für jede fundierte Investitionsentscheidung unerlässlich."
+    "topic": "Pre-Money vs. Post-Money Bewertung in Finanzierungsrunden",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups *vor* einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert *nach* der Kapitalzufuhr durch neue Investoren darstellt. Sie sind entscheidend, um den Anteil der Altgesellschafter und die Eigentumsverhältnisse nach der Investition zu bestimmen.",
+    "details": "Stellen Sie sich vor, ein Startup ist vor einer Finanzierungsrunde 10 Millionen Euro wert (Pre-Money). Wenn ein Investor 2 Millionen Euro für neue Anteile in das Unternehmen steckt, erhöht sich der Gesamtwert des Unternehmens. Die Post-Money-Bewertung ist dann die Summe aus der Pre-Money-Bewertung und dem investierten Kapital, also 10 Mio. + 2 Mio. = 12 Millionen Euro. Die 2 Millionen Euro des Investors machen somit 2/12 oder 16,67% des Unternehmens aus. Ohne die Unterscheidung würde man fälschlicherweise annehmen, dass die 2 Millionen Euro einen Anteil von 2/10 oder 20% ausmachen, was zu einer Übervorteilung der Investoren und einer stärkeren Verwässerung der Altgesellschafter führen würde. Diese Konzepte sind fundamental für die Berechnung von Anteilsverwässerung und die Preisgestaltung neuer Aktien.",
+    "takeaway": "Die Unterscheidung zwischen Pre-Money und Post-Money ist essenziell, um faire Anteilsverhältnisse nach einer Finanzierungsrunde zu gewährleisten und die Verwässerung bestehender Eigentümer korrekt zu berechnen. Investiertes Kapital wird immer zur Pre-Money-Bewertung addiert, um die Gesamtbewertung des Unternehmens nach der Finanzierung zu erhalten."
   }
 }
