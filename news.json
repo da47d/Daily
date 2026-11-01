@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Polen: Tusk beklagt Angriff auf 'Demokratie und Rechtsstaat'",
-      "summary": "Nach einem Vorfall am Verfassungsgericht, bei dem Polens Präsident eine Richterin drängte, wirft Regierungschef Tusk der Opposition einen Angriff auf Demokratie und Rechtsstaat vor. Die internen Spannungen in Polen signalisieren eine anhaltende politische Instabilität, die auch auf europäischer Ebene Beachtung findet."
+      "headline": "Russlandfreundliche Präsidentin Jotowa gewinnt Stichwahl in Bulgarien",
+      "summary": "Bulgariens Amtsinhaberin Jotowa, bekannt als 'Präsidentin des Friedens' mit russlandfreundlicher Haltung, gewann die Stichwahl gegen Gjurow. Ihr Sieg könnte die geopolitische Ausrichtung des Landes in der Region stärken."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
-      "summary": "Nach seiner Wahlniederlage in Brasilien hat sich der Präsidentschaftskandidat Flávio Bolsonaro in die USA abgesetzt, wo ihm Präsident Trump unbefristeten Aufenthalt zusagte. Diese Geste unterstreicht die fortgesetzten internationalen politischen Verbindungen und die potenziellen Auswirkungen auf die globale Diplomatie."
+      "headline": "Golfstaaten rüsten angesichts drohender Eskalation im Iran-Krieg auf",
+      "summary": "Die Sorge vor einer erneuten Eskalation im Iran-Krieg wächst, was die Golfstaaten zu Aufrüstung veranlasst. Eine Konferenz mit internationalen Politikern und Experten berät über die weitreichenden regionalen und globalen Folgen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Bei der EZB wird die Lagarde-Nachfolge wohl zum Duell Falke gegen Taube",
-      "summary": "Die Nachfolge von EZB-Präsidentin Christine Lagarde zeichnet sich als Duell zwischen geldpolitischen 'Falken' und 'Tauben' ab, mit niederländischen und spanischen Kandidaten an der Spitze. Diese Entscheidung ist entscheidend für die künftige Geldpolitik der Eurozone und könnte weitreichende Auswirkungen auf Inflation und Zinsen haben."
+      "headline": "EZB-Nachfolge: Duell um Lagardes Posten könnte Geldpolitik prägen",
+      "summary": "Die Nachfolge von EZB-Präsidentin Christine Lagarde wird voraussichtlich zu einem Duell zwischen einem niederländischen 'Falken' und einer spanischen 'Taube'. Die Entscheidung wird die zukünftige Geldpolitik der Eurozone maßgeblich beeinflussen und erfordert eine politische Einigung der Euro-Länder."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Platzt gerade die KI-Blase, oder sind die Investoren bloss nervös?",
-      "summary": "Seit drei Wochen sinken die Kurse von Tech-Aktien, was die Frage aufwirft, ob die KI-Blase platzt oder ob Investoren lediglich nervös auf die Zwischenwahlen in den USA reagieren. Diese Entwicklung deutet auf eine erhöhte Volatilität im Technologiesektor hin, die ein genaues Beobachten der Markttrends erfordert."
+      "headline": "Nordkoreanischer Milliarden-Hack bei Binance schürt Zweifel an Krypto-Sicherheit",
+      "summary": "Das FBI bestätigte Nordkorea als Urheber der größten Kryptobörsen-Attacke auf Binance, bei der über 6 Milliarden Dollar gestohlen wurden. Binance hat Auszahlungen wieder aufgenommen und 95% des Schadens gedeckt, was jedoch Fragen nach der Sicherheit von Krypto-Anlagen auf Börsen aufwirft."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
-      "summary": "Künstliche Intelligenz ist im Alltag allgegenwärtig und verändert die Entwicklung neuer Produkte, Werbung und sogar die Gestaltung des Zuhauses. Während KI oft Zeit spart, wirft sie auch grundlegende Fragen nach menschlicher Kreativität, Arbeitsplätzen und dem Vertrauen in automatisierte Prozesse auf."
+      "headline": "NASA beendet einjährige Mars-Simulation für zukünftige Raumfahrtmissionen",
+      "summary": "Nach einem Jahr in Isolation wurde ein NASA-Experiment zur Simulation des Lebens auf dem Mars erfolgreich abgeschlossen. Die Erkenntnisse von vier Teilnehmern auf 160 Quadratmetern sind entscheidend für die Planung echter interplanetarer Missionen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Apple CEO sagt, das Unternehmen wolle 'KI nicht um der KI willen ausliefern'",
-      "summary": "Der neue CEO von Apple verteidigte die aktuelle Position des Unternehmens in der KI-Landschaft und betonte einen vorsichtigen und zielgerichteten Ansatz bei der Integration von KI-Technologien. Diese Aussage deutet auf Apples Strategie hin, KI-Lösungen nur dann einzuführen, wenn sie echten Mehrwert für die Nutzer bieten, und nicht nur, um einem Trend zu folgen."
+      "headline": "TikTok auf dem Weg zur Super-App: Expansion über Social Media hinaus",
+      "summary": "TikTok baut sein Angebot massiv aus und integriert Funktionen von Restaurant-Guides bis zu Zahlungsdiensten, um eine umfassende Super-App zu werden. Diese Strategie zielt darauf ab, die digitale Nutzung zu konsolidieren und die Plattform zum zentralen Anlaufpunkt für diverse Alltagsaktivitäten zu erweitern."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI senkt offenbar Finanzierungsziel für neue Runde",
-      "summary": "Berichten zufolge hat OpenAI, ein führendes Unternehmen im Bereich Künstliche Intelligenz, sein Finanzierungsziel für die aktuelle Runde gesenkt. Dies könnte auf eine veränderte Investorenstimmung oder Anpassungen der Unternehmensstrategie in einem sich schnell entwickelnden Markt hindeuten."
+      "headline": "OpenAI senkt Finanzierungsziel: Signal für eine Neujustierung im KI-Markt?",
+      "summary": "OpenAI hat Berichten zufolge das Finanzierungsziel für seine neueste Runde gesenkt, was auf eine mögliche Neujustierung der Investorenstimmung für hochbewertete KI-Startups hindeutet. Dies könnte weitreichende Implikationen für die zukünftige Kapitalbeschaffung im Sektor haben."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Salesforce setzt M&A-Serie mit 375-Mio.-Dollar-Deal für Verteidigungs-Tech-Startup fort",
-      "summary": "Salesforce setzt seine Akquisitionsstrategie fort und übernimmt das auf KI-Logistik spezialisierte Verteidigungs-Tech-Startup Rune für geschätzte 375 Millionen US-Dollar. Dieser Deal stärkt die 'Missionforce'-Verteidigungsplattform des CRM-Riesen und zeigt die Integration von KI in kritische Sektoren."
+      "headline": "Blick hinter die Kulissen: Investoren der VCs sprechen über Kapitalflüsse und Marktstress",
+      "summary": "Die 'Limited Partners', also die Investoren hinter den Venture-Capital-Fonds, äußern sich zufrieden über die Performance, beleuchten aber auch den Druck durch Kapitalflüsse und Auszahlungen. Ihre Einblicke geben Aufschluss über die aktuelle Dynamik und Herausforderungen im gesamten VC-Ökosystem."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Wenn Leerverkäufer in die Falle tappen",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein Phänomen, bei dem ein starker Kursanstieg einer Aktie Leerverkäufer zwingt, ihre Positionen zu schließen, was den Kurs weiter in die Höhe treibt.",
-    "details": "Wenn viele Anleger auf einen fallenden Kurs einer Aktie wetten (Leerverkauf), leihen sie sich Aktien, verkaufen diese und hoffen, sie später zu einem niedrigeren Preis zurückzukaufen. Steigt der Kurs jedoch unerwartet stark an, geraten Leerverkäufer unter Druck, die geliehenen Aktien zurückzukaufen, um Verluste zu begrenzen. Dieser plötzliche Kaufdruck – das 'Squeezing' – führt zu einer Kettenreaktion, die den Aktienkurs explosionsartig steigen lässt, da immer mehr Leerverkäufer gleichzeitig ihre Positionen eindecken müssen.",
-    "takeaway": "Ein Short Squeeze zeigt die Macht der kollektiven Marktpsychologie und kann für Leerverkäufer existenzbedrohend sein, während er für andere Anleger enorme Gewinne bedeuten kann. Es ist ein klassisches Beispiel für eine Marktineffizienz, die durch Herdenverhalten verstärkt wird."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach Erhalt des neuen Kapitals beschreibt. Sie sind entscheidend für die Berechnung der Anteilsverteilung.",
+    "details": "Wenn Investoren in ein Startup einsteigen, zahlen sie für einen bestimmten Anteil am Unternehmen. Die Pre-Money-Bewertung ist die Grundlage, auf der dieser Anteil berechnet wird. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Vereinfacht: Pre-Money + Investment = Post-Money. Diese Kennzahlen bestimmen, wie viele Anteile die neuen Investoren für ihr Kapital erhalten und wie stark die Anteile der Gründer verwässert werden. Ein Verständnis dieser Begriffe ist zentral, um den Wert des Unternehmens und die Verteilung des Eigentums nach einer Finanzierungsrunde zu erfassen.",
+    "takeaway": "Bei Finanzierungsrunden ist das Verständnis von Pre-Money und Post-Money-Bewertung unerlässlich, um die Equity-Verteilung und die Anteile der Investoren korrekt zu interpretieren."
   }
 }
