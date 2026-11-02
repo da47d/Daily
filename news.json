@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russlandfreundliche Präsidentin Jotowa gewinnt Stichwahl in Bulgarien",
-      "summary": "Bulgariens Amtsinhaberin Jotowa, bekannt als 'Präsidentin des Friedens' mit russlandfreundlicher Haltung, gewann die Stichwahl gegen Gjurow. Ihr Sieg könnte die geopolitische Ausrichtung des Landes in der Region stärken."
+      "headline": "Vor den US-Zwischenwahlen: Wie ist Trumps Wirtschaftsbilanz?",
+      "summary": "Kurz vor den US-Zwischenwahlen stehen Trumps wirtschaftliche Erfolge und Misserfolge im Fokus. Trotz Wirtschaftswachstum belasten hohe Lebenshaltungskosten viele Amerikaner, während der Arbeitsmarkt an Schwung verliert und die Staatsverschuldung steigt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Golfstaaten rüsten angesichts drohender Eskalation im Iran-Krieg auf",
-      "summary": "Die Sorge vor einer erneuten Eskalation im Iran-Krieg wächst, was die Golfstaaten zu Aufrüstung veranlasst. Eine Konferenz mit internationalen Politikern und Experten berät über die weitreichenden regionalen und globalen Folgen."
+      "headline": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
+      "summary": "Die Anleger zeigen sich vor den anstehenden US-Zwischenwahlen zurückhaltend, was den DAX zum Wochenstart leicht sinken lässt. Investoren warten zudem mit Spannung auf die aktuellen Apple-Zahlen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EZB-Nachfolge: Duell um Lagardes Posten könnte Geldpolitik prägen",
-      "summary": "Die Nachfolge von EZB-Präsidentin Christine Lagarde wird voraussichtlich zu einem Duell zwischen einem niederländischen 'Falken' und einer spanischen 'Taube'. Die Entscheidung wird die zukünftige Geldpolitik der Eurozone maßgeblich beeinflussen und erfordert eine politische Einigung der Euro-Länder."
+      "headline": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
+      "summary": "Hohe Mieten und der Mangel an bezahlbarem Wohnraum behindern die berufliche Mobilität in Deutschland. Dies erschwert Unternehmen die Fachkräftesuche und bremst das Wirtschaftswachstum."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Nordkoreanischer Milliarden-Hack bei Binance schürt Zweifel an Krypto-Sicherheit",
-      "summary": "Das FBI bestätigte Nordkorea als Urheber der größten Kryptobörsen-Attacke auf Binance, bei der über 6 Milliarden Dollar gestohlen wurden. Binance hat Auszahlungen wieder aufgenommen und 95% des Schadens gedeckt, was jedoch Fragen nach der Sicherheit von Krypto-Anlagen auf Börsen aufwirft."
+      "headline": "Absage an Roms Dirigismus: Der Markt ordnet Italiens Bankenwelt neu",
+      "summary": "Die Aktionäre der Bank Monte dei Paschi haben den Weg für eine Übernahme durch Intesa Sanpaolo freigemacht. Dies markiert eine marktorientierte Neuordnung im italienischen Bankensektor, mit Intesa-Chef Messinas Blick auf Generali."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "NASA beendet einjährige Mars-Simulation für zukünftige Raumfahrtmissionen",
-      "summary": "Nach einem Jahr in Isolation wurde ein NASA-Experiment zur Simulation des Lebens auf dem Mars erfolgreich abgeschlossen. Die Erkenntnisse von vier Teilnehmern auf 160 Quadratmetern sind entscheidend für die Planung echter interplanetarer Missionen."
+      "headline": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
+      "summary": "Cyberkriminelle haben Supermärkte in Europa, insbesondere in Belgien und Schweden, angegriffen und Kühlketten unterbrochen. Dies führte zu warmer Ware und Versorgungsstörungen, nicht zum ersten Mal in jüngster Zeit."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "TikTok auf dem Weg zur Super-App: Expansion über Social Media hinaus",
-      "summary": "TikTok baut sein Angebot massiv aus und integriert Funktionen von Restaurant-Guides bis zu Zahlungsdiensten, um eine umfassende Super-App zu werden. Diese Strategie zielt darauf ab, die digitale Nutzung zu konsolidieren und die Plattform zum zentralen Anlaufpunkt für diverse Alltagsaktivitäten zu erweitern."
+      "headline": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+      "summary": "Eine erneute Welle von Cyberattacken hat europäische Supermarkt-Kühlsysteme getroffen, was zu massiver Lebensmittelzerstörung führt. Dies ist bereits die zweite Angriffswelle innerhalb eines Monats, die Lieferketten unterbricht."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI senkt Finanzierungsziel: Signal für eine Neujustierung im KI-Markt?",
-      "summary": "OpenAI hat Berichten zufolge das Finanzierungsziel für seine neueste Runde gesenkt, was auf eine mögliche Neujustierung der Investorenstimmung für hochbewertete KI-Startups hindeutet. Dies könnte weitreichende Implikationen für die zukünftige Kapitalbeschaffung im Sektor haben."
+      "headline": "Zürcher Startup baut KI-Mitarbeiter: «Die haben keine Launen und machen, was man ihnen sagt»",
+      "summary": "Ein Zürcher Startup entwickelt KI-Mitarbeiter mit Gesicht und E-Mail-Adresse, die bereits bei Unternehmen wie Breitling im Einsatz sind. Die Gründer prognostizieren, dass 'AI Worker' irgendwann jeden Job besser erledigen werden als Menschen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Blick hinter die Kulissen: Investoren der VCs sprechen über Kapitalflüsse und Marktstress",
-      "summary": "Die 'Limited Partners', also die Investoren hinter den Venture-Capital-Fonds, äußern sich zufrieden über die Performance, beleuchten aber auch den Druck durch Kapitalflüsse und Auszahlungen. Ihre Einblicke geben Aufschluss über die aktuelle Dynamik und Herausforderungen im gesamten VC-Ökosystem."
+      "headline": "Platzt gerade die KI-Blase, oder sind die Investoren bloss nervös wegen der Zwischenwahlen in den USA?",
+      "summary": "Tech-Aktienkurse sind seit drei Wochen im Sinkflug, was die Frage aufwirft, ob eine KI-Blase platzt oder Investoren nur wegen der bevorstehenden US-Zwischenwahlen unsicher sind. Es gibt jedoch auch Argumente für einen baldigen Aufwärtstrend."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert nach Erhalt des neuen Kapitals beschreibt. Sie sind entscheidend für die Berechnung der Anteilsverteilung.",
-    "details": "Wenn Investoren in ein Startup einsteigen, zahlen sie für einen bestimmten Anteil am Unternehmen. Die Pre-Money-Bewertung ist die Grundlage, auf der dieser Anteil berechnet wird. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Vereinfacht: Pre-Money + Investment = Post-Money. Diese Kennzahlen bestimmen, wie viele Anteile die neuen Investoren für ihr Kapital erhalten und wie stark die Anteile der Gründer verwässert werden. Ein Verständnis dieser Begriffe ist zentral, um den Wert des Unternehmens und die Verteilung des Eigentums nach einer Finanzierungsrunde zu erfassen.",
-    "takeaway": "Bei Finanzierungsrunden ist das Verständnis von Pre-Money und Post-Money-Bewertung unerlässlich, um die Equity-Verteilung und die Anteile der Investoren korrekt zu interpretieren."
+    "topic": "ETF-Namenszusätze entschlüsseln: Core, IMI, Acc, Dist, UCITS",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "ETF-Namenszusätze sind wie Wegweiser, die dir auf einen Blick zeigen, welche Strategie ein Indexfonds verfolgt und wie er Gewinne behandelt.",
+    "details": "Der Zusatz 'UCITS' zeigt an, dass der ETF EU-Richtlinien erfüllt und als sicher gilt. Ein 'Core'-ETF bildet einen breiten Marktindex kostengünstig ab und ist ideal für die Portfoliobasis. 'IMI' (Investable Market Index) bedeutet, dass der ETF nicht nur Large- und Mid-Caps, sondern auch Small-Caps umfasst, was eine breitere Marktabdeckung bietet. Bei 'Acc' (Accumulating) werden Erträge wie Dividenden direkt wieder in den Fonds reinvestiert, was den Zinseszinseffekt maximiert. 'Dist' (Distributing) bedeutet hingegen, dass Erträge regelmäßig an die Anleger ausgezahlt werden und ein passives Einkommen generieren können. Diese Zusätze helfen dir, schnell den passenden ETF für deine Investmentziele zu finden und die Funktionsweise zu verstehen.",
+    "takeaway": "Das Verständnis dieser Kürzel erlaubt eine schnelle Einordnung von ETFs nach Anlagestrategie und Dividendenbehandlung, was für fundierte Investitionsentscheidungen unerlässlich ist."
   }
 }
