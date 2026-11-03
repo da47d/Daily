@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
-      "summary": "Die US-Zwischenwahlen sind entscheidend für die politische Zukunft Trumps und die Entwicklung der US-Demokratie. Ein ungünstiges Ergebnis für die Republikaner könnte das Regieren erschweren und die Politik Trumps weiterhin herausfordern."
+      "headline": "Die US-Midterms - die nächste wichtige Wahl für Israel",
+      "summary": "Die US-Zwischenwahlen könnten weitreichende Folgen für Israels Sicherheitspolitik haben, insbesondere im Hinblick auf potenzielle Veränderungen in der US-Nahost-Politik. Auch im Nahen Osten wird mit Spannung auf die Tage nach den Midterms geblickt."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Krieg gegen die Ukraine: Russland bombardiert Krankenhaus in Charkiw",
-      "summary": "Russland setzt seine Angriffe in der Ukraine fort und bombardiert medizinische Einrichtungen sowie Energieanlagen in Charkiw. Präsident Selenskyj ist unterdessen in Berlin eingetroffen."
+      "headline": "Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde",
+      "summary": "Eine Niederlage Trumps bei den US-Midterms könnte die USA berechenbarer für die Europäische Union machen. Dies hätte potenzielle Auswirkungen auf die transatlantischen Beziehungen und die globale Stabilität."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "«Konzentrierter Energieschock»: Überall steigt die Inflation – jetzt auch in der Schweiz",
-      "summary": "Die Inflation in der Schweiz stieg im Oktober um 1,5% gegenüber dem Vorjahr, hauptsächlich getrieben durch hohe Energiepreise und den starken Franken. Ökonomen sehen jedoch keine breit abgestützte Teuerung."
+      "headline": "Renten könnten 2027 um 4,1 Prozent steigen",
+      "summary": "Deutsche Rentner könnten sich auf eine kräftige Rentenerhöhung von über vier Prozent im kommenden Jahr freuen. Dies geht aus dem Rentenversicherungsbericht der Bundesregierung hervor."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Absage an Roms Dirigismus: Der Markt ordnet Italiens Bankenwelt neu",
-      "summary": "Aktionäre der Bank Monte dei Paschi haben den Weg für eine Übernahme durch Intesa Sanpaolo freigemacht. Intesa-Chef Carlo Messina zielt jedoch primär auf den Versicherungskonzern Generali ab."
+      "headline": "«Konzentrierter Energieschock»: Überall steigt die Inflation – jetzt auch in der Schweiz",
+      "summary": "Die Inflation in der Schweiz ist im Oktober sprunghaft angestiegen, primär getrieben durch hohe Energiepreise und den starken Franken. Ökonomen sehen jedoch keine breit abgestützte Inflation."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Starkes iPhone-Geschäft sorgt für Rekordumsatz bei Apple",
-      "summary": "Apple übertraf die Erwartungen mit Rekordumsätzen im dritten Quartal, angetrieben durch ein starkes iPhone-Geschäft. Trotz dieser positiven Entwicklung fiel die Aktie des Tech-Riesen."
+      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko steht erneut vor Gericht",
+      "summary": "Das Immobilien- und Detailhandelsimperium des österreichischen Investors René Benko ist zusammengebrochen und steckt in einem Insolvenzverfahren. Benko selbst steht im Zuge dessen erneut vor Gericht."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "summary": "Anthropic warnt, dass die Entwicklung der künstlichen Intelligenz (KI) kurz vor dem 'Recursive Self-Improvement' (RSI) steht. Dieser Punkt markiert eine dramatische Beschleunigung der KI-Fähigkeiten durch Selbsttraining."
+      "headline": "Nach Binance-Raub: Das Crypto Valley rüstet sich gegen weitere Cyberangriffe",
+      "summary": "Nach dem massiven Hackerangriff auf Binance rüstet sich das Schweizer \"Crypto Valley\" gegen weitere Cyberangriffe. Die Vorfälle zeigen die wachsende Bedrohung für die Krypto-Branche und deren Sicherheitslücken."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-      "summary": "Evertrue Capital hat einen Debutfonds von 17 Millionen US-Dollar aufgelegt, um frühe KI- und Fintech-Startups in Europa zu unterstützen. Yvonne Bajela bringt damit frisches Kapital in die europäische Startup-Landschaft."
+      "headline": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "summary": "Ballistic Ventures, ein auf Cybersicherheit spezialisierter VC-Fonds, strebt die Beschaffung von 490 Millionen US-Dollar für neue Fonds an. Dies unterstreicht den anhaltenden Boom im Bereich der KI-gesteuerten Cybersicherheit."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "summary": "Das einjährige Startup Trajectory hat 45 Millionen US-Dollar an Finanzierung erhalten, um KI-Modelltraining auch für nicht-technische Experten zugänglich zu machen. Das Unternehmen wird nun mit 300 Millionen US-Dollar bewertet."
+      "headline": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "Das fünf Jahre alte KI-Inferenz-Startup Fal hat seine Bewertung in einer neuen Finanzierungsrunde auf 16 Milliarden US-Dollar verdoppelt. Die hohe Nachfrage nach KI-Lösungen treibt das Wachstum des Unternehmens an."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung in Finanzierungsrunden",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer Investition, während die Post-Money-Bewertung den Wert nach dem Eingang des neuen Kapitals darstellt.",
-    "details": "Wenn ein Startup Kapital von Investoren erhält, müssen Gründer und Investoren den Unternehmenswert bestimmen. Die Pre-Money-Bewertung beziffert den Wert des Startups, bevor das frische Geld tatsächlich überwiesen wird. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung, also den Unternehmenswert unmittelbar nach der Finanzierungsrunde. Diese Kennzahlen sind entscheidend, um den Anteil zu berechnen, den Investoren für ihr Kapital am Unternehmen erhalten, und um die Verwässerung der Anteile bestehender Gesellschafter zu bestimmen.",
-    "takeaway": "Die Pre-Money-Bewertung hilft zu verstehen, wie viel ein Investor für einen bestimmten Anteil bezahlt; die Post-Money-Bewertung zeigt den neuen Gesamtwert des Unternehmens nach der Kapitalaufnahme."
+    "topic": "Startup-Metriken entschlüsseln: SaaS, B2B, ARR, Burn Rate, Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Diese Lektion erklärt zentrale Kennzahlen und Abkürzungen aus der Startup- und Tech-Welt, die für das Verständnis des Geschäftsmodells und der Performance unerlässlich sind.",
+    "details": "SaaS (Software as a Service) ist ein Modell, bei dem Software abonnementbasiert über das Internet bereitgestellt wird. B2B (Business-to-Business) beschreibt Unternehmen, die ihre Produkte an andere Unternehmen verkaufen. ARR (Annual Recurring Revenue) ist der prognostizierte wiederkehrende Jahresumsatz aus Abonnements. Die Burn Rate zeigt, wie schnell ein Startup seine Barmittel aufbraucht, während die Churn Rate misst, wie viele Kunden ein Abonnement kündigen.",
+    "takeaway": "Das Verständnis dieser Metriken ist entscheidend, um die Gesundheit, das Wachstumspotenzial und das Risiko von Startups, insbesondere im SaaS-Bereich, zu beurteilen und fundierte Investitionsentscheidungen zu treffen."
   }
 }
