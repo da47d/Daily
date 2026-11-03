@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Vor den US-Zwischenwahlen: Wie ist Trumps Wirtschaftsbilanz?",
-      "summary": "Kurz vor den US-Zwischenwahlen stehen Trumps wirtschaftliche Erfolge und Misserfolge im Fokus. Trotz Wirtschaftswachstum belasten hohe Lebenshaltungskosten viele Amerikaner, während der Arbeitsmarkt an Schwung verliert und die Staatsverschuldung steigt."
+      "headline": "Wahlen in den USA: Wie geht es nach den Midterms weiter? Vier Szenarien",
+      "summary": "Die US-Zwischenwahlen sind entscheidend für die politische Zukunft Trumps und die Entwicklung der US-Demokratie. Ein ungünstiges Ergebnis für die Republikaner könnte das Regieren erschweren und die Politik Trumps weiterhin herausfordern."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
-      "summary": "Die Anleger zeigen sich vor den anstehenden US-Zwischenwahlen zurückhaltend, was den DAX zum Wochenstart leicht sinken lässt. Investoren warten zudem mit Spannung auf die aktuellen Apple-Zahlen."
+      "headline": "Krieg gegen die Ukraine: Russland bombardiert Krankenhaus in Charkiw",
+      "summary": "Russland setzt seine Angriffe in der Ukraine fort und bombardiert medizinische Einrichtungen sowie Energieanlagen in Charkiw. Präsident Selenskyj ist unterdessen in Berlin eingetroffen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
-      "summary": "Hohe Mieten und der Mangel an bezahlbarem Wohnraum behindern die berufliche Mobilität in Deutschland. Dies erschwert Unternehmen die Fachkräftesuche und bremst das Wirtschaftswachstum."
+      "headline": "«Konzentrierter Energieschock»: Überall steigt die Inflation – jetzt auch in der Schweiz",
+      "summary": "Die Inflation in der Schweiz stieg im Oktober um 1,5% gegenüber dem Vorjahr, hauptsächlich getrieben durch hohe Energiepreise und den starken Franken. Ökonomen sehen jedoch keine breit abgestützte Teuerung."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "Absage an Roms Dirigismus: Der Markt ordnet Italiens Bankenwelt neu",
-      "summary": "Die Aktionäre der Bank Monte dei Paschi haben den Weg für eine Übernahme durch Intesa Sanpaolo freigemacht. Dies markiert eine marktorientierte Neuordnung im italienischen Bankensektor, mit Intesa-Chef Messinas Blick auf Generali."
+      "summary": "Aktionäre der Bank Monte dei Paschi haben den Weg für eine Übernahme durch Intesa Sanpaolo freigemacht. Intesa-Chef Carlo Messina zielt jedoch primär auf den Versicherungskonzern Generali ab."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
-      "summary": "Cyberkriminelle haben Supermärkte in Europa, insbesondere in Belgien und Schweden, angegriffen und Kühlketten unterbrochen. Dies führte zu warmer Ware und Versorgungsstörungen, nicht zum ersten Mal in jüngster Zeit."
+      "headline": "Starkes iPhone-Geschäft sorgt für Rekordumsatz bei Apple",
+      "summary": "Apple übertraf die Erwartungen mit Rekordumsätzen im dritten Quartal, angetrieben durch ein starkes iPhone-Geschäft. Trotz dieser positiven Entwicklung fiel die Aktie des Tech-Riesen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
-      "summary": "Eine erneute Welle von Cyberattacken hat europäische Supermarkt-Kühlsysteme getroffen, was zu massiver Lebensmittelzerstörung führt. Dies ist bereits die zweite Angriffswelle innerhalb eines Monats, die Lieferketten unterbricht."
+      "headline": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "Anthropic warnt, dass die Entwicklung der künstlichen Intelligenz (KI) kurz vor dem 'Recursive Self-Improvement' (RSI) steht. Dieser Punkt markiert eine dramatische Beschleunigung der KI-Fähigkeiten durch Selbsttraining."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Zürcher Startup baut KI-Mitarbeiter: «Die haben keine Launen und machen, was man ihnen sagt»",
-      "summary": "Ein Zürcher Startup entwickelt KI-Mitarbeiter mit Gesicht und E-Mail-Adresse, die bereits bei Unternehmen wie Breitling im Einsatz sind. Die Gründer prognostizieren, dass 'AI Worker' irgendwann jeden Job besser erledigen werden als Menschen."
+      "headline": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "summary": "Evertrue Capital hat einen Debutfonds von 17 Millionen US-Dollar aufgelegt, um frühe KI- und Fintech-Startups in Europa zu unterstützen. Yvonne Bajela bringt damit frisches Kapital in die europäische Startup-Landschaft."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Platzt gerade die KI-Blase, oder sind die Investoren bloss nervös wegen der Zwischenwahlen in den USA?",
-      "summary": "Tech-Aktienkurse sind seit drei Wochen im Sinkflug, was die Frage aufwirft, ob eine KI-Blase platzt oder Investoren nur wegen der bevorstehenden US-Zwischenwahlen unsicher sind. Es gibt jedoch auch Argumente für einen baldigen Aufwärtstrend."
+      "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "Das einjährige Startup Trajectory hat 45 Millionen US-Dollar an Finanzierung erhalten, um KI-Modelltraining auch für nicht-technische Experten zugänglich zu machen. Das Unternehmen wird nun mit 300 Millionen US-Dollar bewertet."
     }
   ],
   "learning": {
-    "topic": "ETF-Namenszusätze entschlüsseln: Core, IMI, Acc, Dist, UCITS",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "ETF-Namenszusätze sind wie Wegweiser, die dir auf einen Blick zeigen, welche Strategie ein Indexfonds verfolgt und wie er Gewinne behandelt.",
-    "details": "Der Zusatz 'UCITS' zeigt an, dass der ETF EU-Richtlinien erfüllt und als sicher gilt. Ein 'Core'-ETF bildet einen breiten Marktindex kostengünstig ab und ist ideal für die Portfoliobasis. 'IMI' (Investable Market Index) bedeutet, dass der ETF nicht nur Large- und Mid-Caps, sondern auch Small-Caps umfasst, was eine breitere Marktabdeckung bietet. Bei 'Acc' (Accumulating) werden Erträge wie Dividenden direkt wieder in den Fonds reinvestiert, was den Zinseszinseffekt maximiert. 'Dist' (Distributing) bedeutet hingegen, dass Erträge regelmäßig an die Anleger ausgezahlt werden und ein passives Einkommen generieren können. Diese Zusätze helfen dir, schnell den passenden ETF für deine Investmentziele zu finden und die Funktionsweise zu verstehen.",
-    "takeaway": "Das Verständnis dieser Kürzel erlaubt eine schnelle Einordnung von ETFs nach Anlagestrategie und Dividendenbehandlung, was für fundierte Investitionsentscheidungen unerlässlich ist."
+    "topic": "Pre-Money vs. Post-Money Bewertung in Finanzierungsrunden",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer Investition, während die Post-Money-Bewertung den Wert nach dem Eingang des neuen Kapitals darstellt.",
+    "details": "Wenn ein Startup Kapital von Investoren erhält, müssen Gründer und Investoren den Unternehmenswert bestimmen. Die Pre-Money-Bewertung beziffert den Wert des Startups, bevor das frische Geld tatsächlich überwiesen wird. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung, also den Unternehmenswert unmittelbar nach der Finanzierungsrunde. Diese Kennzahlen sind entscheidend, um den Anteil zu berechnen, den Investoren für ihr Kapital am Unternehmen erhalten, und um die Verwässerung der Anteile bestehender Gesellschafter zu bestimmen.",
+    "takeaway": "Die Pre-Money-Bewertung hilft zu verstehen, wie viel ein Investor für einen bestimmten Anteil bezahlt; die Post-Money-Bewertung zeigt den neuen Gesamtwert des Unternehmens nach der Kapitalaufnahme."
   }
 }
