@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Die US-Midterms - die nächste wichtige Wahl für Israel",
-      "summary": "Die US-Zwischenwahlen könnten weitreichende Folgen für Israels Sicherheitspolitik haben, insbesondere im Hinblick auf potenzielle Veränderungen in der US-Nahost-Politik. Auch im Nahen Osten wird mit Spannung auf die Tage nach den Midterms geblickt."
+      "headline": "Demokraten-Sieg gibt DAX Rückenwind, aber Tech-Aktien unter Druck",
+      "summary": "Der überraschende Erfolg der US-Demokraten bei den Midterms beflügelt den DAX, gleichzeitig geraten Tech-Aktien aufgrund von Regulierungsbefürchtungen für den KI-Sektor unter Druck. Dies zeigt den direkten Einfluss politischer Wahlergebnisse auf die globale Marktdynamik."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde",
-      "summary": "Eine Niederlage Trumps bei den US-Midterms könnte die USA berechenbarer für die Europäische Union machen. Dies hätte potenzielle Auswirkungen auf die transatlantischen Beziehungen und die globale Stabilität."
+      "headline": "Iran erwartet keinen Kurswechsel der US-Politik nach Midterms",
+      "summary": "Nach der Niederlage von Trumps Republikanern äußert sich die iranische Staatsspitze kämpferisch, während europäische Politiker eine potenziell unberechenbarere Haltung des US-Präsidenten befürchten. Die internationalen Reaktionen spiegeln die Unsicherheit über die künftige US-Außenpolitik wider."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Renten könnten 2027 um 4,1 Prozent steigen",
-      "summary": "Deutsche Rentner könnten sich auf eine kräftige Rentenerhöhung von über vier Prozent im kommenden Jahr freuen. Dies geht aus dem Rentenversicherungsbericht der Bundesregierung hervor."
+      "headline": "Inflation im Euroraum steigt auf 4,0 Prozent",
+      "summary": "Die Teuerung in der Eurozone ist im Oktober auf 4,0 Prozent gestiegen und erreicht damit die höchste Inflationsrate seit September 2023. Besonders die hohen Energiepreise bleiben der Haupttreiber dieser makroökonomischen Entwicklung."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "«Konzentrierter Energieschock»: Überall steigt die Inflation – jetzt auch in der Schweiz",
-      "summary": "Die Inflation in der Schweiz ist im Oktober sprunghaft angestiegen, primär getrieben durch hohe Energiepreise und den starken Franken. Ökonomen sehen jedoch keine breit abgestützte Inflation."
+      "headline": "Lonza übernimmt Merck-Standorte in den USA, Mediamarkt-Saturn wird chinesisch",
+      "summary": "Der Schweizer Biopharma-Hersteller Lonza stärkt seine Position durch die Übernahme von Merck KGaA Produktionsstandorten in den USA. Gleichzeitig erhielt Mediamarkt-Saturn grünes Licht für eine Übernahme durch chinesische Investoren, was globale M&A-Aktivitäten unterstreicht."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko steht erneut vor Gericht",
-      "summary": "Das Immobilien- und Detailhandelsimperium des österreichischen Investors René Benko ist zusammengebrochen und steckt in einem Insolvenzverfahren. Benko selbst steht im Zuge dessen erneut vor Gericht."
+      "headline": "Anthropic entwickelt System zur Identitätsprüfung von KI-Modellen",
+      "summary": "Anthropic arbeitet an 'FlashProve', einem System, das es ermöglichen soll, die Authentizität von KI-Antworten zu überprüfen. Dies soll Transparenz schaffen und sicherstellen, dass KI-Modelle wie behauptet agieren."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Nach Binance-Raub: Das Crypto Valley rüstet sich gegen weitere Cyberangriffe",
-      "summary": "Nach dem massiven Hackerangriff auf Binance rüstet sich das Schweizer \"Crypto Valley\" gegen weitere Cyberangriffe. Die Vorfälle zeigen die wachsende Bedrohung für die Krypto-Branche und deren Sicherheitslücken."
+      "headline": "Orbital Matter 3D-druckt ersten starren Träger im Weltall",
+      "summary": "Das Unternehmen Orbital Matter hat erfolgreich den ersten starren Träger im Vakuum des Weltraums 3D-gedruckt, ein Durchbruch für die In-Space-Fertigung. Diese Innovation könnte zukünftige Weltraum-Rechenzentren und Orbit-Infrastrukturen ermöglichen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "Ballistic Ventures, ein auf Cybersicherheit spezialisierter VC-Fonds, strebt die Beschaffung von 490 Millionen US-Dollar für neue Fonds an. Dies unterstreicht den anhaltenden Boom im Bereich der KI-gesteuerten Cybersicherheit."
+      "headline": "KI-Startup Fal verdoppelt Bewertung auf 16 Milliarden Dollar",
+      "summary": "Das fünf Jahre alte KI-Inferenz-Startup Fal hat seine Bewertung auf 16 Milliarden US-Dollar verdoppelt, nach einer 1,3 Milliarden US-Dollar schweren Finanzierungsrunde unter Führung von Bessemer. Dies spiegelt die immense Nachfrage und das Potenzial im Bereich der KI-Inferenz wider."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "summary": "Das fünf Jahre alte KI-Inferenz-Startup Fal hat seine Bewertung in einer neuen Finanzierungsrunde auf 16 Milliarden US-Dollar verdoppelt. Die hohe Nachfrage nach KI-Lösungen treibt das Wachstum des Unternehmens an."
+      "headline": "Ballistic Ventures sucht 490 Millionen Dollar für neue Cybersecurity-Fonds",
+      "summary": "Der auf Cybersicherheit spezialisierte VC Ballistic Ventures plant, 490 Millionen US-Dollar für neue Fonds zu akquirieren, angetrieben vom Boom im KI-gesteuerten Cybersecurity-Markt. Dies unterstreicht das anhaltende Vertrauen von Investoren in den wachsenden digitalen Sicherheitssektor."
     }
   ],
   "learning": {
-    "topic": "Startup-Metriken entschlüsseln: SaaS, B2B, ARR, Burn Rate, Churn",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Diese Lektion erklärt zentrale Kennzahlen und Abkürzungen aus der Startup- und Tech-Welt, die für das Verständnis des Geschäftsmodells und der Performance unerlässlich sind.",
-    "details": "SaaS (Software as a Service) ist ein Modell, bei dem Software abonnementbasiert über das Internet bereitgestellt wird. B2B (Business-to-Business) beschreibt Unternehmen, die ihre Produkte an andere Unternehmen verkaufen. ARR (Annual Recurring Revenue) ist der prognostizierte wiederkehrende Jahresumsatz aus Abonnements. Die Burn Rate zeigt, wie schnell ein Startup seine Barmittel aufbraucht, während die Churn Rate misst, wie viele Kunden ein Abonnement kündigen.",
-    "takeaway": "Das Verständnis dieser Metriken ist entscheidend, um die Gesundheit, das Wachstumspotenzial und das Risiko von Startups, insbesondere im SaaS-Bereich, zu beurteilen und fundierte Investitionsentscheidungen zu treffen."
+    "topic": "Die Logik hinter Hedgefonds: Mehr als nur Wetten auf den Markt",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Hedgefonds sind private Investmentfonds, die eine breite Palette von komplexen Anlagestrategien nutzen, um absolute Renditen zu erzielen, unabhängig von der allgemeinen Marktentwicklung. Sie versuchen, Risiken abzusichern ('zu hedgen') und gleichzeitig Chancen in verschiedenen Marktbedingungen zu nutzen.",
+    "details": "Im Gegensatz zu traditionellen Fonds, die oft nur 'long' (auf steigende Kurse) gehen, dürfen Hedgefonds flexibler agieren. Sie setzen auf Long- und Short-Positionen, nutzen Derivate, Leerverkäufe und Hebelprodukte, um sowohl von steigenden als auch von fallenden Kursen zu profitieren. Ihre Gebührenstruktur, oft '2 und 20' (2% Managementgebühr und 20% Performancegebühr), und geringe Regulierung ermöglichen ihnen eine agile, aber risikoreichere Strategie. Das Ziel ist es, in jedem Marktumfeld positive Erträge zu erwirtschaften, indem sie sich nicht passiv an einem Index orientieren.",
+    "takeaway": "Hedgefonds sind für ihre absolute Renditeorientierung bekannt und erreichen dies durch eine aktive und oft aggressive Mischung aus Hedging und Spekulation. Für Investoren bieten sie eine potenzielle Diversifikation, erfordern aber auch eine genaue Kenntnis der komplexen Strategien und der damit verbundenen Risiken."
   }
 }
