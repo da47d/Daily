@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump verteidigt Iran-Krieg trotz Wahldebakel bei Midterms",
-      "summary": "US-Präsident Trump bekräftigt nach der Wahlschlappe die Absicht, am Kurs im Iran-Krieg festzuhalten. Dies steht im Gegensatz zu innerparteilicher Kritik, die den Krieg für die Niederlage der Republikaner mitverantwortlich macht."
+      "headline": "Brand auf Öltankern in der Straße von Hormus",
+      "summary": "In der strategisch wichtigen Straße von Hormus sind laut Iran zwei Öltanker in Brand geraten. Teheran blockiert die Meerenge seit Beginn des Iran-Krieges, doch Öltanker riskieren weiterhin die Passage."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Globale Reaktionen auf US-Wahlergebnis: Hoffnung in der EU, Russland setzt auf Trump",
-      "summary": "Der Wahlsieg der US-Demokraten bei den Zwischenwahlen löst weltweit unterschiedliche Reaktionen aus. Während in der EU und Südafrika vorsichtige Hoffnung aufkommt, signalisiert Russland weiterhin Unterstützung für Präsident Trump."
+      "headline": "Hongkongs Aktivist Wong zu weiteren zehn Jahren Haft verurteilt",
+      "summary": "Der prominente Demokratie-Aktivist Joshua Wong wurde in Hongkong unter Chinas 'Sicherheitsgesetz' zu weiteren zehn Jahren Haft verurteilt. Er hatte einst große Proteste für mehr Demokratie angeführt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Inflationsrate in Eurozone steigt auf 4 Prozent; Niederlande schicken Knot ins EZB-Rennen",
-      "summary": "Die Inflationsrate in der Eurozone ist im Oktober auf 4 Prozent gestiegen, was auf anhaltenden Preisdruck hindeutet. Gleichzeitig schlagen die Niederlande Klaas Knot als Nachfolger für Christine Lagarde an der EZB-Spitze vor."
+      "headline": "DAX klettert auf neues Rekordhoch",
+      "summary": "Der DAX hat nach den US-Zwischenwahlen und sinkenden Ölpreisen ein neues Rekordhoch erreicht. Auch erfreuliche Industriedaten trugen zur Euphorie an den Börsen bei."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Signa-Insolvenz: René Benko erneut vor Gericht",
-      "summary": "Das Immobilien- und Detailhandelsreich des österreichischen Investors René Benko ist zusammengebrochen, wobei die Signa-Holding und mehrere Tochtergesellschaften in ein Insolvenzverfahren geraten sind. Benko muss sich deswegen erneut vor Gericht verantworten."
+      "headline": "Bankenpleite stürzt Paraguay in schwere Krise",
+      "summary": "Der Kollaps einer Digitalbank hat Paraguay in eine tiefe Krise gestürzt; Millionen Bürger fürchten um ihre Ersparnisse. Konten sind eingefroren und Renten blockiert, was den Unmut gegen Präsident Peña verstärkt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Google in Finnland unter Beschuss wegen illegaler Waldrodung",
-      "summary": "Google hat in Finnland ohne Erlaubnis 530 Hektar Wald gerodet, um Rechenzentren zu bauen, was zu breitem Widerstand und polizeilichen Ermittlungen führte. Die Behörden haben die Arbeiten vorläufig gestoppt."
+      "headline": "Erstes Humanoid-Robotik-Unternehmen an der Börse",
+      "summary": "Agility, das erste reine Humanoid-Robotik-Unternehmen, feiert sein Debüt an der Nasdaq. Dies markiert einen wichtigen Meilenstein in der Kommerzialisierung humanoider Roboter."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI plant, die US-Wahl 2028 aktiv mitzugestalten",
-      "summary": "OpenAI's Chris Lehane möchte, dass Künstliche Intelligenz die US-Wahl 2028 definiert, indem er einen neuen 'Sozialvertrag' vorschlägt. Dieser soll Amerikanern zugutekommen, aber auch die Geschäftsinteressen des KI-Riesen fördern."
+      "headline": "Apple kürzt offenbar Budgets für interne KI-Nutzung",
+      "summary": "Berichten zufolge kürzt Apple seine Ausgaben für interne KI-Anwendungen in den Ingenieurteams erheblich. Dies könnte auf eine Neuausrichtung oder Effizienzstrategie des Tech-Giganten im KI-Bereich hindeuten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Meta übernimmt KI-Programmier-Startup Conductor",
-      "summary": "Meta hat das KI-Programmier-Startup Conductor übernommen, das Software-Ingenieuren ermöglicht, Teams von Agenten gleichzeitig an verschiedenen Projektaspekten arbeiten zu lassen. Diese Akquisition unterstreicht Metas Engagement im Bereich der Künstlichen Intelligenz."
+      "headline": "YC-Startup vergibt 1 Mio. $ für AI-Materialwissenschaft",
+      "summary": "Das junge YC-Startup Discovered Materials bietet 1 Million US-Dollar für Lösungen zu fünf ungelösten Problemen der Materialwissenschaft für KI. Das Unternehmen nutzt selbst KI, um Chipmaterialien zu finden."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sequoia Capital konsolidiert Geschäft und zieht sich von globaler Expansion zurück",
-      "summary": "Sequoia Capital revidiert seine 20-jährige globale Expansionsstrategie, konsolidiert sich zu einem kleineren, Bay Area-zentrierten Unternehmen und legt gleichzeitig rund 10 Milliarden Dollar in neuen Fonds auf. Dies markiert eine strategische Neuausrichtung des bekannten VC-Fonds."
+      "headline": "Meta übernimmt KI-Coding-Startup Conductor",
+      "summary": "Meta hat das KI-Coding-Startup Conductor übernommen, das Software-Ingenieuren den Einsatz von Agententeams zur gleichzeitigen Bearbeitung von Projektaspekten ermöglicht. Diese Akquisition stärkt Metas KI-Fähigkeiten im Software-Bereich."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang entschlüsseln: SaaS, B2B, ARR & Co.",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Startup-Slang ist eine Sammlung spezifischer Begriffe, die das Geschäftsmodell, die Kennzahlen und die Beziehungen in der Startup-Welt beschreiben, um schnell und präzise zu kommunizieren.",
-    "details": "SaaS (Software as a Service) beschreibt ein Geschäftsmodell, bei dem Software als Dienstleistung über das Internet abonniert wird, anstatt sie zu kaufen. B2B (Business-to-Business) bezeichnet Geschäftsbeziehungen zwischen Unternehmen, im Gegensatz zu B2C (Business-to-Consumer). ARR (Annual Recurring Revenue) ist der jährliche wiederkehrende Umsatz aus Abonnements und Lizenzgebühren, eine Schlüsselkennzahl für SaaS-Unternehmen. Die Burn Rate gibt an, wie schnell ein Startup sein Kapital verbraucht, während die Churn Rate den Prozentsatz der Kunden misst, die ein Produkt kündigen. Diese Begriffe ermöglichen Investoren und Gründern eine präzise Einschätzung von Geschäftsmodellen und finanzieller Gesundheit.",
-    "takeaway": "Das Verständnis dieser Begriffe ist entscheidend, um Geschäftsmodelle von Tech-Startups zu beurteilen und deren finanzielle Gesundheit sowie Wachstumspotenziale schnell zu erfassen. Es ist die Lingua Franca im Venture Capital und Tech-Bereich."
+    "topic": "Der Ablauf eines Short Squeeze – Wenn Leerverkäufer in die Enge getrieben werden",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein Marktphänomen, bei dem der Kurs einer Aktie plötzlich und stark steigt, weil Leerverkäufer gezwungen sind, ihre Positionen zu schließen und Aktien zu kaufen.",
+    "details": "Wenn viele Anleger auf fallende Kurse wetten (Leerverkauf), leihen sie sich Aktien und verkaufen diese. Sie hoffen, die Aktien später günstiger zurückzukaufen und an den Eigentümer zurückzugeben. Steigt der Kurs unerwartet stark an, geraten diese Leerverkäufer unter Druck. Um Verluste zu begrenzen, müssen sie die geliehenen Aktien zurückkaufen, egal zu welchem Preis, um sie zurückzugeben. Dieser erzwungene Kauf treibt den Kurs zusätzlich in die Höhe und löst eine Kettenreaktion aus, da immer mehr Leerverkäufer ihre Positionen panisch schließen.",
+    "takeaway": "Ein Short Squeeze zeigt die Macht der kollektiven Marktpsychologie und kann für Leerverkäufer extrem riskant sein. Für Investoren kann es eine Gelegenheit oder eine Warnung vor extremer Volatilität sein."
   }
 }
