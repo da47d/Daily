@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Brand auf Öltankern in der Straße von Hormus",
-      "summary": "In der strategisch wichtigen Straße von Hormus sind laut Iran zwei Öltanker in Brand geraten. Teheran blockiert die Meerenge seit Beginn des Iran-Krieges, doch Öltanker riskieren weiterhin die Passage."
+      "headline": "Paraguays Präsident tritt nach Bankenpleite zurück",
+      "summary": "Inmitten einer schweren Bankenkrise seines Landes hat Paraguays Präsident Peña seinen Rücktritt eingereicht. Ihm wurden geschäftliche Beziehungen zur Muttergesellschaft der Pleitebank vorgeworfen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Hongkongs Aktivist Wong zu weiteren zehn Jahren Haft verurteilt",
-      "summary": "Der prominente Demokratie-Aktivist Joshua Wong wurde in Hongkong unter Chinas 'Sicherheitsgesetz' zu weiteren zehn Jahren Haft verurteilt. Er hatte einst große Proteste für mehr Demokratie angeführt."
+      "headline": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
+      "summary": "Der Ruf nach höheren Löhnen und Steuergerechtigkeit hat erneut Hunderttausende in Frankreich auf die Straßen getrieben. Die weitgehend friedlichen Proteste zeigen eine starke Unzufriedenheit mit den aktuellen Lebensbedingungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX klettert auf neues Rekordhoch",
-      "summary": "Der DAX hat nach den US-Zwischenwahlen und sinkenden Ölpreisen ein neues Rekordhoch erreicht. Auch erfreuliche Industriedaten trugen zur Euphorie an den Börsen bei."
+      "headline": "Marktbericht: DAX springt auf Rekordhoch",
+      "summary": "Die Märkte bleiben im Aufwind, da der DAX nach den US-Zwischenwahlen im frühen Handel einen neuen Höchststand erreichte. Günstigere Ölpreise und positive Signale aus der Industrie verleihen ihm Rückenwind."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Bankenpleite stürzt Paraguay in schwere Krise",
-      "summary": "Der Kollaps einer Digitalbank hat Paraguay in eine tiefe Krise gestürzt; Millionen Bürger fürchten um ihre Ersparnisse. Konten sind eingefroren und Renten blockiert, was den Unmut gegen Präsident Peña verstärkt."
+      "headline": "Midterms in den USA: Die blaue Welle führt an den Börsen zu Rekordwerten",
+      "summary": "Nach dem deutlichen Wahlsieg der Demokraten gerieten die Märkte zuerst unter Druck, doch die Anleger fassten wieder Mut und sorgten für Rekordwerte an den Börsen. Nicht alle Aktien, insbesondere KI-Titel, profitierten gleichermaßen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Erstes Humanoid-Robotik-Unternehmen an der Börse",
-      "summary": "Agility, das erste reine Humanoid-Robotik-Unternehmen, feiert sein Debüt an der Nasdaq. Dies markiert einen wichtigen Meilenstein in der Kommerzialisierung humanoider Roboter."
+      "headline": "Signa-Insolvenz: René Benko wegen Millionenbetrugs verurteilt",
+      "summary": "Das Immobilien- und Detailhandelsreich des österreichischen Investors René Benko ist zusammengebrochen, und er wurde wegen Betrugs zu einer weiteren Haftstrafe verurteilt. Die Signa-Holding steckt in einem umfassenden Insolvenzverfahren."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Apple kürzt offenbar Budgets für interne KI-Nutzung",
-      "summary": "Berichten zufolge kürzt Apple seine Ausgaben für interne KI-Anwendungen in den Ingenieurteams erheblich. Dies könnte auf eine Neuausrichtung oder Effizienzstrategie des Tech-Giganten im KI-Bereich hindeuten."
+      "headline": "US-Regierung warnt vor Cyber-Bedrohung nach Massenhacks",
+      "summary": "Die US-Regierung warnt vor einer 'anhaltenden Cyber-Bedrohung' nach Massenhacks auf industrielle Kühl- und Gefriersysteme. Dies betrifft die Lebensmittel-, Transport- und Gesundheitsindustrie weltweit."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "YC-Startup vergibt 1 Mio. $ für AI-Materialwissenschaft",
-      "summary": "Das junge YC-Startup Discovered Materials bietet 1 Million US-Dollar für Lösungen zu fünf ungelösten Problemen der Materialwissenschaft für KI. Das Unternehmen nutzt selbst KI, um Chipmaterialien zu finden."
+      "headline": "OpenAI-Präsident: IPO-Bereitschaft könnte 2027 erreicht werden",
+      "summary": "Greg Brockman, Präsident von OpenAI, äußerte sich auf einer Tech-Konferenz zur Möglichkeit eines Börsengangs im Jahr 2027. Das Unternehmen gewinnt zunehmend Marktanteile im Unternehmenssektor."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Meta übernimmt KI-Coding-Startup Conductor",
-      "summary": "Meta hat das KI-Coding-Startup Conductor übernommen, das Software-Ingenieuren den Einsatz von Agententeams zur gleichzeitigen Bearbeitung von Projektaspekten ermöglicht. Diese Akquisition stärkt Metas KI-Fähigkeiten im Software-Bereich."
+      "headline": "Ex-Secret-Service-Agent sammelt 250 Mio. USD für Cybersecurity-Fonds",
+      "summary": "Stephen Ward, ein ehemaliger Secret-Service-Agent und CISO von Home Depot, bereitet einen zweiten Fonds von rund 250 Millionen Dollar für Brightmind Partners vor. Der Fokus liegt auf Investitionen in Cybersecurity."
     }
   ],
   "learning": {
-    "topic": "Der Ablauf eines Short Squeeze – Wenn Leerverkäufer in die Enge getrieben werden",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein Marktphänomen, bei dem der Kurs einer Aktie plötzlich und stark steigt, weil Leerverkäufer gezwungen sind, ihre Positionen zu schließen und Aktien zu kaufen.",
-    "details": "Wenn viele Anleger auf fallende Kurse wetten (Leerverkauf), leihen sie sich Aktien und verkaufen diese. Sie hoffen, die Aktien später günstiger zurückzukaufen und an den Eigentümer zurückzugeben. Steigt der Kurs unerwartet stark an, geraten diese Leerverkäufer unter Druck. Um Verluste zu begrenzen, müssen sie die geliehenen Aktien zurückkaufen, egal zu welchem Preis, um sie zurückzugeben. Dieser erzwungene Kauf treibt den Kurs zusätzlich in die Höhe und löst eine Kettenreaktion aus, da immer mehr Leerverkäufer ihre Positionen panisch schließen.",
-    "takeaway": "Ein Short Squeeze zeigt die Macht der kollektiven Marktpsychologie und kann für Leerverkäufer extrem riskant sein. Für Investoren kann es eine Gelegenheit oder eine Warnung vor extremer Volatilität sein."
+    "topic": "Pre-Money vs. Post-Money Bewertung im Startup-Bereich",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe beschreiben die Unternehmensbewertung eines Startups vor und nach dem Eingang einer neuen Finanzierungsrunde, entscheidend für die Anteilsverteilung.",
+    "details": "Die Pre-Money-Bewertung ist der Wert des Startups vor jeglicher neuer Investition. Sobald neue Mittel hinzugefügt werden, ergibt die Summe aus Pre-Money-Bewertung und dem investierten Kapital die Post-Money-Bewertung, die den Unternehmenswert nach der Finanzierungsrunde darstellt. Diese Unterscheidung ist fundamental, da sie direkt beeinflusst, welchen prozentualen Anteil neue Investoren für ihr Geld erhalten und wie stark die Anteile bestehender Gesellschafter verwässert werden.",
+    "takeaway": "Die klare Trennung von Pre- und Post-Money ist unerlässlich, um die Bewertung eines Startups zu verstehen und faire Anteilsverhältnisse bei Finanzierungsrunden auszuhandeln."
   }
 }
