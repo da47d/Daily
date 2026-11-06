@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Paraguays Präsident tritt nach Bankenpleite zurück",
-      "summary": "Inmitten einer schweren Bankenkrise seines Landes hat Paraguays Präsident Peña seinen Rücktritt eingereicht. Ihm wurden geschäftliche Beziehungen zur Muttergesellschaft der Pleitebank vorgeworfen."
+      "headline": "Welche Folgen die US-Midterms für die deutsche Wirtschaft haben",
+      "summary": "Der Machtwechsel im US-Kongress könnte der deutschen Wirtschaft mehr Planbarkeit bringen. Allerdings befürchten Ökonomen, dass Handelsstreitigkeiten, insbesondere Zölle, weiterhin bestehen bleiben könnten."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
-      "summary": "Der Ruf nach höheren Löhnen und Steuergerechtigkeit hat erneut Hunderttausende in Frankreich auf die Straßen getrieben. Die weitgehend friedlichen Proteste zeigen eine starke Unzufriedenheit mit den aktuellen Lebensbedingungen."
+      "headline": "INTERVIEW - «Trumps Zölle sind toxisch geworden»",
+      "summary": "Ein Wirtschaftsprofessor erklärt, dass Trumps aggressive Handelspolitik und Zölle zu den Wahlniederlagen der Republikaner beitrugen. Er prognostiziert, dass der Handelskrieg in den USA bald ein Ende finden könnte."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX springt auf Rekordhoch",
-      "summary": "Die Märkte bleiben im Aufwind, da der DAX nach den US-Zwischenwahlen im frühen Handel einen neuen Höchststand erreichte. Günstigere Ölpreise und positive Signale aus der Industrie verleihen ihm Rückenwind."
+      "headline": "Die Börsen erleben einen Kurssturz. Nach dem Triumph der Demokraten werden die KI-Investitionen infrage gestellt",
+      "summary": "Globale Aktienmärkte, insbesondere der Technologiesektor, erleben einen breiten Kurssturz. Hohe KI-Investitionen werden im Zuge der Verunsicherung und der starken Verluste an der Nasdaq kritisch hinterfragt."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Midterms in den USA: Die blaue Welle führt an den Börsen zu Rekordwerten",
-      "summary": "Nach dem deutlichen Wahlsieg der Demokraten gerieten die Märkte zuerst unter Druck, doch die Anleger fassten wieder Mut und sorgten für Rekordwerte an den Börsen. Nicht alle Aktien, insbesondere KI-Titel, profitierten gleichermaßen."
+      "headline": "Industrieproduktion wächst überraschend - Autobranche legt zu",
+      "summary": "Die deutsche Industrieproduktion zeigte im September ein unerwartetes Wachstum, primär getragen durch die starke Entwicklung der Autobranche. Trotz dieses Plus bleiben weiterhin Risikofaktoren für die gesamtwirtschaftliche Erholung bestehen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Signa-Insolvenz: René Benko wegen Millionenbetrugs verurteilt",
-      "summary": "Das Immobilien- und Detailhandelsreich des österreichischen Investors René Benko ist zusammengebrochen, und er wurde wegen Betrugs zu einer weiteren Haftstrafe verurteilt. Die Signa-Holding steckt in einem umfassenden Insolvenzverfahren."
+      "headline": "Tesla will Cybertruck-Produktion in Texas einstellen",
+      "summary": "Tesla plant, die Produktion des Cybertrucks in Texas einzustellen, da das Elektroauto die Erwartungen nicht erfüllen konnte. Elon Musk will den freigewordenen Platz für ein anderes Produkt nutzen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "US-Regierung warnt vor Cyber-Bedrohung nach Massenhacks",
-      "summary": "Die US-Regierung warnt vor einer 'anhaltenden Cyber-Bedrohung' nach Massenhacks auf industrielle Kühl- und Gefriersysteme. Dies betrifft die Lebensmittel-, Transport- und Gesundheitsindustrie weltweit."
+      "headline": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
+      "summary": "Aktuelle Daten des EU-Dienstes Copernicus deuten darauf hin, dass die 1,5-Grad-Erwärmungsgrenze bereits 2026 überschritten wird. Dies sind ernüchternde Nachrichten kurz vor der anstehenden Klimakonferenz COP31."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI-Präsident: IPO-Bereitschaft könnte 2027 erreicht werden",
-      "summary": "Greg Brockman, Präsident von OpenAI, äußerte sich auf einer Tech-Konferenz zur Möglichkeit eines Börsengangs im Jahr 2027. Das Unternehmen gewinnt zunehmend Marktanteile im Unternehmenssektor."
+      "headline": "Physicl raises $10M to make the digital world real enough for robots",
+      "summary": "Das Startup Physicl hat 10 Millionen Dollar in einer Finanzierungsrunde erhalten, um die Lücke zwischen Simulation und Realität für Roboter zu schließen. Ihr Ansatz basiert auf einer Pipeline, die ursprünglich für das Online-Marketing von Gütern entwickelt wurde."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Ex-Secret-Service-Agent sammelt 250 Mio. USD für Cybersecurity-Fonds",
-      "summary": "Stephen Ward, ein ehemaliger Secret-Service-Agent und CISO von Home Depot, bereitet einen zweiten Fonds von rund 250 Millionen Dollar für Brightmind Partners vor. Der Fokus liegt auf Investitionen in Cybersecurity."
+      "headline": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "Palo Alto Networks verhandelt über den Kauf des KI-Sicherheits-Startups Clutch für 500 Millionen Dollar. Das von Lightspeed und SignalFire unterstützte Unternehmen wurde zuvor mit 85 Millionen Dollar bewertet."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung im Startup-Bereich",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese Begriffe beschreiben die Unternehmensbewertung eines Startups vor und nach dem Eingang einer neuen Finanzierungsrunde, entscheidend für die Anteilsverteilung.",
-    "details": "Die Pre-Money-Bewertung ist der Wert des Startups vor jeglicher neuer Investition. Sobald neue Mittel hinzugefügt werden, ergibt die Summe aus Pre-Money-Bewertung und dem investierten Kapital die Post-Money-Bewertung, die den Unternehmenswert nach der Finanzierungsrunde darstellt. Diese Unterscheidung ist fundamental, da sie direkt beeinflusst, welchen prozentualen Anteil neue Investoren für ihr Geld erhalten und wie stark die Anteile bestehender Gesellschafter verwässert werden.",
-    "takeaway": "Die klare Trennung von Pre- und Post-Money ist unerlässlich, um die Bewertung eines Startups zu verstehen und faire Anteilsverhältnisse bei Finanzierungsrunden auszuhandeln."
+    "topic": "M&A-Strategien: Strategische vs. Finanzielle Käufer",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Bei M&A-Transaktionen unterscheiden sich \"Strategische Käufer\" und \"Finanzielle Käufer\" grundlegend in ihren Motiven und der Bewertung von Zielunternehmen. Ein strategischer Käufer integriert das Zielunternehmen, während ein finanzieller Käufer auf Wertsteigerung durch Optimierung abzielt.",
+    "details": "Ein **strategischer Käufer** (Strategic Buyer) ist meist ein etabliertes Unternehmen, das ein anderes Unternehmen erwirbt, um Synergien zu schaffen. Dies kann den Zugang zu neuen Märkten, Technologien oder Kunden bedeuten, die Reduzierung von Kosten durch Skaleneffekte oder die Eliminierung eines Wettbewerbers. Der Fokus liegt auf der langfristigen Integration und Wertsteigerung durch operative Verbesserungen, oft bereit, einen höheren Preis zu zahlen, da die Synergien den Kaufpreis übertreffen. Ein **finanzieller Käufer** (Financial Buyer), typischerweise eine Private-Equity-Firma, erwirbt Unternehmen mit dem Ziel, sie innerhalb von 3-7 Jahren zu optimieren und gewinnbringend weiterzuverkaufen. Ihr Wertbeitrag liegt in der Verbesserung der Kapitaleffizienz, der Optimierung der Managementstruktur oder der Entschuldung. Sie sind preisbewusster, da ihre Rendite direkt vom Kauf- und Verkaufspreis abhängt.",
+    "takeaway": "Strategische Käufer suchen nach Synergien und Integration, während finanzielle Käufer auf reine Wertsteigerung durch finanzielle und operative Optimierung abzielen. Diese unterschiedlichen Motivationen beeinflussen den Angebotspreis und die Post-Akquisitions-Strategie erheblich."
   }
 }
