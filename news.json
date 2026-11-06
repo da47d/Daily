@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Welche Folgen die US-Midterms für die deutsche Wirtschaft haben",
-      "summary": "Der Machtwechsel im US-Kongress könnte der deutschen Wirtschaft mehr Planbarkeit bringen. Allerdings befürchten Ökonomen, dass Handelsstreitigkeiten, insbesondere Zölle, weiterhin bestehen bleiben könnten."
+      "headline": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+      "summary": "Erneut gab es europaweit zahlreiche Bombendrohungen, sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien und Irland sprechen von einem koordinierten, hybriden Angriff, der kein Zufall sei."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "INTERVIEW - «Trumps Zölle sind toxisch geworden»",
-      "summary": "Ein Wirtschaftsprofessor erklärt, dass Trumps aggressive Handelspolitik und Zölle zu den Wahlniederlagen der Republikaner beitrugen. Er prognostiziert, dass der Handelskrieg in den USA bald ein Ende finden könnte."
+      "headline": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+      "summary": "US-Präsident Trump kündigte nach einem Treffen mit dem Kreml-Unterhändler ein 'großes' Ukraine-Abkommen an. Moskau und Brüssel dämpften jedoch umgehend die Erwartungen an dieses vermeintliche Friedensangebot."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Börsen erleben einen Kurssturz. Nach dem Triumph der Demokraten werden die KI-Investitionen infrage gestellt",
-      "summary": "Globale Aktienmärkte, insbesondere der Technologiesektor, erleben einen breiten Kurssturz. Hohe KI-Investitionen werden im Zuge der Verunsicherung und der starken Verluste an der Nasdaq kritisch hinterfragt."
+      "headline": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
+      "summary": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus und setzen auch den deutschen Aktienmarkt unter Druck. Analysten sehen eine überfällige Korrektur, wobei sich die US-Börsen inzwischen wieder berappeln konnten."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Industrieproduktion wächst überraschend - Autobranche legt zu",
-      "summary": "Die deutsche Industrieproduktion zeigte im September ein unerwartetes Wachstum, primär getragen durch die starke Entwicklung der Autobranche. Trotz dieses Plus bleiben weiterhin Risikofaktoren für die gesamtwirtschaftliche Erholung bestehen."
+      "headline": "Fox completes its $22B acquisition of Roku",
+      "summary": "Fox hat die milliardenschwere Übernahme des Streaming-Riesen Roku für 22 Milliarden US-Dollar abgeschlossen. Dieser große M&A-Deal erfolgte wenige Monate, nachdem DOJ-Ermittler die Transaktion geprüft hatten."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Tesla will Cybertruck-Produktion in Texas einstellen",
-      "summary": "Tesla plant, die Produktion des Cybertrucks in Texas einzustellen, da das Elektroauto die Erwartungen nicht erfüllen konnte. Elon Musk will den freigewordenen Platz für ein anderes Produkt nutzen."
+      "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta führt 'Spaces' ein, eine neue Funktion zur Zusammenarbeit mit ihren KI-Agenten 'Muse'. Dies erweitert die Interaktionsmöglichkeiten mit den KI-Helfern des Unternehmens erheblich."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
-      "summary": "Aktuelle Daten des EU-Dienstes Copernicus deuten darauf hin, dass die 1,5-Grad-Erwärmungsgrenze bereits 2026 überschritten wird. Dies sind ernüchternde Nachrichten kurz vor der anstehenden Klimakonferenz COP31."
+      "headline": "Tesla will stop making the Cybertruck in 2027",
+      "summary": "Elon Musk kündigte an, dass Tesla die Produktion des Cybertrucks in Texas im Jahr 2027 einstellen wird. Die freiwerdende Fabrikkapazität soll stattdessen für die Herstellung von Cybercabs genutzt werden."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Physicl raises $10M to make the digital world real enough for robots",
-      "summary": "Das Startup Physicl hat 10 Millionen Dollar in einer Finanzierungsrunde erhalten, um die Lücke zwischen Simulation und Realität für Roboter zu schließen. Ihr Ansatz basiert auf einer Pipeline, die ursprünglich für das Online-Marketing von Gütern entwickelt wurde."
+      "headline": "Pentagon offers battery startup 6K $250M loan to build US factory",
+      "summary": "Das Pentagon hat einem Batterie-Startup namens 6K einen bedingten Kredit von 250 Millionen US-Dollar bewilligt. Dieses Darlehen soll 6K helfen, seinen Produktionsprozess für Mikrowellen-Plasma-Batteriematerialien in den USA zu skalieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "summary": "Palo Alto Networks verhandelt über den Kauf des KI-Sicherheits-Startups Clutch für 500 Millionen Dollar. Das von Lightspeed und SignalFire unterstützte Unternehmen wurde zuvor mit 85 Millionen Dollar bewertet."
+      "headline": "Physicl raises $10M to make the digital world real enough for robots",
+      "summary": "Physicl hat 10 Millionen US-Dollar eingesammelt, um die digitale Welt für Roboter realitätsnah genug zu gestalten. Das Startup will die Kluft zwischen Simulation und Realität mithilfe einer Pipeline schließen, die ursprünglich für das Online-Marketing entwickelt wurde."
     }
   ],
   "learning": {
-    "topic": "M&A-Strategien: Strategische vs. Finanzielle Käufer",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Bei M&A-Transaktionen unterscheiden sich \"Strategische Käufer\" und \"Finanzielle Käufer\" grundlegend in ihren Motiven und der Bewertung von Zielunternehmen. Ein strategischer Käufer integriert das Zielunternehmen, während ein finanzieller Käufer auf Wertsteigerung durch Optimierung abzielt.",
-    "details": "Ein **strategischer Käufer** (Strategic Buyer) ist meist ein etabliertes Unternehmen, das ein anderes Unternehmen erwirbt, um Synergien zu schaffen. Dies kann den Zugang zu neuen Märkten, Technologien oder Kunden bedeuten, die Reduzierung von Kosten durch Skaleneffekte oder die Eliminierung eines Wettbewerbers. Der Fokus liegt auf der langfristigen Integration und Wertsteigerung durch operative Verbesserungen, oft bereit, einen höheren Preis zu zahlen, da die Synergien den Kaufpreis übertreffen. Ein **finanzieller Käufer** (Financial Buyer), typischerweise eine Private-Equity-Firma, erwirbt Unternehmen mit dem Ziel, sie innerhalb von 3-7 Jahren zu optimieren und gewinnbringend weiterzuverkaufen. Ihr Wertbeitrag liegt in der Verbesserung der Kapitaleffizienz, der Optimierung der Managementstruktur oder der Entschuldung. Sie sind preisbewusster, da ihre Rendite direkt vom Kauf- und Verkaufspreis abhängt.",
-    "takeaway": "Strategische Käufer suchen nach Synergien und Integration, während finanzielle Käufer auf reine Wertsteigerung durch finanzielle und operative Optimierung abzielen. Diese unterschiedlichen Motivationen beeinflussen den Angebotspreis und die Post-Akquisitions-Strategie erheblich."
+    "topic": "Pre-Money vs. Post-Money Bewertung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe sind entscheidend, um den Wert eines Startups vor und nach einer Investitionsrunde zu bestimmen und den Anteil der Investoren korrekt zu berechnen.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert vor dem Eingang neuer Investitionsgelder. Addiert man die frischen Mittel zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese ist somit der Gesamtwert des Unternehmens, inklusive des neu eingesammelten Kapitals. Die Post-Money-Bewertung dient als Basis für die Berechnung der Anteile, die der Investor für sein Geld erhält. Wenn ein Startup beispielsweise eine Pre-Money-Bewertung von 20 Millionen Euro hat und 5 Millionen Euro erhält, ist die Post-Money-Bewertung 25 Millionen Euro, und der Investor erhält 20% des Unternehmens (5 Mio. / 25 Mio.).",
+    "takeaway": "Investoren verhandeln oft auf Basis der Pre-Money-Bewertung, da diese den 'echten' Wert des Unternehmens vor ihrem Kapital widerspiegelt. Die Post-Money-Bewertung gibt den Unternehmenswert nach der Finanzierungsrunde an und ist der Referenzpunkt für die Berechnung der neuen Eigentumsverhältnisse."
   }
 }
