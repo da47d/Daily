@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
-      "summary": "Erneut gab es europaweit zahlreiche Bombendrohungen, sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien und Irland sprechen von einem koordinierten, hybriden Angriff, der kein Zufall sei."
+      "headline": "Schwere Schäden nach Raketenangriffen auf Kiew",
+      "summary": "Russische Raketen haben Kiew und das Umland erneut getroffen, was zu zahlreichen Explosionen und starken Beeinträchtigungen der Strom- und Wasserversorgung führte. Die Angriffe unterstreichen die anhaltende Eskalation des Konflikts mit potenziellen globalen Auswirkungen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
-      "summary": "US-Präsident Trump kündigte nach einem Treffen mit dem Kreml-Unterhändler ein 'großes' Ukraine-Abkommen an. Moskau und Brüssel dämpften jedoch umgehend die Erwartungen an dieses vermeintliche Friedensangebot."
+      "headline": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+      "summary": "Donald Trump reagiert auf das Wahldebakel seiner Partei mit der Ernennung des Hardliners Miller zum Stabschef und geht damit auf Konfrontationskurs zu den Demokraten. Diese Personalie stößt jedoch auch bei Republikanern auf Widerstand und deutet auf weitere politische Spannungen hin."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
-      "summary": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus und setzen auch den deutschen Aktienmarkt unter Druck. Analysten sehen eine überfällige Korrektur, wobei sich die US-Börsen inzwischen wieder berappeln konnten."
+      "headline": "Die Aktienmärkte tauchen, Sorgen über einen Crash nehmen zu: Platzt nun die KI-Blase – oder gibt es gar keine?",
+      "summary": "Anleger haben kürzlich KI-bezogene Aktien verkauft, was Sorgen über eine mögliche Blase aufkommen lässt. Eine Korrektur war überfällig, und die zukünftige Entwicklung der KI-Investitionen bleibt unsicher."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Fox completes its $22B acquisition of Roku",
-      "summary": "Fox hat die milliardenschwere Übernahme des Streaming-Riesen Roku für 22 Milliarden US-Dollar abgeschlossen. Dieser große M&A-Deal erfolgte wenige Monate, nachdem DOJ-Ermittler die Transaktion geprüft hatten."
+      "headline": "Die Börsen erleben einen Kurssturz. Nach dem Triumph der Demokraten werden die KI-Investitionen infrage gestellt",
+      "summary": "Die Aktienmärkte weltweit erlitten empfindliche Verluste, insbesondere der Technologiesektor, der nach dem Wahlsieg der Demokraten stark gefallen ist. Der Nasdaq verzeichnete den stärksten Rückgang seit dem Jahr 2000, was die Skepsis gegenüber KI-Investitionen verstärkt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "summary": "Meta führt 'Spaces' ein, eine neue Funktion zur Zusammenarbeit mit ihren KI-Agenten 'Muse'. Dies erweitert die Interaktionsmöglichkeiten mit den KI-Helfern des Unternehmens erheblich."
+      "headline": "Elon Musk kündigt das Ende der Cybertruck-Produktion in Texas an",
+      "summary": "Elon Musk hat das Ende der Cybertruck-Produktion in Texas angekündigt, was eine bedeutende Neuigkeit für Tesla und die Elektrofahrzeugbranche darstellt. Diese Entwicklung wird von Öffentlichkeit und Märkten genau beobachtet."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Tesla will stop making the Cybertruck in 2027",
-      "summary": "Elon Musk kündigte an, dass Tesla die Produktion des Cybertrucks in Texas im Jahr 2027 einstellen wird. Die freiwerdende Fabrikkapazität soll stattdessen für die Herstellung von Cybercabs genutzt werden."
+      "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta hat \"Spaces\" eingeführt, eine neue Funktion, die die Zusammenarbeit mit den KI-Assistenten (Muse-Agenten) des Unternehmens verbessert. Dies stellt einen weiteren Schritt in Metas Bemühungen dar, seine KI-Angebote zu erweitern und die Nutzerinteraktion zu vertiefen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Pentagon offers battery startup 6K $250M loan to build US factory",
-      "summary": "Das Pentagon hat einem Batterie-Startup namens 6K einen bedingten Kredit von 250 Millionen US-Dollar bewilligt. Dieses Darlehen soll 6K helfen, seinen Produktionsprozess für Mikrowellen-Plasma-Batteriematerialien in den USA zu skalieren."
+      "headline": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI soll weitere 11 Milliarden US-Dollar in einer Finanzierungsrunde aufnehmen, die das Unternehmen mit 1,25 Billionen US-Dollar bewerten würde. Dies unterstreicht das enorme Interesse und das Wachstumspotenzial im Bereich der Künstlichen Intelligenz."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Physicl raises $10M to make the digital world real enough for robots",
-      "summary": "Physicl hat 10 Millionen US-Dollar eingesammelt, um die digitale Welt für Roboter realitätsnah genug zu gestalten. Das Startup will die Kluft zwischen Simulation und Realität mithilfe einer Pipeline schließen, die ursprünglich für das Online-Marketing entwickelt wurde."
+      "headline": "Sequoia shutting down its Scouts program marks the end of an era",
+      "summary": "Sequoia Capital, eine der renommiertesten VC-Firmen, stellt ihr Scout-Programm ein, das einst von vielen nachgeahmt wurde. Dieser Schritt signalisiert einen möglichen Wandel im Venture-Capital-Modell und dessen Grenzen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese Begriffe sind entscheidend, um den Wert eines Startups vor und nach einer Investitionsrunde zu bestimmen und den Anteil der Investoren korrekt zu berechnen.",
-    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert vor dem Eingang neuer Investitionsgelder. Addiert man die frischen Mittel zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese ist somit der Gesamtwert des Unternehmens, inklusive des neu eingesammelten Kapitals. Die Post-Money-Bewertung dient als Basis für die Berechnung der Anteile, die der Investor für sein Geld erhält. Wenn ein Startup beispielsweise eine Pre-Money-Bewertung von 20 Millionen Euro hat und 5 Millionen Euro erhält, ist die Post-Money-Bewertung 25 Millionen Euro, und der Investor erhält 20% des Unternehmens (5 Mio. / 25 Mio.).",
-    "takeaway": "Investoren verhandeln oft auf Basis der Pre-Money-Bewertung, da diese den 'echten' Wert des Unternehmens vor ihrem Kapital widerspiegelt. Die Post-Money-Bewertung gibt den Unternehmenswert nach der Finanzierungsrunde an und ist der Referenzpunkt für die Berechnung der neuen Eigentumsverhältnisse."
+    "topic": "Der Ablauf eines Short Squeeze",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze ist ein Marktphänomen, bei dem der Kurs einer Aktie plötzlich und stark ansteigt, was Leerverkäufer dazu zwingt, ihre Positionen mit Verlust zu schließen.",
+    "details": "Wenn viele Anleger auf fallende Kurse wetten (Leerverkauf), leihen sie sich Aktien, verkaufen diese und hoffen, sie später günstiger zurückkaufen zu können, um sie dem Verleiher zurückzugeben. Steigt der Kurs unerwartet stark an, geraten Leerverkäufer unter Druck, da ihre Verluste potenziell unbegrenzt sind. Um weitere Verluste zu vermeiden, müssen sie die geliehenen Aktien am Markt zurückkaufen, was als \"Covering\" bezeichnet wird. Dieser erzwungene Kauf treibt den Aktienkurs weiter in die Höhe, was wiederum andere Leerverkäufer dazu zwingt, ihre Positionen zu schließen – eine sich selbst verstärkende Aufwärtsspirale, den \"Short Squeeze\".",
+    "takeaway": "Ein Short Squeeze zeigt, wie die Angst vor unbegrenzten Verlusten bei Leerverkäufern zu einem rapiden Kursanstieg führen kann. Für Investoren bedeutet das, dass eine hohe Leerverkaufsquote einer Aktie sowohl ein Risiko als auch eine potenzielle Chance für explosive Kursbewegungen darstellen kann."
   }
 }
