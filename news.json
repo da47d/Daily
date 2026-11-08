@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russische Luftangriffe: Hunderttausende Ukrainer ohne Strom",
-      "summary": "Erneut trafen russische Luftangriffe die ukrainische Energieversorgung schwer, wodurch 600.000 Menschen in Dnipropetrowsk ohne Strom sind. Das Atomkraftwerk Saporischschja muss zudem mit Notstromaggregaten gekühlt werden."
+      "headline": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich 'gut vertreten'",
+      "summary": "Vertreter aus Europa, darunter Frankreich, sollen in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandeln. Dies ist ein wichtiger Schritt in den internationalen Bemühungen zur Deeskalation des Konflikts."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Militär attackiert Handelsschiff im Golf von Oman",
-      "summary": "Das US-Militär feuerte auf ein Handelsschiff im Golf von Oman, das gegen eine US-Seeblockade verstoßen haben soll. Gleichzeitig berichten Iran von brennenden Frachtern in der Straße von Hormus und Huthis greifen Riad an."
+      "headline": "Demokraten planen Untersuchungen gegen Tech-Giganten und Krypto-Industrie",
+      "summary": "Die Demokraten planen, mit ihrer Kongressmehrheit Untersuchungen gegen Firmen wie Tesla, SpaceX und Akteure der Krypto-Industrie zu lancieren. Dies könnte regulatorische Risiken für bedeutende Tech-Firmen und den Kryptomarkt bedeuten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Absturz an der Nasdaq: KI-Boom am Wendepunkt?",
-      "summary": "Die amerikanischen Aktienbörsen erlebten einen Wertverlust von 2,5 Billionen Dollar, was Fragen nach einer möglichen Korrektur oder dem Ende des KI-Booms aufwirft. Trotz einer zaghaften Erholung bleibt die Unsicherheit hoch."
+      "headline": "Nasdaq-Absturz: Fragen nach dem Ende des KI-Booms",
+      "summary": "An den amerikanischen Aktienbörsen kam es zu einem massiven Wertverlust von 2,5 Billionen Dollar, der Fragen nach der Nachhaltigkeit des KI-Booms aufwirft. Trotz einer leichten Erholung bleiben die Anzeichen für eine echte Entwarnung aus."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Engpässe bei Heizöl drohen: Bund muss Kerosin-Pflichtlager öffnen",
-      "summary": "Aufgrund hoher Preise haben viele Hauseigentümer ihre Heizöltanks nicht ausreichend gefüllt, während Niedrigwasser auf dem Rhein die Nachschublieferungen erschwert. Experten warnen nun vor einer Zuspitzung der Lage in den kommenden Wochen, da auch Kerosin-Pflichtlager geöffnet werden müssen."
+      "headline": "Engpässe bei Heizöl und Kerosin drohen",
+      "summary": "Wegen des Niedrigwassers auf dem Rhein und unzureichend gefüllter Tanks drohen Engpässe bei Kerosin und Heizöl, was den Bund zur Öffnung seiner Pflichtlager zwingt. Diese Lage könnte zu einer Zuspitzung der Energiepreise in den kommenden Wochen führen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Erdbeben in Zentraljapan: Mehr als 20 Verletzte gemeldet",
-      "summary": "Ein Erdbeben der Stärke 5,7 erschütterte mehrere Regionen in Zentraljapan, wobei die Präfektur Aichi am stärksten betroffen war. Medien berichten von über 20 Verletzten, und die Behörden warnen vor möglichen Nachbeben."
+      "headline": "KI-Hacker bringen die Finanzbranche ans Limit",
+      "summary": "Der Milliarden-Hack bei Binance zeigt, dass KI Cyberkriminelle für Finanzdienstleister noch gefährlicher macht. Banken wie die UBS rüsten sich im Wettrüsten gegen diese wachsenden Risiken."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Elon Musk kündigt Ende der Cybertruck-Produktion in Texas an",
-      "summary": "Elon Musk hat überraschend das Ende der Cybertruck-Produktion in Texas bekannt gegeben. Diese Meldung sorgt für Aufsehen in der Tech- und Automobilbranche."
+      "headline": "Binance CFO tritt nach Milliarden-Hack zurück",
+      "summary": "Der CFO von Binance verlässt das Unternehmen kurz nach dem massiven Hack von 6,3 Milliarden Dollar aus Nutzerkonten. Dies unterstreicht die gravierenden Auswirkungen von Cyberangriffen auf die Führungsebene großer Finanzplattformen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "OpenAI beschafft 11 Milliarden Dollar bei 1,25 Billionen Bewertung",
-      "summary": "OpenAI hat Berichten zufolge weitere 11 Milliarden Dollar in einer Finanzierungsrunde eingesammelt, die das Unternehmen mit 1,25 Billionen Dollar bewertet. Dies unterstreicht die enorme Dynamik im KI-Sektor."
+      "headline": "Vom Secret Service zum Cybersecurity-VC",
+      "summary": "Ein ehemaliger Secret Service Agent und CISO, der einen Hacker verhaftete und seinen Ruf reinwaschen musste, bereitet nun einen zweiten VC-Fonds für Cybersecurity-Startups vor. Seine einzigartige Erfahrung positioniert ihn als wichtigen Akteur in der Startup-Finanzierung für diesen Sektor."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sequoia stellt Scouts-Programm ein: Ende einer Ära im VC",
-      "summary": "Die führende Venture-Capital-Firma Sequoia beendet ihr bekanntes Scouts-Programm, das einst Vorreiter im Sourcing von Deals war. Dies markiert einen Wendepunkt in der Strategie von VC-Firmen und der Art, wie sie junge Talente finden."
+      "headline": "Sequoia Capital beendet sein 'Scouts'-Programm",
+      "summary": "Sequoia Capital, ein Pionier des 'Scouts'-Programms, stellt dieses Modell ein, was ein Ende einer Ära in der Venture-Capital-Branche markiert. Viele VC-Firmen hatten das Modell adaptiert, doch nun scheint ein Konsens über dessen Grenzen erreicht zu sein."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Was ist der Unterschied?",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung beziffert den Unternehmenswert VOR einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert NACH der Investition darstellt.",
-    "details": "Stell dir vor, dein Startup ist 10 Millionen Euro wert (Pre-Money) und ein Investor gibt dir 2 Millionen Euro. Die Post-Money-Bewertung ist dann 10 Mio. + 2 Mio. = 12 Millionen Euro. Für den Investor bedeutet das, er erhält 2/12 (also 16,67%) der Anteile. Für die Gründer ist es entscheidend, den Post-Money-Wert zu kennen, da dieser direkt beeinflusst, wie stark ihre Anteile durch die neue Investition verwässert werden. Es geht darum, wie viel vom gesamten Kuchen nach der frischen Kapitalzufuhr wem gehört.",
-    "takeaway": "Die Pre-Money-Bewertung ist dein Startwert, die Post-Money-Bewertung ist der Unternehmenswert nach der Finanzierungsrunde und der entscheidende Faktor zur Berechnung der Eigentumsanteile von Investoren und Gründern."
+    "topic": "Optionen vs. Optionsscheine: Der feine Unterschied bei Derivaten",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Obwohl sie ähnlich klingen, sind Optionen und Optionsscheine grundverschiedene Finanzprodukte mit unterschiedlichen Emittenten und Rechten.",
+    "details": "Eine Option ist ein standardisierter Vertrag, der dem Käufer das Recht, aber nicht die Pflicht gibt, einen Basiswert zu einem festgelegten Preis und Datum zu kaufen oder zu verkaufen. Sie werden an Terminbörsen gehandelt und haben in der Regel einen neutralen Vermittler (Clearingstelle). Optionsscheine hingegen sind Schuldverschreibungen, die von Banken oder Brokern emittiert werden und meist nicht standardisiert sind. Sie sind ein verbrieftes Recht, das nach Ablauf wertlos werden kann und keine physische Lieferung des Basiswerts beinhaltet, sondern eine Barauszahlung. Ihr Wert hängt stark von der Bonität des Emittenten ab.",
+    "takeaway": "Der Hauptunterschied liegt im Emittenten und der Standardisierung: Optionen sind börsengehandelte Verträge mit einer Clearingstelle, während Optionsscheine von Banken ausgegebene Wertpapiere sind, deren Risiko auch von der Bonität des Emittenten beeinflusst wird."
   }
 }
