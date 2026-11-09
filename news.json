@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich 'gut vertreten'",
-      "summary": "Vertreter aus Europa, darunter Frankreich, sollen in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandeln. Dies ist ein wichtiger Schritt in den internationalen Bemühungen zur Deeskalation des Konflikts."
+      "headline": "G7-Außenminister sprechen über Ukraine und Iran",
+      "summary": "Die G7-Außenminister treffen sich in Paris, um über die Rolle Europas im Ukraine-Krieg und den weiteren Umgang mit Iran zu beraten. Dabei mahnen sie Washington und Moskau zur Deeskalation und Zusammenarbeit."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Demokraten planen Untersuchungen gegen Tech-Giganten und Krypto-Industrie",
-      "summary": "Die Demokraten planen, mit ihrer Kongressmehrheit Untersuchungen gegen Firmen wie Tesla, SpaceX und Akteure der Krypto-Industrie zu lancieren. Dies könnte regulatorische Risiken für bedeutende Tech-Firmen und den Kryptomarkt bedeuten."
+      "headline": "Erste Übung der multinationalen Truppe für die Ukraine startet",
+      "summary": "Rund 2.800 Soldaten aus elf Ländern beginnen nahe der ukrainischen Grenze eine gemeinsame Übung. Ziel ist die Sicherung eines zukünftigen Friedens in der Ukraine, wobei Deutschland das Manöver mit Transportflugzeugen unterstützt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Nasdaq-Absturz: Fragen nach dem Ende des KI-Booms",
-      "summary": "An den amerikanischen Aktienbörsen kam es zu einem massiven Wertverlust von 2,5 Billionen Dollar, der Fragen nach der Nachhaltigkeit des KI-Booms aufwirft. Trotz einer leichten Erholung bleiben die Anzeichen für eine echte Entwarnung aus."
+      "headline": "Absturz an der Nasdaq: Warnschuss oder Anfang vom Ende des KI-Booms?",
+      "summary": "Nach einem Verlust von 2,5 Billionen Dollar an den US-Börsen letzte Woche bleibt die Erholung zaghaft und die Anleger verunsichert. Es stellt sich die Frage, ob der Absturz ein Warnschuss oder das Ende des KI-Booms signalisiert."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Engpässe bei Heizöl und Kerosin drohen",
-      "summary": "Wegen des Niedrigwassers auf dem Rhein und unzureichend gefüllter Tanks drohen Engpässe bei Kerosin und Heizöl, was den Bund zur Öffnung seiner Pflichtlager zwingt. Diese Lage könnte zu einer Zuspitzung der Energiepreise in den kommenden Wochen führen."
+      "headline": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
+      "summary": "Die UniCredit könnte noch diesen Monat die letzten Genehmigungen für die Übernahme der Commerzbank erhalten. Die Fusion mit der HypoVereinsbank schreitet ebenfalls schneller voran als erwartet."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "KI-Hacker bringen die Finanzbranche ans Limit",
-      "summary": "Der Milliarden-Hack bei Binance zeigt, dass KI Cyberkriminelle für Finanzdienstleister noch gefährlicher macht. Banken wie die UBS rüsten sich im Wettrüsten gegen diese wachsenden Risiken."
+      "headline": "Skandal beim Chiphersteller Nvidia: Die Affäre des CEO Jensen Huang ist wohl ein Fall von Industriespionage",
+      "summary": "Nvidia-Chef Jensen Huang wird wegen einer mutmaßlichen Spionageaffäre mit einer chinesischen Agentin namens Alice Huang untersucht. Peking soll die Agentin angesetzt haben, um geheime Informationen über den US-Chiphersteller zu erhalten, was die Aktie einbrechen ließ."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Binance CFO tritt nach Milliarden-Hack zurück",
-      "summary": "Der CFO von Binance verlässt das Unternehmen kurz nach dem massiven Hack von 6,3 Milliarden Dollar aus Nutzerkonten. Dies unterstreicht die gravierenden Auswirkungen von Cyberangriffen auf die Führungsebene großer Finanzplattformen."
+      "headline": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+      "summary": "Elon Musk verteidigt Teslas Entscheidung, die Produktion des Cybertrucks in etwa acht Monaten einzustellen, und kündigt die Rückerstattung einiger Anzahlungen an. Diese Neuigkeit wirft Fragen über die Zukunft des polarisierenden Fahrzeugs auf."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Vom Secret Service zum Cybersecurity-VC",
-      "summary": "Ein ehemaliger Secret Service Agent und CISO, der einen Hacker verhaftete und seinen Ruf reinwaschen musste, bereitet nun einen zweiten VC-Fonds für Cybersecurity-Startups vor. Seine einzigartige Erfahrung positioniert ihn als wichtigen Akteur in der Startup-Finanzierung für diesen Sektor."
+      "headline": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "summary": "Stephen Ward, ein ehemaliger Secret Service Agent, der einen Hacker verhaftete und danach seinen eigenen Namen reinwaschen musste, bereitet nun seinen zweiten Risikokapitalfonds über 250 Millionen Dollar für Brightmind Partners vor."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sequoia Capital beendet sein 'Scouts'-Programm",
-      "summary": "Sequoia Capital, ein Pionier des 'Scouts'-Programms, stellt dieses Modell ein, was ein Ende einer Ära in der Venture-Capital-Branche markiert. Viele VC-Firmen hatten das Modell adaptiert, doch nun scheint ein Konsens über dessen Grenzen erreicht zu sein."
+      "headline": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "summary": "Ein neuer Bericht enthüllt, dass Sequoia-Partner überrascht waren, als Roelof Botha dem SpaceX-Vorstand beitrat. Dies deutet auf interne Umwälzungen hin, die das Erbe des früheren Leiters der renommierten Risikokapitalfirma beeinträchtigen könnten."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine: Der feine Unterschied bei Derivaten",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Obwohl sie ähnlich klingen, sind Optionen und Optionsscheine grundverschiedene Finanzprodukte mit unterschiedlichen Emittenten und Rechten.",
-    "details": "Eine Option ist ein standardisierter Vertrag, der dem Käufer das Recht, aber nicht die Pflicht gibt, einen Basiswert zu einem festgelegten Preis und Datum zu kaufen oder zu verkaufen. Sie werden an Terminbörsen gehandelt und haben in der Regel einen neutralen Vermittler (Clearingstelle). Optionsscheine hingegen sind Schuldverschreibungen, die von Banken oder Brokern emittiert werden und meist nicht standardisiert sind. Sie sind ein verbrieftes Recht, das nach Ablauf wertlos werden kann und keine physische Lieferung des Basiswerts beinhaltet, sondern eine Barauszahlung. Ihr Wert hängt stark von der Bonität des Emittenten ab.",
-    "takeaway": "Der Hauptunterschied liegt im Emittenten und der Standardisierung: Optionen sind börsengehandelte Verträge mit einer Clearingstelle, während Optionsscheine von Banken ausgegebene Wertpapiere sind, deren Risiko auch von der Bonität des Emittenten beeinflusst wird."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Kern einer jeden Finanzierungsrunde",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money-Bewertung ist der Wert eines Unternehmens vor einer Finanzierungsrunde, Post-Money-Bewertung ist der Wert nach dem Erhalt des Investments.",
+    "details": "Wenn ein Investor Kapital in ein Startup steckt, kauft er dafür Anteile. Die Pre-Money-Bewertung gibt an, wie viel das Unternehmen schon vor dem neuen Geld wert war. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung, also den Gesamtwert des Unternehmens inklusive des neuen Geldes. Die Anteile des Investors berechnen sich dann aus seinem Investment geteilt durch die Post-Money-Bewertung. Dies ist entscheidend für Gründer und Investoren, um den Wert des Unternehmens und die prozentuale Beteiligung präzise zu bestimmen.",
+    "takeaway": "Investoren und Gründer müssen diese Unterscheidung verstehen, um den Dilution-Effekt (Verwässerung der Anteile) korrekt zu bewerten und den fairen Wert der Transaktion zu ermitteln. Es ist die Basis für Verhandlungen bei jeder Finanzierungsrunde."
   }
 }
