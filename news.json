@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "G7-Außenminister sprechen über Ukraine und Iran",
-      "summary": "Die G7-Außenminister treffen sich in Paris, um über die Rolle Europas im Ukraine-Krieg und den weiteren Umgang mit Iran zu beraten. Dabei mahnen sie Washington und Moskau zur Deeskalation und Zusammenarbeit."
+      "headline": "Wadephul zweifelt an Russlands Verhandlungswillen",
+      "summary": "Angesichts bevorstehender Gespräche in Abu Dhabi äußert Außenminister Wadephul Skepsis am echten Verhandlungswillen Russlands bezüglich des Ukraine-Kriegs. Er fordert zudem, dass Europa eine aktive Rolle in den Friedensgesprächen einnehmen muss."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Erste Übung der multinationalen Truppe für die Ukraine startet",
-      "summary": "Rund 2.800 Soldaten aus elf Ländern beginnen nahe der ukrainischen Grenze eine gemeinsame Übung. Ziel ist die Sicherung eines zukünftigen Friedens in der Ukraine, wobei Deutschland das Manöver mit Transportflugzeugen unterstützt."
+      "headline": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+      "summary": "Frankreich beschuldigt den Iran, für jüngste Cyberangriffe auf Kühl- und Gefrieranlagen in Supermärkten und Blutbanken quer durch Europa verantwortlich zu sein. Diese Vorfälle deuten auf eine neue Ebene der digitalen Auseinandersetzung hin."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
       "headline": "Absturz an der Nasdaq: Warnschuss oder Anfang vom Ende des KI-Booms?",
-      "summary": "Nach einem Verlust von 2,5 Billionen Dollar an den US-Börsen letzte Woche bleibt die Erholung zaghaft und die Anleger verunsichert. Es stellt sich die Frage, ob der Absturz ein Warnschuss oder das Ende des KI-Booms signalisiert."
+      "summary": "Ein massiver Absturz an den US-Aktienmärkten führte zu einem Wertverlust von 2,5 Billionen Dollar an der Nasdaq, was Spekulationen über das Ende des KI-Booms befeuert. Obwohl es danach eine leichte Erholung gab, bleibt die Unsicherheit über die zukünftige Entwicklung des Marktes bestehen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
-      "summary": "Die UniCredit könnte noch diesen Monat die letzten Genehmigungen für die Übernahme der Commerzbank erhalten. Die Fusion mit der HypoVereinsbank schreitet ebenfalls schneller voran als erwartet."
+      "headline": "Dynamische Rechtsübernahme überfordert EWR-Staaten – droht auch der Schweiz",
+      "summary": "Die Verpflichtung zur dynamischen Übernahme von EU-Recht überfordert bereits EWR-Staaten wie Norwegen und Island mit hunderten neuen Gesetzen pro Jahr. Sollte die Schweiz neue bilaterale Verträge akzeptieren, könnte auch sie mit einer stark steigenden administrativen Belastung konfrontiert werden."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
       "headline": "Skandal beim Chiphersteller Nvidia: Die Affäre des CEO Jensen Huang ist wohl ein Fall von Industriespionage",
-      "summary": "Nvidia-Chef Jensen Huang wird wegen einer mutmaßlichen Spionageaffäre mit einer chinesischen Agentin namens Alice Huang untersucht. Peking soll die Agentin angesetzt haben, um geheime Informationen über den US-Chiphersteller zu erhalten, was die Aktie einbrechen ließ."
+      "summary": "Der CEO des Chipherstellers Nvidia, Jensen Huang, ist in eine Krise geraten, da seine mutmaßliche Affäre mit einer chinesischen Spionin als Fall von Industriespionage gilt. Das FBI ermittelt, während Aktionäre Klagen einreichen und das Unternehmen eine interne Untersuchung einleitet."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-      "summary": "Elon Musk verteidigt Teslas Entscheidung, die Produktion des Cybertrucks in etwa acht Monaten einzustellen, und kündigt die Rückerstattung einiger Anzahlungen an. Diese Neuigkeit wirft Fragen über die Zukunft des polarisierenden Fahrzeugs auf."
+      "headline": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "summary": "Meta hat Muse Ember vorgestellt, ein neues, leichtgewichtiges AI-Modell für die Agentenausführung, das mit nur 10 Cent pro Million Input-Tokens deutlich günstiger ist als Konkurrenzmodelle. Diese Entwicklung könnte die Kosten für die Nutzung fortschrittlicher AI-Agenten erheblich senken."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-      "summary": "Stephen Ward, ein ehemaliger Secret Service Agent, der einen Hacker verhaftete und danach seinen eigenen Namen reinwaschen musste, bereitet nun seinen zweiten Risikokapitalfonds über 250 Millionen Dollar für Brightmind Partners vor."
+      "headline": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "summary": "Nominal, ein Startup für AI-Hardware-Plattformen, hat seine Bewertung innerhalb von acht Monaten auf 3 Milliarden Dollar verdreifacht und eine weitere Finanzierungsrunde abgeschlossen. Das Unternehmen zählt bereits Anduril zu seinen Großkunden und demonstriert damit starkes Wachstum im AI-Sektor."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "summary": "Ein neuer Bericht enthüllt, dass Sequoia-Partner überrascht waren, als Roelof Botha dem SpaceX-Vorstand beitrat. Dies deutet auf interne Umwälzungen hin, die das Erbe des früheren Leiters der renommierten Risikokapitalfirma beeinträchtigen könnten."
+      "headline": "Fervo now has $12B in orders for its geothermal power tech",
+      "summary": "Das Geothermie-Unternehmen Fervo hat Aufträge im Wert von 12 Milliarden Dollar für seine Geothermie-Technologie erhalten, die auf die Reduzierung der Bohrkosten abzielt. Mit einer Ressource von 8,4 GW in Utah positioniert sich Fervo als wichtiger Akteur im Bereich der erneuerbaren Energien."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Kern einer jeden Finanzierungsrunde",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money-Bewertung ist der Wert eines Unternehmens vor einer Finanzierungsrunde, Post-Money-Bewertung ist der Wert nach dem Erhalt des Investments.",
-    "details": "Wenn ein Investor Kapital in ein Startup steckt, kauft er dafür Anteile. Die Pre-Money-Bewertung gibt an, wie viel das Unternehmen schon vor dem neuen Geld wert war. Addiert man das investierte Kapital zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung, also den Gesamtwert des Unternehmens inklusive des neuen Geldes. Die Anteile des Investors berechnen sich dann aus seinem Investment geteilt durch die Post-Money-Bewertung. Dies ist entscheidend für Gründer und Investoren, um den Wert des Unternehmens und die prozentuale Beteiligung präzise zu bestimmen.",
-    "takeaway": "Investoren und Gründer müssen diese Unterscheidung verstehen, um den Dilution-Effekt (Verwässerung der Anteile) korrekt zu bewerten und den fairen Wert der Transaktion zu ermitteln. Es ist die Basis für Verhandlungen bei jeder Finanzierungsrunde."
+    "topic": "Derivate verstehen: Die Logik des 'Ernte-Vergleichs'",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem zugrunde liegenden Basiswert (wie Aktien, Rohstoffe oder Zinssätze) abgeleitet wird. Sie dienen dazu, Risiken abzusichern oder auf zukünftige Preisbewegungen zu spekulieren.",
+    "details": "Stell dir einen Bauern vor, der Weizen anbaut. Er weiß nicht, welchen Preis er im Herbst für seine Ernte erzielen wird. Um das Risiko fallender Preise abzusichern, könnte er schon heute einen Vertrag – ein Derivat – abschließen, der ihm einen festen Verkaufspreis für seinen Weizen in drei Monaten garantiert. Der Käufer dieses Vertrags wettet darauf, dass der Preis steigen wird. Der Wert dieses Vertrags leitet sich also vom zukünftigen Weizenpreis ab. Finanzderivate funktionieren analog: Optionen, Futures oder Swaps sind solche Verträge, die Anlegern ermöglichen, sich gegen Preisänderungen abzusichern oder auf diese zu spekulieren, ohne den Basiswert direkt kaufen oder verkaufen zu müssen.",
+    "takeaway": "Derivate sind im Kern nichts anderes als Absicherungs- oder Wettverträge auf zukünftige Preisentwicklungen von Gütern oder Wertpapieren, deren Wert vom Basiswert abhängt."
   }
 }
