@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
-      "summary": "Unterhändler Russlands und der Ukraine führen in Abu Dhabi Gespräche zur Beendigung des Krieges, vermittelt durch die USA. Zuvor hatte US-Präsident Trump eine 'große Übereinkunft' angedeutet, deren Auswirkungen auf Europa nun diskutiert werden."
+      "headline": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+      "summary": "Der erste Tag der Russland-Ukraine-Gespräche in Abu Dhabi blieb ergebnislos, weckte jedoch Hoffnung auf einen möglichen Gefangenenaustausch. Eine Waffenruhe scheint vorerst nicht in Sicht zu sein."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israels neu gewähltes Parlament kommt erstmals zusammen",
-      "summary": "Nach der Wahl tritt Israels neues Parlament erstmals zusammen, während die Regierungsbildung unter der Leitung von Netanjahu-Rivale Eisenkot schwierig bleibt. Eine Minderheitsregierung wird dabei als mögliche Option in Betracht gezogen."
+      "headline": "Wadephul warnt Iran vor hybriden Angriffen",
+      "summary": "Nach Cyberangriffen, die Frankreich dem Iran zuschreibt, warnt Außenminister Wadephul Teheran vor hybriden Attacken. Die deutschen Behörden haben sich zur Urheberschaft noch nicht abschließend positioniert."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken",
-      "summary": "Die erfolgreiche E-Auto-Prämie des Bundes, die den Umstieg für Menschen mit niedrigem bis mittlerem Einkommen erleichtern soll, wird voraussichtlich um über 900 Millionen Euro aufgestockt. Dies signalisiert eine fortgesetzte staatliche Unterstützung für die Elektromobilität und die Konjunktur."
+      "headline": "MELDUNGEN WIRTSCHAFT - Chinas Handelsbilanzüberschuss überschreitet erneut die Billion-Schwelle",
+      "summary": "Chinas Handelsbilanzüberschuss hat erneut die Billion-Dollar-Marke überschritten. Dies unterstreicht die weiterhin starke Exportleistung des Landes im globalen Handel."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
-      "summary": "Chinas Handelsüberschuss hat dank starker Exporte von Technologiegütern und Elektroautos erneut die Billionen-Dollar-Marke überschritten. Peking setzt damit weiterhin auf eine exportorientierte Wirtschaftspolitik, die auch umstrittene Subventionen umfasst."
+      "headline": "Die deutschen Speicher sind so leer wie noch nie um diese Zeit. Im Winter könnte das Gas knapp werden",
+      "summary": "Die deutschen Gasspeicher sind aktuell historisch niedrig gefüllt, was bei einem kalten Winter eine Engpassgefahr bergen könnte. Das Wirtschaftsministerium sieht jedoch noch keinen akuten Grund zur Beunruhigung."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Skandal beim Chiphersteller Nvidia: Die Affäre des CEO Jensen Huang ist wohl ein Fall von Industriespionage",
-      "summary": "Nvidias CEO Jensen Huang steht wegen einer mutmaßlichen Affäre mit einer chinesischen Spionin unter Druck, die als Industriespionage eingestuft wird. Das FBI ermittelt, während Aktionäre das Unternehmen verklagen und der CEO Auftritte absagt."
+      "headline": "Spionageaffäre bei Nvidia: Aktie verzeichnet weitere Kursverluste +++ FBI ermittelt laut Trump",
+      "summary": "Die Nvidia-Spionageaffäre um CEO Jensen Huang und eine mutmaßliche chinesische Spionin führt zu weiteren Kursverlusten der Aktie. Das FBI hat laut Trump Ermittlungen aufgenommen, während Nvidia eine interne Untersuchung einleitet."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
-      "summary": "Die USA erleben den größten Masernausbruch seit Jahrzehnten, verstärkt durch widersprüchliche Impfbotschaften des Gesundheitsministers. Das Land könnte in dieser Woche seinen Status als 'masernfrei' verlieren."
+      "headline": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "summary": "Google hat sein Pixel Tag vorgestellt, einen 30-Dollar-Tracker für Android-Geräte, der in direkter Konkurrenz zu Apples AirTag steht. Nutzer können damit verlorene Gegenstände orten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic reportedly plans to move forward with IPO plans",
-      "summary": "Das KI-Unternehmen Anthropic bereitet Berichten zufolge seinen Börsengang vor und will noch diese Woche seine Bewertungsspanne festlegen. Dies markiert einen wichtigen Schritt für ein hoch bewertetes Tech-Startup auf dem Weg an die öffentlichen Märkte."
+      "headline": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
+      "summary": "Das KI-Unternehmen Anthropic plant seinen Börsengang und strebt dabei eine Bewertung von über einer Billion Dollar an. Das Debüt soll als Test für das Vertrauen des Marktes in die Rentabilität der KI-Branche dienen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Fervo now has $12B in orders for its geothermal power tech",
-      "summary": "Das Geothermie-Unternehmen Fervo hat Aufträge im Wert von 12 Milliarden Dollar für seine Technologie erhalten und zielt darauf ab, die Kosten für Geothermiebohrungen zu senken. Dies unterstreicht das enorme Potenzial und den Erfolg bahnbrechender Energietechnologien."
+      "headline": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "summary": "Der ehemalige SignalFire-Investor Sahir Raoof hat mit Proximal Ventures einen neuen Fonds über 27,5 Millionen Dollar aufgelegt. Der Fonds zielt darauf ab, Startups zu finanzieren, die KI in der Medikamentenentwicklung einsetzen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money: Die Magie der Startup-Bewertung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money und Post-Money sind grundlegende Konzepte in der Startup-Finanzierung, die den Wert eines Unternehmens vor bzw. nach einer Investition beschreiben. Sie bestimmen, wie viel Anteil neue Investoren für ihr Kapital erhalten.",
-    "details": "Die Pre-Money-Bewertung ist der Wert des Startups vor dem frischen Kapital der Investoren. Addiert man das investierte Geld zur Pre-Money-Bewertung, erhält man die Post-Money-Bewertung. Diese Post-Money-Bewertung bildet die Basis für die Berechnung des prozentualen Anteils, den neue Investoren für ihre Einlage erhalten, indem die Investition durch die Post-Money-Bewertung geteilt wird. Das Verständnis dieser Unterscheidung ist entscheidend, um zu erfassen, wie Kapitalerhöhungen die Eigentümerstruktur beeinflussen.",
-    "takeaway": "Pre-Money ist der Wert vor der Investition, Post-Money ist der Wert nach der Investition (Pre-Money + Investment). Neue Investoren erhalten ihren Anteil basierend auf der Post-Money-Bewertung, was die Dilution bestehender Eigentümer direkt beeinflusst."
+    "topic": "Der Short Squeeze: Wenn Leerverkäufer in die Enge getrieben werden",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Ein Short Squeeze beschreibt eine Marktsituation, in der der Preis einer Aktie plötzlich und stark steigt, weil Leerverkäufer ihre Positionen schließen müssen, um Verluste zu begrenzen.",
+    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie sich Aktien leihen, diese verkaufen und später günstiger zurückkaufen möchten. Steigt der Kurs einer solchen Aktie unerwartet und deutlich, müssen die Leerverkäufer die geliehenen Aktien zurückkaufen, um weitere Verluste zu vermeiden. Diese plötzliche, erzwungene Kaufnachfrage treibt den Kurs zusätzlich in die Höhe und zwingt immer mehr Leerverkäufer zum Schließen ihrer Positionen, was eine Aufwärtsspirale des Preises erzeugt.",
+    "takeaway": "Short Squeezes sind extrem volatil und können zu massiven Kursbewegungen führen. Sie zeigen eindrücklich, wie psychologische Faktoren und technische Marktmechanismen (wie das forcierte Schließen von Leerverkaufspositionen) den Markt massiv beeinflussen können."
   }
 }
