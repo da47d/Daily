@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
-      "summary": "Der erste Tag der Russland-Ukraine-Gespräche in Abu Dhabi blieb ergebnislos, weckte jedoch Hoffnung auf einen möglichen Gefangenenaustausch. Eine Waffenruhe scheint vorerst nicht in Sicht zu sein."
+      "headline": "Ukraine-Verhandlungen: Russland plant kein Treffen mit Europäern",
+      "summary": "Bei den von den USA vermittelten Gesprächen über ein Kriegsende in Abu Dhabi zeigt sich die russische Delegation wenig interessiert an einem Austausch mit den Europäern. Dies unterstreicht die anhaltenden Spannungen und die Schwierigkeiten, Fortschritte in den Verhandlungen zu erzielen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Wadephul warnt Iran vor hybriden Angriffen",
-      "summary": "Nach Cyberangriffen, die Frankreich dem Iran zuschreibt, warnt Außenminister Wadephul Teheran vor hybriden Attacken. Die deutschen Behörden haben sich zur Urheberschaft noch nicht abschließend positioniert."
+      "headline": "Nvidia-Affäre: Jensen Huang kämpfte für lockerere Chipexporte nach China – doch nun drohen schärfere Kontrollen",
+      "summary": "Nvidia-CEO Jensen Huang setzte sich für weniger strenge Exportkontrollen von KI-Chips nach China ein, was nach Bekanntwerden einer mutmaßlichen Spionageaffäre nun in neuem Licht erscheint. Schärfere Regulierungen könnten seine früheren Positionen und den Chip-Handel beeinflussen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "MELDUNGEN WIRTSCHAFT - Chinas Handelsbilanzüberschuss überschreitet erneut die Billion-Schwelle",
-      "summary": "Chinas Handelsbilanzüberschuss hat erneut die Billion-Dollar-Marke überschritten. Dies unterstreicht die weiterhin starke Exportleistung des Landes im globalen Handel."
+      "headline": "In den USA droht ein grosser Zinssprung: Die Verantwortlichen der Notenbank sind nervös wegen der hartnäckigen Inflation",
+      "summary": "Angesichts hartnäckiger Inflation erwägen Vertreter der US-Zentralbank einen Zinsschritt von 50 Basispunkten, was ein Eingeständnis einer Fehleinschätzung des Teuerungsschubs wäre. Diese Entwicklung deutet auf eine weitere Straffung der Geldpolitik hin, um die Preisstabilität wiederherzustellen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die deutschen Speicher sind so leer wie noch nie um diese Zeit. Im Winter könnte das Gas knapp werden",
-      "summary": "Die deutschen Gasspeicher sind aktuell historisch niedrig gefüllt, was bei einem kalten Winter eine Engpassgefahr bergen könnte. Das Wirtschaftsministerium sieht jedoch noch keinen akuten Grund zur Beunruhigung."
+      "headline": "\"Tankrabatt\" drückt Inflation im Oktober",
+      "summary": "Die Teuerungsrate in Deutschland ist im Oktober zurückgegangen, was offenbar auf den sogenannten \"Tankrabatt\" zurückzuführen ist. Dennoch bleiben Energiepreise, insbesondere für Heizöl, sowie einige Lebensmittelkosten weiterhin hoch."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Spionageaffäre bei Nvidia: Aktie verzeichnet weitere Kursverluste +++ FBI ermittelt laut Trump",
-      "summary": "Die Nvidia-Spionageaffäre um CEO Jensen Huang und eine mutmaßliche chinesische Spionin führt zu weiteren Kursverlusten der Aktie. Das FBI hat laut Trump Ermittlungen aufgenommen, während Nvidia eine interne Untersuchung einleitet."
+      "headline": "Testlauf für die KI-Branche: Anthropic drängt an die Börse – mit einer niedrigeren Bewertung",
+      "summary": "Der führende KI-Sprachmodell-Anbieter Anthropic plant seinen Börsengang im November, jedoch mit einer niedrigeren Bewertung als erwartet. Das Debüt wird als wichtiger Test dafür gesehen, wie stark die Märkte an das Zukunftspotenzial der KI-Technologie glauben."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-      "summary": "Google hat sein Pixel Tag vorgestellt, einen 30-Dollar-Tracker für Android-Geräte, der in direkter Konkurrenz zu Apples AirTag steht. Nutzer können damit verlorene Gegenstände orten."
+      "headline": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "New York führt ein umfassendes KI-Sicherheitsgesetz ein, das große Entwickler wie OpenAI und Anthropic zur Registrierung und Offenlegung ihrer Sicherheitspraktiken verpflichtet. Unternehmen müssen kritische Vorfälle melden, um hohe Strafen zu vermeiden, was neue Herausforderungen für die Branche bedeutet."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
-      "summary": "Das KI-Unternehmen Anthropic plant seinen Börsengang und strebt dabei eine Bewertung von über einer Billion Dollar an. Das Debüt soll als Test für das Vertrauen des Marktes in die Rentabilität der KI-Branche dienen."
+      "headline": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "summary": "Der ehemalige SignalFire-Investor Sahir Raoof hat Proximal Ventures ins Leben gerufen und einen ersten Fonds von 27,5 Millionen Dollar erfolgreich geschlossen. Der Fonds zielt darauf ab, Startups zu unterstützen, die künstliche Intelligenz in der Arzneimittelentwicklung einsetzen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "summary": "Der ehemalige SignalFire-Investor Sahir Raoof hat mit Proximal Ventures einen neuen Fonds über 27,5 Millionen Dollar aufgelegt. Der Fonds zielt darauf ab, Startups zu finanzieren, die KI in der Medikamentenentwicklung einsetzen."
+      "headline": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary": "Alle sieben Mitbegründer von Anthropic planen, beim bevorstehenden IPO eine gleiche Anzahl von Aktien zu veräußern, was jedem etwa 250 Millionen Dollar einbringen würde. Trotz des erheblichen Cash-outs behält die Gründergruppe die Kontrolle über das Unternehmen."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Wenn Leerverkäufer in die Enge getrieben werden",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze beschreibt eine Marktsituation, in der der Preis einer Aktie plötzlich und stark steigt, weil Leerverkäufer ihre Positionen schließen müssen, um Verluste zu begrenzen.",
-    "details": "Leerverkäufer wetten auf fallende Kurse, indem sie sich Aktien leihen, diese verkaufen und später günstiger zurückkaufen möchten. Steigt der Kurs einer solchen Aktie unerwartet und deutlich, müssen die Leerverkäufer die geliehenen Aktien zurückkaufen, um weitere Verluste zu vermeiden. Diese plötzliche, erzwungene Kaufnachfrage treibt den Kurs zusätzlich in die Höhe und zwingt immer mehr Leerverkäufer zum Schließen ihrer Positionen, was eine Aufwärtsspirale des Preises erzeugt.",
-    "takeaway": "Short Squeezes sind extrem volatil und können zu massiven Kursbewegungen führen. Sie zeigen eindrücklich, wie psychologische Faktoren und technische Marktmechanismen (wie das forcierte Schließen von Leerverkaufspositionen) den Markt massiv beeinflussen können."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Unternehmenswert in Finanzierungsrunden",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Erklärt, wie Unternehmenswerte in Finanzierungsrunden vor und nach einer Kapitalinvestition bestimmt werden, entscheidend für die Beteiligungsverteilung.",
+    "details": "Die Pre-Money-Bewertung ist der Wert eines Unternehmens *vor* dem Eingang neuer Investitionen. Wenn Investoren frisches Kapital einbringen, addiert sich dieses zur Pre-Money-Bewertung, um die Post-Money-Bewertung zu ergeben – den Unternehmenswert *nach* der Finanzierungsrunde. Der Anteil, den die neuen Investoren erhalten, berechnet sich aus ihrem Investment im Verhältnis zur Post-Money-Bewertung. Ein tieferes Verständnis dieser Metriken ist unerlässlich, um die prozentuale Beteiligung der Gründer und bestehenden Anteilseigner nach einer Kapitalerhöhung präzise zu ermitteln und zukünftige Verwässerungen zu antizipieren.",
+    "takeaway": "Die Post-Money-Bewertung ist der entscheidende Wert, um den Anteil neuer Investoren zu bestimmen und die resultierende Verwässerung der bestehenden Anteile zu verstehen."
   }
 }
