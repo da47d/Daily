@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Polens Rechte ziehen mit 'Unabhängigkeitsmarsch' durch Warschau",
-      "summary": "Am polnischen Unabhängigkeitstag zogen Rechtsnationalisten mit einem umstrittenen 'Unabhängigkeitsmarsch' durch Warschau, der Hunderttausende anzog. Dieses Ereignis verdeutlicht die anhaltende Präsenz nationalistischer Strömungen in Europa."
+      "headline": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
+      "summary": "Russlands Präsident Putin hat bei Gesprächen mit US-Unterhändlern seinen Anspruch auf ukrainische Gebiete bekräftigt. Eine mögliche Beteiligung Europas an künftigen Friedensgesprächen schloss er jedoch nicht aus, was die Komplexität der diplomatischen Bemühungen unterstreicht."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "'Sicherheitsordnung': Warum übernehmen die USA Russlands Forderung?",
-      "summary": "Russland versucht, durch Gespräche über eine 'Sicherheitsordnung' seinen Einfluss in Europa auszuweiten, wobei sich die USA nun auf diese Logik eingelassen haben. Dies könnte weitreichende geopolitische Implikationen für die Stabilität des Kontinents haben."
+      "headline": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
+      "summary": "Israels Oppositionschef Eisenkot warnte Premier Netanjahu eindringlich vor 'gefährlichen Schritten', angesichts von Spekulationen über geplante neue Angriffe auf Iran. Diese Mahnung deutet auf eine erhöhte Spannungsgefahr in der Region hin, die globale Märkte beeinflussen könnte."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX pirscht sich ans Rekordhoch heran",
-      "summary": "Der DAX beendete den Handelstag nahe seines Rekordhochs, angetrieben von Optimismus der Wirtschaftsweisen und abnehmenden KI-Sorgen. Dies signalisiert eine positive Marktstimmung trotz anfänglicher Rückschläge im Handelsverlauf."
+      "headline": "In den USA droht ein grosser Zinssprung",
+      "summary": "Ein Vertreter der US-Zentralbank brachte angesichts hartnäckiger Inflation einen Zinsschritt von 50 Basispunkten ins Spiel. Dies unterstreicht die Nervosität der Notenbankverantwortlichen und signalisiert erhöhte Risiken für eine aggressivere Geldpolitik."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "In den USA droht ein grosser Zinssprung: Die Verantwortlichen der Notenbank sind nervös wegen der hartnäckigen Inflation",
-      "summary": "Ein Vertreter der US-Zentralbank deutet einen Zinsschritt von 50 Basispunkten an, da die Notenbanker wegen der hartnäckigen Inflation nervös sind. Dies ist ein Eingeständnis, den jüngsten Teuerungsschub unterschätzt zu haben und signalisiert eine straffere Geldpolitik."
+      "headline": "Sachverständigenrat: Deutschland steuert auf Schuldenquote von 100 Prozent zu",
+      "summary": "Die Wirtschaftsweisen fordern von der Bundesregierung drastische Kürzungen von Subventionen und Sozialausgaben. Ohne eine Umstellung der Verteidigungsfinanzierung drohen die Staatsschulden aus dem Ruder zu laufen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Spionageaffäre bei Nvidia: Aktie verzeichnet weitere Kursverluste",
-      "summary": "Die Aktie von Nvidia verzeichnet weitere Kursverluste aufgrund einer Spionageaffäre um CEO Jensen Huang, der mutmaßlich eine Affäre mit einer chinesischen Spionin hatte. Das Chip-Unternehmen leitet eine Untersuchung ein, während das FBI ermittelt."
+      "headline": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+      "summary": "Jensen Huang, der Chef des weltgrößten Chipkonzerns Nvidia, ist wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurückgetreten. Seine Aufgaben übernimmt vorübergehend Finanzchefin Colette Kress, was die Tech-Branche und die Sicherheitsgemeinschaft gleichermaßen in Aufruhr versetzt."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "summary": "OpenAI hat Berichten zufolge erstmals einen Quartalsumsatz von über 10 Milliarden US-Dollar erzielt, was einen Sprung von fast 50 % gegenüber dem Vorquartal darstellt. Dieser Meilenstein unterstreicht das enorme Wachstum und die steigende kommerzielle Relevanz von generativer KI."
+      "headline": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
+      "summary": "Jensen Huang, einst das prägende Gesicht und Sympathieträger von Nvidia, musste seinen Posten räumen, nachdem mehrere Affären bekannt wurden. Diese Entwicklungen führten dazu, dass er nicht nur als CEO, sondern auch als Sicherheitsrisiko eingestuft wird."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave finanziert sein aggressives KI-Wachstum zunehmend durch Vorauszahlungen von Kunden und kürzere Vertragslaufzeiten. Diese Strategie, die auch das Leihen gegen spezifische Verträge einschließt, ermöglicht dem Unternehmen, trotz hoher Verschuldung zu expandieren."
+      "headline": "Münchner Start-up Agile Robots erhält 500 Millionen Dollar",
+      "summary": "Das Münchner Start-up Agile Robots hat eine beeindruckende Finanzierungsrunde von 500 Millionen Dollar erfolgreich abgeschlossen. Diese Investition unterstreicht das enorme Vertrauen in innovative Robotik- und KI-Lösungen und stärkt die Position des Unternehmens am Markt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Testlauf für die KI-Branche: Anthropic drängt an die Börse – mit einer niedrigeren Bewertung",
-      "summary": "Der führende KI-Sprachmodellanbieter Anthropic plant seinen Börsengang bereits im November, allerdings mit einer niedrigeren Bewertung als erwartet. Das Debüt dient als wichtiger Test für das Vertrauen der Märkte in die Zukunft der KI-Technologie."
+      "headline": "Nebius plant $40 Milliarden für AI-Infrastruktur – mit neuem Finanzierungsmodell",
+      "summary": "Nebius will seine $40 Milliarden umfassende AI-Infrastruktur-Expansion über Kundenvorauszahlungen und Kredite finanzieren. Das aggressive Modell des stark verschuldeten Entwicklers von Rechenzentren wirft angesichts von Verzögerungen bei Microsoft Datenzentren Fragen zur Umsetzbarkeit auf."
     }
   ],
   "learning": {
-    "topic": "Der Short Squeeze: Mechanismus und Dynamik",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Ein Short Squeeze ist ein Phänomen an den Finanzmärkten, bei dem ein starker Kursanstieg einer Aktie Leerverkäufer dazu zwingt, ihre Positionen durch Rückkäufe zu schließen, was den Kurs weiter in die Höhe treibt.",
-    "details": "Wenn viele Anleger auf fallende Kurse wetten (Leerverkauf), leihen sie sich Aktien, verkaufen diese und hoffen, sie später günstiger zurückkaufen zu können. Steigt der Kurs unerwartet stark an, geraten Leerverkäufer unter Druck, da ihre potenziellen Verluste unbegrenzt sind. Um diese Verluste zu begrenzen oder Margin Calls zu vermeiden, müssen sie die geliehenen Aktien zurückkaufen. Dieser erzwungene Rückkauf erhöht die Nachfrage und treibt den Aktienkurs weiter in die Höhe, was einen Teufelskreis in Gang setzt, der den Short Squeeze ausmacht.",
-    "takeaway": "Ein Short Squeeze zeigt die Macht der kollektiven Marktdynamik und kann zu extrem schnellen und unvorhersehbaren Kursbewegungen führen, oft ausgelöst durch unerwartet positive Nachrichten oder spekulatives Anlegerverhalten."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Die Essenz der Startup-Finanzierung verstehen",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert inklusive der frischen Investition darstellt. Dieses Konzept ist fundamental, um den Wertbeitrag neuer Investoren und die Verwässerung der bestehenden Anteile zu verstehen.",
+    "details": "Stell dir vor, ein Startup ist vor einer Investition 10 Millionen Euro wert (Pre-Money). Wenn ein Investor nun 2 Millionen Euro für 20% der Anteile investiert, dann ist die Post-Money-Bewertung 12 Millionen Euro (Pre-Money von 10 Mio. + Investment von 2 Mio.). Die Formel ist immer: Investment / Post-Money-Bewertung = prozentuale Beteiligung des Investors. Oder anders ausgedrückt: Post-Money-Bewertung = Pre-Money-Bewertung + Investment. Diese Unterscheidung ist entscheidend für Gründer, da sie direkt beeinflusst, wie stark ihre bestehenden Anteile durch die neue Finanzierungsrunde verwässert werden und wie viel Kontrolle sie behalten. Für Investoren ist es der Schlüssel zur Bestimmung ihres Anteils und des potenziellen Returns.",
+    "takeaway": "Für Finance-Studenten ist es essenziell, Pre-Money und Post-Money nicht nur zu berechnen, sondern ihre Bedeutung für die Equity-Verteilung und die Bewertung von Investments zu begreifen. Es ist die Basis für jede Due Diligence in der VC-Welt und bei der Analyse von Finanzierungsrunden."
   }
 }
