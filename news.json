@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Krieg gegen die Ukraine: Putin beharrt auf Gebietsansprüchen",
-      "summary": "Russlands Präsident Putin hat bei Gesprächen mit US-Unterhändlern seinen Anspruch auf ukrainische Gebiete bekräftigt. Eine mögliche Beteiligung Europas an künftigen Friedensgesprächen schloss er jedoch nicht aus, was die Komplexität der diplomatischen Bemühungen unterstreicht."
+      "headline": "EU-Emissionshandel: Erleichterung für Industrie",
+      "summary": "Die EU-Industrie erhält befristet zusätzliche kostenlose Emissionszertifikate, um die Kosten für Emissionen zu senken. Dieser Schritt, auf den sich EU-Parlament und Mitgliedstaaten einigten, soll betroffenen Branchen entgegenkommen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
-      "summary": "Israels Oppositionschef Eisenkot warnte Premier Netanjahu eindringlich vor 'gefährlichen Schritten', angesichts von Spekulationen über geplante neue Angriffe auf Iran. Diese Mahnung deutet auf eine erhöhte Spannungsgefahr in der Region hin, die globale Märkte beeinflussen könnte."
+      "headline": "US-Demokraten untersuchen Nvidia-Skandal",
+      "summary": "US-Demokraten haben eine Untersuchung gegen Nvidia eingeleitet und kritisieren Huangs 'Schema' mit Trump scharf. Dies ist die zweite Kongressuntersuchung seit Bekanntwerden der Spionageaffäre."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "In den USA droht ein grosser Zinssprung",
-      "summary": "Ein Vertreter der US-Zentralbank brachte angesichts hartnäckiger Inflation einen Zinsschritt von 50 Basispunkten ins Spiel. Dies unterstreicht die Nervosität der Notenbankverantwortlichen und signalisiert erhöhte Risiken für eine aggressivere Geldpolitik."
+      "headline": "US-Zentralbank erwägt großen Zinsschritt wegen Inflation",
+      "summary": "Angesichts hartnäckiger Inflation erwägt ein Vertreter der US-Zentralbank einen Zinsschritt von 50 Basispunkten. Dies ist ein Eingeständnis, den jüngsten Teuerungsschub unterschätzt zu haben und deutet auf eine aggressive Geldpolitik hin."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Sachverständigenrat: Deutschland steuert auf Schuldenquote von 100 Prozent zu",
-      "summary": "Die Wirtschaftsweisen fordern von der Bundesregierung drastische Kürzungen von Subventionen und Sozialausgaben. Ohne eine Umstellung der Verteidigungsfinanzierung drohen die Staatsschulden aus dem Ruder zu laufen."
+      "headline": "Deutschland droht Schuldenquote von 100 Prozent",
+      "summary": "Der Sachverständigenrat warnt, dass Deutschland ohne Kürzung von Subventionen und Sozialausgaben auf eine Schuldenquote von 100 Prozent zusteuert. Die Wirtschaftsweisen fordern zudem, Verteidigungsausgaben künftig aus dem regulären Haushalt zu finanzieren, um ein Ausufern der Staatsschulden zu verhindern."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-      "summary": "Jensen Huang, der Chef des weltgrößten Chipkonzerns Nvidia, ist wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurückgetreten. Seine Aufgaben übernimmt vorübergehend Finanzchefin Colette Kress, was die Tech-Branche und die Sicherheitsgemeinschaft gleichermaßen in Aufruhr versetzt."
+      "headline": "Nvidia-Chef Jensen Huang tritt nach Affären-Skandal zurück",
+      "summary": "Jensen Huang ist als Firmenchef von Nvidia zurückgetreten, nachdem Berichte über mehrere Affären und eine mutmaßliche Liaison mit einer Spionin bekannt wurden. Die Finanzchefin Colette Kress übernimmt interimistisch, während der Verwaltungsrat eine dauerhafte Nachfolge sucht."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
-      "summary": "Jensen Huang, einst das prägende Gesicht und Sympathieträger von Nvidia, musste seinen Posten räumen, nachdem mehrere Affären bekannt wurden. Diese Entwicklungen führten dazu, dass er nicht nur als CEO, sondern auch als Sicherheitsrisiko eingestuft wird."
+      "headline": "Globale Cloud-Krise durch Microsoft-Ausfall",
+      "summary": "Weltweit sind Outlook, Teams und weitere Microsoft-Dienste über Stunden ausgefallen, was für viele Unternehmen zu einem 'digitalen Hirntod' führte. Der Vorfall löste eine globale Cloud-Krise aus und verstärkt die Forderung nach digitaler Souveränität und weniger Abhängigkeit."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
       "headline": "Münchner Start-up Agile Robots erhält 500 Millionen Dollar",
-      "summary": "Das Münchner Start-up Agile Robots hat eine beeindruckende Finanzierungsrunde von 500 Millionen Dollar erfolgreich abgeschlossen. Diese Investition unterstreicht das enorme Vertrauen in innovative Robotik- und KI-Lösungen und stärkt die Position des Unternehmens am Markt."
+      "summary": "Das Münchner Start-up Agile Robots hat eine beeindruckende Finanzierungsrunde über 500 Millionen Dollar abgeschlossen. Dies sind die neuesten Meldungen aus der Wirtschaft."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Nebius plant $40 Milliarden für AI-Infrastruktur – mit neuem Finanzierungsmodell",
-      "summary": "Nebius will seine $40 Milliarden umfassende AI-Infrastruktur-Expansion über Kundenvorauszahlungen und Kredite finanzieren. Das aggressive Modell des stark verschuldeten Entwicklers von Rechenzentren wirft angesichts von Verzögerungen bei Microsoft Datenzentren Fragen zur Umsetzbarkeit auf."
+      "headline": "Nectar launcht AI-Agent für Influencer Marketing",
+      "summary": "Nectars neuer KI-Agent automatisiert das Influencer Marketing, indem er Marken bei der Entdeckung von Creatorn und der Verwaltung von Kooperationen unterstützt. Damit vereinfacht die Plattform Reichweite und Kampagnenmanagement erheblich."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Die Essenz der Startup-Finanzierung verstehen",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer Finanzierungsrunde, während die Post-Money-Bewertung den Wert inklusive der frischen Investition darstellt. Dieses Konzept ist fundamental, um den Wertbeitrag neuer Investoren und die Verwässerung der bestehenden Anteile zu verstehen.",
-    "details": "Stell dir vor, ein Startup ist vor einer Investition 10 Millionen Euro wert (Pre-Money). Wenn ein Investor nun 2 Millionen Euro für 20% der Anteile investiert, dann ist die Post-Money-Bewertung 12 Millionen Euro (Pre-Money von 10 Mio. + Investment von 2 Mio.). Die Formel ist immer: Investment / Post-Money-Bewertung = prozentuale Beteiligung des Investors. Oder anders ausgedrückt: Post-Money-Bewertung = Pre-Money-Bewertung + Investment. Diese Unterscheidung ist entscheidend für Gründer, da sie direkt beeinflusst, wie stark ihre bestehenden Anteile durch die neue Finanzierungsrunde verwässert werden und wie viel Kontrolle sie behalten. Für Investoren ist es der Schlüssel zur Bestimmung ihres Anteils und des potenziellen Returns.",
-    "takeaway": "Für Finance-Studenten ist es essenziell, Pre-Money und Post-Money nicht nur zu berechnen, sondern ihre Bedeutung für die Equity-Verteilung und die Bewertung von Investments zu begreifen. Es ist die Basis für jede Due Diligence in der VC-Welt und bei der Analyse von Finanzierungsrunden."
+    "topic": "Startup-Slang entschlüsseln: Wichtige Begriffe verstehen",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Im dynamischen Startup-Umfeld sind spezifische Fachbegriffe wie SaaS, B2B, ARR, Burn Rate und Churn entscheidend, um Geschäftsmodelle und deren finanzielle Gesundheit schnell zu erfassen.",
+    "details": "SaaS (Software-as-a-Service) bezeichnet Softwarelösungen, die als Abonnement online angeboten werden. B2B (Business-to-Business) beschreibt Geschäftsmodelle, bei denen Unternehmen Produkte oder Dienstleistungen an andere Unternehmen verkaufen, im Gegensatz zu Endkunden (B2C). ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements, ein Schlüsselindikator für die Planbarkeit und Stabilität von SaaS-Unternehmen. Die Burn Rate gibt an, wie viel Bargeld ein Startup monatlich verbraucht, um seine Betriebskosten zu decken, was Aufschluss über die verbleibende Runway gibt. Churn (oder Churn Rate) misst den Prozentsatz der Kunden, die in einem bestimmten Zeitraum ihre Abonnements kündigen, und ist ein kritischer Indikator für Kundenzufriedenheit und Produkt-Markt-Fit.",
+    "takeaway": "Das Verständnis dieser Begriffe ermöglicht eine präzise Einschätzung der betrieblichen Effizienz, des Wachstumspotenzials und der finanziellen Tragfähigkeit eines Startups. Sie sind essenziell für Investoren, Gründer und jeden, der im Tech- und VC-Bereich agiert."
   }
 }
