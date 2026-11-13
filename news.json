@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU-Emissionshandel: Erleichterung für Industrie",
-      "summary": "Die EU-Industrie erhält befristet zusätzliche kostenlose Emissionszertifikate, um die Kosten für Emissionen zu senken. Dieser Schritt, auf den sich EU-Parlament und Mitgliedstaaten einigten, soll betroffenen Branchen entgegenkommen."
+      "headline": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+      "summary": "Die EU hat sich auf ein Verhandlungsteam geeinigt, das Europa bei Gesprächen mit Russland über ein Ende des Ukraine-Krieges vertreten soll. Deutschland ist als eines von fünf Ländern Teil dieses Teams, das aus EU-Institutionen und Mitgliedsstaaten besteht."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Demokraten untersuchen Nvidia-Skandal",
-      "summary": "US-Demokraten haben eine Untersuchung gegen Nvidia eingeleitet und kritisieren Huangs 'Schema' mit Trump scharf. Dies ist die zweite Kongressuntersuchung seit Bekanntwerden der Spionageaffäre."
+      "headline": "Demokraten leiten Nvidia-Untersuchung wegen Huangs Geschäften mit China und Trump ein",
+      "summary": "US-Demokraten haben eine Untersuchung gegen Nvidia und dessen Ex-CEO Jensen Huang eingeleitet, um dessen Geschäfte in China und angebliche Verbindungen zu Trump zu prüfen. Dies ist bereits die zweite Kongressuntersuchung seit dem Bekanntwerden der Spionageaffäre um Huang."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "US-Zentralbank erwägt großen Zinsschritt wegen Inflation",
-      "summary": "Angesichts hartnäckiger Inflation erwägt ein Vertreter der US-Zentralbank einen Zinsschritt von 50 Basispunkten. Dies ist ein Eingeständnis, den jüngsten Teuerungsschub unterschätzt zu haben und deutet auf eine aggressive Geldpolitik hin."
+      "headline": "DAX schwächelt nach Allzeithoch – bleibt aber auf hohem Niveau",
+      "summary": "Nach dem jüngsten Allzeithoch zeigte der Deutsche Aktienindex heute eine Seitwärtsbewegung, bleibt aber auf hohem Niveau. Im Wochenvergleich verzeichnet der DAX dennoch einen deutlichen Zuwachs von über vier Prozent."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Deutschland droht Schuldenquote von 100 Prozent",
-      "summary": "Der Sachverständigenrat warnt, dass Deutschland ohne Kürzung von Subventionen und Sozialausgaben auf eine Schuldenquote von 100 Prozent zusteuert. Die Wirtschaftsweisen fordern zudem, Verteidigungsausgaben künftig aus dem regulären Haushalt zu finanzieren, um ein Ausufern der Staatsschulden zu verhindern."
+      "headline": "Kapitalsteuern tragen immer mehr zum Schweizer Staatshaushalt bei",
+      "summary": "Eine Studie von Avenir Suisse zeigt, dass Kapitalsteuern einen immer größeren Anteil am Schweizer Staatshaushalt ausmachen, entgegen dem Trend internationaler Forderungen nach höherer Besteuerung. Dies belegt, dass Reiche und Firmen in der Schweiz bereits jetzt einen substanziellen Beitrag leisten."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia-Chef Jensen Huang tritt nach Affären-Skandal zurück",
-      "summary": "Jensen Huang ist als Firmenchef von Nvidia zurückgetreten, nachdem Berichte über mehrere Affären und eine mutmaßliche Liaison mit einer Spionin bekannt wurden. Die Finanzchefin Colette Kress übernimmt interimistisch, während der Verwaltungsrat eine dauerhafte Nachfolge sucht."
+      "headline": "Jensen Huang tritt als Nvidia-Chef nach Affären zurück",
+      "summary": "Jensen Huang ist als Nvidia-Chef zurückgetreten, nachdem mehrere Affären bekannt wurden und sein Aufsichtsgremium handelte. Die Finanzchefin Colette Kress übernimmt vorübergehend die Führung, während der Verwaltungsrat einen dauerhaften Nachfolger sucht."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Globale Cloud-Krise durch Microsoft-Ausfall",
-      "summary": "Weltweit sind Outlook, Teams und weitere Microsoft-Dienste über Stunden ausgefallen, was für viele Unternehmen zu einem 'digitalen Hirntod' führte. Der Vorfall löste eine globale Cloud-Krise aus und verstärkt die Forderung nach digitaler Souveränität und weniger Abhängigkeit."
+      "headline": "ChatGPT führt neues Wallet-Feature für KI-gesteuertes Shopping ein",
+      "summary": "ChatGPT hat ein neues Wallet-Feature eingeführt, das es KI-Agenten ermöglicht, Einkäufe im Namen der Nutzer zu tätigen und den Bezahlvorgang abzuschließen. Der Rollout startet begrenzt für Pro-Abonnenten in den USA."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Münchner Start-up Agile Robots erhält 500 Millionen Dollar",
-      "summary": "Das Münchner Start-up Agile Robots hat eine beeindruckende Finanzierungsrunde über 500 Millionen Dollar abgeschlossen. Dies sind die neuesten Meldungen aus der Wirtschaft."
+      "headline": "AI-Agenten-Startup LangChain erreicht 3 Milliarden Dollar Bewertung",
+      "summary": "Das AI-Agenten-Startup LangChain hat eine Bewertung von 3 Milliarden US-Dollar erreicht. Das Unternehmen zählt bereits 7.000 Kunden für sein Modell- und plattformunabhängiges Agent-Management-Tool LangSmith."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Nectar launcht AI-Agent für Influencer Marketing",
-      "summary": "Nectars neuer KI-Agent automatisiert das Influencer Marketing, indem er Marken bei der Entdeckung von Creatorn und der Verwaltung von Kooperationen unterstützt. Damit vereinfacht die Plattform Reichweite und Kampagnenmanagement erheblich."
+      "headline": "Startup will schwimmende Rechenzentren mit Ozeanwärme betreiben",
+      "summary": "Ein junges Startup namens Drogue plant, schwimmende Rechenzentren mit der Wärme des Ozeans zu betreiben und hat bereits Investoren überzeugt. Der erste Prototyp soll in weniger als zwei Jahren im Meer Bits verarbeiten."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang entschlüsseln: Wichtige Begriffe verstehen",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Im dynamischen Startup-Umfeld sind spezifische Fachbegriffe wie SaaS, B2B, ARR, Burn Rate und Churn entscheidend, um Geschäftsmodelle und deren finanzielle Gesundheit schnell zu erfassen.",
-    "details": "SaaS (Software-as-a-Service) bezeichnet Softwarelösungen, die als Abonnement online angeboten werden. B2B (Business-to-Business) beschreibt Geschäftsmodelle, bei denen Unternehmen Produkte oder Dienstleistungen an andere Unternehmen verkaufen, im Gegensatz zu Endkunden (B2C). ARR (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus Abonnements, ein Schlüsselindikator für die Planbarkeit und Stabilität von SaaS-Unternehmen. Die Burn Rate gibt an, wie viel Bargeld ein Startup monatlich verbraucht, um seine Betriebskosten zu decken, was Aufschluss über die verbleibende Runway gibt. Churn (oder Churn Rate) misst den Prozentsatz der Kunden, die in einem bestimmten Zeitraum ihre Abonnements kündigen, und ist ein kritischer Indikator für Kundenzufriedenheit und Produkt-Markt-Fit.",
-    "takeaway": "Das Verständnis dieser Begriffe ermöglicht eine präzise Einschätzung der betrieblichen Effizienz, des Wachstumspotenzials und der finanziellen Tragfähigkeit eines Startups. Sie sind essenziell für Investoren, Gründer und jeden, der im Tech- und VC-Bereich agiert."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Die Startup-Mathematik verstehen",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Bewertungen sind entscheidend, um den Wert eines Startups vor und nach einer Investitionsrunde zu bestimmen und die Aufteilung der Anteile zu verstehen.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert VOR der Kapitalzufuhr durch neue Investoren. Wenn nun eine bestimmte Summe investiert wird, addiert sich diese zum Pre-Money-Wert, um die Post-Money-Bewertung zu erhalten, welche den Wert UNMITTELBAR NACH der Finanzierungsrunde darstellt. Der Prozentsatz, den ein Investor für seine Einlage erhält, berechnet sich aus seinem Investment geteilt durch die Post-Money-Bewertung. Diese Unterscheidung ist wichtig, da sie direkt beeinflusst, wie viel prozentualer Anteil an einem Unternehmen Gründer und bestehende Anteilseigner nach einer Finanzierungsrunde noch besitzen (Stichwort: Verwässerung).",
+    "takeaway": "Pre-Money ist der Wert vor der Investition, Post-Money der Wert danach (Pre-Money + Investment). Dies ist fundamental für die Bewertung von Anteilen und den Verwässerungseffekt für Gründer."
   }
 }
