@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
-      "summary": "Die EU hat sich auf ein Verhandlungsteam geeinigt, das Europa bei Gesprächen mit Russland über ein Ende des Ukraine-Krieges vertreten soll. Deutschland ist als eines von fünf Ländern Teil dieses Teams, das aus EU-Institutionen und Mitgliedsstaaten besteht."
+      "headline": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+      "summary": "Das Weiße Haus hat ein Dreiertreffen zwischen Trump, Putin und Xi beim kommenden Apec-Gipfel in Shenzhen angekündigt. Hauptthemen sollen der Abbau von Atomwaffen und der Iran-Krieg sein, was große geopolitische Relevanz hat."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Demokraten leiten Nvidia-Untersuchung wegen Huangs Geschäften mit China und Trump ein",
-      "summary": "US-Demokraten haben eine Untersuchung gegen Nvidia und dessen Ex-CEO Jensen Huang eingeleitet, um dessen Geschäfte in China und angebliche Verbindungen zu Trump zu prüfen. Dies ist bereits die zweite Kongressuntersuchung seit dem Bekanntwerden der Spionageaffäre um Huang."
+      "headline": "Exportverbotene Nvidia-Chips in Chinas stärksten KI-Modellen",
+      "summary": "Neue Forschungsergebnisse zeigen, dass Chinas fortschrittlichste KI-Modelle mit eigentlich exportverbotenen Nvidia-Chips trainiert wurden. Dies unterstreicht die Spannungen im Technologiekrieg zwischen den USA und China und birgt nationale Sicherheitsrisiken."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DAX schwächelt nach Allzeithoch – bleibt aber auf hohem Niveau",
-      "summary": "Nach dem jüngsten Allzeithoch zeigte der Deutsche Aktienindex heute eine Seitwärtsbewegung, bleibt aber auf hohem Niveau. Im Wochenvergleich verzeichnet der DAX dennoch einen deutlichen Zuwachs von über vier Prozent."
+      "headline": "Fonds-Chef gibt Entwarnung bei KI-Blasen-Ängsten um Nvidia",
+      "summary": "Die Furcht vor einer KI-Blase um Nvidia und Anthropic verunsichert Anleger, doch ein Fondsriese gibt Entwarnung und betont die Realität der Umsätze. Dies deutet auf anhaltende Debatten über die Bewertung von KI-Tech und die Stabilität des Marktes hin."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Kapitalsteuern tragen immer mehr zum Schweizer Staatshaushalt bei",
-      "summary": "Eine Studie von Avenir Suisse zeigt, dass Kapitalsteuern einen immer größeren Anteil am Schweizer Staatshaushalt ausmachen, entgegen dem Trend internationaler Forderungen nach höherer Besteuerung. Dies belegt, dass Reiche und Firmen in der Schweiz bereits jetzt einen substanziellen Beitrag leisten."
+      "headline": "Microsoft-Systeme nach globaler Cloud-Störung wiederhergestellt",
+      "summary": "Nach einer stundenlangen globalen Störung seiner zentralen Cloud-Dienste, die Unternehmen weltweit betraf, hat Microsoft alle Systeme wiederhergestellt. Der Vorfall hatte weitreichende Auswirkungen auf die Geschäftswelt und die digitale Infrastruktur."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Jensen Huang tritt als Nvidia-Chef nach Affären zurück",
-      "summary": "Jensen Huang ist als Nvidia-Chef zurückgetreten, nachdem mehrere Affären bekannt wurden und sein Aufsichtsgremium handelte. Die Finanzchefin Colette Kress übernimmt vorübergehend die Führung, während der Verwaltungsrat einen dauerhaften Nachfolger sucht."
+      "headline": "Nvidia-Chef Jensen Huang entlassen und tritt zurück nach Spionageaffäre",
+      "summary": "Nvidia-Chef Jensen Huang wurde nach Bekanntwerden mehrerer Affären und Spionagevorwürfen entlassen und trat zurück, wobei die Finanzchefin interimistisch übernimmt. Dieser Skandal erschüttert die Tech-Welt und hat mögliche nationale Sicherheitsimplikationen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "ChatGPT führt neues Wallet-Feature für KI-gesteuertes Shopping ein",
-      "summary": "ChatGPT hat ein neues Wallet-Feature eingeführt, das es KI-Agenten ermöglicht, Einkäufe im Namen der Nutzer zu tätigen und den Bezahlvorgang abzuschließen. Der Rollout startet begrenzt für Pro-Abonnenten in den USA."
+      "headline": "Landesweites Flugverbot in den USA nach Systemstörung aufgehoben",
+      "summary": "Ein landesweites Startverbot für Flugzeuge in den USA legte den Flugverkehr stundenlang lahm, verursacht durch ein veraltetes Flugsicherungssystem und überlastete Kommunikationssysteme. Das Ereignis führte zu massiven Reisebehinderungen, obwohl das Verbot inzwischen aufgehoben wurde."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI-Agenten-Startup LangChain erreicht 3 Milliarden Dollar Bewertung",
-      "summary": "Das AI-Agenten-Startup LangChain hat eine Bewertung von 3 Milliarden US-Dollar erreicht. Das Unternehmen zählt bereits 7.000 Kunden für sein Modell- und plattformunabhängiges Agent-Management-Tool LangSmith."
+      "headline": "KI-Agenten-Startup LangChain erreicht 3 Milliarden Dollar Bewertung",
+      "summary": "Das KI-Agenten-Startup LangChain hat eine Bewertung von 3 Milliarden Dollar erreicht und zählt bereits 7.000 Kunden für sein Agent-Management-Tool LangSmith. Dies unterstreicht das enorme Wachstum und Investoreninteresse im Bereich der KI-Infrastruktur."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Startup will schwimmende Rechenzentren mit Ozeanwärme betreiben",
-      "summary": "Ein junges Startup namens Drogue plant, schwimmende Rechenzentren mit der Wärme des Ozeans zu betreiben und hat bereits Investoren überzeugt. Der erste Prototyp soll in weniger als zwei Jahren im Meer Bits verarbeiten."
+      "headline": "Jensen Huangs Abgang reißt Loch in KI-Startup-Finanzierung",
+      "summary": "Der Abgang von Jensen Huang bei Nvidia wird voraussichtlich eine große Lücke in der Finanzierung von KI-Startups hinterlassen, da Nvidia unter Huang Milliarden investierte. VCs und Gründer bereiten sich auf kleinere Checks und niedrigere Bewertungen vor."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Die Startup-Mathematik verstehen",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Diese Bewertungen sind entscheidend, um den Wert eines Startups vor und nach einer Investitionsrunde zu bestimmen und die Aufteilung der Anteile zu verstehen.",
-    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert VOR der Kapitalzufuhr durch neue Investoren. Wenn nun eine bestimmte Summe investiert wird, addiert sich diese zum Pre-Money-Wert, um die Post-Money-Bewertung zu erhalten, welche den Wert UNMITTELBAR NACH der Finanzierungsrunde darstellt. Der Prozentsatz, den ein Investor für seine Einlage erhält, berechnet sich aus seinem Investment geteilt durch die Post-Money-Bewertung. Diese Unterscheidung ist wichtig, da sie direkt beeinflusst, wie viel prozentualer Anteil an einem Unternehmen Gründer und bestehende Anteilseigner nach einer Finanzierungsrunde noch besitzen (Stichwort: Verwässerung).",
-    "takeaway": "Pre-Money ist der Wert vor der Investition, Post-Money der Wert danach (Pre-Money + Investment). Dies ist fundamental für die Bewertung von Anteilen und den Verwässerungseffekt für Gründer."
+    "topic": "Startup-Slang: Den Jargon im VC-Ökosystem verstehen",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Im Startup- und Venture Capital-Bereich werden spezifische Begriffe genutzt, um Geschäftsmodelle und deren Performance schnell zu erfassen. Das Verständnis dieser Abkürzungen ist essenziell für die Bewertung und Kommunikation.",
+    "details": "'SaaS' (Software as a Service) beschreibt ein Geschäftsmodell, bei dem Software als Dienstleistung über das Internet angeboten wird. 'B2B' (Business-to-Business) bedeutet, dass Produkte oder Dienstleistungen an andere Unternehmen verkauft werden, im Gegensatz zu 'B2C' (Business-to-Consumer). 'ARR' (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz, der aus Abonnements oder Verträgen stammt – eine zentrale Metrik für SaaS-Unternehmen. Die 'Burn Rate' beziffert, wie viel Kapital ein Startup monatlich verbraucht, um seine Betriebskosten zu decken, während der 'Churn' die Rate der Kundenabwanderung über einen bestimmten Zeitraum misst.",
+    "takeaway": "Das Beherrschen dieses Jargons ermöglicht eine präzise Kommunikation und ein schnelles Erfassen der wesentlichen Leistungsindikatoren und Risiken von Startups. Es ist der Schlüssel, um Investorengespräche zu führen und Geschäftsmodelle effektiv zu analysieren."
   }
 }
