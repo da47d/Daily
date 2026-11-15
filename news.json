@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ranghoher Hamas-Kommandeur im Gazastreifen getötet",
-      "summary": "Die israelische Armee hat einen wichtigen Hamas-Kommandeur im Gazastreifen eliminiert, der als Drahtzieher des Angriffs vom 7. Oktober galt. Die Hamas bestätigte seinen Tod."
+      "headline": "Israel tötet ranghohen Hamas-Kommandeur",
+      "summary": "Die israelische Armee hat im Gazastreifen einen ranghohen Hamas-Kommandeur getötet, der als Drahtzieher des Angriffs vom 7. Oktober galt. Die Hamas bestätigte den Tod von Samir Abu Junis, was die Spannungen in der Region weiter erhöht."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Iran greift US-Stützpunkt in Bahrain an",
-      "summary": "Iranische Staatsmedien melden einen Angriff der Revolutionsgarde auf eine US-Radaranlage in Bahrain. Berichten zufolge wurden mehrere Angriffe abgewehrt."
+      "headline": "Estland schließt Grenzübergänge zu Russland",
+      "summary": "Estland schließt ab Dezember seine drei Grenzübergänge zu Russland, nachdem eine Drohnenfabrik angegriffen wurde, mutmaßlich von russischen Agenten. Dies unterstreicht die anhaltende Eskalation der Spannungen und die Unterstützung Estlands für die Ukraine."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Krise im Handwerk: Bis zu 80.000 Arbeitsplätze pro Jahr in Gefahr",
-      "summary": "Handwerkspräsident Dittrich warnt vor einem massiven Arbeitsplatzverlust in der Branche aufgrund sinkender Aufträge und steigender Kosten. Ohne Gegenmaßnahmen droht ein 'stilles Sterben der Betriebe'."
+      "headline": "Nvidia-Skandal bedroht KI-Branche",
+      "summary": "Der Rauswurf von Nvidia-CEO Jensen Huang wegen Spionage- und Sexaffären erschüttert das finanzkräftigste Unternehmen der KI-Branche. Dieser Skandal bei einem Schlüsselakteur könnte weitreichende Auswirkungen auf die gesamte KI-Industrie haben."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Swiss-Life-Präsident warnt vor Verlust des direktdemokratischen Systems durch neue EU-Verträge",
-      "summary": "Rolf Dörig, Präsident von Swiss Life, kritisiert das fehlende gesellschaftliche Engagement der Wirtschaft und äußert Bedenken gegen die potenziellen Auswirkungen neuer EU-Verträge auf die Schweiz."
+      "headline": "Tarifkonflikt eskaliert bei Mercedes",
+      "summary": "Mercedes-Benz ringt mit der Gewerkschaft um Privilegien wie die 35-Stunden-Woche, was zu einem eskalierenden Konflikt führt. Dieser Streit könnte zum Präzedenzfall für die gesamte deutsche Autobranche werden und die Wirtschaft beeinflussen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia-CEO Jensen Huang entlassen – Aufsichtsrat sah keine andere Wahl",
-      "summary": "Der Aufsichtsrat von Nvidia hat CEO Jensen Huang unerwartet entlassen, nur kurze Zeit nach positiven Äußerungen seinerseits. Die Entscheidung erschüttert das finanzkräftigste Unternehmen der KI-Branche."
+      "headline": "Nvidia-CEO Jensen Huang überraschend entlassen",
+      "summary": "Kurz nach positiven Äußerungen wurde Nvidia-CEO Jensen Huang von seinem Aufsichtsrat entlassen, da es keine andere Wahl mehr gab. Die Entlassung folgt auf eine Serie von Skandalen, die das Unternehmen erschüttern."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Elon Musk und Tech-Größen fordern Wiedereinstellung von Nvidia-Chef Huang",
-      "summary": "Eine Petition zur Wiedereinsetzung des entlassenen Nvidia-CEOs Jensen Huang hat bereits über 115.000 Unterschriften gesammelt. Dies zeigt die starke Solidarität in der Tech-Branche."
+      "headline": "Tech-Größen fordern Wiedereinstellung von Nvidia-Chef",
+      "summary": "Eine Petition, die die Wiedereinstellung des entlassenen Nvidia-CEO Jensen Huang fordert, hat bereits über 115.000 Unterschriften von Tech-Größen wie Elon Musk gesammelt. Dies zeigt die starke Unterstützung für Huang trotz der Vorwürfe."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Abivardi-Schwestern bringen Dental-Startup Vvardis an die Wall Street",
-      "summary": "Die Unternehmerinnen Haley und Goly Abivardi haben mit ihrem Dental-Startup Vvardis den Sprung an die New Yorker Börse geschafft. Ihre Reise war geprägt von anfänglichen Turbulenzen."
+      "headline": "Abivardi-Schwestern bringen Dental-Startup an die Wall Street",
+      "summary": "Die Unternehmerinnen Haley und Goly Abivardi haben mit ihrem Dental-Startup Vvardis den Sprung an die New Yorker Börse geschafft. Ihre bewegte Lebensgeschichte, geprägt von Flucht und Unternehmertum, findet damit einen neuen Höhepunkt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "KI-Agenten-Startup LangChain erreicht 3 Milliarden Dollar Bewertung",
-      "summary": "LangChain, ein Anbieter von modell- und plattformunabhängigen Agenten-Management-Tools, hat eine Bewertung von 3 Milliarden Dollar erreicht. Das Startup zählt bereits 7.000 Kunden."
+      "headline": "Kickstarter-Kampagne revolutioniert E-Book-Besitz",
+      "summary": "Eine neue Kickstarter-Kampagne von Flaming Hydra will den Besitz und die Ausleihe von E-Books neu definieren und damit eine Rückkehr zum 'menschlichen Internet' einleiten. Das Projekt verspricht eine bahnbrechende Veränderung im Umgang mit digitalen Büchern."
     }
   ],
   "learning": {
-    "topic": "Das Black-Swan-Konzept",
-    "category": "Historische Finanzereignisse & Krisen",
-    "concept": "Es beschreibt extrem seltene, unvorhersehbare Ereignisse mit massiven Auswirkungen, die nachträglich oft als logisch erklärbar erscheinen.",
-    "details": "Ein 'Schwarzer Schwan' ist ein Phänomen, das außerhalb der normalen Erwartungen liegt und sich durch seine extreme Seltenheit auszeichnet. Es hat einen massiven Einschlag auf Wirtschaft, Gesellschaft oder Märkte und wird erst nach seinem Eintreten oft rückwirkend von Experten 'erklärt' oder rationalisiert, obwohl es vorher unmöglich vorauszusehen war. Typische Beispiele sind große Finanzkrisen oder unerwartete politische Umbrüche, die alle etablierten Modelle über den Haufen werfen.",
-    "takeaway": "Investoren sollten sich bewusst sein, dass statistische Vorhersagemodelle die Möglichkeit solcher extremen Ereignisse oft unterschätzen. Diversifikation und ein robustes Risikomanagement sind daher essenziell, um die Anfälligkeit des Portfolios gegenüber unvorhergesehenen Schocks zu reduzieren."
+    "topic": "Startup-Slang: ARR, Burn Rate, Churn",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "ARR, Burn Rate und Churn sind zentrale Kennzahlen, die Investoren die finanzielle Gesundheit und Wachstumsaussichten eines Startups aufzeigen. Sie geben Aufschluss über wiederkehrende Einnahmen, Kapitalverbrauch und Kundenabwanderung.",
+    "details": "ARR (Annual Recurring Revenue) misst die jährlichen wiederkehrenden Einnahmen, die ein Unternehmen aus Abonnements, Lizenzen oder Serviceverträgen generiert. Es ist ein wichtiger Indikator für die Skalierbarkeit und Vorhersagbarkeit des Geschäftsmodells, besonders bei SaaS-Firmen. Die Burn Rate beschreibt, wie schnell ein Startup seine liquiden Mittel verbraucht, um die Betriebskosten zu decken, bevor es profitabel wird. Sie wird oft monatlich angegeben und ist entscheidend für die Runway – also wie lange das Startup ohne zusätzliche Finanzierung überleben kann. Churn (oder Churn Rate) misst den Prozentsatz der Kunden oder des Umsatzes, der in einem bestimmten Zeitraum verloren geht. Eine hohe Churn Rate deutet auf Probleme bei der Kundenbindung oder Produktzufriedenheit hin und kann das Wachstum eines Startups erheblich bremsen.",
+    "takeaway": "Das Verständnis dieser Kennzahlen ist für Finanzstudenten unerlässlich, um die Performance von technologiebasierten Geschäftsmodellen zu beurteilen und die Attraktivität für Venture-Capital-Investitionen einzuschätzen."
   }
 }
