@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU fordert Israel zu Zugang für Helfer in Gaza auf",
-      "summary": "Die EU drängt Israel, humanitäre Helfer sofort in den Gazastreifen zu lassen. Zehntausende Vertriebene leiden dort unter Überschwemmungen und Kälte in ihren Zelten."
+      "headline": "Ranghoher Hamas-Kommandeur im Gazastreifen getötet",
+      "summary": "Die israelische Armee hat einen wichtigen Hamas-Kommandeur im Gazastreifen eliminiert, der als Drahtzieher des Angriffs vom 7. Oktober galt. Die Hamas bestätigte seinen Tod."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA bieten Ukraine NATO-Beitritt bei Gebietsverzicht an",
-      "summary": "Laut Selenskyj haben die USA der Ukraine einen NATO-Beitritt im Tausch für einen Rückzug aus dem Donbass nahegelegt. Er würde dies unter bestimmten Bedingungen einem Referendum vorlegen."
+      "headline": "Iran greift US-Stützpunkt in Bahrain an",
+      "summary": "Iranische Staatsmedien melden einen Angriff der Revolutionsgarde auf eine US-Radaranlage in Bahrain. Berichten zufolge wurden mehrere Angriffe abgewehrt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "CSU bringt höhere Abzüge bei vorgezogener Rente ins Spiel",
-      "summary": "Angesichts höherer als erwarteter Einsparungen bei der Rentenversicherung diskutiert die CSU höhere Abschläge für Frührentner. Dies soll Einbußen ausgleichen."
+      "headline": "Krise im Handwerk: Bis zu 80.000 Arbeitsplätze pro Jahr in Gefahr",
+      "summary": "Handwerkspräsident Dittrich warnt vor einem massiven Arbeitsplatzverlust in der Branche aufgrund sinkender Aufträge und steigender Kosten. Ohne Gegenmaßnahmen droht ein 'stilles Sterben der Betriebe'."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Kapitalsteuern tragen immer mehr zum Schweizer Staatshaushalt bei",
-      "summary": "Eine Studie zeigt, dass der Anteil von Kapitalsteuern am Schweizer Staatshaushalt gestiegen ist. Dies geschieht, obwohl weltweit eine stärkere Besteuerung von Reichen und Firmen gefordert wird."
+      "headline": "Swiss-Life-Präsident warnt vor Verlust des direktdemokratischen Systems durch neue EU-Verträge",
+      "summary": "Rolf Dörig, Präsident von Swiss Life, kritisiert das fehlende gesellschaftliche Engagement der Wirtschaft und äußert Bedenken gegen die potenziellen Auswirkungen neuer EU-Verträge auf die Schweiz."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Philippinische Carmelle gewinnt ersten ESC in Asien",
-      "summary": "Die philippinische Popsängerin Carmelle hat mit ihrem Song 'Sobra-Sobra' den ersten Eurovision Song Contest Ableger in Asien gewonnen. Sie setzte sich gegen prominente Konkurrenz durch."
+      "headline": "Nvidia-CEO Jensen Huang entlassen – Aufsichtsrat sah keine andere Wahl",
+      "summary": "Der Aufsichtsrat von Nvidia hat CEO Jensen Huang unerwartet entlassen, nur kurze Zeit nach positiven Äußerungen seinerseits. Die Entscheidung erschüttert das finanzkräftigste Unternehmen der KI-Branche."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "US-Flugverkehr für Stunden lahmgelegt",
-      "summary": "Ein vierstündiges Startverbot legte den gesamten US-Flugbetrieb lahm, der längste Ausfall seit Jahrzehnten. Kommunikationsprobleme der Flugsicherung führten zu dieser außergewöhnlichen Maßnahme."
+      "headline": "Elon Musk und Tech-Größen fordern Wiedereinstellung von Nvidia-Chef Huang",
+      "summary": "Eine Petition zur Wiedereinsetzung des entlassenen Nvidia-CEOs Jensen Huang hat bereits über 115.000 Unterschriften gesammelt. Dies zeigt die starke Solidarität in der Tech-Branche."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Huangs Abgang reißt Loch in KI-Startup-Finanzierung",
-      "summary": "Der Abgang von Jensen Huang als Nvidia-Chef wird voraussichtlich zu einem drastischen Rückgang der Startup-Finanzierungen im KI-Bereich führen. VCs und Gründer bereiten sich auf kleinere Checks und niedrigere Bewertungen vor."
+      "headline": "Abivardi-Schwestern bringen Dental-Startup Vvardis an die Wall Street",
+      "summary": "Die Unternehmerinnen Haley und Goly Abivardi haben mit ihrem Dental-Startup Vvardis den Sprung an die New Yorker Börse geschafft. Ihre Reise war geprägt von anfänglichen Turbulenzen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Startup will schwimmende Rechenzentren mit Meereswärme betreiben",
-      "summary": "Ein junges Startup namens Drogue plant, schwimmende Rechenzentren mit der Wärme des Ozeans zu versorgen. Investoren sind bereits an Bord, und der erste Prototyp soll in weniger als zwei Jahren im Einsatz sein."
+      "headline": "KI-Agenten-Startup LangChain erreicht 3 Milliarden Dollar Bewertung",
+      "summary": "LangChain, ein Anbieter von modell- und plattformunabhängigen Agenten-Management-Tools, hat eine Bewertung von 3 Milliarden Dollar erreicht. Das Startup zählt bereits 7.000 Kunden."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung im Startup-Funding",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Wert eines Startups vor einer Investition, während die Post-Money-Bewertung diesen Wert plus das neue Kapital umfasst.",
-    "details": "Wenn ein Investor Kapital in ein Startup einbringt, wird die Pre-Money-Bewertung als Basis für die Berechnung des neuen Eigentumsanteils genutzt. Die Post-Money-Bewertung ergibt sich aus der Summe der Pre-Money-Bewertung und des Investitionsbetrags. Der Investitionsbetrag geteilt durch die Post-Money-Bewertung ergibt den Prozentsatz der Unternehmensanteile, die der Investor für sein Kapital erhält. Der Rest des Unternehmenswerts, nach Abzug der neuen Anteile, bleibt bei den bestehenden Aktionären (z.B. den Gründern).",
-    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist entscheidend, um den Wert eines Startups vor und nach einer Finanzierungsrunde korrekt einzuschätzen und die Eigentumsverhältnisse präzise zu bestimmen."
+    "topic": "Das Black-Swan-Konzept",
+    "category": "Historische Finanzereignisse & Krisen",
+    "concept": "Es beschreibt extrem seltene, unvorhersehbare Ereignisse mit massiven Auswirkungen, die nachträglich oft als logisch erklärbar erscheinen.",
+    "details": "Ein 'Schwarzer Schwan' ist ein Phänomen, das außerhalb der normalen Erwartungen liegt und sich durch seine extreme Seltenheit auszeichnet. Es hat einen massiven Einschlag auf Wirtschaft, Gesellschaft oder Märkte und wird erst nach seinem Eintreten oft rückwirkend von Experten 'erklärt' oder rationalisiert, obwohl es vorher unmöglich vorauszusehen war. Typische Beispiele sind große Finanzkrisen oder unerwartete politische Umbrüche, die alle etablierten Modelle über den Haufen werfen.",
+    "takeaway": "Investoren sollten sich bewusst sein, dass statistische Vorhersagemodelle die Möglichkeit solcher extremen Ereignisse oft unterschätzen. Diversifikation und ein robustes Risikomanagement sind daher essenziell, um die Anfälligkeit des Portfolios gegenüber unvorhergesehenen Schocks zu reduzieren."
   }
 }
