@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israel tötet ranghohen Hamas-Kommandeur",
-      "summary": "Die israelische Armee hat im Gazastreifen einen ranghohen Hamas-Kommandeur getötet, der als Drahtzieher des Angriffs vom 7. Oktober galt. Die Hamas bestätigte den Tod von Samir Abu Junis, was die Spannungen in der Region weiter erhöht."
+      "headline": "EU-Außenminister wollen Ukraine-Strategie ausarbeiten",
+      "summary": "Die EU-Außenminister planen erstmals, aktiv über ein mögliches Kriegsende in der Ukraine mitzuverhandeln. Dabei behalten sie auch die angespannte Lage im Gazastreifen im Blick."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Estland schließt Grenzübergänge zu Russland",
-      "summary": "Estland schließt ab Dezember seine drei Grenzübergänge zu Russland, nachdem eine Drohnenfabrik angegriffen wurde, mutmaßlich von russischen Agenten. Dies unterstreicht die anhaltende Eskalation der Spannungen und die Unterstützung Estlands für die Ukraine."
+      "headline": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
+      "summary": "In Genf verhandeln 130 Staaten über internationale Regeln für den Einsatz autonomer Waffensysteme, sogenannte 'Killerroboter'. Diese können selbstständig Ziele auswählen und Menschen töten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Nvidia-Skandal bedroht KI-Branche",
-      "summary": "Der Rauswurf von Nvidia-CEO Jensen Huang wegen Spionage- und Sexaffären erschüttert das finanzkräftigste Unternehmen der KI-Branche. Dieser Skandal bei einem Schlüsselakteur könnte weitreichende Auswirkungen auf die gesamte KI-Industrie haben."
+      "headline": "Zinsängste belasten Edelmetalle und Krypto-Währungen",
+      "summary": "Die anhaltenden Zinsängste führen zu einem deutlichen Preisverfall bei Edelmetallen und Kryptowährungen. Gold ist so günstig wie seit einem Jahr nicht mehr, und Bitcoin verlor dieses Jahr ein Drittel an Wert."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Tarifkonflikt eskaliert bei Mercedes",
-      "summary": "Mercedes-Benz ringt mit der Gewerkschaft um Privilegien wie die 35-Stunden-Woche, was zu einem eskalierenden Konflikt führt. Dieser Streit könnte zum Präzedenzfall für die gesamte deutsche Autobranche werden und die Wirtschaft beeinflussen."
+      "headline": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
+      "summary": "Die EU-Kommission hat der italienischen Großbank UniCredit die Übernahme der Commerzbank genehmigt. Es bestehen keine wettbewerbsrechtlichen Bedenken, was die Fusion näher rücken lässt."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia-CEO Jensen Huang überraschend entlassen",
-      "summary": "Kurz nach positiven Äußerungen wurde Nvidia-CEO Jensen Huang von seinem Aufsichtsrat entlassen, da es keine andere Wahl mehr gab. Die Entlassung folgt auf eine Serie von Skandalen, die das Unternehmen erschüttern."
+      "headline": "Elon Musk ist dafür, US-Finanzminister Scott Bessent dagegen: Soll Jensen Huang wieder Chef von Nvidia werden?",
+      "summary": "Nach seinem Rücktritt im Zuge einer Spionageaffäre wird über eine mögliche Rückkehr von Jensen Huang als Nvidia-Chef spekuliert. Während Elon Musk ihn unterstützt, lehnt US-Finanzminister Scott Bessent dies ab."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Tech-Größen fordern Wiedereinstellung von Nvidia-Chef",
-      "summary": "Eine Petition, die die Wiedereinstellung des entlassenen Nvidia-CEO Jensen Huang fordert, hat bereits über 115.000 Unterschriften von Tech-Größen wie Elon Musk gesammelt. Dies zeigt die starke Unterstützung für Huang trotz der Vorwürfe."
+      "headline": "Die «Notenbank» der KI-Branche wankt: Wieso der Nvidia-Skandal eine ganze Industrie bedroht",
+      "summary": "Der Skandal um den ehemaligen CEO Jensen Huang bei Nvidia, dem finanzkräftigsten Unternehmen der KI-Branche, erschüttert die gesamte Industrie. Es stellen sich Fragen nach weiteren potenziellen Problemen und der Stabilität des Sektors."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Abivardi-Schwestern bringen Dental-Startup an die Wall Street",
-      "summary": "Die Unternehmerinnen Haley und Goly Abivardi haben mit ihrem Dental-Startup Vvardis den Sprung an die New Yorker Börse geschafft. Ihre bewegte Lebensgeschichte, geprägt von Flucht und Unternehmertum, findet damit einen neuen Höhepunkt."
+      "headline": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "summary": "Ehemalige Mitarbeiter von Freshworks haben 53 Millionen US-Dollar eingesammelt, um mit einem KI-nativen CRM-Tool Salesforce und HubSpot herauszufordern. Das Startup hat bereits über 100 Kunden in 13 Ländern gewonnen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Kickstarter-Kampagne revolutioniert E-Book-Besitz",
-      "summary": "Eine neue Kickstarter-Kampagne von Flaming Hydra will den Besitz und die Ausleihe von E-Books neu definieren und damit eine Rückkehr zum 'menschlichen Internet' einleiten. Das Projekt verspricht eine bahnbrechende Veränderung im Umgang mit digitalen Büchern."
+      "headline": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "summary": "Die von erfahrenen Betreibern geführte VC-Firma Plural hat 1,1 Milliarden US-Dollar neues Kapital erhalten. Damit will sie Europas nächste bahnbrechende Technologieunternehmen finanzieren und sich als großer europäischer Fonds positionieren."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang: ARR, Burn Rate, Churn",
+    "topic": "Strategic Buyer vs. Financial Buyer in M&A",
     "category": "Finanz-Dechiffrierung",
-    "concept": "ARR, Burn Rate und Churn sind zentrale Kennzahlen, die Investoren die finanzielle Gesundheit und Wachstumsaussichten eines Startups aufzeigen. Sie geben Aufschluss über wiederkehrende Einnahmen, Kapitalverbrauch und Kundenabwanderung.",
-    "details": "ARR (Annual Recurring Revenue) misst die jährlichen wiederkehrenden Einnahmen, die ein Unternehmen aus Abonnements, Lizenzen oder Serviceverträgen generiert. Es ist ein wichtiger Indikator für die Skalierbarkeit und Vorhersagbarkeit des Geschäftsmodells, besonders bei SaaS-Firmen. Die Burn Rate beschreibt, wie schnell ein Startup seine liquiden Mittel verbraucht, um die Betriebskosten zu decken, bevor es profitabel wird. Sie wird oft monatlich angegeben und ist entscheidend für die Runway – also wie lange das Startup ohne zusätzliche Finanzierung überleben kann. Churn (oder Churn Rate) misst den Prozentsatz der Kunden oder des Umsatzes, der in einem bestimmten Zeitraum verloren geht. Eine hohe Churn Rate deutet auf Probleme bei der Kundenbindung oder Produktzufriedenheit hin und kann das Wachstum eines Startups erheblich bremsen.",
-    "takeaway": "Das Verständnis dieser Kennzahlen ist für Finanzstudenten unerlässlich, um die Performance von technologiebasierten Geschäftsmodellen zu beurteilen und die Attraktivität für Venture-Capital-Investitionen einzuschätzen."
+    "concept": "Im M&A-Geschäft unterscheidet man hauptsächlich zwischen strategischen und finanziellen Käufern, deren Motivationen und Integrationsansätze sich grundlegend voneinander abheben.",
+    "details": "Ein strategischer Käufer ist typischerweise ein Unternehmen derselben oder einer verwandten Branche, das das Zielunternehmen aus operativen Synergieeffekten heraus erwirbt – zum Beispiel um Marktanteile zu vergrößern, das Produktportfolio zu erweitern oder Kosten zu senken. Die Integration ist meist tiefgreifend und langfristig angelegt. Ein finanzieller Käufer hingegen (oft Private Equity Fonds) konzentriert sich auf die finanzielle Performance: Sie kaufen Unternehmen, um sie über eine verbesserte operative Effizienz, Restrukturierung oder Add-on-Akquisitionen innerhalb von 3-7 Jahren profitabler zu machen und dann gewinnbringend zu veräußern. Die Integration ist weniger operativ, sondern eher auf Wertsteigerung durch Finanzierungs- und Managementoptimierung ausgerichtet.",
+    "takeaway": "Das Verständnis des Käufertyps ist entscheidend für die Bewertung eines Unternehmens und die Verhandlungsstrategie, da strategische Käufer oft bereit sind, höhere Synergieprämien zu zahlen."
   }
 }
