@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Deutschland kauft neue Flugabwehrraketen für Ukraine",
-      "summary": "Deutschland stärkt die ukrainische Flugabwehr mit dem Kauf neuer Raketen aus den USA. Dies ist eine direkte Reaktion auf die massiven russischen Angriffe und den bevorstehenden Winter."
+      "headline": "Krieg gegen die Ukraine: Wie schwer ist die Krim-Brücke getroffen?",
+      "summary": "Die Ukraine hat die Krim-Brücke, ein Symbol der russischen Herrschaft und wichtige Verbindungsroute, schwer beschädigt. Dieser Großangriff könnte weitreichende strategische und symbolische Konsequenzen haben."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
-      "summary": "Das ukrainische Militär hat offenbar einen wichtigen Teil der Krim-Brücke zerstört, einem Prestigeprojekt Russlands. Bilder zeigen einen eingestürzten Brückenbogen, was die Konfliktdynamik deutlich beeinflusst."
+      "headline": "USA prüfen mögliche Anschlagspläne Irans auf Washington",
+      "summary": "Die USA nehmen Berichte über angebliche iranische Anschlagspläne, darunter die Zündung einer 'schmutzigen Bombe' in Washington, 'sehr ernst'. US-Präsident Trump droht Teheran mit deutlichen Konsequenzen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EU-Kommission verdoppelt Prognose für Deutschland",
-      "summary": "Die EU-Kommission hat ihre Konjunkturprognose für Deutschland dank starker Exportzahlen deutlich angehoben. Gleichzeitig wird jedoch eine anhaltend hartnäckige Inflation erwartet."
+      "headline": "Deutsche Regierung beruft Markus Brunnermeier zum EZB-Chefvolkswirt",
+      "summary": "Markus Brunnermeier steht kurz davor, eine Schlüsselposition als EZB-Chefvolkswirt zu besetzen, was einem Spanier den Einzug ins Präsidium ermöglichen könnte. Er wird die wichtige Aufgabe haben, unterschiedliche wirtschaftliche Positionen innerhalb der Zentralbank zu vermitteln."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der neue EZB-Chef wird sich rasch als Krisenmanager bewähren müssen",
-      "summary": "Die EU-Länder wählen im Dezember einen neuen Präsidenten der Europäischen Zentralbank. Angesichts politischer und wirtschaftlicher Unruhen in Europa wird dem Nachfolger keine lange Einarbeitungszeit bleiben."
+      "headline": "Schweiz verharrt bei Nullzinsen: Wie lange hält die SNB noch stand?",
+      "summary": "Während weltweit die Zinsen steigen, bleibt die Schweizerische Nationalbank (SNB) trotz Inflation und guter Konjunktur bei null Prozent. Experten diskutieren, wie lange dieser expansive Kurs noch zu rechtfertigen ist und wann eine Zinswende erfolgen könnte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Der Börsengang der KI-Firma Anthropic könnte alle Rekorde brechen",
-      "summary": "Das KI-Unternehmen Anthropic geht diese Woche an die Nasdaq und wird mit Spannung erwartet. Anleger weltweit haben Zugriff auf die Aktien dieses potenziellen Rekord-Börsengangs."
+      "headline": "Spionageaffäre bei Nvidia: Verwaltungsrat lehnt Huangs Rückkehr ab",
+      "summary": "Nach einer Affäre mit einer mutmaßlichen Spionin und seinem Rücktritt hat der Verwaltungsrat von Nvidia eine Rückkehr von Jensen Huang an die Unternehmensspitze abgelehnt. Die Entwicklungen folgen auf eine Serie von Berichten über weitere Liaisons und eine laufende SEC-Untersuchung."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Upside Foods kann jährlich eine Million Pfund kultiviertes Hühnerfleisch produzieren",
-      "summary": "Upside Foods hat die Produktion von kultiviertem Hühnerfleisch auf eine Million Pfund pro Jahr skaliert. Der Preis soll nun mit hochwertigem Bio-Hühnchen konkurrieren können, was einen Meilenstein für die Branche darstellt."
+      "headline": "GTA VI bricht alle Rekorde mit 15 Millionen Vorbestellungen",
+      "summary": "Das mit Spannung erwartete Videospiel 'GTA VI' hat bereits 15 Millionen Vorbestellungen erreicht und könnte dem US-Konzern Take-Two das Geschäft des Jahrzehnts bescheren. Die Börse setzt entsprechend hohe Erwartungen in den potenziellen Verkaufsrekord."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Isomorphic Labs erhält 5 Milliarden Dollar für Medikamentenentwicklung",
-      "summary": "Isomorphic Labs, ein AI-Drug-Discovery-Startup von DeepMind, hat beeindruckende 5 Milliarden Dollar in einer Serie-C-Runde erhalten. Das Unternehmen will damit seine Medikamentenkandidaten bis zu klinischen Studien bringen."
+      "headline": "Model ML sichert sich 250 Millionen Dollar für Investmentbanking-Automatisierung",
+      "summary": "Das Startup Model ML hat eine Finanzierungsrunde über 250 Millionen Dollar abgeschlossen. Mit seiner KI-Technologie will es die Routineaufgaben im Investmentbanking automatisieren, indem es Finanzmodelle und Präsentationen eigenständig aktualisiert."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Genesis AI erhält 500 Millionen Dollar für Handschuh tragende Roboter",
-      "summary": "Genesis AI hat 500 Millionen Dollar in einer Series A Finanzierungsrunde eingesammelt, um den Einsatz von geschickten, Handschuh tragenden Robotern voranzutreiben. Ihr neuartiger Ansatz für das Training dexterer Roboter überzeugte die Investoren."
+      "headline": "Börsengang der KI-Firma Anthropic könnte alle Rekorde brechen",
+      "summary": "Die Aktien der KI-Firma Anthropic werden bald an der Nasdaq gehandelt, mit dem Potenzial, alle bisherigen IPO-Rekorde zu brechen. Auch europäische Investoren erhalten Zugang zu dem als 'Ereignis des Jahres' gehandelten Börsengang."
     }
   ],
   "learning": {
-    "topic": "Derivate: Risiko und Chance einfach erklärt",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert von der Entwicklung eines Basiswerts abhängt und die zur Absicherung oder Spekulation dienen können. Sie funktionieren wie ein Vertrag über einen zukünftigen Handel zu festgelegten Bedingungen.",
-    "details": "Stell dir vor, ein Bauer möchte seinen Weizen schon vor der Ernte verkaufen und ein Bäcker möchte sich den Preis für zukünftiges Mehl sichern. Sie können einen Derivatevertrag, z.B. einen Terminkontrakt (Future), abschließen. Der Bauer verpflichtet sich, den Weizen zu einem bestimmten Zeitpunkt und Preis zu liefern, und der Bäcker verpflichtet sich, ihn zu diesem Preis abzunehmen. So minimieren beide ihr Preisrisiko, auch wenn der Marktpreis bis zur Ernte steigt oder fällt. Derivate trennen das Recht oder die Pflicht vom tatsächlichen Besitz des Basiswerts.",
-    "takeaway": "Derivate sind mächtige Werkzeuge im Finanzmarkt, die Preisschwankungen absichern oder für spekulative Gewinne genutzt werden können. Ihr Wert ist immer 'abgeleitet' und macht sie flexibel, aber auch komplex in der Bewertung."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Was eine Startup-Runde wirklich bedeutet",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer neuen Finanzierungsrunde; die Post-Money-Bewertung ist der Wert nach dem Erhalt des neuen Kapitals und der Ausgabe neuer Anteile.",
+    "details": "Stell dir vor, ein Startup ist vor einer Finanzierungsrunde 10 Millionen Euro wert (Pre-Money). Wenn Investoren jetzt 2 Millionen Euro für 20% der Anteile investieren, bedeutet das, dass das Startup nach der Investition (Post-Money) 12 Millionen Euro wert ist (10 Mio. Pre-Money + 2 Mio. frisches Kapital). Die neuen Anteile werden auf Basis der Post-Money-Bewertung ausgegeben, was den Wert der Anteile der Altgesellschafter verwässert, aber das Unternehmen wachsen lässt, indem es frisches Kapital erhält.",
+    "takeaway": "Das Verständnis dieser beiden Bewertungen ist essenziell, um die Verteilung von Anteilen und den Grad der Verwässerung nach einer Finanzierungsrunde korrekt zu beurteilen und die ökonomische Realität eines Deals zu erfassen."
   }
 }
