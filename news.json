@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU-Außenminister wollen Ukraine-Strategie ausarbeiten",
-      "summary": "Die EU-Außenminister planen erstmals, aktiv über ein mögliches Kriegsende in der Ukraine mitzuverhandeln. Dabei behalten sie auch die angespannte Lage im Gazastreifen im Blick."
+      "headline": "EU sanktioniert russische Propagandisten, Hacker, Unternehmer",
+      "summary": "Die EU hat eine breite Palette russischer Akteure, darunter Oligarchen und Propagandafabriken, mit neuen Sanktionen belegt. Auch chinesische und Emirate-Firmen sind betroffen, was die geopolitischen Spannungen weiter verschärft."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
-      "summary": "In Genf verhandeln 130 Staaten über internationale Regeln für den Einsatz autonomer Waffensysteme, sogenannte 'Killerroboter'. Diese können selbstständig Ziele auswählen und Menschen töten."
+      "headline": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
+      "summary": "Deutschland und vier weitere EU-Staaten planen die Eröffnung eines Abschiebezentrums in Ruanda für abgelehnte Asylbewerber. Dies soll ermöglichen, Personen ohne Bezug zu Ruanda dorthin zu bringen, was international debattiert wird."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Zinsängste belasten Edelmetalle und Krypto-Währungen",
-      "summary": "Die anhaltenden Zinsängste führen zu einem deutlichen Preisverfall bei Edelmetallen und Kryptowährungen. Gold ist so günstig wie seit einem Jahr nicht mehr, und Bitcoin verlor dieses Jahr ein Drittel an Wert."
+      "headline": "Marktbericht: DAX bleibt nahe Rekordhoch",
+      "summary": "Der DAX verzeichnet zum Wochenauftakt einen moderaten Rückgang, bleibt aber nahe seines Rekordhochs, während Investoren die Nvidia-Bilanz abwarten. Sorgen um eine mögliche Zinserhöhung in den USA belasten zusätzlich die Marktstimmung."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
-      "summary": "Die EU-Kommission hat der italienischen Großbank UniCredit die Übernahme der Commerzbank genehmigt. Es bestehen keine wettbewerbsrechtlichen Bedenken, was die Fusion näher rücken lässt."
+      "headline": "Weltweit steigen die Zinsen, nur die Schweiz verharrt bei null Prozent",
+      "summary": "Trotz höherer Inflation und besserer Konjunktur hält die Schweizer Nationalbank an ihrem Nullzinssatz fest, während weltweit die Zinsen steigen. Experten diskutieren, wie lange dieser expansive Kurs noch zu rechtfertigen ist und welche Folgen er haben könnte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Elon Musk ist dafür, US-Finanzminister Scott Bessent dagegen: Soll Jensen Huang wieder Chef von Nvidia werden?",
-      "summary": "Nach seinem Rücktritt im Zuge einer Spionageaffäre wird über eine mögliche Rückkehr von Jensen Huang als Nvidia-Chef spekuliert. Während Elon Musk ihn unterstützt, lehnt US-Finanzminister Scott Bessent dies ab."
+      "headline": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
+      "summary": "Tesla plant eine Milliardeninvestition von drei Milliarden Euro in den Ausbau seines Brandenburger Werks, um ein neues Produktionsgebäude zu finanzieren. Dort sollen künftig \"Cybercabs\", fahrerlose Taxis, hergestellt werden, was Europas Rolle in Teslas Zukunft stärkt."
     },
     {
       "tag": "TOP STORIES",
       "headline": "Die «Notenbank» der KI-Branche wankt: Wieso der Nvidia-Skandal eine ganze Industrie bedroht",
-      "summary": "Der Skandal um den ehemaligen CEO Jensen Huang bei Nvidia, dem finanzkräftigsten Unternehmen der KI-Branche, erschüttert die gesamte Industrie. Es stellen sich Fragen nach weiteren potenziellen Problemen und der Stabilität des Sektors."
+      "summary": "Der Rauswurf von Nvidia-CEO Jensen Huang aufgrund eines Spionage- und Sex-Skandals erschüttert das finanzkräftigste Unternehmen der KI-Branche. Die Turbulenzen könnten weitreichende Auswirkungen auf die gesamte KI-Industrie haben, die stark von Nvidias Chips abhängig ist."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "summary": "Ehemalige Mitarbeiter von Freshworks haben 53 Millionen US-Dollar eingesammelt, um mit einem KI-nativen CRM-Tool Salesforce und HubSpot herauszufordern. Das Startup hat bereits über 100 Kunden in 13 Ländern gewonnen."
+      "headline": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summary": "Das AI-Cybersecurity-Startup Corma hat nach nur drei Monaten seit Produkteinführung eine Series A-Finanzierung von 125 Millionen Dollar erhalten. Damit erreicht es eine Bewertung von einer Milliarde Dollar und den Status eines Unicorns."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-      "summary": "Die von erfahrenen Betreibern geführte VC-Firma Plural hat 1,1 Milliarden US-Dollar neues Kapital erhalten. Damit will sie Europas nächste bahnbrechende Technologieunternehmen finanzieren und sich als großer europäischer Fonds positionieren."
+      "headline": "Die bemerkenswerte Reise der Abivardi-Schwestern: Auf Pferden von Iran in Richtung Schweiz – und nun an die Wall Street",
+      "summary": "Die Schwestern Haley und Goly Abivardi schaffen mit ihrem Dental-Startup Vvardis den Sprung an die New Yorker Börse. Ihre Gründergeschichte ist von Turbulenzen geprägt, doch sie etablieren sich nun auf dem globalen Finanzparkett."
     }
   ],
   "learning": {
-    "topic": "Strategic Buyer vs. Financial Buyer in M&A",
+    "topic": "Startup-Slang: Das ABC der Tech-Finanzwelt",
     "category": "Finanz-Dechiffrierung",
-    "concept": "Im M&A-Geschäft unterscheidet man hauptsächlich zwischen strategischen und finanziellen Käufern, deren Motivationen und Integrationsansätze sich grundlegend voneinander abheben.",
-    "details": "Ein strategischer Käufer ist typischerweise ein Unternehmen derselben oder einer verwandten Branche, das das Zielunternehmen aus operativen Synergieeffekten heraus erwirbt – zum Beispiel um Marktanteile zu vergrößern, das Produktportfolio zu erweitern oder Kosten zu senken. Die Integration ist meist tiefgreifend und langfristig angelegt. Ein finanzieller Käufer hingegen (oft Private Equity Fonds) konzentriert sich auf die finanzielle Performance: Sie kaufen Unternehmen, um sie über eine verbesserte operative Effizienz, Restrukturierung oder Add-on-Akquisitionen innerhalb von 3-7 Jahren profitabler zu machen und dann gewinnbringend zu veräußern. Die Integration ist weniger operativ, sondern eher auf Wertsteigerung durch Finanzierungs- und Managementoptimierung ausgerichtet.",
-    "takeaway": "Das Verständnis des Käufertyps ist entscheidend für die Bewertung eines Unternehmens und die Verhandlungsstrategie, da strategische Käufer oft bereit sind, höhere Synergieprämien zu zahlen."
+    "concept": "Startup-Slang ist eine spezielle \"Sprache\" in der Tech- und Venture Capital-Welt, die es ermöglicht, Geschäftsmodelle und deren finanzielle Gesundheit prägnant zu beschreiben. Das Verständnis dieser Begriffe ist essenziell für Investoren und Gründer gleichermaßen.",
+    "details": "Begriffe wie \"SaaS\" (Software as a Service) beschreiben Geschäftsmodelle, bei denen Software als Abonnementdienst über das Internet angeboten wird, anstatt sie einmalig zu kaufen. \"B2B\" (Business-to-Business) definiert dabei, dass Produkte oder Dienstleistungen an andere Unternehmen verkauft werden. Die \"ARR\" (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus diesen Abonnements und ein Schlüsselindikator für die Planbarkeit und das Wachstum eines SaaS-Unternehmens. Die \"Burn Rate\" gibt an, wie schnell ein Startup seine liquiden Mittel verbraucht, typischerweise pro Monat, und ist entscheidend für die Runway – also wie lange das Kapital noch reicht. Die \"Churn Rate\" misst hingegen die Abwanderung von Kunden und ist ein wichtiger Indikator für die Kundenzufriedenheit und den \"Product-Market Fit\".",
+    "takeaway": "Das Beherrschen dieses Startup-Slangs erlaubt eine präzise Kommunikation über Geschäftsmodelle, Finanzierungsbedarfe und die Performance von Tech-Unternehmen, was für Investitionsentscheidungen und die Bewertung von Startups unerlässlich ist."
   }
 }
