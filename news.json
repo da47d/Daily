@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU sanktioniert russische Propagandisten, Hacker, Unternehmer",
-      "summary": "Die EU hat eine breite Palette russischer Akteure, darunter Oligarchen und Propagandafabriken, mit neuen Sanktionen belegt. Auch chinesische und Emirate-Firmen sind betroffen, was die geopolitischen Spannungen weiter verschärft."
+      "headline": "Deutschland kauft neue Flugabwehrraketen für Ukraine",
+      "summary": "Deutschland stärkt die ukrainische Flugabwehr mit dem Kauf neuer Raketen aus den USA. Dies ist eine direkte Reaktion auf die massiven russischen Angriffe und den bevorstehenden Winter."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
-      "summary": "Deutschland und vier weitere EU-Staaten planen die Eröffnung eines Abschiebezentrums in Ruanda für abgelehnte Asylbewerber. Dies soll ermöglichen, Personen ohne Bezug zu Ruanda dorthin zu bringen, was international debattiert wird."
+      "headline": "Selenskyj bestätigt teilweise Zerstörung der Krim-Brücke",
+      "summary": "Das ukrainische Militär hat offenbar einen wichtigen Teil der Krim-Brücke zerstört, einem Prestigeprojekt Russlands. Bilder zeigen einen eingestürzten Brückenbogen, was die Konfliktdynamik deutlich beeinflusst."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX bleibt nahe Rekordhoch",
-      "summary": "Der DAX verzeichnet zum Wochenauftakt einen moderaten Rückgang, bleibt aber nahe seines Rekordhochs, während Investoren die Nvidia-Bilanz abwarten. Sorgen um eine mögliche Zinserhöhung in den USA belasten zusätzlich die Marktstimmung."
+      "headline": "EU-Kommission verdoppelt Prognose für Deutschland",
+      "summary": "Die EU-Kommission hat ihre Konjunkturprognose für Deutschland dank starker Exportzahlen deutlich angehoben. Gleichzeitig wird jedoch eine anhaltend hartnäckige Inflation erwartet."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Weltweit steigen die Zinsen, nur die Schweiz verharrt bei null Prozent",
-      "summary": "Trotz höherer Inflation und besserer Konjunktur hält die Schweizer Nationalbank an ihrem Nullzinssatz fest, während weltweit die Zinsen steigen. Experten diskutieren, wie lange dieser expansive Kurs noch zu rechtfertigen ist und welche Folgen er haben könnte."
+      "headline": "Der neue EZB-Chef wird sich rasch als Krisenmanager bewähren müssen",
+      "summary": "Die EU-Länder wählen im Dezember einen neuen Präsidenten der Europäischen Zentralbank. Angesichts politischer und wirtschaftlicher Unruhen in Europa wird dem Nachfolger keine lange Einarbeitungszeit bleiben."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
-      "summary": "Tesla plant eine Milliardeninvestition von drei Milliarden Euro in den Ausbau seines Brandenburger Werks, um ein neues Produktionsgebäude zu finanzieren. Dort sollen künftig \"Cybercabs\", fahrerlose Taxis, hergestellt werden, was Europas Rolle in Teslas Zukunft stärkt."
+      "headline": "Der Börsengang der KI-Firma Anthropic könnte alle Rekorde brechen",
+      "summary": "Das KI-Unternehmen Anthropic geht diese Woche an die Nasdaq und wird mit Spannung erwartet. Anleger weltweit haben Zugriff auf die Aktien dieses potenziellen Rekord-Börsengangs."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Die «Notenbank» der KI-Branche wankt: Wieso der Nvidia-Skandal eine ganze Industrie bedroht",
-      "summary": "Der Rauswurf von Nvidia-CEO Jensen Huang aufgrund eines Spionage- und Sex-Skandals erschüttert das finanzkräftigste Unternehmen der KI-Branche. Die Turbulenzen könnten weitreichende Auswirkungen auf die gesamte KI-Industrie haben, die stark von Nvidias Chips abhängig ist."
+      "headline": "Upside Foods kann jährlich eine Million Pfund kultiviertes Hühnerfleisch produzieren",
+      "summary": "Upside Foods hat die Produktion von kultiviertem Hühnerfleisch auf eine Million Pfund pro Jahr skaliert. Der Preis soll nun mit hochwertigem Bio-Hühnchen konkurrieren können, was einen Meilenstein für die Branche darstellt."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Das AI-Cybersecurity-Startup Corma hat nach nur drei Monaten seit Produkteinführung eine Series A-Finanzierung von 125 Millionen Dollar erhalten. Damit erreicht es eine Bewertung von einer Milliarde Dollar und den Status eines Unicorns."
+      "headline": "Isomorphic Labs erhält 5 Milliarden Dollar für Medikamentenentwicklung",
+      "summary": "Isomorphic Labs, ein AI-Drug-Discovery-Startup von DeepMind, hat beeindruckende 5 Milliarden Dollar in einer Serie-C-Runde erhalten. Das Unternehmen will damit seine Medikamentenkandidaten bis zu klinischen Studien bringen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Die bemerkenswerte Reise der Abivardi-Schwestern: Auf Pferden von Iran in Richtung Schweiz – und nun an die Wall Street",
-      "summary": "Die Schwestern Haley und Goly Abivardi schaffen mit ihrem Dental-Startup Vvardis den Sprung an die New Yorker Börse. Ihre Gründergeschichte ist von Turbulenzen geprägt, doch sie etablieren sich nun auf dem globalen Finanzparkett."
+      "headline": "Genesis AI erhält 500 Millionen Dollar für Handschuh tragende Roboter",
+      "summary": "Genesis AI hat 500 Millionen Dollar in einer Series A Finanzierungsrunde eingesammelt, um den Einsatz von geschickten, Handschuh tragenden Robotern voranzutreiben. Ihr neuartiger Ansatz für das Training dexterer Roboter überzeugte die Investoren."
     }
   ],
   "learning": {
-    "topic": "Startup-Slang: Das ABC der Tech-Finanzwelt",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Startup-Slang ist eine spezielle \"Sprache\" in der Tech- und Venture Capital-Welt, die es ermöglicht, Geschäftsmodelle und deren finanzielle Gesundheit prägnant zu beschreiben. Das Verständnis dieser Begriffe ist essenziell für Investoren und Gründer gleichermaßen.",
-    "details": "Begriffe wie \"SaaS\" (Software as a Service) beschreiben Geschäftsmodelle, bei denen Software als Abonnementdienst über das Internet angeboten wird, anstatt sie einmalig zu kaufen. \"B2B\" (Business-to-Business) definiert dabei, dass Produkte oder Dienstleistungen an andere Unternehmen verkauft werden. Die \"ARR\" (Annual Recurring Revenue) ist der jährlich wiederkehrende Umsatz aus diesen Abonnements und ein Schlüsselindikator für die Planbarkeit und das Wachstum eines SaaS-Unternehmens. Die \"Burn Rate\" gibt an, wie schnell ein Startup seine liquiden Mittel verbraucht, typischerweise pro Monat, und ist entscheidend für die Runway – also wie lange das Kapital noch reicht. Die \"Churn Rate\" misst hingegen die Abwanderung von Kunden und ist ein wichtiger Indikator für die Kundenzufriedenheit und den \"Product-Market Fit\".",
-    "takeaway": "Das Beherrschen dieses Startup-Slangs erlaubt eine präzise Kommunikation über Geschäftsmodelle, Finanzierungsbedarfe und die Performance von Tech-Unternehmen, was für Investitionsentscheidungen und die Bewertung von Startups unerlässlich ist."
+    "topic": "Derivate: Risiko und Chance einfach erklärt",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von der Entwicklung eines Basiswerts abhängt und die zur Absicherung oder Spekulation dienen können. Sie funktionieren wie ein Vertrag über einen zukünftigen Handel zu festgelegten Bedingungen.",
+    "details": "Stell dir vor, ein Bauer möchte seinen Weizen schon vor der Ernte verkaufen und ein Bäcker möchte sich den Preis für zukünftiges Mehl sichern. Sie können einen Derivatevertrag, z.B. einen Terminkontrakt (Future), abschließen. Der Bauer verpflichtet sich, den Weizen zu einem bestimmten Zeitpunkt und Preis zu liefern, und der Bäcker verpflichtet sich, ihn zu diesem Preis abzunehmen. So minimieren beide ihr Preisrisiko, auch wenn der Marktpreis bis zur Ernte steigt oder fällt. Derivate trennen das Recht oder die Pflicht vom tatsächlichen Besitz des Basiswerts.",
+    "takeaway": "Derivate sind mächtige Werkzeuge im Finanzmarkt, die Preisschwankungen absichern oder für spekulative Gewinne genutzt werden können. Ihr Wert ist immer 'abgeleitet' und macht sie flexibel, aber auch komplex in der Bewertung."
   }
 }
