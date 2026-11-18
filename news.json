@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Krieg gegen die Ukraine: Wie schwer ist die Krim-Brücke getroffen?",
-      "summary": "Die Ukraine hat die Krim-Brücke, ein Symbol der russischen Herrschaft und wichtige Verbindungsroute, schwer beschädigt. Dieser Großangriff könnte weitreichende strategische und symbolische Konsequenzen haben."
+      "headline": "APEC-Gipfel in Shenzhen: Geopolitische Großmächte im Fokus",
+      "summary": "Staatschefs Chinas, der USA und Russlands sind zum APEC-Gipfel in Shenzhen eingetroffen, wobei eine besondere Geste zwischen Xi und Trump hervorstach. Der Gipfel bringt die Großmächte zur Beratung über regionale Wirtschaftszusammenarbeit zusammen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "USA prüfen mögliche Anschlagspläne Irans auf Washington",
-      "summary": "Die USA nehmen Berichte über angebliche iranische Anschlagspläne, darunter die Zündung einer 'schmutzigen Bombe' in Washington, 'sehr ernst'. US-Präsident Trump droht Teheran mit deutlichen Konsequenzen."
+      "headline": "Nvidia verlässt angeblich den chinesischen Markt",
+      "summary": "Nach dem Rücktritt von CEO Jensen Huang plant Nvidia angeblich, den chinesischen Markt zu verlassen und keine Chips mehr an China zu verkaufen. Diese Entscheidung könnte erhebliche Kosten verursachen und ist eine direkte Folge geopolitischer Spannungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Deutsche Regierung beruft Markus Brunnermeier zum EZB-Chefvolkswirt",
-      "summary": "Markus Brunnermeier steht kurz davor, eine Schlüsselposition als EZB-Chefvolkswirt zu besetzen, was einem Spanier den Einzug ins Präsidium ermöglichen könnte. Er wird die wichtige Aufgabe haben, unterschiedliche wirtschaftliche Positionen innerhalb der Zentralbank zu vermitteln."
+      "headline": "Gold auf 14-Monats-Tief: Neue Einstiegspunkte für Anleger?",
+      "summary": "Die Goldpreise sind auf den tiefsten Stand seit 14 Monaten gefallen und könnten Anlegern neue Einstiegspunkte bieten. Diese Entwicklung spiegelt aktuelle Trends am globalen Rohstoffmarkt wider und beeinflusst Portfoliostrategien."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Schweiz verharrt bei Nullzinsen: Wie lange hält die SNB noch stand?",
-      "summary": "Während weltweit die Zinsen steigen, bleibt die Schweizerische Nationalbank (SNB) trotz Inflation und guter Konjunktur bei null Prozent. Experten diskutieren, wie lange dieser expansive Kurs noch zu rechtfertigen ist und wann eine Zinswende erfolgen könnte."
+      "headline": "Neuer EZB-Chef vor großen Herausforderungen",
+      "summary": "Im Dezember wird ein neuer EZB-Präsident gewählt, der sich angesichts politischer und wirtschaftlicher Unruhen schnell als Krisenmanager beweisen muss. Dem neuen Chef wird nicht viel Zeit bleiben, sich einzuarbeiten, um die Stabilität in Europa zu gewährleisten."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Spionageaffäre bei Nvidia: Verwaltungsrat lehnt Huangs Rückkehr ab",
-      "summary": "Nach einer Affäre mit einer mutmaßlichen Spionin und seinem Rücktritt hat der Verwaltungsrat von Nvidia eine Rückkehr von Jensen Huang an die Unternehmensspitze abgelehnt. Die Entwicklungen folgen auf eine Serie von Berichten über weitere Liaisons und eine laufende SEC-Untersuchung."
+      "headline": "SEC ermittelt gegen Nvidia nach CEO-Rücktritt",
+      "summary": "Die SEC hat angeblich eine Untersuchung gegen Nvidia eingeleitet, nachdem CEO Jensen Huang aufgrund einer Affäre mit einer Spionin zurückgetreten war. Dies könnte weitere Turbulenzen für den Chipentwickler bedeuten und die Branche aufhorchen lassen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "GTA VI bricht alle Rekorde mit 15 Millionen Vorbestellungen",
-      "summary": "Das mit Spannung erwartete Videospiel 'GTA VI' hat bereits 15 Millionen Vorbestellungen erreicht und könnte dem US-Konzern Take-Two das Geschäft des Jahrzehnts bescheren. Die Börse setzt entsprechend hohe Erwartungen in den potenziellen Verkaufsrekord."
+      "headline": "GTA VI bricht Vorbestellungsrekorde: Geschäft des Jahrzehnts für Take-Two?",
+      "summary": "Mit bereits 15 Millionen Vorbestellungen wird erwartet, dass 'GTA VI' dem US-Konzern Take-Two das Geschäft des Jahrzehnts beschert. Die Videospiel-Veröffentlichung könnte Verkaufsrekorde brechen und die Börsenbegeisterung weiter anfachen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Model ML sichert sich 250 Millionen Dollar für Investmentbanking-Automatisierung",
-      "summary": "Das Startup Model ML hat eine Finanzierungsrunde über 250 Millionen Dollar abgeschlossen. Mit seiner KI-Technologie will es die Routineaufgaben im Investmentbanking automatisieren, indem es Finanzmodelle und Präsentationen eigenständig aktualisiert."
+      "headline": "Anthropic IPO: KI-Börsengang könnte alle Rekorde brechen",
+      "summary": "Der Börsengang der KI-Firma Anthropic am Donnerstag könnte Rekorde brechen und gilt als Ereignis des Jahres für Tech-Investoren. Europäische Anleger haben ebenfalls Zugang zu den Aktien des AI-Pioniers an der Nasdaq."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Börsengang der KI-Firma Anthropic könnte alle Rekorde brechen",
-      "summary": "Die Aktien der KI-Firma Anthropic werden bald an der Nasdaq gehandelt, mit dem Potenzial, alle bisherigen IPO-Rekorde zu brechen. Auch europäische Investoren erhalten Zugang zu dem als 'Ereignis des Jahres' gehandelten Börsengang."
+      "headline": "Humyn Labs sammelt 47 Mio. $ für US-Robotikdaten",
+      "summary": "Humyn Labs aus Indien hat 47 Millionen Dollar eingesammelt, um US-Robotikfirmen mit notwendigen Daten zu versorgen, wobei ein Großteil des Umsatzes aus den USA stammt. Das Startup konkurriert im Bereich der Datenversorgung für Robotik-Anwendungen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Was eine Startup-Runde wirklich bedeutet",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer neuen Finanzierungsrunde; die Post-Money-Bewertung ist der Wert nach dem Erhalt des neuen Kapitals und der Ausgabe neuer Anteile.",
-    "details": "Stell dir vor, ein Startup ist vor einer Finanzierungsrunde 10 Millionen Euro wert (Pre-Money). Wenn Investoren jetzt 2 Millionen Euro für 20% der Anteile investieren, bedeutet das, dass das Startup nach der Investition (Post-Money) 12 Millionen Euro wert ist (10 Mio. Pre-Money + 2 Mio. frisches Kapital). Die neuen Anteile werden auf Basis der Post-Money-Bewertung ausgegeben, was den Wert der Anteile der Altgesellschafter verwässert, aber das Unternehmen wachsen lässt, indem es frisches Kapital erhält.",
-    "takeaway": "Das Verständnis dieser beiden Bewertungen ist essenziell, um die Verteilung von Anteilen und den Grad der Verwässerung nach einer Finanzierungsrunde korrekt zu beurteilen und die ökonomische Realität eines Deals zu erfassen."
+    "topic": "Strategischer Käufer vs. Finanzinvestor im M&A",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Bei Unternehmensübernahmen treten primär zwei Käufertypen auf: strategische Käufer, die Synergien nutzen wollen, und Finanzinvestoren, die auf reine Wertsteigerung abzielen. Ihr Investitionsmotiv und Ansatz unterscheiden sich fundamental.",
+    "details": "Ein strategischer Käufer ist typischerweise ein Unternehmen, das ein anderes Unternehmen erwirbt, um sein eigenes Geschäft zu erweitern. Dies kann durch die Erschließung neuer Märkte, den Zugang zu Technologien oder die Elimination eines Wettbewerbers geschehen. Das primäre Ziel sind Synergien, also der Mehrwert, der entsteht, wenn zwei Unternehmen zusammen mehr wert sind als einzeln. Ein Finanzinvestor, oft ein Private-Equity-Fonds, kauft Unternehmen mit der Absicht, sie innerhalb von drei bis sieben Jahren zu optimieren und dann gewinnbringend weiterzuverkaufen. Ihr Fokus liegt auf der Effizienzsteigerung, Kostensenkung und der Maximierung des Cashflows, um die Rendite für ihre eigenen Investoren zu steigern. Sie sind weniger an operativen Synergien als an der reinen finanziellen Performance interessiert.",
+    "takeaway": "Strategische Käufer suchen Synergien und Integration, während Finanzinvestoren auf eine kurz- bis mittelfristige Wertsteigerung und den Weiterverkauf des Unternehmens fokussieren. Das Verständnis der Käufermotivation ist entscheidend für den Verhandlungserfolg."
   }
 }
