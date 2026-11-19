@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
-      "summary": "Trotz einer Waffenruhe hat Israels Armee einen neuen Einsatz im Gazastreifen begonnen, um Infrastruktur der Hamas anzugreifen. Dies führt zu gegenseitigen Eskalationsvorwürfen und birgt Risiken für die regionale Stabilität."
+      "headline": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
+      "summary": "Die Präsidenten Trump, Putin und Xi trafen sich erstmals zu einem Dreiertreffen, um einen Dialog über atomare Risiken zu führen. Sie betonten eine \"gemeinsame Verantwortung\" für den Weltfrieden."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
-      "summary": "Das erste Dreier-Treffen von Xi, Trump und Putin auf dem APEC-Gipfel offenbart trotz historischer Bedeutung große Differenzen bei zentralen Themen wie atomarer Abrüstung und der Ukraine. Ihre unterschiedlichen Positionen könnten die globale Politik und die Märkte maßgeblich beeinflussen."
+      "headline": "Dänisches Parlament ratifiziert Grönland-Deal mit Trump",
+      "summary": "Das dänische Parlament hat das umstrittene Abkommen mit US-Präsident Trump über Grönland ratifiziert. Damit tritt der Deal nach monatelangen Drohungen der USA in Kraft."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
-      "summary": "Nach einem Rekordhoch in der Vorwoche ist der DAX deutlich unter die 26.000er-Marke gerutscht und schloss mit einem starken Minus bei 25.736 Punkten. Selbst positive Industriezahlen konnten diesen Kursverlust nicht aufhalten, was auf eine nachlassende Marktstimmung hindeutet."
+      "headline": "MELDUNGEN WIRTSCHAFT - BASF gibt Übernahmepläne für Evonik auf +++ Deutsche Bundesregierung einigt sich mit Unicredit über Übernahme der Commerzbank",
+      "summary": "BASF hat seine Übernahmepläne für Evonik aufgegeben, während die Deutsche Bundesregierung und Unicredit sich auf die Übernahme der Commerzbank geeinigt haben. Diese Entwicklungen prägen die aktuelle M&A-Landschaft in Europa."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "Der Dollar notiert auf Jahreshoch – diese vier Gründe stecken dahinter",
-      "summary": "Der US-Dollar hat trotz früherer negativer Prognosen ein Jahreshoch erreicht, angetrieben von vier spezifischen Faktoren. Dies deutet auf eine veränderte globale Finanzdynamik hin, die Investoren genau beobachten sollten."
+      "summary": "Trotz früherer Prognosen nach Trumps Zollschock hat der Dollar ein Jahreshoch erreicht. Dies wird durch vier maßgebliche Gründe gestützt, die seine Stärke untermauern."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
-      "summary": "13 Jahre nach dem Vorgänger sorgt \"Grand Theft Auto VI\" weltweit für enorme Aufregung und Erwartungen, mit dem Potenzial, Verkaufsrekorde zu brechen. Das Videospiel könnte dem Publisher Take-Two das Geschäft des Jahrzehnts bescheren und dominiert die Schlagzeilen außerhalb der reinen Finanzwelt."
+      "headline": "Noch grösser als erwartet: Anthropic nimmt bei seinem Börsengang 107 Milliarden Dollar ein",
+      "summary": "Das KI-Unternehmen Anthropic übertraf mit einem Börsengang von 107 Milliarden Dollar alle Erwartungen und verkaufte mehr Aktien als angekündigt. Mit einem Einstandspreis von 83 Dollar gilt es als potenziell größter Börsengang aller Zeiten."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "summary": "Microsoft-CEO Satya Nadella prognostiziert, dass KI-Agenten die Ökonomie des Webs grundlegend umgestalten werden, indem sie werbegetriebene Geschäftsmodelle in Frage stellen. Dies zwingt Unternehmen wie Amazon, ihre Wettbewerbsstrategien neu zu überdenken und markiert einen bedeutenden technologischen Meilenstein."
+      "headline": "KI-gestützter Cyberangriff auf EU-Kommission",
+      "summary": "Die Europäische Kommission in Brüssel wurde Ziel eines KI-gestützten Hackerangriffs. Es ist noch unklar, ob Daten von über 33.000 Mitarbeitenden gestohlen wurden und wer dafür verantwortlich ist."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-      "summary": "Der mit Spannung erwartete Börsengang des KI-Unternehmens Anthropic wurde Berichten zufolge bei 83 Dollar pro Aktie bepreist, was über der prognostizierten Spanne liegt. Dies bewertet das Unternehmen auf vollständig verwässerter Basis mit 1,5 Billionen Dollar und zeigt starkes Anlegervertrauen in den KI-Boom."
+      "headline": "Marktbericht: Deutsche Telekom steigt bei KI-Start-up Mistral ein",
+      "summary": "Die Deutsche Telekom beteiligt sich am französischen KI-Start-up Mistral, um Unternehmen und Behörden mit \"vertrauenswürdiger KI aus Europa\" zu versorgen. Diese Investition unterstreicht das wachsende Interesse an europäischer KI-Technologie."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-      "summary": "Die 2018 gegründete Spend-Management-Plattform Payhawk hat eine Finanzierungsrunde von 280 Millionen Dollar abgeschlossen und wird nun mit 2 Milliarden Dollar bewertet. Das Unternehmen hilft Firmen mit KI-Agenten, Ausgaben und Beschaffung zu verwalten und ist ein wichtiger Akteur im Tech-Startup-Segment."
+      "headline": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "summary": "Der Börsengang von Anthropic stellt das zirkuläre Finanzierungsmodell im KI-Sektor auf die Probe. Große Infrastrukturpartner wie Amazon und Google könnten auch bei einem Rückgang von Anthropics Führung weiterhin profitieren."
     }
   ],
   "learning": {
-    "topic": "Optionsscheine vs. Optionen – Hebelprodukte im Vergleich",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Optionen und Optionsscheine sind beides Finanzinstrumente, die Anlegern das Recht geben, einen Basiswert zu einem bestimmten Preis zu kaufen oder zu verkaufen, jedoch unterscheiden sie sich fundamental in ihrer Struktur und Herkunft.",
-    "details": "Eine Option ist ein standardisierter Kontrakt, der an einer Börse gehandelt wird und direkt zwischen zwei Marktteilnehmern besteht. Sie wird primär von institutionellen Anlegern für Absicherungszwecke (Hedging) oder zur direkten Spekulation auf Kursentwicklungen genutzt. Optionsscheine hingegen sind von Banken oder Emittenten herausgegebene Schuldverschreibungen, die auf die Bedürfnisse von Privatanlegern zugeschnitten sind. Sie sind kein direkter Kontrakt auf den Basiswert, sondern ein 'Recht auf ein Recht', dessen Wert neben dem Basiswert auch vom Emittentenrisiko und anderen Faktoren beeinflusst wird. Obwohl beide Hebelwirkungen bieten, sind Optionen in der Regel transparenter und liquider, während Optionsscheine oft einfacher zugänglich, aber komplexer in ihrer Preisbildung und mit einem Emittentenrisiko behaftet sind.",
-    "takeaway": "Der entscheidende Unterschied liegt darin, dass Optionen direkt gehandelte und standardisierte Börsenkontrakte sind, während Optionsscheine von Emittenten (oft Banken) herausgegebene Produkte sind. Für die Praxis ist wichtig, das Emittentenrisiko bei Optionsscheinen zu verstehen, welches bei Optionen in dieser Form nicht existiert."
+    "topic": "Pre-Money vs. Post-Money Bewertung im Startup-Umfeld",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Diese Begriffe definieren den Unternehmenswert eines Startups vor und nach dem Erhalt einer neuen Finanzierungsrunde. Die Pre-Money-Bewertung ist der Wert vor den neuen Investitionen, die Post-Money-Bewertung schließt diese ein.",
+    "details": "Wenn ein Startup Kapital von Investoren aufnimmt, verändert sich dessen Wert und die Eigentümerstruktur. Die Pre-Money-Bewertung gibt an, welchen Wert die Gründer und bestehende Investoren dem Unternehmen vor der neuen Geldspritze beimessen. Die Post-Money-Bewertung ist die Summe aus der Pre-Money-Bewertung und dem frisch investierten Kapital. Sie stellt den neuen Gesamtunternehmenswert dar, auf dessen Basis die Anteile der neuen Investoren berechnet werden. Das ist entscheidend für die genaue Anteilsverteilung im Cap Table nach der Finanzierung.",
+    "takeaway": "Investoren verhandeln meist über die Pre-Money-Bewertung, aber die Post-Money-Bewertung ist ausschlaggebend für die Bestimmung des finalen prozentualen Anteils der neuen Investoren. Merke: Pre-Money + Investment = Post-Money."
   }
 }
