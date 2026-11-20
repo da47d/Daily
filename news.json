@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Gespräche mit Russland ja - aber wo?",
-      "summary": "Verteidigungsminister Pistorius begrüßte Russlands Gesprächsangebot mit den Europäern, bezweifelt jedoch Moskaus ehrliche Verhandlungsbereitschaft. Moskau käme dafür als Treffpunkt nicht infrage, was die anhaltenden diplomatischen Spannungen unterstreicht."
+      "headline": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
+      "summary": "Dänemark hat einen russischen Diplomaten ausgewiesen, nachdem Russland einen mutmaßlichen Anschlag auf einen ukrainisch-amerikanischen Rapper auf dänischem Boden geplant haben soll. Zwei Verdächtige wurden in Untersuchungshaft genommen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Polen wirft Russland gezielte Provokation vor",
-      "summary": "Polen wirft Russland eine gezielte Provokation vor, nachdem mehrere Flugkörper in den polnischen Luftraum eindrangen, möglicherweise im Zusammenhang mit einer Ukraine-Übung. Dieser Vorfall verdeutlicht die erhöhte militärische Spannung in der Region."
+      "headline": "Ukraine-Hilfe: Die EU erwartet von der wohlhabenden Schweiz mehr Unterstützung",
+      "summary": "Die EU fordert von der Schweiz eine stärkere finanzielle Unterstützung für die Ukraine, da das Land dringend Geld benötigt. Staaten mit einem Triple-A-Rating sollen ihr Engagement erhöhen, was eindeutig auf die Schweiz abzielt."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: DAX-Talfahrt setzt sich fort",
-      "summary": "Der Deutsche Aktienindex setzt seine Talfahrt fort und droht den sechsten Verlusttag in Folge, da Inflationssorgen neue Nahrung erhalten. Das erfolgreiche Börsendebüt von Anthropic konnte die negative Marktstimmung nicht aufhellen."
+      "headline": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
+      "summary": "Eine Verkaufswelle rollt durch den vom Erfolg verwöhnten Technologiesektor und zieht den DAX mit sich, der das höchste Wochenminus seit Monaten verzeichnet. Dies deutet auf eine breitere Marktkorrektur hin."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Der Dollar notiert auf Jahreshoch – diese vier Gründe stecken dahinter",
-      "summary": "Entgegen vieler Erwartungen nach Donald Trumps Zollschock im April 2025 notiert der Dollar auf einem Jahreshoch. Mehrere Gründe untermauern diese Stärke und signalisieren eine robuste Position der US-Währung im globalen Vergleich."
+      "headline": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
+      "summary": "Die Aktie des KI-Entwicklers Anthropic stürzt ab, da eine Verkaufswelle den Technologiesektor und KI-Aktien weltweit erfasst. Dies deutet auf wachsende Skepsis und Risikobereitschaft im KI-Markt hin."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Es ist der grösste Börsengang aller Zeiten: Anthropic übertrifft alle Prognosen und startet mit einem Kursfeuerwerk",
-      "summary": "Anthropic feierte den größten Börsengang aller Zeiten und übertraf mit einem Eröffnungskurs von 111.50 Dollar alle Prognosen um 34 Prozent. Dieses Debüt war ein Kursfeuerwerk, das die hohen Erwartungen an das KI-Unternehmen verdeutlichte."
+      "headline": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "Apple arbeitet offenbar an einem eigenen KI-Agenten, der Macs steuern soll, um mit Konkurrenten wie Meta Muse und OpenAI Dots zu konkurrieren. Dies könnte die nächste große Entwicklung im Bereich der persönlichen KI sein."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Apple may be developing its own AI agent that runs your Mac",
-      "summary": "Apple entwickelt offenbar einen eigenen KI-Agenten, der Macs steuern könnte und damit in Konkurrenz zu bestehenden AI-Assistenten tritt. Dieser Schritt könnte Apples Position im KI-Wettlauf erheblich stärken und neue Nutzererfahrungen schaffen."
+      "headline": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "summary": "Künstliche Intelligenz beansprucht, eine Lösung für die 167 Jahre alte Riemann-Hypothese gefunden zu haben. Gleichzeitig existiert auch eine konkurrierende menschliche Lösung, was Mathematiker weltweit verblüfft."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic nimmt bei seinem Börsengang 107 Milliarden Dollar ein",
-      "summary": "Das KI-Unternehmen Anthropic hat bei seinem Börsengang 107 Milliarden Dollar eingenommen, was den Ausgabepreis von 83 Dollar pro Aktie deutlich übertraf. Damit verkaufte Anthropic mehr Aktien als erwartet und schrieb Geschichte als einer der größten Börsengänge."
+      "headline": "Daniel Ek backs AI researcher’s fusion power startup",
+      "summary": "Spotify-Gründer Daniel Ek investiert in Europa Fusion, ein Startup für Fusionsenergie, das von einem KI-Forscher gegründet wurde. Das Unternehmen arbeitet an einer bahnbrechenden Technologie zur Energiegewinnung."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary": "Bei Anthropic's rekordverdächtigem Börsengang haben die sieben Gründer des Unternehmens zusammen fast 2 Milliarden Dollar realisiert. Jeder Gründer profitierte mit rund 280 Millionen Dollar vom Einstiegspreis von 83 Dollar pro Aktie."
+      "headline": "Super-hot rock geothermal could end data center energy woes",
+      "summary": "Neue Geothermie-Startups wetten darauf, terawattweise Strom nahezu überall liefern zu können und damit die Energieprobleme von Rechenzentren zu lösen. Diese Technologie könnte bestehende Anbieter übertreffen."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: Der Wert deines Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer Finanzierungsrunde, während die Post-Money-Bewertung diesen Wert nach dem Erhalt der neuen Investition darstellt.",
-    "details": "Bei einer Finanzierungsrunde wird frisches Kapital in ein Startup investiert. Die Pre-Money-Bewertung ist die Einschätzung des Unternehmenswerts, noch bevor das neue Geld fließt. Wenn beispielsweise ein Startup mit 10 Millionen Euro bewertet wird (Pre-Money) und 2 Millionen Euro von Investoren erhält, beträgt die Post-Money-Bewertung 12 Millionen Euro. Die Post-Money-Bewertung ist entscheidend, da sie den Gesamtwert des Unternehmens nach der Kapitalerhöhung widerspiegelt und somit den Wert der neuen und bestehenden Anteile bestimmt. Sie ist die Basis, um zu berechnen, wie viele Anteile Investoren für ihr Kapital erhalten.",
-    "takeaway": "Die Post-Money-Bewertung ist der Schlüssel zur Berechnung des neuen prozentualen Eigentumsanteils der Investoren und der daraus resultierenden Verdünnung der Anteile der Gründenden."
+    "topic": "ETF-Namenszusätze verstehen: So entschlüsselst du Core, IMI, Acc & Co.",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "ETF-Namen enthalten wichtige Abkürzungen, die Aufschluss über Anlagestrategie, Replikationsmethode und Ertragsverwendung geben. Sie helfen dir, den passenden Fonds für deine Ziele zu finden.",
+    "details": "Ein 'Core' ETF ist oft günstig und deckt breite Marktsegmente ab, während 'IMI' (Investable Market Index) auch Nebenwerte einschliesst. 'Acc' (Accumulating) bedeutet, dass Gewinne reinvestiert werden, 'Dist' (Distributing) zahlt sie aus. 'UCITS' garantiert die Einhaltung europäischer Richtlinien für Anlegerschutz. Die Replikationsmethode 'Swap' (synthetisch) bildet den Index über Tauschgeschäfte ab, 'Physisch' hält die tatsächlichen Aktien des Index.",
+    "takeaway": "Durch das Verständnis dieser Abkürzungen kannst du ETFs präziser auswählen, die genau zu deiner Anlagestrategie passen, und so teure Fehlentscheidungen vermeiden."
   }
 }
