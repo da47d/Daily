@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
-      "summary": "Ein Dreiergipfel von Xi, Trump und Putin in Shenzhen diente primär der Imagepflege und Schmeicheleien, ohne konkrete politische Ergebnisse. China nutzte das Treffen, um eine Agenda zu setzen, die vor allem seinen und Russlands Interessen zugutekommt."
+      "headline": "Gespräche mit Russland ja - aber wo?",
+      "summary": "Verteidigungsminister Pistorius begrüßte Russlands Gesprächsangebot mit den Europäern, bezweifelt jedoch Moskaus ehrliche Verhandlungsbereitschaft. Moskau käme dafür als Treffpunkt nicht infrage, was die anhaltenden diplomatischen Spannungen unterstreicht."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
-      "summary": "Kanzler Merz rief Russlands Präsident Putin nach dem Berliner Gipfel zur sofortigen Waffenruhe auf und forderte baldige Gespräche auf neutralem Boden. Ein dauerhafter Frieden in der Ukraine sei nur mit aktiver Beteiligung Europas möglich."
+      "headline": "Polen wirft Russland gezielte Provokation vor",
+      "summary": "Polen wirft Russland eine gezielte Provokation vor, nachdem mehrere Flugkörper in den polnischen Luftraum eindrangen, möglicherweise im Zusammenhang mit einer Ukraine-Übung. Dieser Vorfall verdeutlicht die erhöhte militärische Spannung in der Region."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Keine Erholung trotz Anthropic-Euphorie",
-      "summary": "Trotz der euphorischen Stimmung im Technologiesektor nach dem Rekord-Börsengang von Anthropic ist der DAX abgerutscht. Der deutsche Leitindex schloss auf dem tiefsten Stand seit über drei Wochen."
+      "headline": "Marktbericht: DAX-Talfahrt setzt sich fort",
+      "summary": "Der Deutsche Aktienindex setzt seine Talfahrt fort und droht den sechsten Verlusttag in Folge, da Inflationssorgen neue Nahrung erhalten. Das erfolgreiche Börsendebüt von Anthropic konnte die negative Marktstimmung nicht aufhellen."
     },
     {
       "tag": "MACRO ECONOMY",
       "headline": "Der Dollar notiert auf Jahreshoch – diese vier Gründe stecken dahinter",
-      "summary": "Der Dollar hat unerwartet ein Jahreshoch erreicht, entgegen vieler Vorhersagen nach Donald Trumps Zollschock im April 2025. Vier wesentliche Gründe sind für diese Stärke verantwortlich."
+      "summary": "Entgegen vieler Erwartungen nach Donald Trumps Zollschock im April 2025 notiert der Dollar auf einem Jahreshoch. Mehrere Gründe untermauern diese Stärke und signalisieren eine robuste Position der US-Währung im globalen Vergleich."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
       "headline": "Es ist der grösste Börsengang aller Zeiten: Anthropic übertrifft alle Prognosen und startet mit einem Kursfeuerwerk",
-      "summary": "Anthropic gelang der größte Börsengang der Geschichte, mit einem Eröffnungskurs von 111.50 Dollar, der den Ausgabepreis um 34 Prozent übertraf. Dieses Kursfeuerwerk übertrifft alle Erwartungen an den KI-Pionier."
+      "summary": "Anthropic feierte den größten Börsengang aller Zeiten und übertraf mit einem Eröffnungskurs von 111.50 Dollar alle Prognosen um 34 Prozent. Dieses Debüt war ein Kursfeuerwerk, das die hohen Erwartungen an das KI-Unternehmen verdeutlichte."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Nvidia setzt rasantes Wachstum fort",
-      "summary": "Obwohl Nvidia-Chef Jensen Huang nach einer Spionageaffäre zurücktreten musste, setzt das Unternehmen sein rasantes Wachstum fort. Der Chip-Entwickler erzielt neue Umsatzrekorde, was die Anleger sehr positiv aufnehmen."
+      "headline": "Apple may be developing its own AI agent that runs your Mac",
+      "summary": "Apple entwickelt offenbar einen eigenen KI-Agenten, der Macs steuern könnte und damit in Konkurrenz zu bestehenden AI-Assistenten tritt. Dieser Schritt könnte Apples Position im KI-Wettlauf erheblich stärken und neue Nutzererfahrungen schaffen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Noch grösser als erwartet: Anthropic nimmt bei seinem Börsengang 107 Milliarden Dollar ein",
-      "summary": "Anthropic übertraf beim Börsengang alle Prognosen und nahm 107 Milliarden Dollar ein, indem es deutlich mehr Aktien als angekündigt verkaufte. Mit einem Einstandspreis von 83 Dollar wurde der KI-Pionier deutlich höher bewertet als erwartet."
+      "headline": "Anthropic nimmt bei seinem Börsengang 107 Milliarden Dollar ein",
+      "summary": "Das KI-Unternehmen Anthropic hat bei seinem Börsengang 107 Milliarden Dollar eingenommen, was den Ausgabepreis von 83 Dollar pro Aktie deutlich übertraf. Damit verkaufte Anthropic mehr Aktien als erwartet und schrieb Geschichte als einer der größten Börsengänge."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "summary": "Everful, gegründet von einem ehemaligen Alibaba-Manager, hat 48,5 Millionen Dollar in einer Finanzierungsrunde erhalten. Das Unternehmen will mit seiner Plattform Einzelhändler direkt mit chinesischen Herstellern verbinden."
+      "headline": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "Bei Anthropic's rekordverdächtigem Börsengang haben die sieben Gründer des Unternehmens zusammen fast 2 Milliarden Dollar realisiert. Jeder Gründer profitierte mit rund 280 Millionen Dollar vom Einstiegspreis von 83 Dollar pro Aktie."
     }
   ],
   "learning": {
-    "topic": "Die Logik hinter Hedgefonds: Chancen und Risiken",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Hedgefonds sind spezielle Investmentfonds für professionelle Anleger, die durch flexible Strategien – auch in fallenden Märkten – absolute Renditen erzielen wollen. Sie nutzen dabei eine breite Palette an Finanzinstrumenten und Techniken.",
-    "details": "Im Gegensatz zu traditionellen Fonds, die oft nur in steigenden Märkten profitieren, können Hedgefonds durch Leerverkäufe oder den Einsatz von Derivaten auch auf fallende Kurse wetten (hedgen). Ihre hohe Flexibilität erlaubt es ihnen, in verschiedenste Anlageklassen zu investieren und auch Hebel (Leverage) einzusetzen, um Renditen zu maximieren. Diese Strategien sind jedoch mit höheren Risiken verbunden und erfordern ein aktives Management.",
-    "takeaway": "Hedgefonds bieten die Möglichkeit, von komplexen Marktstrategien zu profitieren und können zur Diversifikation beitragen. Sie sind aufgrund ihres Risikoprofils und ihrer Intransparenz aber vorrangig für erfahrene Investoren geeignet, die ein höheres Verlustrisiko akzeptieren können."
+    "topic": "Pre-Money vs. Post-Money Bewertung: Der Wert deines Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die Pre-Money-Bewertung ist der Unternehmenswert vor einer Finanzierungsrunde, während die Post-Money-Bewertung diesen Wert nach dem Erhalt der neuen Investition darstellt.",
+    "details": "Bei einer Finanzierungsrunde wird frisches Kapital in ein Startup investiert. Die Pre-Money-Bewertung ist die Einschätzung des Unternehmenswerts, noch bevor das neue Geld fließt. Wenn beispielsweise ein Startup mit 10 Millionen Euro bewertet wird (Pre-Money) und 2 Millionen Euro von Investoren erhält, beträgt die Post-Money-Bewertung 12 Millionen Euro. Die Post-Money-Bewertung ist entscheidend, da sie den Gesamtwert des Unternehmens nach der Kapitalerhöhung widerspiegelt und somit den Wert der neuen und bestehenden Anteile bestimmt. Sie ist die Basis, um zu berechnen, wie viele Anteile Investoren für ihr Kapital erhalten.",
+    "takeaway": "Die Post-Money-Bewertung ist der Schlüssel zur Berechnung des neuen prozentualen Eigentumsanteils der Investoren und der daraus resultierenden Verdünnung der Anteile der Gründenden."
   }
 }
