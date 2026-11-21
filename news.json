@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
-      "summary": "Dänemark hat einen russischen Diplomaten ausgewiesen, nachdem Russland einen mutmaßlichen Anschlag auf einen ukrainisch-amerikanischen Rapper auf dänischem Boden geplant haben soll. Zwei Verdächtige wurden in Untersuchungshaft genommen."
+      "headline": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+      "summary": "Die EU und Indonesien haben nach fast zehnjährigen Verhandlungen ein Freihandelsabkommen unterzeichnet, das Zölle auf nahezu alle Waren abschafft. Dieser Schritt könnte insbesondere der Autobranche zugutekommen und weitreichende Auswirkungen auf die globalen Märkte haben."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Ukraine-Hilfe: Die EU erwartet von der wohlhabenden Schweiz mehr Unterstützung",
-      "summary": "Die EU fordert von der Schweiz eine stärkere finanzielle Unterstützung für die Ukraine, da das Land dringend Geld benötigt. Staaten mit einem Triple-A-Rating sollen ihr Engagement erhöhen, was eindeutig auf die Schweiz abzielt."
+      "headline": "China will seine strengen KI-Regeln zum globalen Standard machen",
+      "summary": "China strebt an, seine strengen KI-Regeln zu einem globalen Standard zu entwickeln, was auf einem Gipfeltreffen mit den USA thematisiert wurde. Obwohl Kooperation bei der KI-Regulierung angesprochen wurde, blieben die Details der Zusammenarbeit noch unklar."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
-      "summary": "Eine Verkaufswelle rollt durch den vom Erfolg verwöhnten Technologiesektor und zieht den DAX mit sich, der das höchste Wochenminus seit Monaten verzeichnet. Dies deutet auf eine breitere Marktkorrektur hin."
+      "headline": "KI-Branche zieht rabenschwarzen Börsentag ein: Nvidia verliert 14 Prozent",
+      "summary": "Die KI-Branche erlebte einen deutlichen Rückschlag, mit Nvidia, das 14 Prozent an Marktwert verlor, und auch Anthropic wurde abgestraft. Die Sorge an der Börse wächst, dass die Profitabilitätserwartungen für KI-Unternehmen möglicherweise überzogen sind."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
-      "summary": "Die Aktie des KI-Entwicklers Anthropic stürzt ab, da eine Verkaufswelle den Technologiesektor und KI-Aktien weltweit erfasst. Dies deutet auf wachsende Skepsis und Risikobereitschaft im KI-Markt hin."
+      "headline": "Höhere Kursgewinne an Schweizer Börse, während KI-Boom nachlässt",
+      "summary": "Während Anthropic und Nvidia an der Börse kämpfen und dem KI-Boom die Luft ausgeht, verlagern Anleger ihr Kapital auf solide Schweizer Aktien. Der Swiss-Market-Index übertrifft globale Indizes und verzeichnet deutliche Kursgewinne."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Apple may be developing its own AI agent that runs your Mac",
-      "summary": "Apple arbeitet offenbar an einem eigenen KI-Agenten, der Macs steuern soll, um mit Konkurrenten wie Meta Muse und OpenAI Dots zu konkurrieren. Dies könnte die nächste große Entwicklung im Bereich der persönlichen KI sein."
+      "headline": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+      "summary": "Die Riemannsche Vermutung, eines der größten ungelösten Probleme der Mathematik, könnte mithilfe von KIs wie der von Anthropic gelöst worden sein. Dies fällt fast zeitgleich mit dem Börsengang des US-Unternehmens zusammen und sorgt weltweit für Aufsehen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "summary": "Künstliche Intelligenz beansprucht, eine Lösung für die 167 Jahre alte Riemann-Hypothese gefunden zu haben. Gleichzeitig existiert auch eine konkurrierende menschliche Lösung, was Mathematiker weltweit verblüfft."
+      "headline": "Signal schränkt Screenshots ein wegen 'existenzieller Bedrohung' durch KI-Überwachung",
+      "summary": "Signal beschränkt die Möglichkeit von Bildschirmfotos in seinen Android- und iOS-Apps, um der 'existenziellen Bedrohung' durch KI-Überwachung zu begegnen. Dieser Schritt unterstreicht wachsende Bedenken hinsichtlich der digitalen Privatsphäre der Nutzer."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Daniel Ek backs AI researcher’s fusion power startup",
-      "summary": "Spotify-Gründer Daniel Ek investiert in Europa Fusion, ein Startup für Fusionsenergie, das von einem KI-Forscher gegründet wurde. Das Unternehmen arbeitet an einer bahnbrechenden Technologie zur Energiegewinnung."
+      "headline": "Spotify-Gründer Daniel Ek investiert in Fusion-Energie-Startup eines KI-Forschers",
+      "summary": "Daniel Ek, Gründer von Spotify, unterstützt das Fusion-Energie-Startup Europa Fusion, welches von einem KI-Forscher ins Leben gerufen wurde. Das Unternehmen arbeitet an bahnbrechenden Technologien im Bereich der nuklearen Fusionsenergie."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Super-hot rock geothermal could end data center energy woes",
-      "summary": "Neue Geothermie-Startups wetten darauf, terawattweise Strom nahezu überall liefern zu können und damit die Energieprobleme von Rechenzentren zu lösen. Diese Technologie könnte bestehende Anbieter übertreffen."
+      "headline": "Neue Geothermie-Startups könnten Datenzentrums-Energieprobleme lösen",
+      "summary": "Neue Geothermie-Startups setzen auf 'Super-Hot Rock Geothermal', um terawattweise Elektrizität fast überall liefern zu können. Diese Technologie verspricht eine nachhaltige Lösung für den steigenden Energiebedarf von Rechenzentren."
     }
   ],
   "learning": {
-    "topic": "ETF-Namenszusätze verstehen: So entschlüsselst du Core, IMI, Acc & Co.",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "ETF-Namen enthalten wichtige Abkürzungen, die Aufschluss über Anlagestrategie, Replikationsmethode und Ertragsverwendung geben. Sie helfen dir, den passenden Fonds für deine Ziele zu finden.",
-    "details": "Ein 'Core' ETF ist oft günstig und deckt breite Marktsegmente ab, während 'IMI' (Investable Market Index) auch Nebenwerte einschliesst. 'Acc' (Accumulating) bedeutet, dass Gewinne reinvestiert werden, 'Dist' (Distributing) zahlt sie aus. 'UCITS' garantiert die Einhaltung europäischer Richtlinien für Anlegerschutz. Die Replikationsmethode 'Swap' (synthetisch) bildet den Index über Tauschgeschäfte ab, 'Physisch' hält die tatsächlichen Aktien des Index.",
-    "takeaway": "Durch das Verständnis dieser Abkürzungen kannst du ETFs präziser auswählen, die genau zu deiner Anlagestrategie passen, und so teure Fehlentscheidungen vermeiden."
+    "topic": "Pre-Money und Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money-Bewertung ist der Wert eines Unternehmens *vor* einer Investition, während Post-Money-Bewertung der Wert *nach* der Investition und dem Hinzufügen des Kapitals ist.",
+    "details": "Die Pre-Money-Bewertung repräsentiert den aktuellen Unternehmenswert, den Gründer und Investoren vor einer Finanzierungsrunde vereinbaren. Wenn ein Investor beispielsweise 1 Million Euro für 20% der Anteile investiert, liegt die Post-Money-Bewertung bei 5 Millionen Euro (1 Mio. / 0,20). Die Pre-Money-Bewertung wäre dann 4 Millionen Euro (5 Mio. - 1 Mio. Investition). Die Post-Money-Bewertung ist entscheidend, um den neuen Unternehmenswert und die prozentuale Beteiligung der Gründer und neuen Investoren nach der Kapitalerhöhung zu bestimmen, was wiederum die Berechnung der Verwässerung bestehender Anteile ermöglicht.",
+    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist essenziell, um zu beurteilen, wie viel Unternehmenswert ein Investor für sein Kapital erhält und wie sich die Anteile der ursprünglichen Eigentümer verwässern."
   }
 }
