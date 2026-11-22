@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-      "summary": "Die EU und Indonesien haben nach fast zehnjährigen Verhandlungen ein Freihandelsabkommen unterzeichnet, das Zölle auf nahezu alle Waren abschafft. Dieser Schritt könnte insbesondere der Autobranche zugutekommen und weitreichende Auswirkungen auf die globalen Märkte haben."
+      "headline": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
+      "summary": "Nach langer Verlängerung liegt ein neuer Entwurf für eine Abschlusserklärung der Klimakonferenz in Antalya vor. Ein klares Bekenntnis zum Ausstieg aus fossilen Energien fehlt jedoch weiterhin im Text."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "China will seine strengen KI-Regeln zum globalen Standard machen",
-      "summary": "China strebt an, seine strengen KI-Regeln zu einem globalen Standard zu entwickeln, was auf einem Gipfeltreffen mit den USA thematisiert wurde. Obwohl Kooperation bei der KI-Regulierung angesprochen wurde, blieben die Details der Zusammenarbeit noch unklar."
+      "headline": "Israel: Warum die Stadt Bat Yam Iran verklagt",
+      "summary": "Nach dem verheerenden Raketenangriff auf ein Wohnviertel im israelischen Bat Yam hat die Stadt Klage gegen Iran eingereicht. Viele betroffene Familien konnten über ein Jahr lang nicht in ihre Wohnungen zurückkehren."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "KI-Branche zieht rabenschwarzen Börsentag ein: Nvidia verliert 14 Prozent",
-      "summary": "Die KI-Branche erlebte einen deutlichen Rückschlag, mit Nvidia, das 14 Prozent an Marktwert verlor, und auch Anthropic wurde abgestraft. Die Sorge an der Börse wächst, dass die Profitabilitätserwartungen für KI-Unternehmen möglicherweise überzogen sind."
+      "headline": "MELDUNGEN WIRTSCHAFT - EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
+      "summary": "Die Europäische Union und Indonesien haben einen umfassenden Handelsvertrag unterzeichnet. Dieser Deal soll den bilateralen Handel stärken und neue wirtschaftliche Möglichkeiten für beide Seiten eröffnen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Höhere Kursgewinne an Schweizer Börse, während KI-Boom nachlässt",
-      "summary": "Während Anthropic und Nvidia an der Börse kämpfen und dem KI-Boom die Luft ausgeht, verlagern Anleger ihr Kapital auf solide Schweizer Aktien. Der Swiss-Market-Index übertrifft globale Indizes und verzeichnet deutliche Kursgewinne."
+      "headline": "Die Steuer, die nicht weh tut - und darum gefährlich ist",
+      "summary": "Die geplante Erhöhung der Mehrwertsteuer für die 13. AHV-Rente wird als problematisch eingestuft, da ihre Bequemlichkeit das Bewusstsein für die tatsächliche Belastung trübt. Dies könnte langfristig zu einer geringeren Akzeptanz für nötige fiskalische Anpassungen führen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-      "summary": "Die Riemannsche Vermutung, eines der größten ungelösten Probleme der Mathematik, könnte mithilfe von KIs wie der von Anthropic gelöst worden sein. Dies fällt fast zeitgleich mit dem Börsengang des US-Unternehmens zusammen und sorgt weltweit für Aufsehen."
+      "headline": "Anthropic, Open AI und Meta füttern uns gerade an – bis wir nicht mehr ohne sie können: «KI wird viel teurer werden»",
+      "summary": "Experten warnen, dass KI-Dienste nach einer anfänglichen Phase der günstigen Nutzung massiv teurer werden könnten, ähnlich wie bei anderen Internetdiensten. Dies deutet auf eine bevorstehende Preisrevolution im Bereich der Künstlichen Intelligenz hin."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Signal schränkt Screenshots ein wegen 'existenzieller Bedrohung' durch KI-Überwachung",
-      "summary": "Signal beschränkt die Möglichkeit von Bildschirmfotos in seinen Android- und iOS-Apps, um der 'existenziellen Bedrohung' durch KI-Überwachung zu begegnen. Dieser Schritt unterstreicht wachsende Bedenken hinsichtlich der digitalen Privatsphäre der Nutzer."
+      "headline": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "Ein Schauspieler hat sein Gesicht an ein Mikro-Drama-Startup lizenziert, was Fragen zu den langfristigen Auswirkungen von KI auf die Filmindustrie aufwirft. Diese Entwicklung könnte ein Vorbote für neue Geschäftsmodelle und ethische Debatten in Hollywood sein."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Spotify-Gründer Daniel Ek investiert in Fusion-Energie-Startup eines KI-Forschers",
-      "summary": "Daniel Ek, Gründer von Spotify, unterstützt das Fusion-Energie-Startup Europa Fusion, welches von einem KI-Forscher ins Leben gerufen wurde. Das Unternehmen arbeitet an bahnbrechenden Technologien im Bereich der nuklearen Fusionsenergie."
+      "headline": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summary": "Spotify-Gründer Daniel Ek unterstützt Europa Fusion, ein von einem KI-Forscher gegründetes Startup für Fusionsenergie. Das Vorhaben verspricht bahnbrechende Entwicklungen im Bereich sauberer und nahezu unbegrenzter Energie."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Neue Geothermie-Startups könnten Datenzentrums-Energieprobleme lösen",
-      "summary": "Neue Geothermie-Startups setzen auf 'Super-Hot Rock Geothermal', um terawattweise Elektrizität fast überall liefern zu können. Diese Technologie verspricht eine nachhaltige Lösung für den steigenden Energiebedarf von Rechenzentren."
+      "headline": "Super-hot rock geothermal could end data center energy woes",
+      "summary": "Neue Geothermie-Startups wetten darauf, durch innovative \"super-hot rock\"-Technologien Terrawattstunden an Strom fast überall liefern zu können. Dies bietet eine vielversprechende Lösung für den enormen Energiebedarf von Rechenzentren und die globale Energieversorgung."
     }
   ],
   "learning": {
-    "topic": "Pre-Money und Post-Money Bewertung: Der Schlüssel zur Startup-Finanzierung",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money-Bewertung ist der Wert eines Unternehmens *vor* einer Investition, während Post-Money-Bewertung der Wert *nach* der Investition und dem Hinzufügen des Kapitals ist.",
-    "details": "Die Pre-Money-Bewertung repräsentiert den aktuellen Unternehmenswert, den Gründer und Investoren vor einer Finanzierungsrunde vereinbaren. Wenn ein Investor beispielsweise 1 Million Euro für 20% der Anteile investiert, liegt die Post-Money-Bewertung bei 5 Millionen Euro (1 Mio. / 0,20). Die Pre-Money-Bewertung wäre dann 4 Millionen Euro (5 Mio. - 1 Mio. Investition). Die Post-Money-Bewertung ist entscheidend, um den neuen Unternehmenswert und die prozentuale Beteiligung der Gründer und neuen Investoren nach der Kapitalerhöhung zu bestimmen, was wiederum die Berechnung der Verwässerung bestehender Anteile ermöglicht.",
-    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist essenziell, um zu beurteilen, wie viel Unternehmenswert ein Investor für sein Kapital erhält und wie sich die Anteile der ursprünglichen Eigentümer verwässern."
+    "topic": "Derivate: Preisabsicherung durch Wetten auf die Zukunft",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem Basiswert (z.B. Aktien, Rohstoffe, Zinsen) ableitet. Sie dienen hauptsächlich der Absicherung von Risiken oder der Spekulation auf zukünftige Preisbewegungen.",
+    "details": "Stell dir einen Bauern vor, der Weizen anbaut und Angst hat, dass der Preis bis zur Ernte fällt. Ein Derivat wie ein Futures-Kontrakt erlaubt es ihm, seinen Weizen schon heute zu einem festen Preis für die Lieferung in drei Monaten zu verkaufen. Damit sichert er seine Einnahmen ab. Auf der anderen Seite könnte eine Bäckerei genau diesen Kontrakt kaufen, um ihren Einkaufspreis für Weizen zu fixieren und sich vor steigenden Preisen zu schützen. Beide Parteien nutzen Derivate, um Unsicherheiten in der Zukunft zu minimieren, ohne den Basiswert sofort tauschen zu müssen.",
+    "takeaway": "Derivate ermöglichen es Marktteilnehmern, Risiken zu managen oder von zukünftigen Kursentwicklungen zu profitieren, ohne den Basiswert physisch besitzen zu müssen. Sie sind ein wichtiges Instrument für Hedging und Spekulation an den Finanzmärkten."
   }
 }
