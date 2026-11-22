@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
-      "summary": "Nach langer Verlängerung liegt ein neuer Entwurf für eine Abschlusserklärung der Klimakonferenz in Antalya vor. Ein klares Bekenntnis zum Ausstieg aus fossilen Energien fehlt jedoch weiterhin im Text."
+      "headline": "EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
+      "summary": "Die EU und Indonesien haben einen umfassenden Handelsdeal vereinbart, der tiefgreifende Auswirkungen auf den globalen Handel haben wird. Dies stärkt die wirtschaftlichen Beziehungen und eröffnet neue Märkte."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Israel: Warum die Stadt Bat Yam Iran verklagt",
-      "summary": "Nach dem verheerenden Raketenangriff auf ein Wohnviertel im israelischen Bat Yam hat die Stadt Klage gegen Iran eingereicht. Viele betroffene Familien konnten über ein Jahr lang nicht in ihre Wohnungen zurückkehren."
+      "headline": "Trotz Geldwäscherei-Vorwürfen: Sulzer verhilft Trump-Günstling zur «Öl-Renaissance» in Venezuela",
+      "summary": "Der Schweizer Industriekonzern Sulzer liefert entscheidende Technologie, um die 'Öl-Renaissance' in Venezuela voranzutreiben, trotz Geldwäscherei-Vorwürfen gegen den involvierten Trump-Günstling Alejandro Betancourt. Dies unterstreicht komplexe geopolitische und wirtschaftliche Verstrickungen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "MELDUNGEN WIRTSCHAFT - EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
-      "summary": "Die Europäische Union und Indonesien haben einen umfassenden Handelsvertrag unterzeichnet. Dieser Deal soll den bilateralen Handel stärken und neue wirtschaftliche Möglichkeiten für beide Seiten eröffnen."
+      "headline": "Börsengang von Anthropic löst massiven Nasdaq-Absturz und Angst vor Crash aus",
+      "summary": "Der Börsengang von Anthropic hat einen erheblichen Absturz der Nasdaq ausgelöst und Sorgen vor einem breiteren Markteinbruch geschürt. Experten warnen Anleger vor einer übermäßigen Konzentration auf US-Tech-Aktien und den damit verbundenen KI-Risiken."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Die Steuer, die nicht weh tut - und darum gefährlich ist",
-      "summary": "Die geplante Erhöhung der Mehrwertsteuer für die 13. AHV-Rente wird als problematisch eingestuft, da ihre Bequemlichkeit das Bewusstsein für die tatsächliche Belastung trübt. Dies könnte langfristig zu einer geringeren Akzeptanz für nötige fiskalische Anpassungen führen."
+      "headline": "Vom Wunderkind zum Zahlungsflüchtigen: Lars Windhorst hinterlässt gigantischen Schuldenberg",
+      "summary": "Der einstige Starinvestor Lars Windhorst, bekannt als 'deutscher Bill Gates', hat sich mit Verbindlichkeiten von über 500 Millionen Franken in die Schweiz abgesetzt. Seine Insolvenz hinterlässt einen riesigen Schuldenberg und wirft Fragen über das Vertrauen in prominente Finanzakteure auf."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Anthropic, Open AI und Meta füttern uns gerade an – bis wir nicht mehr ohne sie können: «KI wird viel teurer werden»",
-      "summary": "Experten warnen, dass KI-Dienste nach einer anfänglichen Phase der günstigen Nutzung massiv teurer werden könnten, ähnlich wie bei anderen Internetdiensten. Dies deutet auf eine bevorstehende Preisrevolution im Bereich der Künstlichen Intelligenz hin."
+      "headline": "KI-Dienste werden nach Anlockphase massiv teurer: Anthropic, Open AI und Meta füttern uns an",
+      "summary": "Experten prognostizieren, dass die aktuellen günstigen Preise für KI-Dienste wie von Netflix und Spotify nur eine Anlockstrategie sind. Nach der Etablierung könnten die monatlichen Kosten für KI-Abonnements massiv ansteigen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "summary": "Ein Schauspieler hat sein Gesicht an ein Mikro-Drama-Startup lizenziert, was Fragen zu den langfristigen Auswirkungen von KI auf die Filmindustrie aufwirft. Diese Entwicklung könnte ein Vorbote für neue Geschäftsmodelle und ethische Debatten in Hollywood sein."
+      "headline": "Signal schränkt Screenshots ein wegen 'existenzieller Bedrohung' durch KI-Überwachung",
+      "summary": "Die Messenger-App Signal schränkt die Screenshot-Funktion auf Android- und iOS-Geräten ein, um der 'existenziellen Bedrohung' durch KI-Überwachung zu begegnen. Diese Maßnahme zeigt die wachsende Sorge um Privatsphäre im Zeitalter künstlicher Intelligenz."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "summary": "Spotify-Gründer Daniel Ek unterstützt Europa Fusion, ein von einem KI-Forscher gegründetes Startup für Fusionsenergie. Das Vorhaben verspricht bahnbrechende Entwicklungen im Bereich sauberer und nahezu unbegrenzter Energie."
+      "headline": "AI-Gesichtslizenzierung an Microdrama-Startup: Die Zukunft Hollywoods?",
+      "summary": "Ein Schauspieler hat seine Gesichtsrechte an ein Microdrama-Startup lizenziert, um KI-generierte Inhalte zu schaffen, ein Trend, der in China bereits populär ist. Dies könnte die Zukunft Hollywoods verändern, wirft aber Fragen nach langfristigen Konsequenzen auf."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Super-hot rock geothermal could end data center energy woes",
-      "summary": "Neue Geothermie-Startups wetten darauf, durch innovative \"super-hot rock\"-Technologien Terrawattstunden an Strom fast überall liefern zu können. Dies bietet eine vielversprechende Lösung für den enormen Energiebedarf von Rechenzentren und die globale Energieversorgung."
+      "headline": "Die Top KI-Agenten, die direkt in deinen Textnachrichten leben können",
+      "summary": "Neue KI-Agenten ermöglichen die Interaktion direkt über Textnachrichten und bieten Funktionen von allgemeinen Assistenten bis hin zu spezialisierten Helfern für Familien, Reisen und Arbeit. Diese bahnbrechenden Prototypen zeigen die schnelle Entwicklung von KI in alltäglichen Anwendungen."
     }
   ],
   "learning": {
-    "topic": "Derivate: Preisabsicherung durch Wetten auf die Zukunft",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert sich von einem Basiswert (z.B. Aktien, Rohstoffe, Zinsen) ableitet. Sie dienen hauptsächlich der Absicherung von Risiken oder der Spekulation auf zukünftige Preisbewegungen.",
-    "details": "Stell dir einen Bauern vor, der Weizen anbaut und Angst hat, dass der Preis bis zur Ernte fällt. Ein Derivat wie ein Futures-Kontrakt erlaubt es ihm, seinen Weizen schon heute zu einem festen Preis für die Lieferung in drei Monaten zu verkaufen. Damit sichert er seine Einnahmen ab. Auf der anderen Seite könnte eine Bäckerei genau diesen Kontrakt kaufen, um ihren Einkaufspreis für Weizen zu fixieren und sich vor steigenden Preisen zu schützen. Beide Parteien nutzen Derivate, um Unsicherheiten in der Zukunft zu minimieren, ohne den Basiswert sofort tauschen zu müssen.",
-    "takeaway": "Derivate ermöglichen es Marktteilnehmern, Risiken zu managen oder von zukünftigen Kursentwicklungen zu profitieren, ohne den Basiswert physisch besitzen zu müssen. Sie sind ein wichtiges Instrument für Hedging und Spekulation an den Finanzmärkten."
+    "topic": "Bewertung von Startups: Pre-Money vs. Post-Money",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money- und Post-Money-Bewertungen sind grundlegende Konzepte im Venture Capital, die den Wert eines Startups vor und nach einer Finanzierungsrunde definieren. Sie bestimmen, wie viel Anteil neue Investoren für ihre Kapitalzufuhr erhalten.",
+    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert direkt vor einer Investition. Wenn ein Investor Kapital hinzufügt, erhöht sich der Unternehmenswert um diese Investition, was zur Post-Money-Bewertung führt. Die Post-Money-Bewertung ist also die Summe aus Pre-Money-Bewertung und dem neuen Kapital. Diese Unterscheidung ist entscheidend für die Berechnung des Anteils, den ein Investor für sein Geld erhält, und hat direkten Einfluss auf die Verwässerung der bestehenden Eigentümeranteile (Founders, frühere Investoren). Ein tieferes Verständnis verhindert Missverständnisse bei Kapitalerhöhungen und Cap-Table-Management.",
+    "takeaway": "Pre-Money + Investition = Post-Money. Diese Gleichung ist der Schlüssel, um Anteilsverwässerungen zu verstehen und den fairen Wert für Investoren sowie bestehende Eigentümer zu bestimmen."
   }
 }
