@@ -2,56 +2,55 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
-      "summary": "Die EU und Indonesien haben einen umfassenden Handelsdeal vereinbart, der tiefgreifende Auswirkungen auf den globalen Handel haben wird. Dies stärkt die wirtschaftlichen Beziehungen und eröffnet neue Märkte."
+      "headline": "NATO warnt Russland deutlich: Bündnis zur Verteidigung bereit",
+      "summary": "Die NATO-Jahrestagung in Berlin endete mit einer klaren Warnung an Russland, jeden Quadratmeter des Bündnisgebiets zu verteidigen. Auch die Berichte über russische Pläne für Atomwaffen im Weltraum wurden thematisiert."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trotz Geldwäscherei-Vorwürfen: Sulzer verhilft Trump-Günstling zur «Öl-Renaissance» in Venezuela",
-      "summary": "Der Schweizer Industriekonzern Sulzer liefert entscheidende Technologie, um die 'Öl-Renaissance' in Venezuela voranzutreiben, trotz Geldwäscherei-Vorwürfen gegen den involvierten Trump-Günstling Alejandro Betancourt. Dies unterstreicht komplexe geopolitische und wirtschaftliche Verstrickungen."
+      "headline": "Russisches Kriegsschiff in Libyen versenkt: Sorge um Konfliktausweitung",
+      "summary": "Die Ukraine hat erstmals ein russisches Kriegsschiff in einem Mittelmeerhafen in Libyen versenkt. Dies löst in Libyen große Besorgnis aus, in den Konflikt hineingezogen zu werden."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Börsengang von Anthropic löst massiven Nasdaq-Absturz und Angst vor Crash aus",
-      "summary": "Der Börsengang von Anthropic hat einen erheblichen Absturz der Nasdaq ausgelöst und Sorgen vor einem breiteren Markteinbruch geschürt. Experten warnen Anleger vor einer übermäßigen Konzentration auf US-Tech-Aktien und den damit verbundenen KI-Risiken."
+      "headline": "CrowdStrike will Zscaler für 44 Milliarden Dollar übernehmen",
+      "summary": "Der Cybersecurity-Riese CrowdStrike kündigt die Übernahme von Zscaler an, einem Anbieter von Zero-Trust-Produkten für große Unternehmen, für 44 Milliarden Dollar. Dieser Schritt soll Kunden besser für den Einsatz von KI-Agenten rüsten."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Vom Wunderkind zum Zahlungsflüchtigen: Lars Windhorst hinterlässt gigantischen Schuldenberg",
-      "summary": "Der einstige Starinvestor Lars Windhorst, bekannt als 'deutscher Bill Gates', hat sich mit Verbindlichkeiten von über 500 Millionen Franken in die Schweiz abgesetzt. Seine Insolvenz hinterlässt einen riesigen Schuldenberg und wirft Fragen über das Vertrauen in prominente Finanzakteure auf."
+      "headline": "EU-Kommission ermittelt gegen Coca-Cola-Abfüller wegen Wettbewerbsverstößen",
+      "summary": "Die EU-Kommission hat Ermittlungen gegen den größten europäischen Coca-Cola-Abfüller eingeleitet. Es besteht der Verdacht, dass das Unternehmen Supermärkten und Tankstellen Auflagen für Preise und Weiterverkauf gemacht haben könnte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "KI-Dienste werden nach Anlockphase massiv teurer: Anthropic, Open AI und Meta füttern uns an",
-      "summary": "Experten prognostizieren, dass die aktuellen günstigen Preise für KI-Dienste wie von Netflix und Spotify nur eine Anlockstrategie sind. Nach der Etablierung könnten die monatlichen Kosten für KI-Abonnements massiv ansteigen."
+      "headline": "Nvidia holt Jensen Huang nach Spionageaffäre als CEO zurück",
+      "summary": "Trotz eines Spionageskandals kehrt Jensen Huang an die Spitze des US-Techkonzerns Nvidia zurück, was für eine abrupte Kehrtwende sorgt. Der Verwaltungsrat sprach sich einstimmig für die Rückkehr des Langzeitchefs aus."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Signal schränkt Screenshots ein wegen 'existenzieller Bedrohung' durch KI-Überwachung",
-      "summary": "Die Messenger-App Signal schränkt die Screenshot-Funktion auf Android- und iOS-Geräten ein, um der 'existenziellen Bedrohung' durch KI-Überwachung zu begegnen. Diese Maßnahme zeigt die wachsende Sorge um Privatsphäre im Zeitalter künstlicher Intelligenz."
+      "headline": "KI-Pioniere streiten sich über die wahren Risiken Künstlicher Intelligenz",
+      "summary": "Experten und Wissenschaftler, die der Künstlichen Intelligenz den Weg ebneten, sind sich uneinig über deren Gefahrenpotenzial. Eine neue ARD-Dokumentation beleuchtet diese gegensätzlichen Positionen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "AI-Gesichtslizenzierung an Microdrama-Startup: Die Zukunft Hollywoods?",
-      "summary": "Ein Schauspieler hat seine Gesichtsrechte an ein Microdrama-Startup lizenziert, um KI-generierte Inhalte zu schaffen, ein Trend, der in China bereits populär ist. Dies könnte die Zukunft Hollywoods verändern, wirft aber Fragen nach langfristigen Konsequenzen auf."
+      "headline": "Sierra verdoppelt Bewertung auf 30 Milliarden Dollar durch KI-Nachfrage",
+      "summary": "Das Enterprise-Kundenkommunikationsunternehmen Sierra, mitgegründet vom ehemaligen Salesforce-Co-CEO Bret Taylor, hat in einer Series-F-Runde 1,75 Milliarden Dollar eingesammelt. Die Bewertung des Unternehmens hat sich damit innerhalb von sechs Monaten auf 30 Milliarden Dollar verdoppelt."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Die Top KI-Agenten, die direkt in deinen Textnachrichten leben können",
-      "summary": "Neue KI-Agenten ermöglichen die Interaktion direkt über Textnachrichten und bieten Funktionen von allgemeinen Assistenten bis hin zu spezialisierten Helfern für Familien, Reisen und Arbeit. Diese bahnbrechenden Prototypen zeigen die schnelle Entwicklung von KI in alltäglichen Anwendungen."
+      "headline": "Renommierte Investoren setzen Milliarden auf Anthropic vor dem IPO",
+      "summary": "Notable Capital, GIC und Baillie Gifford gehören zu den bedeutendsten Investoren, die vor dem Börsengang Milliarden in Anthropic investiert haben. Sie begründen ihre Überzeugung mit dem enormen Potenzial des KI-Unternehmens."
     }
   ],
   "learning": {
-    "topic": "Bewertung von Startups: Pre-Money vs. Post-Money",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money- und Post-Money-Bewertungen sind grundlegende Konzepte im Venture Capital, die den Wert eines Startups vor und nach einer Finanzierungsrunde definieren. Sie bestimmen, wie viel Anteil neue Investoren für ihre Kapitalzufuhr erhalten.",
-    "details": "Die Pre-Money-Bewertung ist der Unternehmenswert direkt vor einer Investition. Wenn ein Investor Kapital hinzufügt, erhöht sich der Unternehmenswert um diese Investition, was zur Post-Money-Bewertung führt. Die Post-Money-Bewertung ist also die Summe aus Pre-Money-Bewertung und dem neuen Kapital. Diese Unterscheidung ist entscheidend für die Berechnung des Anteils, den ein Investor für sein Geld erhält, und hat direkten Einfluss auf die Verwässerung der bestehenden Eigentümeranteile (Founders, frühere Investoren). Ein tieferes Verständnis verhindert Missverständnisse bei Kapitalerhöhungen und Cap-Table-Management.",
-    "takeaway": "Pre-Money + Investition = Post-Money. Diese Gleichung ist der Schlüssel, um Anteilsverwässerungen zu verstehen und den fairen Wert für Investoren sowie bestehende Eigentümer zu bestimmen."
+    "topic": "Derivate: Wie man mit einem Ernte-Vergleich Futures und Optionen versteht",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem Basiswert abhängt, vergleichbar mit Wetten auf die zukünftige Entwicklung eines Gutes, ohne dieses physisch zu besitzen.",
+    "details": "Stell dir vor, ein Bauer will Weizen ernten und ein Bäcker braucht ihn. Ein 'Futures-Kontrakt' ist ein bindender Vertrag, den Weizen zu einem heute vereinbarten Preis in sechs Monaten zu kaufen. Beide sichern sich ab: Der Bauer hat einen festen Verkaufspreis, der Bäcker einen festen Einkaufspreis, unabhängig von zukünftigen Marktschwankungen. Eine 'Option' ist flexibler: Der Bäcker zahlt eine kleine Gebühr, um das Recht, aber nicht die Pflicht zu haben, den Weizen in sechs Monaten zu einem festen Preis zu kaufen. Fällt der Preis, lässt er die Option verfallen; steigt er, übt er die Option aus."
   }
 }
