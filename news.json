@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Deutschland und Ukraine kooperieren bei Drohnenbau",
-      "summary": "Deutschland und die Ukraine vertiefen ihre militärische Zusammenarbeit beim Drohnenbau, wie Verteidigungsminister Pistorius konkretisierte. Dies ist Teil einer engeren Kooperation seit April."
+      "headline": "Megaspeed droht US-Blacklist nach Nvidia-Skandal",
+      "summary": "Das Unternehmen Megaspeed, das im Zentrum des Jensen Huang Skandals steht, könnte auf eine US-Blacklist gesetzt werden. Dies würde den Geschäftsverkehr mit US-Firmen ohne Sonderlizenz verbieten und die Lieferketten in der Chipindustrie beeinflussen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "NATO warnt Russland und bekräftigt Verteidigungsbereitschaft",
-      "summary": "Die NATO-Jahrestagung in Berlin endete mit einer scharfen Warnung an Russland, die Verteidigungsbereitschaft jedes NATO-Gebiets betreffend. Kanzler Merz äußerte sich auch zu Berichten über russische Atomwaffenpläne im Weltraum."
+      "headline": "EU reguliert chinesische Hybridauto-Importe",
+      "summary": "Die EU plant Importquoten für chinesische Hybridautos, um heimische Hersteller vor der wachsenden Konkurrenz zu schützen. Die Importe aus China hatten sich in den letzten zwei Jahren mehr als versechsfacht."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Amazon erwirbt Decart's KI-Optimierungstechnologie für 7,5 Mrd. USD",
-      "summary": "Amazon erwirbt Decart's KI-Optimierungstechnologie und das Forschungsteam für geschätzte 7,5 Milliarden US-Dollar. Dieser strategische Schritt stärkt Amazons KI-Kapazitäten und die Vorbereitung auf den Verkauf von Trainium-Chips."
+      "headline": "Sanofi kauft US-Biotechfirma für 41 Milliarden Dollar",
+      "summary": "Der Pharmakonzern Sanofi erwirbt eine US-Biotechfirma für 41 Milliarden Dollar, was einen der größten M&A-Deals des Tages darstellt. Dieser Schritt signalisiert bedeutende Investitionen und Umstrukturierungen in der Biotechnologiebranche."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Goldpreis stürzt ab, doch Comeback bei US-Konjunkturabschwächung möglich",
-      "summary": "Der Goldpreis stürzte seit Januar um ein Drittel ab, belastet durch steigende Zinsen. Ein Comeback könnte jedoch bevorstehen, sobald die US-Wirtschaft an Fahrt verliert."
+      "headline": "UBS-Eigenkapitalvorschriften: Parlamentarier fordern Prüfung von Erleichterungen",
+      "summary": "Eine vorberatende Kommission des Schweizer Nationalrates stellt sich hinter den Ständerat bezüglich der Eigenkapitalvorschriften für die UBS. Sie fordert jedoch vom Bundesrat die Prüfung einer Maßnahme, die für die Großbank eine Erleichterung bedeuten könnte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Jensen Huang kehrt zu Nvidia zurück – Trump beansprucht Einfluss",
-      "summary": "Jensen Huang kehrt nach kurzer Pause an die Spitze von Nvidia zurück, wobei Ex-Präsident Trump Einfluss auf die Entscheidung für sich beansprucht. Diese Wiederernennung, die von Musk gefeiert und von Politikern kritisiert wird, könnte weitere Untersuchungen nach sich ziehen."
+      "headline": "Jensen Huang kehrt abrupt als Nvidia-CEO zurück",
+      "summary": "Nach seinem Rücktritt wegen Affären kehrt Jensen Huang einstimmig als CEO zu Nvidia zurück, was eine abrupte Kehrtwende in der Unternehmensführung darstellt. Diese Entscheidung hat weltweit Schlagzeilen gemacht."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Jensen Huang muss vor Senat aussagen; Megaspeed droht US-Blacklist",
-      "summary": "Nach seiner Wiedereinsetzung als Nvidia-CEO ist Jensen Huang nächste Woche zur Aussage vor dem Senat geladen, um seine Verbindungen zu einer mutmaßlichen chinesischen Spionin zu klären. Zugleich wird das im Zentrum des Skandals stehende Unternehmen Megaspeed voraussichtlich auf eine US-Blacklist gesetzt."
+      "headline": "Nvidia-Chef Huangs Comeback versetzt Märkte in Atem",
+      "summary": "Die plötzliche Rückkehr von Jensen Huang als Nvidia-Chef löste an den Aktienmärkten eine Rally aus, wirft aber auch neue Fragen auf und sorgt für anhaltende Volatilität. Trotz des anfänglichen Aufschwungs bleiben Experten skeptisch hinsichtlich der langfristigen Stabilität."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Supertake sammelt 20 Mio. USD für KI-gestützte Portfolio-Erstellung",
-      "summary": "Das Startup Supertake hat 20 Millionen Dollar eingesammelt, um eine KI-Plattform zu entwickeln, die Marktvoraussagen in Aktienportfolios umwandelt. Diese Technologie ermöglicht es Nutzern, ihre Vorhersagen ohne direkte Aktienauswahl zu monetarisieren."
+      "headline": "Supertake sammelt 20 Mio. Dollar für KI-gesteuerte Aktienportfolios",
+      "summary": "Das Startup Supertake hat 20 Millionen Dollar eingesammelt, um eine Plattform anzubieten, die KI-Agenten nutzt, um Marktprognosen in Aktienportfolios umzusetzen. Dies ermöglicht Anlegern, ihre Ideen ohne direkte Aktienauswahl zu monetarisieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic stellt 'Claude Ship' für KI-gesteuerte Code-Freigaben vor",
-      "summary": "Anthropic stellt 'Claude Ship' vor, neue Entwicklertools, die KI-Agenten ermöglichen, Code-Änderungen zu überprüfen, zu korrigieren und freizugeben. Dies soll den Entwicklungsprozess effizienter gestalten und Engpässe beseitigen."
+      "headline": "Schweizer Startup Emost rettet Leben mit mobilen Batterien in der Ukraine",
+      "summary": "Das Schweizer Startup Emost liefert 150 mobile Stromspeicher mit Bundeshilfe in die Ukraine, die dort Spitäler und Schutzräume bei Stromausfällen versorgen. Ursprünglich für Baustellen entwickelt, retten die Geräte nun Leben im Kriegsgebiet."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Die 'Pre-Money'-Bewertung ist der Wert eines Startups vor einer Finanzierungsrunde, während die 'Post-Money'-Bewertung den Wert nach dem Erhalt des neuen Kapitals darstellt.",
-    "details": "Wenn ein Startup frisches Kapital von Investoren erhält, geschieht dies typischerweise im Austausch für Unternehmensanteile. Die Pre-Money-Bewertung beziffert den vereinbarten Wert des Unternehmens exklusive der aktuellen Investition. Sobald das Investment hinzukommt, ergibt die Summe aus Pre-Money-Bewertung und investiertem Betrag die Post-Money-Bewertung. Diese Unterscheidung ist entscheidend, um zu berechnen, wie viele Anteile neue Investoren für ihr Kapital erhalten und wie stark die Anteile bestehender Gesellschafter dadurch verwässert werden.",
-    "takeaway": "Verstehe die Pre- und Post-Money-Bewertung, um die genauen Eigentumsverhältnisse und die wirtschaftlichen Auswirkungen von Finanzierungsrunden für alle Beteiligten – Gründer wie Investoren – transparent zu machen und Verhandlungen fundiert führen zu können."
+    "topic": "Strategic vs. Financial Buyer bei M&A-Deals",
+    "category": "Finanz-Dechiffrierung",
+    "concept": "Bei M&A-Transaktionen unterscheiden sich strategische und finanzielle Käufer grundlegend in ihren Motiven und Zielen für den Erwerb eines Unternehmens.",
+    "details": "Ein **strategischer Käufer** ist ein Wettbewerber oder ein Unternehmen aus einer verwandten Branche, das Synergien durch die Akquisition erzielen möchte – sei es durch Kosteneinsparungen, Markterweiterung, Zugang zu neuen Technologien oder Kundenstämmen. Ihr Fokus liegt auf langfristiger Integration und Wertsteigerung durch operative Verbesserungen und die Ausschöpfung des Wachstumspotenzials innerhalb der bestehenden Geschäftsstrukturen. Ein **finanzieller Käufer**, oft eine Private Equity Firma, ist primär daran interessiert, das Unternehmen zu einem niedrigen Preis zu erwerben, es innerhalb eines Zeitraums von etwa 3 bis 7 Jahren zu restrukturieren, zu optimieren und dann mit Gewinn weiterzuverkaufen. Ihr Fokus liegt auf finanzieller Hebelwirkung, Effizienzsteigerungen und dem Erreichen klar definierter Exit-Ziele, ohne unbedingt Synergien mit eigenen operativen Einheiten zu suchen.",
+    "takeaway": "Für Verkäufer ist es entscheidend zu verstehen, welcher Käufertyp am Tisch sitzt, da dies die Verhandlungsstrategie, den Kaufpreis und die zukünftige Ausrichtung des Unternehmens maßgeblich beeinflusst. Strategische Käufer zahlen oft einen Premiumpreis für Synergien, während Finanzinvestoren auf eine Wertsteigerung durch finanzielle Optimierung abzielen."
   }
 }
