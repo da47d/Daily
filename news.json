@@ -2,55 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "NATO warnt Russland deutlich: Bündnis zur Verteidigung bereit",
-      "summary": "Die NATO-Jahrestagung in Berlin endete mit einer klaren Warnung an Russland, jeden Quadratmeter des Bündnisgebiets zu verteidigen. Auch die Berichte über russische Pläne für Atomwaffen im Weltraum wurden thematisiert."
+      "headline": "Deutschland und Ukraine kooperieren bei Drohnenbau",
+      "summary": "Deutschland und die Ukraine vertiefen ihre militärische Zusammenarbeit beim Drohnenbau, wie Verteidigungsminister Pistorius konkretisierte. Dies ist Teil einer engeren Kooperation seit April."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Russisches Kriegsschiff in Libyen versenkt: Sorge um Konfliktausweitung",
-      "summary": "Die Ukraine hat erstmals ein russisches Kriegsschiff in einem Mittelmeerhafen in Libyen versenkt. Dies löst in Libyen große Besorgnis aus, in den Konflikt hineingezogen zu werden."
+      "headline": "NATO warnt Russland und bekräftigt Verteidigungsbereitschaft",
+      "summary": "Die NATO-Jahrestagung in Berlin endete mit einer scharfen Warnung an Russland, die Verteidigungsbereitschaft jedes NATO-Gebiets betreffend. Kanzler Merz äußerte sich auch zu Berichten über russische Atomwaffenpläne im Weltraum."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "CrowdStrike will Zscaler für 44 Milliarden Dollar übernehmen",
-      "summary": "Der Cybersecurity-Riese CrowdStrike kündigt die Übernahme von Zscaler an, einem Anbieter von Zero-Trust-Produkten für große Unternehmen, für 44 Milliarden Dollar. Dieser Schritt soll Kunden besser für den Einsatz von KI-Agenten rüsten."
+      "headline": "Amazon erwirbt Decart's KI-Optimierungstechnologie für 7,5 Mrd. USD",
+      "summary": "Amazon erwirbt Decart's KI-Optimierungstechnologie und das Forschungsteam für geschätzte 7,5 Milliarden US-Dollar. Dieser strategische Schritt stärkt Amazons KI-Kapazitäten und die Vorbereitung auf den Verkauf von Trainium-Chips."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EU-Kommission ermittelt gegen Coca-Cola-Abfüller wegen Wettbewerbsverstößen",
-      "summary": "Die EU-Kommission hat Ermittlungen gegen den größten europäischen Coca-Cola-Abfüller eingeleitet. Es besteht der Verdacht, dass das Unternehmen Supermärkten und Tankstellen Auflagen für Preise und Weiterverkauf gemacht haben könnte."
+      "headline": "Goldpreis stürzt ab, doch Comeback bei US-Konjunkturabschwächung möglich",
+      "summary": "Der Goldpreis stürzte seit Januar um ein Drittel ab, belastet durch steigende Zinsen. Ein Comeback könnte jedoch bevorstehen, sobald die US-Wirtschaft an Fahrt verliert."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia holt Jensen Huang nach Spionageaffäre als CEO zurück",
-      "summary": "Trotz eines Spionageskandals kehrt Jensen Huang an die Spitze des US-Techkonzerns Nvidia zurück, was für eine abrupte Kehrtwende sorgt. Der Verwaltungsrat sprach sich einstimmig für die Rückkehr des Langzeitchefs aus."
+      "headline": "Jensen Huang kehrt zu Nvidia zurück – Trump beansprucht Einfluss",
+      "summary": "Jensen Huang kehrt nach kurzer Pause an die Spitze von Nvidia zurück, wobei Ex-Präsident Trump Einfluss auf die Entscheidung für sich beansprucht. Diese Wiederernennung, die von Musk gefeiert und von Politikern kritisiert wird, könnte weitere Untersuchungen nach sich ziehen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "KI-Pioniere streiten sich über die wahren Risiken Künstlicher Intelligenz",
-      "summary": "Experten und Wissenschaftler, die der Künstlichen Intelligenz den Weg ebneten, sind sich uneinig über deren Gefahrenpotenzial. Eine neue ARD-Dokumentation beleuchtet diese gegensätzlichen Positionen."
+      "headline": "Jensen Huang muss vor Senat aussagen; Megaspeed droht US-Blacklist",
+      "summary": "Nach seiner Wiedereinsetzung als Nvidia-CEO ist Jensen Huang nächste Woche zur Aussage vor dem Senat geladen, um seine Verbindungen zu einer mutmaßlichen chinesischen Spionin zu klären. Zugleich wird das im Zentrum des Skandals stehende Unternehmen Megaspeed voraussichtlich auf eine US-Blacklist gesetzt."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Sierra verdoppelt Bewertung auf 30 Milliarden Dollar durch KI-Nachfrage",
-      "summary": "Das Enterprise-Kundenkommunikationsunternehmen Sierra, mitgegründet vom ehemaligen Salesforce-Co-CEO Bret Taylor, hat in einer Series-F-Runde 1,75 Milliarden Dollar eingesammelt. Die Bewertung des Unternehmens hat sich damit innerhalb von sechs Monaten auf 30 Milliarden Dollar verdoppelt."
+      "headline": "Supertake sammelt 20 Mio. USD für KI-gestützte Portfolio-Erstellung",
+      "summary": "Das Startup Supertake hat 20 Millionen Dollar eingesammelt, um eine KI-Plattform zu entwickeln, die Marktvoraussagen in Aktienportfolios umwandelt. Diese Technologie ermöglicht es Nutzern, ihre Vorhersagen ohne direkte Aktienauswahl zu monetarisieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Renommierte Investoren setzen Milliarden auf Anthropic vor dem IPO",
-      "summary": "Notable Capital, GIC und Baillie Gifford gehören zu den bedeutendsten Investoren, die vor dem Börsengang Milliarden in Anthropic investiert haben. Sie begründen ihre Überzeugung mit dem enormen Potenzial des KI-Unternehmens."
+      "headline": "Anthropic stellt 'Claude Ship' für KI-gesteuerte Code-Freigaben vor",
+      "summary": "Anthropic stellt 'Claude Ship' vor, neue Entwicklertools, die KI-Agenten ermöglichen, Code-Änderungen zu überprüfen, zu korrigieren und freizugeben. Dies soll den Entwicklungsprozess effizienter gestalten und Engpässe beseitigen."
     }
   ],
   "learning": {
-    "topic": "Derivate: Wie man mit einem Ernte-Vergleich Futures und Optionen versteht",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem Basiswert abhängt, vergleichbar mit Wetten auf die zukünftige Entwicklung eines Gutes, ohne dieses physisch zu besitzen.",
-    "details": "Stell dir vor, ein Bauer will Weizen ernten und ein Bäcker braucht ihn. Ein 'Futures-Kontrakt' ist ein bindender Vertrag, den Weizen zu einem heute vereinbarten Preis in sechs Monaten zu kaufen. Beide sichern sich ab: Der Bauer hat einen festen Verkaufspreis, der Bäcker einen festen Einkaufspreis, unabhängig von zukünftigen Marktschwankungen. Eine 'Option' ist flexibler: Der Bäcker zahlt eine kleine Gebühr, um das Recht, aber nicht die Pflicht zu haben, den Weizen in sechs Monaten zu einem festen Preis zu kaufen. Fällt der Preis, lässt er die Option verfallen; steigt er, übt er die Option aus."
+    "topic": "Pre-Money vs. Post-Money Bewertung bei Startups",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Die 'Pre-Money'-Bewertung ist der Wert eines Startups vor einer Finanzierungsrunde, während die 'Post-Money'-Bewertung den Wert nach dem Erhalt des neuen Kapitals darstellt.",
+    "details": "Wenn ein Startup frisches Kapital von Investoren erhält, geschieht dies typischerweise im Austausch für Unternehmensanteile. Die Pre-Money-Bewertung beziffert den vereinbarten Wert des Unternehmens exklusive der aktuellen Investition. Sobald das Investment hinzukommt, ergibt die Summe aus Pre-Money-Bewertung und investiertem Betrag die Post-Money-Bewertung. Diese Unterscheidung ist entscheidend, um zu berechnen, wie viele Anteile neue Investoren für ihr Kapital erhalten und wie stark die Anteile bestehender Gesellschafter dadurch verwässert werden.",
+    "takeaway": "Verstehe die Pre- und Post-Money-Bewertung, um die genauen Eigentumsverhältnisse und die wirtschaftlichen Auswirkungen von Finanzierungsrunden für alle Beteiligten – Gründer wie Investoren – transparent zu machen und Verhandlungen fundiert führen zu können."
   }
 }
