@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Megaspeed droht US-Blacklist nach Nvidia-Skandal",
-      "summary": "Das Unternehmen Megaspeed, das im Zentrum des Jensen Huang Skandals steht, könnte auf eine US-Blacklist gesetzt werden. Dies würde den Geschäftsverkehr mit US-Firmen ohne Sonderlizenz verbieten und die Lieferketten in der Chipindustrie beeinflussen."
+      "headline": "WHO: Lebenserwartung in Kuba erstmals gesunken",
+      "summary": "Die Lebenserwartung in Kuba ist laut WHO erstmals gesunken, wobei US-Sanktionen als Hauptursache genannt werden. WHO-Chef Tedros fordert daher die sofortige Aufhebung der Sanktionen."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU reguliert chinesische Hybridauto-Importe",
-      "summary": "Die EU plant Importquoten für chinesische Hybridautos, um heimische Hersteller vor der wachsenden Konkurrenz zu schützen. Die Importe aus China hatten sich in den letzten zwei Jahren mehr als versechsfacht."
+      "headline": "Weniger Hybridautos aus China - EU reguliert den Import",
+      "summary": "Die EU plant Importquoten für chinesische Hybrid-Autos, um europäische Hersteller vor zunehmender Konkurrenz zu schützen. Dies spiegelt eine verschärfte Handelspolitik wider, die den Markt für E-Fahrzeuge beeinflussen wird."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Sanofi kauft US-Biotechfirma für 41 Milliarden Dollar",
-      "summary": "Der Pharmakonzern Sanofi erwirbt eine US-Biotechfirma für 41 Milliarden Dollar, was einen der größten M&A-Deals des Tages darstellt. Dieser Schritt signalisiert bedeutende Investitionen und Umstrukturierungen in der Biotechnologiebranche."
+      "headline": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
+      "summary": "Der DAX ist rückläufig, und Tech-Aktien verzeichnen Einbußen, wobei die anfängliche Begeisterung über Jensen Huangs Rückkehr bei Nvidia nachlässt. Der breitere Markt zeigt Anzeichen von Skepsis."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "UBS-Eigenkapitalvorschriften: Parlamentarier fordern Prüfung von Erleichterungen",
-      "summary": "Eine vorberatende Kommission des Schweizer Nationalrates stellt sich hinter den Ständerat bezüglich der Eigenkapitalvorschriften für die UBS. Sie fordert jedoch vom Bundesrat die Prüfung einer Maßnahme, die für die Großbank eine Erleichterung bedeuten könnte."
+      "headline": "Kaum Kulanz gegenüber der UBS bei Eigenkapitalvorschriften",
+      "summary": "Die Wirtschaftskommission des Schweizer Nationalrats stellt sich in der Frage der künftigen Eigenkapitalvorschriften für die UBS hinter den Ständerat. Sie fordert jedoch die Prüfung einer Massnahme, die für die Grossbank eine Erleichterung bringen könnte."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Jensen Huang kehrt abrupt als Nvidia-CEO zurück",
-      "summary": "Nach seinem Rücktritt wegen Affären kehrt Jensen Huang einstimmig als CEO zu Nvidia zurück, was eine abrupte Kehrtwende in der Unternehmensführung darstellt. Diese Entscheidung hat weltweit Schlagzeilen gemacht."
+      "headline": "Jensen Huang ist wieder an der Spitze von Nvidia",
+      "summary": "Jensen Huang kehrt als CEO von Nvidia zurück, nachdem er wegen persönlicher Affären zurückgetreten war. Seine erneute Führungsposition bei dem Chiphersteller unterstreicht seine unbestreitbare Bedeutung für den Konzern."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia-Chef Huangs Comeback versetzt Märkte in Atem",
-      "summary": "Die plötzliche Rückkehr von Jensen Huang als Nvidia-Chef löste an den Aktienmärkten eine Rally aus, wirft aber auch neue Fragen auf und sorgt für anhaltende Volatilität. Trotz des anfänglichen Aufschwungs bleiben Experten skeptisch hinsichtlich der langfristigen Stabilität."
+      "headline": "Verbraucherschützer haben smarte Brillen im Blick",
+      "summary": "Verbraucherschützer gehen juristisch gegen smarte KI-Brillen von Meta und Ray-Ban vor, da sie heimliche Aufnahmen ermöglichen. Nutzern dieser Brillen könnten bei Missbrauch sogar Bußgelder drohen."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Supertake sammelt 20 Mio. Dollar für KI-gesteuerte Aktienportfolios",
-      "summary": "Das Startup Supertake hat 20 Millionen Dollar eingesammelt, um eine Plattform anzubieten, die KI-Agenten nutzt, um Marktprognosen in Aktienportfolios umzusetzen. Dies ermöglicht Anlegern, ihre Ideen ohne direkte Aktienauswahl zu monetarisieren."
+      "headline": "Maple sichert 5,3 Mio. Dollar für datenschutzorientierte KI-Produkte",
+      "summary": "Das Startup Maple hat 5,3 Millionen Dollar eingesammelt, um KI-Produkte zu entwickeln, die Nutzerdaten schützen, sogar vor dem Unternehmen selbst. Ihre verschlüsselte KI-Architektur soll höchste Datenschutzstandards gewährleisten."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Schweizer Startup Emost rettet Leben mit mobilen Batterien in der Ukraine",
-      "summary": "Das Schweizer Startup Emost liefert 150 mobile Stromspeicher mit Bundeshilfe in die Ukraine, die dort Spitäler und Schutzräume bei Stromausfällen versorgen. Ursprünglich für Baustellen entwickelt, retten die Geräte nun Leben im Kriegsgebiet."
+      "headline": "Anthropic-Aktien fallen unter IPO-Preis: Sorgen für KI-Startups",
+      "summary": "Die Aktien von Anthropic sind nach dem Börsengang unter ihren Ausgabepreis gefallen, was als besorgniserregendes Zeichen für die Bewertung von KI-Startups gilt. Dies könnte Druck auf zukünftige Finanzierungsrunden ausüben."
     }
   ],
   "learning": {
-    "topic": "Strategic vs. Financial Buyer bei M&A-Deals",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "Bei M&A-Transaktionen unterscheiden sich strategische und finanzielle Käufer grundlegend in ihren Motiven und Zielen für den Erwerb eines Unternehmens.",
-    "details": "Ein **strategischer Käufer** ist ein Wettbewerber oder ein Unternehmen aus einer verwandten Branche, das Synergien durch die Akquisition erzielen möchte – sei es durch Kosteneinsparungen, Markterweiterung, Zugang zu neuen Technologien oder Kundenstämmen. Ihr Fokus liegt auf langfristiger Integration und Wertsteigerung durch operative Verbesserungen und die Ausschöpfung des Wachstumspotenzials innerhalb der bestehenden Geschäftsstrukturen. Ein **finanzieller Käufer**, oft eine Private Equity Firma, ist primär daran interessiert, das Unternehmen zu einem niedrigen Preis zu erwerben, es innerhalb eines Zeitraums von etwa 3 bis 7 Jahren zu restrukturieren, zu optimieren und dann mit Gewinn weiterzuverkaufen. Ihr Fokus liegt auf finanzieller Hebelwirkung, Effizienzsteigerungen und dem Erreichen klar definierter Exit-Ziele, ohne unbedingt Synergien mit eigenen operativen Einheiten zu suchen.",
-    "takeaway": "Für Verkäufer ist es entscheidend zu verstehen, welcher Käufertyp am Tisch sitzt, da dies die Verhandlungsstrategie, den Kaufpreis und die zukünftige Ausrichtung des Unternehmens maßgeblich beeinflusst. Strategische Käufer zahlen oft einen Premiumpreis für Synergien, während Finanzinvestoren auf eine Wertsteigerung durch finanzielle Optimierung abzielen."
+    "topic": "Derivate: Wie Bauern ihre Ernte absichern",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von der Entwicklung eines Basiswerts (z.B. Aktien, Rohstoffe, Zinssätze) abhängt. Sie dienen primär der Absicherung von Preisschwankungen oder der Spekulation.",
+    "details": "Stell dir vor, ein Bauer pflanzt Weizen und weiss nicht, wie hoch der Preis bei der Ernte sein wird. Er kann einen 'Forward-Vertrag' mit einem Bäcker abschliessen: Er verspricht, seinen Weizen in sechs Monaten zu einem heute vereinbarten Preis zu verkaufen. So sichert er sich gegen sinkende Preise ab, der Bäcker sichert sich gegen steigende Preise. Dies ist ein einfaches Derivat. Ähnlich funktionieren Futures und Optionen an der Börse, die Preisrisiken managen oder gezielte Wetten auf zukünftige Preisentwicklungen erlauben, ohne den Basiswert direkt kaufen oder verkaufen zu müssen.",
+    "takeaway": "Derivate sind mächtige Werkzeuge, um zukünftige Risiken zu managen oder von erwarteten Preisbewegungen zu profitieren. Sie ermöglichen es Marktteilnehmern, sich gegen Unsicherheiten abzusichern, ähnlich wie ein Bauer seine Ernte vor Preisschwankungen schützt."
   }
 }
