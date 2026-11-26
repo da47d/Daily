@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US kündigt neue Zölle gegen EU und China an",
-      "summary": "Die USA planen Sonderzölle von 15 Prozent auf EU-Produkte und 20 Prozent auf chinesische Waren. Dies verschärft den Handelsstreit und könnte weitreichende Auswirkungen auf globale Lieferketten und die Wirtschaft haben."
+      "headline": "Trump droht mit neuen Zöllen – EU sucht Allianz gegen China",
+      "summary": "Donald Trump droht wichtigen Handelspartnern wie der EU mit neuen Zöllen wegen Überkapazitäten. Die EU bevorzugt die USA als Verbündete gegen China anstatt neuer Handelskonflikte."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "EU-Parlament stimmt bilateralem Vertrag mit Schweiz zu",
-      "summary": "Das EU-Parlament hat einem bilateralen Abkommen mit der Schweiz haushoch zugestimmt und nimmt damit eine wichtige Hürde. Trotzdem bleibt das Parlament für die Schweizer Wirtschaft ein grosser Unsicherheitsfaktor."
+      "headline": "US-Präsident droht der Schweiz mit 20% Zöllen",
+      "summary": "Die USA drohen der Schweiz mit Zöllen von bis zu 20 Prozent aufgrund angeblicher Überkapazitäten. Die vereinbarten Maximalzölle von 15 Prozent bleiben für die Schweiz jedoch vorerst bestehen."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Euro-Schwäche durch \"KI-Dollar\" beeinflusst",
-      "summary": "Der Euro ist gegenüber dem Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen, getrieben durch den anhaltenden KI-Boom. Dies beeinflusst Unternehmen, Verbraucher und Anleger durch importierte Inflation und veränderte Exportbedingungen."
+      "headline": "EU verlängert Staatshilfen für Landwirtschaft und Industrie",
+      "summary": "Die EU-Kommission erlaubt angesichts der anhaltenden Energiekrise bis mindestens Mitte 2027 staatliche Zuschüsse für Landwirte und Unternehmen. Damit bleiben die gelockerten Beihilferegeln bestehen."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Samsung investiert in AMS-Osram Chipfabrik",
-      "summary": "Nach dem Rückzug von Apple investiert Samsung 210 Millionen Euro in die Chipfabrik von AMS-Osram, die zuvor ein Verlustgeschäft zu werden drohte. Diese strategische Investition könnte dem gescheiterten Milliardenprojekt neues Leben einhauchen."
+      "headline": "KI-Aktien: Ernüchterung an den Börsen setzt sich fort",
+      "summary": "Die Verkaufswelle bei Tech-Aktien an den US-Börsen hält an. Investoren zeigen sich weiterhin besorgt über das Geschäft mit Künstlicher Intelligenz, da alte Sorgen bleiben und neue hinzukommen."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Jensen Huang kehrt nach Kontroversen zu Nvidia zurück",
-      "summary": "Jensen Huang ist nach einer Spionageaffäre und politischer Intervention als CEO zu Nvidia zurückgekehrt, was durch ein Eingreifen des Weissen Hauses ermöglicht wurde. Der Gründer entschuldigte sich bei seinen Mitarbeitenden und gab an, sich in Therapie zu begeben."
+      "headline": "SpaceX erhält Zulassung für KI-Rechenzentren im All",
+      "summary": "Die FCC hat den Plan von SpaceX genehmigt, KI-Rechenzentren ins Weltall zu bringen. Bedenken bezüglich wissenschaftlicher Forschung wurden als ausserhalb der behördlichen Zuständigkeit abgewiesen."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Metas AI-Agent \"Muse\" erweitert Anwendungsbereiche",
-      "summary": "Meta und Amazon verhandeln über das Ende einer Blockade ihres KI-Agenten \"Muse\", während Walmart bereits Black-Friday-Angebote über die Plattform anbietet. Dies signalisiert eine breitere Integration von KI-Assistenten im Alltag und Handel."
+      "headline": "Asteroiden-Abwehr: Einfaches Schiessen reicht nicht aus",
+      "summary": "Die Sonde \"Hera\" untersucht einen Asteroiden, an dem ein Abwehrversuch getestet wurde. Es zeigt sich, dass für eine erfolgreiche Asteroiden-Abwehr noch viele Informationen fehlen und die Aufgabe komplex ist."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Startup Maple sichert 5,3 Millionen Dollar für datensichere KI",
-      "summary": "Das Startup Maple hat 5,3 Millionen Dollar in einer Finanzierungsrunde erhalten, um KI-Produkte zu entwickeln, die Nutzerdaten auch vor dem eigenen Unternehmen schützen. Ihre verschlüsselte AI-Architektur verhindert den Zugriff auf private Informationen."
+      "headline": "Trump ermöglicht Jensen Huangs Rückkehr zu Nvidia",
+      "summary": "Das Weisse Haus überzeugte Nvidias Verwaltungsrat, Gründer Jensen Huang eine zweite Chance zu geben. Präsident Trump sicherte zu, dass Huang nichts Illegales getan habe."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Schweizer Nationalbank prüft Blockchain für Finanzplatz",
-      "summary": "Die Schweizer Nationalbank und Finanzinstitute untersuchen die Lancierung eines \"Swiss Financial Ledger\" mittels Blockchain-Technologie. Dies soll dem technologischen Wandel und dem Wettbewerb durch US-Stablecoins im geopolitischen Umfeld begegnen."
+      "headline": "Nvidia-Chef Huang: Bruch des Verhaltenskodex könnte Folgen haben",
+      "summary": "Jensen Huang, CEO von Nvidia, hat gegen den Verhaltenskodex des Unternehmens verstossen, was potenziell Auswirkungen auf die Unternehmenskultur haben könnte. Die Mitarbeiter könnten dies nicht vergessen, da solche Kodizes die Firmenkultur widerspiegeln."
     }
   ],
   "learning": {
-    "topic": "ETF-Namen entschlüsseln: Dein Guide zu Core, Acc, Dist & Co.",
-    "category": "Finanz-Dechiffrierung",
-    "concept": "ETF-Namen sind nicht zufällig, sondern geben wichtige Hinweise auf die Strategie, Ausschüttung, Replikation und den regulatorischen Status eines Fonds. Das Verständnis dieser Kürzel hilft, den passenden ETF für die eigenen Anlageziele zu finden.",
-    "details": "\"Core\" steht oft für Kern-Portfolioteile zu niedrigen Kosten, während \"IMI\" (Investable Market Index) bedeutet, dass ein breiter Markt abgebildet wird, inklusive Small Caps. \"Acc\" (accumulating) reinvestiert Dividenden automatisch, \"Dist\" (distributing) schüttet sie aus. \"UCITS\" (Undertakings for Collective Investment in Transferable Securities) ist ein europäischer Standard für Anlegerschutz. \"Swap\" deutet auf eine synthetische Replikation hin (geringere Kosten, Kontrahentenrisiko), \"physisch\" auf den direkten Kauf der enthaltenen Wertpapiere.",
-    "takeaway": "Die Kürzel im ETF-Namen sind essenziell für die Auswahl. Sie verraten, wie breit gestreut, wie Dividenden behandelt, wie der Fonds rechtlich geregelt und wie er die Wertentwicklung des Index nachbildet – entscheidende Faktoren für Rendite und Risiko."
+    "topic": "Pre-Money vs. Post-Money Bewertung: So werden Startups richtig bepreist",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Pre-Money und Post-Money sind zwei Schlüsselbegriffe in der Startup-Finanzierung, die den Wert eines Unternehmens vor und nach einer Investitionsrunde beschreiben. Sie sind entscheidend, um den Anteil zu bestimmen, den Investoren für ihr Kapital erhalten.",
+    "details": "Die Pre-Money-Bewertung ist der Wert eines Startups, bevor neues Kapital von Investoren hinzugefügt wird. Wenn ein Investor beispielsweise 2 Millionen Euro für 20% eines Unternehmens bereitstellt, bedeutet das, dass das Unternehmen vor der Investition eine Pre-Money-Bewertung von 8 Millionen Euro hatte. Die Post-Money-Bewertung ist der Wert des Unternehmens nach Erhalt des neuen Kapitals. Sie ergibt sich aus der Pre-Money-Bewertung plus der Höhe der Investition, was in unserem Beispiel 10 Millionen Euro entspricht. Dies ist essenziell für Gründer und Investoren, um Anteile und Eigentumsverhältnisse korrekt zu berechnen und zu verstehen, wie sich Kapitalerhöhungen auf die Unternehmensstruktur auswirken.",
+    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist unerlässlich, um Finanzierungsrunden korrekt zu strukturieren und die prozentuale Beteiligung der Investoren sowie die resultierende Verwässerung der Gründeranteile zu kalkulieren."
   }
 }
