@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump droht mit neuen Zöllen – EU sucht Allianz gegen China",
-      "summary": "Donald Trump droht wichtigen Handelspartnern wie der EU mit neuen Zöllen wegen Überkapazitäten. Die EU bevorzugt die USA als Verbündete gegen China anstatt neuer Handelskonflikte."
+      "headline": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+      "summary": "Verhandlungen über den EU-Haushalt scheiterten, was zum vorzeitigen Abbruch des EU-Sondergipfels führte. Die 27 Staats- und Regierungschefs konnten sich nicht einigen, was Unsicherheit über die künftige EU-Finanzierung schafft."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "US-Präsident droht der Schweiz mit 20% Zöllen",
-      "summary": "Die USA drohen der Schweiz mit Zöllen von bis zu 20 Prozent aufgrund angeblicher Überkapazitäten. Die vereinbarten Maximalzölle von 15 Prozent bleiben für die Schweiz jedoch vorerst bestehen."
+      "headline": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
+      "summary": "Zwei italienische Mitarbeiter des deutschen Rüstungskonzerns Rheinmetall wurden bei einem Drohnenangriff in Kuwait getötet. Italien macht den Iran verantwortlich, was die regionalen Spannungen verschärft."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "EU verlängert Staatshilfen für Landwirtschaft und Industrie",
-      "summary": "Die EU-Kommission erlaubt angesichts der anhaltenden Energiekrise bis mindestens Mitte 2027 staatliche Zuschüsse für Landwirte und Unternehmen. Damit bleiben die gelockerten Beihilferegeln bestehen."
+      "headline": "Ein Spanier wird neuer Chef der EZB. Er muss den Weg zwischen Inflation und Schuldenkrise finden",
+      "summary": "Pablo Hernández de Cos übernimmt im Februar die EZB-Führung und ist als ausgewiesener Experte für Staatsfinanzen bekannt. Er muss den Weg zwischen Inflation und Schuldenkrise finden und gilt als Anhänger lockerer Geldpolitik."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "KI-Aktien: Ernüchterung an den Börsen setzt sich fort",
-      "summary": "Die Verkaufswelle bei Tech-Aktien an den US-Börsen hält an. Investoren zeigen sich weiterhin besorgt über das Geschäft mit Künstlicher Intelligenz, da alte Sorgen bleiben und neue hinzukommen."
+      "headline": "Möglicher Mega-Deal in der Tabakindustrie: Altria prüft Übernahme von Imperial Brands",
+      "summary": "Ein potenzieller Mega-Deal bahnt sich in der Tabakindustrie an, da Altria eine Übernahme von Imperial Brands prüft. Solche großen M&A-Transaktionen können erhebliche Auswirkungen auf den Marktsektor haben."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "SpaceX erhält Zulassung für KI-Rechenzentren im All",
-      "summary": "Die FCC hat den Plan von SpaceX genehmigt, KI-Rechenzentren ins Weltall zu bringen. Bedenken bezüglich wissenschaftlicher Forschung wurden als ausserhalb der behördlichen Zuständigkeit abgewiesen."
+      "headline": "Nvidia stoppt Chip-Lieferungen in vier südasiatische Länder",
+      "summary": "Nvidia hat Chip-Lieferungen in vier südasiatische Länder gestoppt, um neuen US-Exportvorschriften zu entsprechen. Dieser Schritt zeigt die Auswirkungen der verschärften amerikanischen Restriktionen auf den globalen Chipmarkt."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Asteroiden-Abwehr: Einfaches Schiessen reicht nicht aus",
-      "summary": "Die Sonde \"Hera\" untersucht einen Asteroiden, an dem ein Abwehrversuch getestet wurde. Es zeigt sich, dass für eine erfolgreiche Asteroiden-Abwehr noch viele Informationen fehlen und die Aufgabe komplex ist."
+      "headline": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summary": "Grand Theft Auto VI wurde zu einem der erfolgreichsten Unterhaltungs-Launches überhaupt, was den Wert aufwendiger Produktionen gegenüber reiner Effizienz hervorhebt. Dies zeigt den anhaltenden Einfluss großer Gaming-Franchises."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Trump ermöglicht Jensen Huangs Rückkehr zu Nvidia",
-      "summary": "Das Weisse Haus überzeugte Nvidias Verwaltungsrat, Gründer Jensen Huang eine zweite Chance zu geben. Präsident Trump sicherte zu, dass Huang nichts Illegales getan habe."
+      "headline": "FCC approves SpaceX plan to put AI data centers in space",
+      "summary": "Die FCC hat SpaceX die Genehmigung erteilt, KI-Rechenzentren im Weltraum zu platzieren, ungeachtet einiger Bedenken. Diese Entwicklung könnte die Landschaft der Datenverarbeitung revolutionieren und neue Anwendungen ermöglichen."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Nvidia-Chef Huang: Bruch des Verhaltenskodex könnte Folgen haben",
-      "summary": "Jensen Huang, CEO von Nvidia, hat gegen den Verhaltenskodex des Unternehmens verstossen, was potenziell Auswirkungen auf die Unternehmenskultur haben könnte. Die Mitarbeiter könnten dies nicht vergessen, da solche Kodizes die Firmenkultur widerspiegeln."
+      "headline": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summary": "Anthropic CEO Dario Amodei weist Vorwürfe zurück, die besagen, er befürworte eine Aufgabe menschlicher Kontrolle an KI. Dies spiegelt die fortlaufende Debatte über die Rolle und die Risiken der künstlichen Intelligenz wider."
     }
   ],
   "learning": {
-    "topic": "Pre-Money vs. Post-Money Bewertung: So werden Startups richtig bepreist",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Pre-Money und Post-Money sind zwei Schlüsselbegriffe in der Startup-Finanzierung, die den Wert eines Unternehmens vor und nach einer Investitionsrunde beschreiben. Sie sind entscheidend, um den Anteil zu bestimmen, den Investoren für ihr Kapital erhalten.",
-    "details": "Die Pre-Money-Bewertung ist der Wert eines Startups, bevor neues Kapital von Investoren hinzugefügt wird. Wenn ein Investor beispielsweise 2 Millionen Euro für 20% eines Unternehmens bereitstellt, bedeutet das, dass das Unternehmen vor der Investition eine Pre-Money-Bewertung von 8 Millionen Euro hatte. Die Post-Money-Bewertung ist der Wert des Unternehmens nach Erhalt des neuen Kapitals. Sie ergibt sich aus der Pre-Money-Bewertung plus der Höhe der Investition, was in unserem Beispiel 10 Millionen Euro entspricht. Dies ist essenziell für Gründer und Investoren, um Anteile und Eigentumsverhältnisse korrekt zu berechnen und zu verstehen, wie sich Kapitalerhöhungen auf die Unternehmensstruktur auswirken.",
-    "takeaway": "Das Verständnis von Pre-Money und Post-Money ist unerlässlich, um Finanzierungsrunden korrekt zu strukturieren und die prozentuale Beteiligung der Investoren sowie die resultierende Verwässerung der Gründeranteile zu kalkulieren."
+    "topic": "Derivate: Wie man Risiken absichert und spekuliert (Ernte-Vergleich)",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Derivate sind Finanzinstrumente, deren Wert von einem Basiswert abhängt und die zur Absicherung von Risiken oder zur Spekulation eingesetzt werden. Sie sind wie eine Wette oder eine Versicherung auf zukünftige Preise.",
+    "details": "Stell dir vor, ein Bauer möchte seinen Getreidepreis absichern. Er kann heute einen Vertrag abschließen, der ihm in drei Monaten einen festen Verkaufspreis für seine Ernte garantiert (ein sogenanntes Termingeschäft oder Forward). Wenn der Marktpreis dann fällt, ist er abgesichert. Fällt er nicht, hat er zwar auf höhere Gewinne verzichtet, aber sein Risiko minimiert. Ein Derivat funktioniert ähnlich: Es gibt einem das Recht oder die Pflicht, einen Basiswert (z.B. Aktien, Rohstoffe, Währungen) zu einem bestimmten Preis an oder bis zu einem bestimmten Datum zu kaufen oder zu verkaufen. Derivate wie Optionen oder Futures erlauben es, mit relativ wenig Kapitaleinsatz große Positionen zu bewegen, was sie sowohl für Risikomanagement als auch für hochriskante Spekulation attraktiv macht.",
+    "takeaway": "Derivate sind mächtige Werkzeuge, um sich gegen Preisänderungen abzusichern oder auf diese zu spekulieren. Es ist entscheidend zu verstehen, dass sie sowohl große Chancen als auch erhebliche Risiken bergen, da ihr Wert stark vom zugrunde liegenden Basiswert abhängt."
   }
 }
