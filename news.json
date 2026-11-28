@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump baut seine Zollmauer wieder auf",
-      "summary": "Der amerikanische Präsident könnte verstärkt auf neue Zölle setzen, da sein politischer Spielraum schrumpft. Gerichte und Kongress könnten seine Strategie zwar aushebeln, die Erfolgsaussichten sind jedoch unklar."
+      "headline": "Datenleak zeigt Ausmaß russischer Verluste im Krieg gegen die Ukraine",
+      "summary": "Ein Hackerangriff auf die russische Statistikbehörde offenbart wohl Hunderttausende getötete Soldaten im Ukraine-Krieg. Dies liefert seltene Einblicke in die wahren Kosten des Konflikts und die militärische Lage Russlands."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Zollstreit: SNB wehrt sich gegen Vorwürfe aus den USA",
-      "summary": "Die USA nehmen die Schweizerische Nationalbank ins Visier, um höhere Zölle zu rechtfertigen, obwohl die ökonomischen Argumente schwach sind. Die Nationalbank hat ein Problem, das sie für Angriffe verletzlich macht."
+      "headline": "Nvidia stoppt Chip-Lieferungen in vier südasiatische Länder",
+      "summary": "Nvidia pausiert Chip-Lieferungen nach Südostasien aufgrund verschärfter US-Exportvorschriften. Dies markiert eine weitere Eskalation im globalen Tech-Konflikt und den Bestrebungen, KI-Chips von China fernzuhalten."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Neuer EZB-Chef: Weg zwischen Inflation und Schuldenkrise",
-      "summary": "Pablo Hernández de Cos soll Nachfolger von Christine Lagarde als EZB-Chef werden. Der angesehene Ökonom muss den Balanceakt zwischen Inflationsbekämpfung und Schuldenkrise meistern."
+      "headline": "Signa-Insolvenz: Gericht erhöht Strafe für René Benko",
+      "summary": "Das Immobilien- und Detailhandelsreich von Signa ist insolvent und das Gericht hat die Strafe für René Benko wegen Schädigung von Gläubigern erhöht. Dies zeigt die weitreichenden Folgen des Zusammenbruchs eines bedeutenden europäischen Konglomerats."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Drohender kalter Winter treibt Gaspreise in die Höhe",
-      "summary": "Bei einem kalten Winter könnte Erdgas für Europa sehr teuer werden, da die Versorgungssicherheit weiterhin ein Risiko darstellt. Ein wichtiger Lieferant kritisiert, dass 'Hoffen auf das Wetter keine Strategie' sei."
+      "headline": "Ein Spanier wird neuer Chef der EZB",
+      "summary": "Pablo Hernández de Cos soll Christine Lagarde an der Spitze der EZB folgen und steht vor der Herausforderung, den Weg zwischen Inflation und Schuldenkrise zu finden. Als ausgewiesener Experte für Staatsfinanzen ist er ein Anhänger der lockeren Geldpolitik."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "Nvidia-Aktie: Vom rasanten Aufstieg zum Milliarden-Absturz",
-      "summary": "Die Aktien des Chipherstellers Nvidia erlebten nach einem jahrelangen Höhenflug einen massiven Kurssturz. Grund dafür waren Spionagevorwürfe und der Rücktritt von Konzernchef Jensen Huang nach Bekanntwerden privater Affären."
+      "headline": "Die Nvidia-Aktie: Absturz in Billionenhöhe nach Skandal",
+      "summary": "Die Nvidia-Aktie erlebte einen massiven Kurssturz, nachdem Liebesaffären des Konzernchefs Jensen Huang und Spionagevorwürfe publik wurden. Der CEO trat daraufhin zurück, was zu einem Absturz in Billionenhöhe führte."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Grand Theft Auto VI feiert fulminanten Start",
-      "summary": "Das mit viel Aufwand entwickelte Videospiel Grand Theft Auto VI wurde zu einem der erfolgreichsten Unterhaltungs-Launches aller Zeiten. Es unterstreicht, dass Effizienz nicht immer die höchste Tugend ist."
+      "headline": "Ist Alice Huang eine Spionin oder nicht?",
+      "summary": "Die zentrale, noch unbewiesene Behauptung im Nvidia-Skandal ist, dass Alice Huang, die frühere Megaspeed-Managerin mit der Nvidia-CEO Jensen Huang eine Affäre hatte, eine chinesische Spionin ist. Diese Anschuldigungen erhöhen die Brisanz des Skandals um den Chip-Giganten."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropic-CEO weist AI-Kontrollverlust-Vorwürfe zurück",
-      "summary": "Dario Amodei, CEO von Anthropic, widerspricht entschieden den Anschuldigungen, seine Firma würde die menschliche Kontrolle an KI abtreten. Dies geschieht, während führende KI-Unternehmen ihre eigene Forschung immer stärker automatisieren."
+      "headline": "FCC genehmigt SpaceX-Plan für KI-Rechenzentren im Weltraum",
+      "summary": "Die FCC hat den SpaceX-Plan genehmigt, KI-Rechenzentren im Weltraum zu stationieren, trotz Bedenken von Gegnern. Dies stellt einen bahnbrechenden Prototyp für dezentrale KI-Infrastruktur dar und könnte die Rechenleistung revolutionieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Finnisches Tech-Startup Iceye könnte Elon Musk Konkurrenz machen",
-      "summary": "Das finnische Unternehmen Iceye entwickelt Satelliten, die Objekte auf elf Zentimeter genau erfassen können. Damit könnte die Firma bald zur Konkurrenz für Elon Musks Weltraumunternehmen werden."
+      "headline": "Anthropic-CEO wehrt sich gegen Vorwürfe der KI-Kontrollabgabe",
+      "summary": "Anthropic-CEO Dario Amodei weist Vorwürfe zurück, er favorisiere die Übergabe menschlicher Kontrolle an KI, während führende KI-Unternehmen ihre Forschung zunehmend automatisieren. Dies beleuchtet die Debatte um die Kontrolle und Ethik in der Entwicklung künstlicher Intelligenz."
     }
   ],
   "learning": {
-    "topic": "Optionen vs. Optionsscheine: Der feine Unterschied",
-    "category": "Finanzprodukte verständlich erklärt",
-    "concept": "Optionen und Optionsscheine sind beides Derivate, die Anlegern das Recht geben, einen Basiswert zu einem bestimmten Preis zu kaufen oder zu verkaufen, aber sie unterscheiden sich grundlegend in ihrer Natur und Emissionsweise.",
-    "details": "Optionen sind standardisierte, an der Börse gehandelte Kontrakte mit strikten Regeln, die zwischen zwei Parteien geschlossen werden und oft zur Absicherung oder Spekulation dienen. Optionsscheine hingegen werden von Banken oder Finanzinstituten emittiert und sind Schuldverschreibungen, die dem Anleger unter bestimmten Bedingungen das Recht, aber nicht die Pflicht, einräumen. Während Optionen primär auf Liquidität und Transparenz ausgelegt sind, beinhalten Optionsscheine oft ein Emittentenrisiko und sind in ihrer Ausgestaltung flexibler, was sie komplexer machen kann.",
-    "takeaway": "Beim Handeln ist es entscheidend zu verstehen, dass Optionen standardisierte Finanzkontrakte sind, während Optionsscheine von Banken ausgegebene Wertpapiere mit Emittentenrisiko sind. Diese Unterscheidung ist wichtig für Risikobewertung und Auswahl des passenden Instruments."
+    "topic": "Vesting für Gründer und Mitarbeiter",
+    "category": "Tech & VC Deal-Decoder",
+    "concept": "Vesting ist ein Mechanismus, der den Erwerb von Anteilen oder Optionen über einen bestimmten Zeitraum bindet, um langfristiges Engagement zu sichern.",
+    "details": "Stell dir vor, ein Gründer oder Mitarbeiter erhält Anteile an einem Startup. Damit diese Person nicht sofort mit allen Anteilen geht, wenn das Unternehmen noch in den Kinderschuhen steckt, werden die Anteile 'gevestet'. Das bedeutet, sie werden nicht sofort vollständig übertragen, sondern zum Beispiel über vier Jahre hinweg monatlich oder jährlich freigeschaltet. Oft gibt es auch einen 'Cliff' von einem Jahr: Verlässt die Person das Unternehmen innerhalb des ersten Jahres, verfallen alle Anteile; bleibt sie länger, wird der erste Anteil nach einem Jahr freigeschaltet, danach monatlich der Rest. Dies schützt Investoren und das Unternehmen vor dem Verlust wichtiger Personen und motiviert zur langfristigen Zusammenarbeit.",
+    "takeaway": "Vesting ist ein entscheidendes Instrument im Venture-Capital-Bereich, um das Engagement von Gründern und Schlüsselmitarbeitern langfristig zu sichern und Anreize für den Unternehmenserfolg zu schaffen. Es ist essenziell für die Wertstabilität eines Startups und ein häufiger Verhandlungspunkt in Finanzierungsrunden."
   }
 }
