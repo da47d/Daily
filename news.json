@@ -2,56 +2,56 @@
   "politics": [
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Wenn es um das Geld geht, zeigt es sich, wie gespalten die EU ist",
-      "summary": "Der jüngste EU-Sondergipfel zum Haushalt scheiterte am Widerstand der Mitgliedsländer, was die tiefen Risse innerhalb der Union bei Finanzfragen offenbart. Uneinigkeit über das EU-Budget führte zu keinem Kompromiss, mit deutlichen Differenzen zwischen großen Wirtschaftsnationen."
+      "headline": "Trump baut seine Zollmauer wieder auf",
+      "summary": "Der amerikanische Präsident könnte verstärkt auf neue Zölle setzen, da sein politischer Spielraum schrumpft. Gerichte und Kongress könnten seine Strategie zwar aushebeln, die Erfolgsaussichten sind jedoch unklar."
     },
     {
       "tag": "POLITIK & GLOBAL",
-      "headline": "Trump baut seine Zollmauer wieder auf – und niemand kann ihn so schnell stoppen",
-      "summary": "Der ehemalige Präsident Trump plant eine drastische Erhöhung der Zölle, um seine politische Agenda voranzutreiben, da sein Handlungsspielraum in Washington schrumpft. Diese aggressive Handelspolitik könnte die Weltwirtschaft stark beeinflussen und neue internationale Konflikte auslösen."
+      "headline": "Zollstreit: SNB wehrt sich gegen Vorwürfe aus den USA",
+      "summary": "Die USA nehmen die Schweizerische Nationalbank ins Visier, um höhere Zölle zu rechtfertigen, obwohl die ökonomischen Argumente schwach sind. Die Nationalbank hat ein Problem, das sie für Angriffe verletzlich macht."
     }
   ],
   "macro": [
     {
       "tag": "MACRO ECONOMY",
-      "headline": "Ein Spanier wird neuer Chef der EZB. Er muss den Weg zwischen Inflation und Schuldenkrise finden",
-      "summary": "Pablo Hernández de Cos, ein angesehener Ökonom, soll neuer EZB-Präsident werden und steht vor der Herausforderung, Europas Wirtschaft zwischen hoher Inflation und drohenden Schuldenkrisen zu navigieren. Seine Präferenz für eine lockere Geldpolitik könnte in der aktuellen Lage zu Spannungen im EZB-Rat führen."
+      "headline": "Neuer EZB-Chef: Weg zwischen Inflation und Schuldenkrise",
+      "summary": "Pablo Hernández de Cos soll Nachfolger von Christine Lagarde als EZB-Chef werden. Der angesehene Ökonom muss den Balanceakt zwischen Inflationsbekämpfung und Schuldenkrise meistern."
     },
     {
       "tag": "MACRO ECONOMY",
-      "headline": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: Gericht erhöht Strafe für René Benko wegen Schädigung von Gläubigern auf 36 Monate",
-      "summary": "Die Insolvenz von René Benkos Immobilien- und Detailhandelsreich Signa schreitet voran, während das Gericht die Strafe für den österreichischen Investor wegen Schädigung von Gläubigern drastisch erhöht. Dieser Zusammenbruch hat weitreichende Auswirkungen auf den europäischen Immobilienmarkt und das Vertrauen der Investoren."
+      "headline": "Drohender kalter Winter treibt Gaspreise in die Höhe",
+      "summary": "Bei einem kalten Winter könnte Erdgas für Europa sehr teuer werden, da die Versorgungssicherheit weiterhin ein Risiko darstellt. Ein wichtiger Lieferant kritisiert, dass 'Hoffen auf das Wetter keine Strategie' sei."
     }
   ],
   "buzz": [
     {
       "tag": "TOP STORIES",
-      "headline": "FCC approves SpaceX plan to put AI data centers in space",
-      "summary": "Die US-Kommunikationsbehörde FCC hat SpaceX grünes Licht für den Bau von KI-Rechenzentren im Weltall gegeben, obwohl Bedenken hinsichtlich wissenschaftlicher Forschung geäußert wurden. Dieser Schritt könnte die Entwicklung von künstlicher Intelligenz revolutionieren und die Datenverarbeitung global neu gestalten."
+      "headline": "Nvidia-Aktie: Vom rasanten Aufstieg zum Milliarden-Absturz",
+      "summary": "Die Aktien des Chipherstellers Nvidia erlebten nach einem jahrelangen Höhenflug einen massiven Kurssturz. Grund dafür waren Spionagevorwürfe und der Rücktritt von Konzernchef Jensen Huang nach Bekanntwerden privater Affären."
     },
     {
       "tag": "TOP STORIES",
-      "headline": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-      "summary": "Der Trailer zu Grand Theft Auto VI brach Rekorde als einer der erfolgreichsten Entertainment-Starts überhaupt und zeigt, dass handwerkliche Präzision in der Gaming-Branche triumphieren kann. Dieser Erfolg unterstreicht den Wert von aufwendig gestalteten Produkten gegenüber rein effizienzgetriebener Entwicklung."
+      "headline": "Grand Theft Auto VI feiert fulminanten Start",
+      "summary": "Das mit viel Aufwand entwickelte Videospiel Grand Theft Auto VI wurde zu einem der erfolgreichsten Unterhaltungs-Launches aller Zeiten. Es unterstreicht, dass Effizienz nicht immer die höchste Tugend ist."
     }
   ],
   "vc": [
     {
       "tag": "STARTUPS & VC",
-      "headline": "Anthropics wilde erste Börsenwoche",
-      "summary": "Der KI-Konzern Anthropic erlebte eine spektakuläre, jedoch volatile erste Woche an der Börse, die die hohen Erwartungen an den Sektor widerspiegelt. Nach einem rasanten Start fiel die Bilanz nach einer Woche gemischt aus, was die Risiken von Tech-IPOs verdeutlicht."
+      "headline": "Anthropic-CEO weist AI-Kontrollverlust-Vorwürfe zurück",
+      "summary": "Dario Amodei, CEO von Anthropic, widerspricht entschieden den Anschuldigungen, seine Firma würde die menschliche Kontrolle an KI abtreten. Dies geschieht, während führende KI-Unternehmen ihre eigene Forschung immer stärker automatisieren."
     },
     {
       "tag": "STARTUPS & VC",
-      "headline": "Die Satelliten von Iceye zeigen beinahe in Echtzeit, wie Russland an der Ostsee aufrüstet – bald könnte die finnische Firma für Elon Musk zur Konkurrenz werden",
-      "summary": "Das finnische Startup Iceye beeindruckt mit Satelliten, die Objekte elf Zentimeter genau erfassen können und bald eine ernsthafte Konkurrenz für etablierte Raumfahrtunternehmen wie SpaceX darstellen könnten. Ihre Fähigkeit zur nahezu Echtzeit-Überwachung bietet neue Möglichkeiten für Verteidigung und Katastrophenmanagement."
+      "headline": "Finnisches Tech-Startup Iceye könnte Elon Musk Konkurrenz machen",
+      "summary": "Das finnische Unternehmen Iceye entwickelt Satelliten, die Objekte auf elf Zentimeter genau erfassen können. Damit könnte die Firma bald zur Konkurrenz für Elon Musks Weltraumunternehmen werden."
     }
   ],
   "learning": {
-    "topic": "Bedeutung von Vesting für Gründer und Mitarbeiter",
-    "category": "Tech & VC Deal-Decoder",
-    "concept": "Vesting ist ein Mechanismus, der den Erwerb von Anteilen über einen bestimmten Zeitraum oder bei Erreichen bestimmter Ziele an die Fortführung der Mitarbeit bindet. Es stellt sicher, dass Gründer und frühe Mitarbeiter ihre Anteile nicht sofort beim Start vollständig besitzen.",
-    "details": "Beim Vesting werden Anteile nicht sofort vergeben, sondern 'verdient' man sie über einen festgelegten Zeitraum, meist 3 bis 4 Jahre (der 'Vesting-Zeitraum'), oft mit einer 'Cliff'-Periode von 12 Monaten. Das bedeutet, dass die ersten Anteile erst nach einem Jahr der Mitarbeit 'vesten', und danach monatlich oder quartalsweise weiter. Verlässt ein Gründer oder Mitarbeiter das Unternehmen vor Ablauf des Vesting-Zeitraums oder des Cliffs, verliert er die nicht-gevisteten Anteile. Dies soll die langfristige Bindung wichtiger Personen ans Unternehmen sicherstellen und Fehlanreize vermeiden.",
-    "takeaway": "Vesting schützt das Unternehmen und Investoren, indem es Gründer und Schlüsselmitarbeiter langfristig an den Erfolg des Startups bindet und sicherstellt, dass die Eigenkapitalbasis stabil bleibt. Es ist ein Standardinstrument in VC-finanzierten Unternehmen."
+    "topic": "Optionen vs. Optionsscheine: Der feine Unterschied",
+    "category": "Finanzprodukte verständlich erklärt",
+    "concept": "Optionen und Optionsscheine sind beides Derivate, die Anlegern das Recht geben, einen Basiswert zu einem bestimmten Preis zu kaufen oder zu verkaufen, aber sie unterscheiden sich grundlegend in ihrer Natur und Emissionsweise.",
+    "details": "Optionen sind standardisierte, an der Börse gehandelte Kontrakte mit strikten Regeln, die zwischen zwei Parteien geschlossen werden und oft zur Absicherung oder Spekulation dienen. Optionsscheine hingegen werden von Banken oder Finanzinstituten emittiert und sind Schuldverschreibungen, die dem Anleger unter bestimmten Bedingungen das Recht, aber nicht die Pflicht, einräumen. Während Optionen primär auf Liquidität und Transparenz ausgelegt sind, beinhalten Optionsscheine oft ein Emittentenrisiko und sind in ihrer Ausgestaltung flexibler, was sie komplexer machen kann.",
+    "takeaway": "Beim Handeln ist es entscheidend zu verstehen, dass Optionen standardisierte Finanzkontrakte sind, während Optionsscheine von Banken ausgegebene Wertpapiere mit Emittentenrisiko sind. Diese Unterscheidung ist wichtig für Risikobewertung und Auswahl des passenden Instruments."
   }
 }
